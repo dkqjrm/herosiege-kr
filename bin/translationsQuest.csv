@@ -1,0 +1,836 @@
+[quest]|en|fi|pt|ru|zh|ja|ko|de|fr
+|||||||||
+[TUTORIAL]|||||||||
+quest_name_1|Skills and Stats||Habilidades e Atributos||||스킬 및 스탯||
+quest_description_1|Assign a Skill Point, Attribute Points and Bind an Active Skill.||Atribua um ponto de habilidade, pontos de atributo e vincule uma habilidade ativa.||||스킬 포인트, 속성 포인트를 할당하고 활성 스킬을 바인딩하십시오.||
+quest_objective_1_1|Open Stat & Skill tree||Abrir Atributos & Árvore de Habilidades||||스탯 및 스킬 트리 열기||
+quest_objective_1_2|Assign an Attribute Point||Atribua um Ponto de Atributo||||속성 포인트 할당||
+quest_objective_1_3|Assign a Skill Point||Atribua um Ponto de Habilidade||||스킬 포인트 할당||
+quest_objective_1_4|Bind a Skill into a Skill Button||Vincule uma Habilidade a um Botão de Habilidade||||스킬 버튼에 스킬 할당||
+|||||||||
+quest_name_2|Keys and Chests||Chaves e Baús||||||
+quest_description_2|Pick up the key, open your Inventory by pressing ”C” and navigate to your key ring. Then proceed towards north to open the Golden Chest by the well.||"Pegue a chave, abra o Inventário pressionando ""C"" e navegue até o chaveiro. Em seguida, siga em direção ao norte para abrir o Baú Dourado ao lado do poço."||||열쇠를 집어 들고 'C' 키를 눌러 인벤토리를 열고 열쇠 고리로 이동하세요. 그런 다음 우물 옆에 있는 황금 상자를 열기 위해 북쪽으로 이동하세요.||
+quest_objective_2_1|Pick up the Key||Pegue a chave||||열쇠를 집어 들어||
+quest_objective_2_2|Open Key Ring in the Inventory||Abra o chaveiro no inventário||||인벤토리에서 열쇠고리 열기||
+quest_objective_2_3|Open Chest by the well in north||Baú aberto ao lado do poço no norte||||북쪽 우물 옆에 있는 상자 열기||
+|||||||||
+quest_name_3|Autofilling the belt||Enchimento automático do cinto||||||
+quest_description_3|Pick up the belt and open your inventory, navigate to the potion tab and enable autofill potions. This will fill a new potion into your belt when one is used!||Pegue o cinto e abra seu inventário, navegue até a guia de poção e ative o preenchimento automático de poções. Isso colocará uma nova poção em seu cinto quando uma for usada!||||벨트를 줍고 인벤토리를 열어 포션 탭으로 이동한 다음 자동 채우기 포션을 활성화하세요. 포션을 사용하면 새로운 포션이 벨트에 채워집니다!||
+quest_objective_3_1|Pickup Belt||Cinto Pegado||||벨트 획득||
+quest_objective_3_2|Enable Auto Fill in Inventory||Ativar o preenchimento automático no inventário||||인벤토리 자동 채우기 활성화||
+|||||||||
+quest_name_4|Bunny Hopping||Pulos de Coelho||||||
+quest_description_4|Land on these indicators! Its easy! Just press ”Space” and your character will land on your cursors location!||"Pouse nesses indicadores! É fácil! Basta pressionar ""Espaço"" e seu personagem aterrissará no local do cursor!"||||이 표시기에 착륙하세요! 간단해요! '스페이스' 키를 누르면 캐릭터가 커서 위치에 착륙할 거예요!||
+quest_objective_4_1|Jumps performed||Saltos realizados||||||
+|||||||||
+quest_name_5|Rotten and moldy firewood||Lenha podre e mofada||||||
+quest_description_5|Make firewood out of that beast! The corrupted ent is located north east.||Faça lenha dessa fera! O ent corrompido está localizado a nordeste.||||그 짐승을 장작으로 만들어라! 부패한 엔트는 북동쪽에 위치해 있다.||
+quest_objective_5_1|Scorchwood Slain||Madeira Chamuscada morto||||불타는 나무 처치||
+|||||||||
+quest_name_18|Learn to mine|Louhitaan|Aprenda a minerar|Учитесь добывать|学习挖矿|鉱山を学ぶ|광산 배우기|Lerne meine|On rentre du boulot
+quest_description_18|Mine copper ore on normal difficulty.|Louhi kuparimalmia normaalilla vaikeusasteella.|Minere minério de cobre na dificuldade normal.|Добывайте медную руду на обычной сложности.|铜矿开采难度一般。|銅鉱石を通常の難易度で鉱山します。|정상적인 난이도에서 광산 구리 광석.|Minen Sie Kupfererz auf normalem Schwierigkeitsgrad.|Extraire du minerai de cuivre en difficulté normale.
+quest_objective_18_1|Copper Ore|Kuparimalmia|Minério de Cobre|Медная руда|铜矿|銅鉱石|구리 광석|Kupfererz|Minerai de cuivre
+|||||||||
+quest_name_19|Chaos Tower|Kaaositorni|Torre do Caos|Башня Хаоса|混沌塔|カオスタワー|카오스 타워|Chaosturm|A l'assaut de la Tour du chaos
+quest_description_19|Solve the mystery of the Chaos Tower.|Ratkaise kaaostornin mysteeri.|Resolva o mistério da Torre do Caos.|Разгадайте тайну Башни Хаоса.|解决混沌塔的奥秘。|カオスタワーの謎を解き明かそう。|카오스 타워의 수수께끼를 풀어보세요.|Löse das Geheimnis des Chaosturms.|Résolvez le mystère de la Tour du chaos.
+quest_objective_19_1|Towers cleared|Tornia läpäisty|Torres limpas|Башни очищены|清除塔楼|タワーがクリアされました|타워가 삭제되었습니다.|Türme geräumt|Tours nettoyées
+quest_objective_19_2|King Rakhul slain|Kuningas Rakhul tapettu|Rei Rakhul morto |Король Рахул убит |拉胡尔国王 消灭 |ラクフル王が殺害される |왕 라쿨 처치 |König Rakhul getötet |Roi Rakhul tué 
+quest_objective_19_3|Find Kukkonen|Löydä Kukkonen|Encontre Kukkonen|Найди Кукконена|寻找库科宁|クッコネンを探す|Kukkonen 찾기|Finde Kukkonen|Trouver Kukkonen
+|||||||||
+quest_name_20|Learn Jewelcrafting||Aprenda Joalheria|Научитесь Изготовлять Ювелирные Изделия|||보석 세공 배우기||Apprendre la joaillerie
+quest_description_20|Prospect copper ore||Inspecione minério de cobre|Перспективная медная руда|||구리 광석 탐사||Raffiner du minerai de cuivre
+quest_objective_20_1|Copper Ore prospected||Minério de Cobre inspecionado|Разведанная медная руда|||구리 광석 조사됨||Minerai de cuivre raffiné
+|||||||||
+quest_name_21|Fortune told|Ennustettu|Sorte Contada|Предсказанная судьба|Fortune told|Fortune told||Fortune told|La bonne aventure
+quest_description_21|Prophet Luna has shown you a glimpse into the future...[nl][c_heroic]([fortune_item_name])[c_reset][nl]Now the question is when?|Profeetta Luna on näyttänyt sinulle silmäyksen tulevaan... Nyt kysymys kuuluu, milloin?|A Profeta Luna lhe mostrou um vislumbre do futuro...[nl][c_heroic]([fortune_item_name])[c_reset][nl]Agora a pergunta é quando?|Пророк Луна показала вам проблеск будущего... Теперь вопрос в том, когда?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|예언자 루나가 당신에게 미래를 엿보게 해주었습니다...[nl][c_heroic]([fortune_item_name])[c_reset][nl]이제 문제는 '언제'입니다?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|La prophétesse Luna vous a donné un aperçu de l'avenir... La question est maintenant de savoir quand cela va se produire ?
+quest_objective_21_1|Fortune fulfilled|Ennustus täytetty|Fortuna realizada|Счастье исполнилось|Fortune fulfilled|Fortune fulfilled|운명이 완성되었다|Fortune fulfilled|Aventure accomplie
+quest_objective_21_2|Enemies killed|Enemies killed|Inimigos Mortos|Убитые враги|Enemies killed|Enemies killed||Enemies killed|Ennemis tués
+|||||||||
+|||||||||
+[HALLOWEEN EVENT]|||||||||
+quest_name_100|Trick or Treat!|Karkki tai kepponen!|Doçuras ou Travessuras!|Кошелек или жизнь!|不给糖果就捣蛋！|トリック・オア・トリート！|먹을 걸 안 주면 장난칠 거야!|Suesses oder Saures!|Des bonbons ou des sorts !
+quest_description_100|You must collect a lot of candy in Act 1. A. Lot.|Kerää karkkia. Paljon. Karkkia.|Você deve coletar muitos doces. Muito.|Вы должны собрать много конфет. A. Много.|你得找一大堆糖。一 大 堆。|あなたはキャンディをたくさん集めなければなりません。たーくーさーん。|사탕을 많이 모으십시오. 무조건. 많이.|Sammle Suessigkeiten. Viele. Suessigkeiten.|Tu dois collecter beaucoup de bonbons. Vraiment. Beaucoup.
+quest_objective_100_1|Candy collected|Karkkia kerätty.|Doces coletados|Собранные конфеты|已收集糖果。|キャンディーが集められました。|모은 사탕.|Suessigkeiten gesammelt.|Bonbons collectés
+|||||||||
+quest_name_101|Find the Candy Apples!|Etsi karkkiomenat!|Encontre as maçãs de doce!|Найди Сладкие яблоки!|找到苹果糖！|リンゴのキャンディーを見つけよう！|사과 사탕을 찾아라!|Suche nach kandierten aepfeln!|Trouvez les pommes d'amour !
+quest_description_101|Find a Candy Apple in each Act.|Löydä karkkiomena jokaisesta tasosta.|Encontre uma Maçã Doce em cada ATO.|Найдите Конфетное Яблоко в каждом Действии.|在每个章节找到苹果糖。|各幕のリンゴキャンディーを見つけましょう。|모든 액트에 숨겨져 있는 사과 사탕을 찾으십시오.|Finde einen kandierten Apfel in jedem Akt.|Trouvez une pomme d'amour dans chaque acte.
+quest_objective_101_1|Act I Apple found|Taso I omena löydetty.|Maçã do ATO I encontrada.|Акт I Яблоко найдено|章节 I的苹果糖找到了。|幕 I のリンゴキャンディーが見つかりました。|발견한 액트 I 사과.|Akt I: Apfel gefunden.|Acte I - Pomme trouvée
+quest_objective_101_2|Act II Apple found|Taso II omena löydetty.|Maçã do ATO II encontrada.|Акт II Яблоко найдено|章节II的苹果糖找到了。|幕 II のリンゴキャンディーが見つかりました。|발견한 액트 II 사과.|Akt II: Apfel gefunden.|Acte II - Pomme trouvée
+quest_objective_101_3|Act III Apple found|Taso III omena löydetty.|Maçã do ATO III encontrada.|Акт III Яблоко найдено|章节III的苹果糖找到了。|幕 III のリンゴキャンディーが見つかりました。|발견한 액트 III 사과.|Akt III: Apfel gefunden.|Acte III - Pomme trouvée
+quest_objective_101_4|Act IV Apple found|Taso IV omena löydetty.|Maçã do ATO IV encontrada.|Акт IV Яблоко найдено|章节IV的苹果糖找到了。|幕 IV のリンゴキャンディーが見つかりました。|발견한 액트 IV 사과.|Akt IV: Apfel gefunden.|Acte IV - Pomme trouvée
+|||||||||
+quest_name_102|Trick them all!|Keppostelua!|Engane todos eles!|Обмани их всех!|骗过他们！|奴らを騙せ！|모두 속여주지!|Streiche spielen!|Trompez-les tous !
+quest_description_102|Use the Candy Basket to trick enemies.|Käytä karkkikoreja houkutellaksesi vihollisia.|Utilizar a cesta de doces para enganar os inimigos.|Используйте корзину для конфет, чтобы обмануть врагов.|用糖果篮欺骗敌人。|キャンディバスケットを使って敵を騙しましょう。|사탕 바구니로 적들을 속이십시오.|Verwende Suessigkeiten, um Gegner anzulocken.|Utilisez le panier de bonbons pour tromper les ennemis.
+quest_objective_102_1|Enemies lured into baskets|Vihollista houkuteltu koreihin.|Inimigos atraídos para cestas|Врагов заманивали в корзины|上钩的敌人。|敵が小箱に誘い込まれました。|유인당한 적.|Gegner in Koerbe gelockt.|Ennemis attirés dans les paniers
+|||||||||
+quest_name_103|Death has the answer|Kuolemalla on vastaus|A morte tem a resposta|У смерти есть ответ|死亡就是答案|死は答えである|죽음에는 답이 있다|Der Tod hat die Antwort|La réponse est dans la Mort
+quest_description_103|Kill Candy Grim Reaper in Act II.|Surmaa Karkkiviikatemies tasossa II.|Mate o Ceifador de Doces no ATO II.|Убейте Кэнди Мрачный Жнец во ВТОРОМ акте.|杀死在章节II的糖果死神。|幕 II でキャンディ・グリム・リーパーを殺してください。|액트 II에서 사탕 사신을 죽이십시오.|Besiegt den kandierten Gevatter Tod in Akt II.|Tuez la Faucheuse de bonbons dans l'Acte II.
+quest_objective_103_1|Candy Grim Reaper killed|Karkkiviikatemies surmattu.|Ceifador de Doces morto|Кэнди Убит Мрачный Жнец|已杀死糖果死神。|キャンディー・グリム・リーパーが殺されました。|처치한 사탕 사신.|Kandierter Gevatter Tod getoetet.|Faucheuse de bonbons tuée
+|||||||||
+quest_name_104|Kill the Pumpkin King|Surmaa Kurpitsakuningas|Mate o Rei Abóbora|Убей Тыквенного Короля|杀死南瓜国王|パンプキン・キングを殺す|호박 왕 죽이기|Toete den Kuerbiskoenig|Tuer le roi des citrouilles
+quest_description_104|Kill Damien the Pumpkin King in Act IV.|Surmaa Kurpitsakuningas Damien tasossa IV.|Mate Damien, o Rei Abóbora, no ATO IV.|Убейте Дэмиена, Тыквенного Короля, в акте IV.|杀死章节IV的南瓜国王达米安|幕 IV でパンプキン・キングのダミアンを殺してください。|액트 IV에서 호박 왕 데미언을 죽이십시오.|Toete Damien den Kuerbiskoenig im Akt IV.|Tuez Damien, le roi des citrouilles, dans l'Acte IV.
+quest_objective_104_1|Damien the Pumpkin King killed|Kurpitsakuningas Damien surmattu.|Damien, o Rei Abóbora morto.|Дэмиен , Тыквенный Король , убит|已杀死南瓜国王达米安。|パンプキン・キングのダミアンが殺されました。|처치한 호박 왕 데미언.|Damien der Kuerbiskoenig getoetet.|Damien, le roi des citrouilles tué
+|||||||||
+quest_name_110|Lost Skull|Kadonnut kallo|Caveira Perdida|Потерянный Череп|骷髅头|失われた頭蓋骨|잃어버린 해골|Verlorener Schaedel|Crâne perdu
+quest_description_110|Take this snoring skull back to Town of Inoya and hang it somewhere.|Vie kuorsaava kallo Inoyan kylään ja ripusta se jonnekin.|Leve esse crânio roncador de volta para a Cidade de Inoya e pendure-o em algum lugar.|Отнесите этот храпящий череп обратно в город Иноя и повесьте его где-нибудь.|将这个打头骨的 骷髅带回到伊诺亚镇， 并将其挂在某个地方。|このいびきを かく頭蓋骨をイ ノヤの町に戻し、 どこかに掛 けてください。|이 코골이 두개골을 이노 야 마을로 가져가 어딘가에 매달 아라.|Bring diesen Schnarchschaedel zurueck zur Stadt von Inoya und haeng ihn irgendwo auf.|Ramenez ce crâne ronfleur à la ville d'Inoya et accrochez-le quelque part.
+quest_objective_110_1|Skull hanged|Kallo ripustettu.|Caveira enforcada|Череп повешен|骷髅吊死。|頭蓋骨が絞首刑に。|해골 교수형.|Schaedel aufgehaengt.|Crâne suspendu
+|||||||||
+quest_name_111|Hanging Straight|Roiku suorassa|Pendurado Reto|Висит Прямо|直吊|まっすぐぶら下げ|똑바로 매달려|Gerade gehaengt|Se tenir bien droit
+quest_description_111|Find the skeleton's spine and pelvis from any Ancient Skeleton.|Löydä luurangon selkäranka ja lantio miltä tahansa pomolta.|Encontre a coluna e a pélvis do esqueleto de qualquer chefe.|Найдите позвоночник и таз скелета у любого босса.|从任何老板那里 找到骨骼的脊椎和骨盆。|ボスからスケル トンの脊椎と骨 盤を見つけます。|보스로부터 골격의 척추와 골반을 찾으십시오.|Finde das Rueckgrat und Becken von jedem Boss.|Trouvez la colonne vertébrale et le bassin du squelette sur n'importe quel boss.
+quest_objective_111_1|Spine found|Selkäranka löydetty.|Coluna encontrada.|Найден позвоночник|发现脊椎。|脊椎が見つかりました。|척추 발견.|Vollstaendige Wirbelsaeule gefunden.|Colonne vertébrale trouvée
+|||||||||
+quest_name_112|Main Hand|Oikea käsi|Mão Principal|Главная Рука|主手|利き手|주요 손|Die Rechte Hand|Première main
+quest_description_112|Collect the skeleton's right hand from any Ancient Skeleton.|Löydä luurangon oikea käsi miltä tahansa pomolta.|Colete a mão direita do esqueleto de qualquer chefe.|Соберите правую руку скелета у любого босса.|从任何老板那里 收集骷髅的右手。|ボスからスケルト ンの右手を集める。|보스로부터 해골의 오른손을 모으십시오.|Sammle die rechte Hand von jedem Boss.|Récupérez la main droite du squelette sur n'importe quel boss.
+quest_objective_112_1|Hand found|Käsi löydetty.|Mão encontrada.|Найденная рука|发现手。|手が見つかりました。|손을 찾았습니다.|Rechte Hand gefunden.|Main trouvée
+|||||||||
+quest_name_113|Secondary Hand|Vasen käsi|Mão Secundária|Вторичная Рука|次要手|セカンダリーハンド|이차 손|Die Linke Hand|Seconde main
+quest_description_113|Collect the skeleton's left hand from any Ancient Skeleton.|Löydä luurangon vasen käsi miltä tahansa pomolta.|Colete a mão esquerda do esqueleto de qualquer chefe.|Заберите левую руку скелета у любого босса.|从任何老板那里 收集骷髅的左手。|ボスからスケルト ンの左手を集めてください。|보스로부터 해골의 왼손을 수집하십시오.|Sammle die linke Hand von jedem Boss.|Récupérez la main gauche du squelette sur n'importe quel boss.
+quest_objective_113_1|Hand found|Käsi löydetty.|Mão encontrada.|Найденная рука|发现手。|手が見つかりました。|손을 찾았습니다.|Linke Hand gefunden.|Main trouvée
+|||||||||
+quest_name_114|Footwork|Jalkatyötä|Trabalho de Pés|Работа ногами|步法|フットワーク|발놀림|Fussarbeit|Jeu de jambes
+quest_description_114|Collect the skeleton's right foot from any Ancient Skeleton.|Löydä luurangon oikea jalka miltä tahansa pomolta.|Colete o pé direito do esqueleto de qualquer chefe.|Соберите правую ногу скелета у любого босса.|从任何老板那里 收集骨骼的右脚。|ボスからスケルト ンの右足を集めます。|보스로부터 해골의 오른발을 모으십시오.|Sammle den rechten Fuss von jedem Boss.|Récupérez le pied droit du squelette sur n'importe quel boss.
+quest_objective_114_1|Leg found|Jalka löydetty.|Perna encontrada.|Найденная нога|找到腿。|足が見つかりました。|다리 발견.|Rechten Fuss gefunden.|Pied trouvé
+|||||||||
+quest_name_115|Happy Feet|Iloiset jalat|Pés Felizes|Счастливые Ноги|快乐的脚|ハッピーフィート|해피 피트|Glueckliche Fuesse|Se lever du bon pied
+quest_description_115|Collect the skeleton's left foot from any Ancient Skeleton.|Löydä luurangon vasen jalka miltä tahansa pomolta.|Colete o pé esquerdo do esqueleto de qualquer chefe.|Соберите левую ногу скелета у любого босса.|从任何老板那里 收集骷髅的左脚。|ボスからスケルト ンの左足を集めます。|보스로부터 해골의 왼발을 모으십시오.|Sammle den linken Fuss von jedem Boss.|Récupérez le pied gauche du squelette sur n'importe quel boss.
+quest_objective_115_1|Leg found|Jalka löydetty.|Perna encontrada.|Найденная нога|找到腿。|足が見つかりました。|다리 발견.|Linken Fuss gefunden.|Pied trouvé
+[Halloween dailies]|||||||||
+quest_name_120|Fill the Pot|Pata täyteen|Encha a Panela|Наполните кастрюлю|加满锅|ポットを埋める|냄비를 채우십시오|Fülle den Topf|Un pot bien rempli
+quest_description_120|Collect ingredients in Act I.|Kerää aineksia tasossa I.|Colete ingredientes no ATO I.|Соберите ингредиенты для Первого акта .|在第一幕中收集成分。|幕 Iで成分を収集します。|법 I에서 재료를 수집하십시오.|Sammle Zutaten in Akt I.|Collecter les ingrédients dans l'Acte I.
+quest_objective_120_1|Spider legs|Hämähäkin jalat|Pernas de aranha|Паучьи лапки|蜘蛛腿|クモの足|거미 다리|Spinnenbeine|Pattes d'araignée
+quest_objective_120_2|Maggot's slime|Tuokan lima|Gosma de larva|Слизь личинки|蛆粘液|ウジのスライム|구더기 점액|Madenschleim|Bave d'asticot
+quest_objective_120_3|Pumpkin juice|Kurpitsamehu|Suco de abóbora|Тыквенный сок|南瓜汁|かぼちゃジュース|호박 쥬스|Kürbissaft|Jus de citrouille
+quest_objective_120_4|Rat ears|Rotan korvat|Orelhas de rato|Крысиные уши|老鼠的耳朵|ラットの耳|쥐 귀|Rattenohren|Oreilles de rat
+|||||||||
+quest_name_121|Kill Gurag|Surmaa Gurag|Mate Gurag|Убить Гурага|杀死古拉格|グラグを殺す|구라 그 처치|Töte Gurag|Tuer Gurag
+quest_description_121|Collect Gurag's spirit by using the Soul Box.|Kerää Guragin sielu Sielulaatikon avulla.|Colete o espírito de Gurag usando a Caixa da Alma.|Соберите дух Гурага, используя Шкатулку с Душами.|使用灵魂盒子收 集古拉格的精神。|ソウルボックス を使用して、 グラッグの精神 を収集します。|영혼 상자 유물을 사용하여 구라 그의 영혼을 모으십시오.|Sammle Gurags Geist mit der Seelenbox.|Récupérez l'esprit de Gurag en utilisant la boîte à âme.
+quest_objective_121_1|Gurag's spirit|Guragin sielu|Espírito de Gurag|Дух Гурага|古拉格精神|グラッグの精神|구라 그의 정신|Gurags Geist|Esprit de Gurag
+|||||||||
+quest_name_122|Feather party!|Höyhenjuhlat!|Festa de penas!|Вечеринка с перьями!|羽毛派对！|フェザーパーティ！|깃털 파티!|Federparty!|Fête des plumes !
+quest_description_122|Find chickens in Act II and collect their feathers.|Löydä kanoja tasosta II ja kerää niiden höyheniä.|Encontre galinhas no ATO II e colete suas penas.|Найдите цыплят во втором акте и соберите их перья.|在第二幕中找到鸡并收集羽毛。|幕 IIでニワトリを見つけ、羽を集めます。|행위 II에서 닭을 찾아서 깃털을 모으십시오.|Finde Hühner in Akt II und sammle ihre Federn ein.|Trouvez des poulets dans l'Acte II et ramassez leurs plumes.
+quest_objective_122_1|Feathers|Höyheniä|Penas|Перья|羽毛|羽毛|깃털|Gefieder|Plumes
+|||||||||
+quest_name_123|Embarrass Death|Nöyryytä Kuolemaa|Morte Constrangida|Опозорить Смерть|尴尬死亡|恥ずかしい死|난처한 죽음|Peinlicher Tod|Embarrasser la Mort
+quest_description_123|During the fight throw the chicken mask at the Grim Reaper and kill him.|Tappelun aikana, heitä Kananaamari Viikatemiestä päin ja surmaa hänet.|Durante a luta, jogue a máscara de galinha no Ceifador e mate-o.|Во время боя бросьте куриную маску в Мрачного Жнеца и убейте его.|在战斗中， 将鸡面具扔向死神， 并杀死他。|戦いの最中に、 死神にチキ ンマスクを 投げて殺し てください。|전투 중에 그림 리퍼에 치킨 마스크를 던져 죽입니다.|Während des Kampfes wirf die Hühnermaske auf Sensenmann und töte ihn.|Pendant le combat, lancez le masque de poulet sur la Faucheuse et tuez-la.
+quest_objective_123_1|Death embarrassed|Kuolema nöyryytetty|Morte envergonhada|Смерть смущена|死亡尴尬|死神は恥ずかしい|부끄러운 죽음|Der Tod ist verlegen|Mort embarrassée
+|||||||||
+quest_name_124|Gathering ingredients|Kerää aineksia|Recolhendo ingredientes|Сбор ингредиентов|收集成分|材料を集める|재료 수집|Zutaten sammeln|Collecte d'ingrédients
+quest_description_124|Collect the following ingredients in Act III.|Kerää seuraavat ainekset tasosta III.|Colete os seguintes ingredientes no ATO III.|В третьем действии соберите следующие ингредиенты.|在第三幕中 收集以下成分。|幕 IIIで次の成分を収集します。|법 III에서 다음 재료를 수집하십시오.|Sammeln Sie die folgenden Zutaten in Akt III.|Récupérez les ingrédients suivants dans l'Acte III.
+quest_objective_124_1|Ghost skulls|Haamukallot|Caveiras fantasmas|Призрачные черепа|鬼头骨|ゴーストスカル|유령 두개골|Geisterschädel|Crânes de fantômes
+quest_objective_124_2|Dust feeder teeth|Tomunsyöjän hampaat|Dentes do alimentador de poeira|Зубья пылеуловителя|除尘器齿|ダストフィーダー歯|먼지 피더 이빨|Staubzufuhrzähne|Dents de cracheur de poussière
+quest_objective_124_3|Mummy bandages|Muumion siteet|Curativos de múmia|Бинты для мумий|木乃伊绷带|ミイラ包帯|미라 붕대|Mumienbinden|Bandages de momie
+quest_objective_124_4|Spellbook|Loitsukirja|Livro de feitiços|Книга Заклинаний|拼写书|魔法書|마법서|Zauberbuch|Livre de sorts
+|||||||||
+quest_name_125|Anubis' Own Medicine|Anubiksen omaa lääkettä|Remédio Próprio de Anubis|Собственное Лекарство Анубиса|阿努比斯自己的药|アヌビス自身の薬|아누비스의 약|Anubis 'eigene Medizin|Remède personnel d'Anubis
+quest_description_125|Curse Anubis with the Cursed Book.|Viimeistele Anubis Kirotulla Kirjalla.|Finalize Anubis com o Livro Amaldiçoado.|Прикончи Анубиса с помощью Проклятой Книги.|用 《被诅咒的书》 结束阿努比斯。|呪われた本でア ヌビスを締めく くってください。|저주받은 책으로 아누비스를 마무리하십시오.|Beende Anubis mit dem verfluchten Buch.|Achevez Anubis avec le Livre maudit.
+quest_objective_125_1|Anubis cursed|Anubis surmattu|Anúbis morto|Анубис убит|阿努比斯被杀|アヌビス殺害|아누비스|Anubis getötet|Anubis tué
+|||||||||
+quest_name_126|Suck it!|Imuroi!|Chupe!|Соси это!|吸！|吸いなさい！|빨다!|Saugen Sie es!|Aspirez ça !
+quest_description_126|Suck in 30 Damien's heads using the head extractor.|Imuroi 30 Damienin päätä Päänkeräimellä.|Chupe 30 cabeças de Damien usando o extrator de cabeça.|Отсосите 30 голов Дэмиена с помощью насадки для извлечения голов.|使用洗头机吸取 30 个达米恩头。|ヘッドエク ストラクタ を使用して 30 のダミアン ヘッドを吸 い込みます。|헤드 추출기를 사용하여 30 개의 데미언 헤드를 빨아들입니다.|Saugen Sie 30 Damien-Köpfe mit dem Kopfextraktor ein.|Aspirez 30 têtes de Damien à l'aide de l'extracteur de têtes.
+quest_objective_126_1|Heads extracted|Päätä kerätty|Cabeças extraídas|Извлеченные головы|抽头|抽出された頭|추출 된 헤드|Köpfe extrahiert|Têtes extraites
+|||||||||
+[XMAS EVENT]|||||||||
+quest_name_200|Sweet annihilation|Ihana tuho|Aniquilação Adocicada|Сладкое уничтожение|甜蜜的毁灭|甘美な消滅|달콤한 전멸|Suesse Vernichtung|Anéantissement des sucreries
+quest_description_200|Collect candy canes in Act I.|Kerää karkkitankoja tasossa I.|Colete bengalas doces no ATO I.|Собирайте леденцы в Первом акте .|在章节I收集拐杖糖。|幕 I のケーンのキャンデーを集めてください。|액트 I에서 지팡이 사탕을 모으십시오.|Sammle Zuckerstangen in Akt I.|Collectez des sucres d'orge dans l'acte I.
+quest_objective_200_1|Candy canes collected|Karkkitankoa kerätty.|Bengalas Doces coletadas|Собранные леденцовые трости|已收集拐杖糖。|ケーンのキャンディーが集められました。|모은 지팡이 사탕.|Zuckerstangen gesammelt.|Sucres d'orge collectées
+|||||||||
+quest_name_201|My Grandma made those!|Ne ovat mummoni tekemät!|Minha avó fez isso!|Это сделала моя бабушка!|这些是我奶奶做的！|私のおばあちゃんが作った！|우리 할머니가 만들어 준 거라구!|Meine Oma hat die gemacht!|C'est ma grand-mère qui les a faits !
+quest_description_201|Retrieve the Christmas stockings from Gurag in Act I.|Hae joulusukat Guragilta tasossa I.|Recupere as meias de Natal de Gurag no ATO I.|Заберите рождественские чулки у Гурага в акте I.|从章节I的古拉格收集圣诞袜。|幕 I のグラゴからのクリスマス・ストッキングを取り戻してください。|액트 I에서 구라그에게 빼앗긴 크리스마스 양말을 되찾아오십시오.|Hole die Weihnachtsstruempfe von Gurag im ersten Akt.|Récupérez les chaussettes de Noël de Gurag à l'acte I.
+quest_objective_201_1|Christmas stockings retrieved|Joulusukat haettu.|Meias de Natal recuperadas|Извлеченные рождественские чулки|已收集圣诞袜。|クリスマス・ストッキングが取り戻されました。|되찾은 크리스마스 양말.|Weihnachtsstruempfe gefunden.|Chaussettes de Noël récupérés
+|||||||||
+quest_name_202|Building a Snowman|Lumiukkoa rakentamassa|Construindo um boneco de neve|Лепим Снеговика|造雪人|雪だるまを作る|눈사람 만들기|Schneemann bauen|Fabriquer un bonhomme de neige
+quest_description_202|Collect snowballs by killing enemies in Act II.|Kerää lumipalloja surmaamalla vihollisia tasossa II.|Colete bolas de neve matando inimigos no ATO II.|Собирайте снежки, убивая врагов во ВТОРОМ акте.|通过杀死章节II的敌人收集雪球。|幕 II で敵を殺すことによってスノーボールを集めてください。|액트 II에서 적을 죽여 눈덩이를 모으십시오.|Sammle Schneebaelle durch Toeten von Gegnern in Akt II.|Récupérez des boules de neige en tuant des ennemis dans l'Acte II.
+quest_objective_202_1|Snowballs collected|Lumipalloa kerätty.|Bolas de neve coletadas|Собранные снежки|已收集雪球。|スノーボールが集められました。|모은 눈덩이.|Schneebaelle gesammelt.|Boules de neige collectées
+|||||||||
+quest_name_203|Find my head!|Etsi pääni!|Encontre minha cabeça!|Найди мою голову!|找到我的头！|私の頭を見つけ！|내 머리를 찾아줘!|Finde meinen Kopf!|Trouvez ma tête !
+quest_description_203|Retrieve Snowman's head from Grim Reaper in Act II.|Hae lumiukon pää Viikatemieheltä tasossa II.|Recupere a cabeça de Boneco de Neve do Ceifador no ATO II.|"Достаньте голову Снеговика из ""Мрачного жнеца"" во ВТОРОМ акте."|从章节II的死神收集雪人的头。|幕 II のグリム・リーパーから雪だるまの頭を取り戻してください。|액트 II에서 사신에게 빼앗긴 눈사람 머리를 되찾아오십시오.|Hole im zweiten Akt den Kopf des Schneemanns vom Sensenmann.|Récupérez la tête du Bonhomme de neige auprès du Faucheur sinistre dans l'Acte II.
+quest_objective_203_1|Snowman's head retrieved|Lumiukon pää haettu.|Cabeça do boneco de neve recuperada|Извлечена голова Снеговика|已收集雪人的头。|雪だるまの頭が取り戻されました。|되찾은 눈사람 머리.|Schneemanns Kopf gefunden.|Tête du bonhomme de neige récupérée
+|||||||||
+quest_name_204|Snowball fight!|Lumisota!|Luta na neve!|Игра в снежки!|打雪仗！|雪合戦！|눈 싸움!|Schneeballschlacht!|Combat de boules de neige !
+quest_description_204|Use the Snowball relic to cover enemies in snow!|Käytä lumipalloaarretta peittääksesi harvinaisia vihollisia lumeen!|Utilizar a relíquia da bola de neve para cobrir os inimigos com neve!|Используй реликвию Снежка, чтобы засыпать врагов снегом!|用雪球遗物将稀有敌人埋起来！|スノーボールの遺物を使って珍しい敵を雪の中に埋めましょう！|눈덩이 유물을 사용하여 희귀 몬스터를 눈으로 덮어버리십시오!|Verwende Schneebaelle, um seltene Gegner im Schnee zu entdecken!|Utilisez la relique Boule de neige pour recouvrir les ennemis de neige !
+quest_objective_204_1|Enemies hit|Vihollista osuttu.|Inimigos atingidos|Враги поражены|已击中稀有敌人。|レアな敵がヒットされました。|눈덩이에 맞은 희귀 몬스터.|Seltenen Gegner gefunden.|Ennemis touchés
+|||||||||
+quest_name_205|It's so dark|On niin pimeää|Está tão escuro|Здесь так темно|太暗了|とても暗い|너무 어두워|Es ist so dunkel|Il fait si sombre
+quest_description_205|Collect Christmas lights in Act III.|Kerää jouluvaloja tasossa III.|Colete luzes de Natal no ATO III.|Соберите рождественские гирлянды в акте III.|在章节III收集圣诞灯。|幕 III でクリスマス・ライトを集めましょう。|액트 III에서 크리스마스 전구를 모으십시오.|Sammle Weihnachtsbeleuchtung in Akt III.|Collectez les guirlandes de Noël dans l'acte III.
+quest_objective_205_1|Christmas lights collected|Jouluvaloja kerätty.|Luzes de Natal recolhidas|Собранные рождественские огни|已收集圣诞灯。|クリスマス・ライトが集められました。|모은 크리스마스 전구.|Weihnachtsbeleuchtung gesammelt.|Guirlandes de Noël collectées
+|||||||||
+quest_name_206|This town is missing something...|Tästä kylästä puuttuu jotain...|Esta cidade está faltando alguma coisa...|Этому городу чего-то не хватает...|这个小镇缺什么东西…|この町は何かが欠けている…|뭔가가 빠졌는데...|Dieser Stadt fehlt etwas ...|Il manque quelque chose à cette ville...
+quest_description_206|Retrieve the Christmas Tree from Anubis in Act III.|Hae joulukuusi Anubikselta tasossa III.|Recupere a árvore de Natal de Anúbis no ATO III.|Заберите Рождественскую елку у Анубиса в ТРЕТЬЕМ акте.|从章节III的阿努比斯收集圣诞树。|幕 III のアヌビスからクリスマス・ツリーを取り戻してください。|액트 III에서 아누비스에게 빼앗긴 크리스마스 트리를 되찾아오십시오.|Holt den Weihnachtsbaum von Anubis in Akt III.|Récupérez l'arbre de Noël d'Anubis à l'acte III.
+quest_objective_206_1|Christmas tree retrieved|Joulukuusi haettu.|Árvore de Natal recuperada|Извлеченная рождественская елка|已收集圣诞树。|クリスマス・ツリーが取り戻されました。|되찾은 크리스마스 트리.|Weihnachtsbaum abgeholt.|Arbre de Noël récupéré
+|||||||||
+quest_name_207|Robin Hood is my idol|Robin Hood on idolini|Robin Hood é meu ídolo|Робин Гуд - мой кумир|罗宾汉是我的偶像|ロビンフッドは私のアイドル|로빈 훗은 내 우상|Robin Hood ist mein Idol|Robin des bois est mon idole
+quest_description_207|Use Thief's glove to steal Christmas decorations from enemies.|Käytä varkaan käsinettä varastaaksesi joulukoristeita vihollisilta.|Utilizar a luva de ladrão para roubar decorações de Natal dos inimigos.|Используйте перчатку вора, чтобы украсть рождественские украшения у врагов.|使用盗贼手套从敌人那里偷取圣诞装饰。|泥棒の手袋を使って敵からクリスマスの装飾品を盗んでください。|도둑의 장갑을 사용해서 적들로부터 크리스마스 장식을 훔치십시오.|Benutze die Diebeshandschuhe, um Weihnachtsschmuck vonGegnern zu stehlen.|Utilisez le gant de voleur pour voler les décorations de Noël de vos ennemis.
+quest_objective_207_1|Christmas decoration stolen|Joulukoristeita varastettu.|Decoração de Natal roubada|Украдено рождественское украшение|已偷到圣诞装饰。|クリスマス装飾が盗まれました。|훔친 크리스마스 장식.|Weihnachtsdekoration gestohlen.|Décoration de Noël volée
+|||||||||
+quest_name_208|Let's bring the Christmas spirit!|Tulkoon joulun henki!|Vamos trazer o espírito de Natal!|Давайте привнесем дух Рождества!|让我们带来圣诞之魂吧！|クリスマス・スピリットを持っていこう！|제대로 크리스마스 분위기를 내보자!|Lasst uns den Weihnachtsgeist holen!|Faisons briller l'esprit de Noël !
+quest_description_208|Retrieve the Christmas star from Damien in Act IV.|Hae joulutähti Damienilta tasossa IV.|Recupere a estrela de Natal de Damien no ATO IV.|Заберите рождественскую звезду у Дэмиена в четвертом акте.|从章节IV的达米安处取得圣诞星。|幕 IV のダミアンからクリスマス・スターを取り戻してください。|액트 IV에서 데미언에게 빼앗긴 크리스마스 별을 되찾아오십시오.|Holt den Weihnachtsstern von Damien in Akt IV.|Récupérez l'étoile de Noël auprès de Damien à l'acte IV.
+quest_objective_208_1|Christmas star retrieved|Joulutähti haettu.|Estrela de Natal recuperada|Извлеченная рождественская звезда|已收集圣诞星。|クリスマス・スターが取り戻されました。|되찾은 크리스마스 별.|Weihnachtsstern abgeholt.|Étoile de Noël récupérée
+|||||||||
+quest_name_209|Santa needs help!||Papai Noel precisa de ajuda!|Санте нужна помощь!|||산타가 도움이 필요해요!||Le Père Noël a besoin d'aide !
+quest_description_209|Enter North Pole from Danethorpe and help Santa.||Ajude o Papai Noel no ATO 2 Zona 1|Помогите Санте в Действии 2, Зона 1|||다네소프에서 북극으로 가서 산타를 도와주세요.||Aidez le Père Noël dans l'Acte 2 Zone 1
+quest_objective_209_1|North Pole reached||Polo Norte alcançado|Достигнут Северный полюс|||북극 도달||Pôle Nord atteint
+quest_objective_209_2|Santa saved||Papai Noel salvo|Санта спасен|||산타 구출됨||Père Noël sauvé
+|||||||||
+[ANNIVERSARY EVENT]|||||||||
+quest_name_300|Insert Coin|Aseta kolikko|Insira moeda|Вставить Монету|投币|コインを入れる|동전을 넣으세요|Muenze einwerfen|Insérer une pièce
+quest_description_300|Retrieve an Ancient Coin from Gurag in Act I.|Hae muinainen kolikko Guragilta tasossa I.|Recupere uma moeda antiga de Gurag no ATO I.|Заберите Древнюю монету у Гурага в Акте I.|在第一幕中从古拉格 （Gurag） 取回古钱币。|幕 Iでグラグから古代のコインを回収します。|행위 I에서 구라 그에서 고대 주화를 회수하십시오.|Holt in Akt I eine uralte Muenze von Gurag.|Récupérer une pièce ancienne à Gurag dans l'acte I.
+quest_objective_300_1|Coin retrieved|Kolikko haettu.|Moeda recuperada|Извлеченная монета|找回硬币。|コインを回収。|동전을 회수했습니다.|Muenze gesammelt.|Pièce récupérée
+|||||||||
+[GATES_OF_VALHALLA]|||||||||
+quest_name_399|Memory of Mevius||Memória de Mevius||||메비우스의 기억||
+quest_description_399|Enter the portal to the Memory of Mevius in south east of Inoya||Entre no portal para a Memória de Mevius no sudeste de Inoya||||이노야 남동쪽의 메비우스의 기억으로 가는 포털에 들어가세요||
+quest_objective_399_1|Memory of mevius entered||Memória de Mevius entrou||||메비우스의 기억이 들어왔다||
+|||||||||
+quest_name_400|Welcome to Valhalla|Tervetuloa Valhallaan|Bem vindo a Valhalla|Добро пожаловать в Валгаллу|Welcome to Valhalla|Welcome to Valhalla|발할라에 오신 것을 환영합니다|Welcome to Valhalla|Bienvenue au Valhalla
+quest_description_400|Reach Plain of Ida in Act 8 Zone 2.|Etsi pääsy Idan tasangolle taso 8 alueella 2.|Chegue na Planície de Ida no ATO 8 Zona 2.|Достигните равнины Ида в Зоне 2 Акта 8.|Reach Plain of Ida in Act 8 Zone 2.|Reach Plain of Ida in Act 8 Zone 2.||Reach Plain of Ida in Act 8 Zone 2.|Atteignez la Plaine d'Ida dans l'Acte 8 Zone 2.
+quest_objective_400_1|Plain of Ida reached|Idan tasanko löydetty.|Planície de Ida alcançada|Равнина Иды достигла|Plain of Ida reached|Plain of Ida reached||Plain of Ida reached|Plaine d'Ida atteint
+|||||||||
+quest_name_401|Valkyrie Hunting|Valkyrien metsästys|Caça às Valquírias|Охота на Валькирий|Valkyrie Hunting|Valkyrie Hunting|발키리 사냥|Valkyrie Hunting|Chasse à la Valkyrie
+quest_description_401|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Pegue a chave para Valhalla da Valquíria|Получи ключ от Валгаллы у Валькирии.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|발키리에게서 발할라의 열쇠를 얻으세요.|Get the key to Valhalla from the Valkyrie.|Obtenez la clé pour Valhalla auprès de la Valkyrie.
+quest_objective_401_1|Valkyrie found|Valkyrie löydetty|Valquíria encontrada|Найденная Валькирия|Valkyrie found|Valkyrie found||Valkyrie found|Valkyrie trouvée
+quest_objective_401_2|Key obtained|Avain saatu|Chave obtida|Полученный ключ|Key obtained|Key obtained|열쇠 획득|Key obtained|Clé obtenue
+|||||||||
+quest_name_402|Gates of Valhalla|Valhallan portit|Portões de Valhalla|Врата Валгаллы|Gates of Valhalla|Gates of Valhalla||Gates of Valhalla|Les portes du Valhalla
+quest_description_402|Return to Act 8 Zone 2 and enter Valhalla. |Mene Valhallaan.|Retorne ao ATO 8 Zona 2 e entre em Valhalla.|Вернитесь к Действию 8, Зона 2 и войдите в Валгаллу. |Enter Valhalla. |Enter Valhalla. |액트 8 존 2로 돌아가서 발할라에 들어가세요.|Enter Valhalla. |Retournez dans la zone 2 de l'acte 8 et entrez dans le Valhalla. 
+quest_objective_402_1|Valhalla entered|Valhalla entered|Entrou em Valhalla|Вошла Валгалла|Valhalla entered|Valhalla entered|발할라에 입장|Valhalla entered|Entrer dans le Valhalla
+|||||||||
+quest_name_403|Access Denied|Pääsy evätty|Acesso Negado|Доступ запрещен|Access Denied|Access Denied|접근 거부|Access Denied|Accès refusé
+quest_description_403|Find a way forward through the caves.|Find a way forward through the caves.|Encontre um caminho através das cavernas.|Найдите путь вперед через пещеры.|Find a way forward through the caves.|Find a way forward through the caves.|동굴을 통해 앞으로 나아갈 방법을 찾으세요.|Find a way forward through the caves.|Trouvez un moyen d'avancer dans les grottes.
+quest_objective_403_1|Cave explored|Luola tutkittu|Caverna explorada.|Исследованная пещера|Cave explored.|Cave explored.|동굴 탐험 완료|Cave explored.|Grotte explorée
+|||||||||
+quest_name_404|Eternal Peace|Ikuinen rauha|Paz Eterna|Вечный Мир|Eternal Peace|Eternal Peace|영원한 평화|Eternal Peace|Paix éternelle
+quest_description_404|Help Astrid find her childs Toy Bear in Act 8 Zone 4.|Help the souls in the camp.|Ajude Astrid a encontrar o Urso de Brinquedo de seu filho no ATO 8 Zona 4.|Помогите Астрид найти Игрушечного Медвежонка ее ребенка в акте 8, зона 4.|Help the souls in the camp.|Help the souls in the camp.||Help the souls in the camp.|Aidez Astrid à retrouver l'ours en peluche de son enfant dans l'Acte 8 Zone 4.
+quest_objective_404_1|Toy found|Lelu löydetty|Brinquedo encontrado|Найденная игрушка|Toy found.|Toy found.|장난감 발견|Toy found.|Jouet trouvé
+|||||||||
+quest_name_405|Purge|Puhdistus|Expurgo|Чистка|Purge|Purge|정화|Purge|Purge
+quest_description_405|Slay the Corrupted Refugees in Act 8 Zone 4.|Slay the corrupted souls.|Mate os Refugiados Corrompidos no ATO 8 Zona 4.|Убейте Коррумпированных беженцев в Зоне 4 Акта 8.|Slay the corrupted souls.|Slay the corrupted souls.||Slay the corrupted souls.|Tuez les réfugiés corrompus dans la zone 4 de l'acte 8.
+quest_objective_405_1|Corrupted souls slain|Sielut surmattu|Almas Corrompidas eliminadas|Испорченные души убиты|Souls slain.|Souls slain.|타락한 영혼 처치|Souls slain.|Âmes corrompues tuées
+|||||||||
+quest_name_406|River Rapids|River Rapids|Corredeiras|Речные Пороги|River Rapids|River Rapids|급류|River Rapids|Ce matin c'est rafting !
+quest_description_406|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|Viaje para Helheim pelo rio Gjöll|Путешествие в Хельхайм через реку Йель.|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|River Gjöll을 통해 Helheim으로 여행하세요.|Travel to Helheim through River Gjöll.|Voyage à Helheim par la rivière Gjöll.
+quest_objective_406_1|Gate of Helheim reached.|Helheim saavutettu|Heilheim alcançado|Хельхейм достиг|Helheim reached.|Helheim reached.|헬하임 도달|Helheim reached.|Helheim atteint
+|||||||||
+quest_name_407|Destiny|Kohtalo|Destino|Судьба|Destiny|Destiny|운명|Destiny|Destinée
+quest_description_407|Slay Corrupted Odin.|Surmaa korruptoitunut Odin.|Eliminte Odin Corrompido|Убей Испорченного Одина.|Slay Corrupted Odin.|Slay Corrupted Odin.|타락한 오딘 처치.|Slay Corrupted Odin.|Tuer Odin corrompu.
+quest_objective_407_1|Odin slain|Odin surmattu|Odin morto|Один убит|Odin slain.|Odin slain.|오딘 처치됨|Odin slain.|Odin tué
+|||||||||
+quest_name_408|The Awesome Ring - part 1||O Anel Fantástico – parte 1|Потрясающее кольцо - часть 1|||멋진 반지 - 1부||L'anneau grandiose - partie 1
+quest_description_408|Collect lots of braggite.||Colete bastante braggite|Соберите побольше браггита.|||브래그라이트를 많이 모으세요.||Collectez beaucoup de braggite.
+quest_objective_408_1|Braggite collected||Braggite coletada|Собранный браггит|||브래그자이트 수집됨||Braggite collectée
+|||||||||
+quest_name_409|Mystery Key||Chave Misteriosa|Таинственный Ключ|||미스터리 키||Clé mystère
+quest_description_409|Find out where the key goes to.||Descubra para onde a chave vai.|Выясни, куда ведет ключ.|||열쇠가 어디로 가는지 찾아보세요.||Découvrez où va la clé.
+quest_objective_409_1|Find the owner of the key.||Encontre o dono da chave|Найдите владельца ключа.|||열쇠 주인을 찾아라.||Trouvez le propriétaire de la clé.
+|||||||||
+quest_name_410|The Awesome Ring - part 2||O Anel Fantástico – parte 2|Потрясающее кольцо - часть 2|||멋진 반지 - 2부||L'anneau grandiose - partie 2
+quest_description_410|Collect Essence of the Gods from bosses.||Colete Essência dos Deuses de chefões.|Собирайте Эссенции Богов у боссов.|||보스에게서 신의 정수를 수집하세요.||Récupérez de l'essence des dieux sur les boss.
+quest_objective_410_1|Essence of the Gods collected||Essência dos Deuses coletada|Сущность богов , собранная|||신들의 정수 수집 완료||Essence des dieux collectée
+|||||||||
+quest_name_411|The Awesome Ring - part 3||O Anel Fantástico – parte 3|Потрясающее кольцо - часть 3|||멋진 반지 - 3부||L'anneau grandiose - partie 3
+quest_description_411|Find your desired Awesome Gem.||Encontre sua Gema Fantástica desejada.|Найдите желаемый Удивительный Драгоценный камень.|||원하는 멋진 보석을 찾아라.||Trouvez la gemme grandiose de votre choix.
+quest_objective_411_1|Gem collected||Gema coletada|Собранный драгоценный камень|||보석을 수집했습니다||Gemme collectée
+|||||||||
+quest_name_420|Chains of Gold||Correntes de Ouro|Цепочки из золота|||황금 사슬||Chaînes d'or
+quest_description_420|Mine and transport 20 kg of gold from the fallen chains to safety.||Minere e transporte 20 kg de ouro das correntes caídas para a segurança.|Добудьте и транспортируйте 20 кг золота из упавших цепей в безопасное место.|||20kg의 금을 채굴하고 떨어진 사슬에서 안전한 곳으로 운반하세요.||Extraire et transporter 20 kg d'or des chaînes tombées au sol pour les mettre en sécurité.
+quest_objective_420_1|kg gold transported||kg de ouro transportado|кг перевозимого золота|||운반된 금 kg||kg d'or transporté
+quest_objective_420_2|Troll patrol slain||Patrulha de trolls morta|Патруль троллей убит|||트롤 순찰대 처치됨||Patrouille de trolls tuée
+|||||||||
+quest_name_430|Hungry Haldor||Haldor Faminto|Голодный Халдор|||배고픈 할도르||Haldor affamé
+quest_description_430|Get the meat of a delicious hog.||Consiga a carne de um porco delicioso.|Получите мясо вкусной свиньи.|||맛있는 돼지의 고기를 얻으세요.||Récupérez la viande d'un délicieux porc.
+quest_objective_430_1|Meat collected||Carne coletada|Собранное мясо|||고기 수집 완료||Viande collectée
+quest_objective_430_2|Meat cooked||Carne cozinhada|Мясо приготовленное|||고기 요리됨||Viande cuite
+|||||||||
+quest_name_431|Hurrdurr’s Rollercoaster||Montanha Russa de Hurrdurr|Американские горки Хуррдурра|||허르더의 롤러코스터||Les montagnes russes de Hurrdurr
+quest_description_431|Find cart wheels in Forgotten Caves and attach them to Hurrdurr’s cart.||Encontre e encaixe rodas no carrinho de Hurrdurr.|Найдите и прикрепите колеса к тележке Хуррдурра.|||잊혀진 동굴에서 수레바퀴를 찾아 허르더르의 수레에 부착하세요.||Trouvez et fixez les roues sur le chariot de Hurrdurr.
+quest_objective_431_1|Wheels found||Rodas encontradas|Колеса найдены|||||Roues trouvées
+quest_objective_431_2|Wheels attached||Rodas encaixadas|Колеса прикреплены|||||Roues attachées
+|||||||||
+quest_name_432|Balldur Muspelheim||Balldur Muspelheim|Балдур Муспельхейм|||발두르 무스펠하임||Baldur Muspelheim
+quest_description_432|Do the thing||Faz a coisa|Сделай это дело|||||Faire la chose
+quest_objective_432_1|Thing done||Coisa feita|Дело сделано|||||Chose faite
+|||||||||
+quest_name_433|Frøya’s Scale Armor||Armadura de Escamas de Frøya|Чешуйчатая Броня Фреи|||프레이야의 비늘 갑옷||L'armure d'écailles de Freya
+quest_description_433|Collect Naga scales and return them to Frøya in Act 8 Zone 2.||Colete escamas de Naga e retorne elas a Frøya no ATO 8 Zona 2.|Соберите чешуйки нага и верните их Фрее в Действии 8, Зона 2.|||나가 비늘을 모아서 Act 8 Zone 2에 있는 프레이야에게 돌아가세요.||Récupérez les écailles de naga et rendez-les à Freya dans l'Acte 8 Zone 2.
+quest_objective_433_1|Scales collected||Escamas coletadas|Собранные весы|||||Écailles collectées
+|||||||||
+quest_name_434|Tired Viking||Viking Cansado|Усталый Викинг|||피곤한 바이킹||Viking fatigué
+quest_description_434|Find potion reagents and conjure it in Act 8 Zone 5.||Encontre reagentes de poção e conjure-a no ATO 8 Zona 5.|Найдите реагенты для приготовления зелий и наколдуйте их в Зоне 5 Действия 8.|||물약 재료를 찾아서 8막 5구역에서 조합하세요.||Trouvez des réactifs de potion et concoctez-les dans la zone 5 de l'acte 8.
+quest_objective_434_1|Doom weed||Erva da desgraça|Роковой вид|||파멸초||Herbe du destin
+quest_objective_434_2|Water from Gjöll||Água de Gjöll|Вода из Гьелля|||요르의 물||Eau de Gjöll
+quest_objective_434_3|Corrupted dirt||Terra corrompida|Испорченная грязь|||부패한 흙||Terre corrompue
+quest_objective_434_4|Potion conjured||Poção conjurada|Наколдованное зелье|||물약이 소환되었습니다||Potion concoctée
+|||||||||
+quest_name_435|Beacons of Gjöll||||||욜의 봉화||
+quest_description_435|Ignite the four beacons to open the gate to the tunnel.||||||네 개의 봉화를 밝혀 터널로 가는 문을 여세요.||
+quest_objective_435_1|Ignite Northwest beacon||||||북서쪽 봉화를 점화하라||
+quest_objective_435_2|Ignite Northeast beacon||||||북동쪽 봉화에 불을 붙이세요||
+quest_objective_435_3|Ignite Southwest beacon||||||남서쪽 봉화에 불을 붙이기||
+quest_objective_435_4|Ignite Southeast beacon||||||남동쪽 봉화에 불을 붙이세요||
+quest_objective_435_5|Travel through the tunnel||||||터널을 통과하세요||
+quest_objective_435_6|Explore Island||||||섬 탐험||
+quest_objective_435_7|Slay Jormungandr||||||요르문간드 처치||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+[Valhalla dailies]|||||||||
+quest_name_440|River Raider||Invasor de Rios|Речной Рейдер|||강 침략자||Ce soir c'est encore rafting !
+quest_description_440|Complete River Gjöll.||Complete o minigame do Rio Gjöll.|Пройдите мини-игру River Gjöll.|||River Gjöll 미니게임을 완료하세요.||Terminer le mini-jeu de la rivière Gjöll.
+quest_objective_440_1|Jörmungar slain||Jörmungar morto|Йормунгар убит|||요르문가르 처치||Jörmungar tué
+quest_dialog_440|Gjallarknut here! Remember me? We had an epic adventure on river Gjöll and gave that big snake a good whoop! But alas, it's back eating my customers! I'll reward you if you're up for another whooping.||Aqui é Gjallarknut! Lembra de mim? Tivemos uma aventura épica no rio Gjöll e demos uma boa surra naquela cobra gigante! Mas, infelizmente, ela voltou a comer meus clientes! Eu o recompensarei se você estiver disposto a dar outra surra.|Гьялларкнуть сюда! Помнить меня? У нас было эпическое приключение на реке Йелль, и мы хорошенько потрепали эту большую змею! Но, увы, она снова пожирает моих клиентов! Я вознагражу тебя, если ты готов к еще одному улюлюканью.|||여기는 Gjallarknut! 기억나? 우리는 Gjöll 강에서 대단한 모험을 했고 그 큰 뱀을 혼쭐냈잖아! 하지만 안타깝게도 그 뱀이 다시 나타나서 내 손님들을 잡아먹고 있어! 또 한 번 혼쭐내줄 준비가 됐다면 보상을 줄게.||Salut c'est [c_lime]Gjallarknut[c_reset] ! Vous vous souvenez de moi ? Nous avons vécu une aventure épique sur la [c_aqua]Rivière Gjöll[c_reset] et nous avons donné une bonne raclée à ce gros serpent ! Mais hélas, il est revenu pour manger mes clients ! Je te récompenserai si tu es prêt à lui donner une autre raclée.
+|||||||||
+quest_name_441|The Golden Heist ||O Golpe do Ouro|Золотое ограбление |||황금 강탈||Le braquage doré
+quest_description_441|Find and use a glowing rock to find and collect the Golden Warrior statue from Gladsheim.||Recupere a Estátua do Guerreiro Dourado em Gladsheim.|Верните Золотую статуэтку Воина из Гладсхайма.|||빛나는 돌을 찾아 사용하여 Gladsheim에서 황금 전사 동상을 찾아 수집하세요.||Récupérez la statue dorée de la guerrière en or à Gladsheim.
+quest_objective_441_1|Statue collected||Estátua coletada|Собранная статуя|||동상 수집됨||Statue récupérée
+quest_dialog_441|I know this is no job for a hero, but to be one you sometimes need to take a dip to the dark side. [c_yellow]Inside the walls of Gladsheim Halls[c_reset] is hidden a precious little statue, the Golden Warrior portraying the Leader of Valkyries. I wa... WE need it, for uhm.. MUSEUM! Yes, a museum of.. statues... Anyway, we pay a handsome amount of gold for it. There are special [c_yellow]glowing stones[c_reset] inside the halls. Its illumination might help you find the statue...||Sei que esse trabalho não é para um herói, mas para ser um herói, às vezes é preciso dar um mergulho no lado negro. [c_yellow]Dentro das paredes dos Salões de Gladsheim[c_reset] está escondida uma pequena estátua preciosa, o Guerreiro Dourado retratando a Líder das Valquírias. Eu quer... NÓS precisamos dela, para é... um MUSEU! Sim, um museu de... estátuas... De qualquer forma, pagamos uma bela quantia em ouro por ela. Há pedras brilhantes [c_yellow]pedras brilhantes[c_reset] especiais dentro dos corredores. Sua iluminação pode ajudá-lo a encontrar a estátua...|Я знаю, что эта работа не для героя, но чтобы стать им, иногда нужно окунуться на темную сторону. В стенах залов Гладсхайма спрятана драгоценная маленькая статуэтка, Золотой Воин, изображающий Предводительницу Валькирий. Я ва... Она нужна нам для хм.. МУЗЕЯ! Да, музей.. статуй... В любом случае, мы платим за него приличную сумму рубинов. |||이 일이 영웅에게 어울리는 일은 아니지만, 영웅이 되려면 가끔 어두운 면을 경험해야 합니다. [c_yellow]글래드하임 홀의 벽 안[c_reset]에는 발키리의 리더를 묘사한 귀중한 작은 조각상, 황금 전사가 숨겨져 있습니다. 저는... 아니, 우리는 그것이 필요합니다, 음.. 박물관을 위해서요! 네, 조각상 박물관... 어쨌든, 우리는 그것을 위해 많은 금을 지불할 것입니다. 홀 안에는 특별한 [c_yellow]빛나는 돌[c_reset]이 있습니다. 그 빛이 조각상을 찾는 데 도움이 될 것입니다...||Je sais que ce travail n'est pas digne un héros, mais pour en être un il faut parfois savoir se salir les mains. Dans les murs du [c_aqua]Hall de Gladsheim[c_reset] se cache une précieuse petite statue, la guerrière d'or, qui représente la cheffe des Valkyries. Je la v... NOUS en avons besoin pour... heu ... un MUSÉE ! Oui, un musée de... heu... statues... Quoi qu'il en soit, nous payons une belle somme en rubis pour l'obtenir.
+|||||||||
+quest_name_442|Naga Treasury ||Tesouro de Naga|Казначейство Нага |||나가의 보물||Trésor Naga
+quest_description_442|Retrieve the Golden Snake amulet from Naga Temple.||Recupere o Amuleto da Serpente Dourada no Templo de Naga|Достаньте амулет Золотой Змеи из Храма Нага.|||나가 사원에서 황금 뱀 부적을 회수하세요.||Récupérez l'amulette du serpent d'or dans le temple Naga.
+quest_objective_442_1|Amulet found||Amuleto encontrado|Найденный Амулет|||부적 발견||Amulette trouvée
+quest_objective_442_2|Temple escaped||Fuga do templo|Темпл сбежал|||사원을 탈출했다||Le temple s'est échappé
+quest_dialog_442|Rumor has it that the Naga Temple holds the greatest treasury in Valhalla. It is also said to be the home of the Golden Snake amulet. Find it, and bring it here for my collection. Beware: Nagas are known to be sneaky and mischievous, your way back might not be as easy as you think. ||Há rumores de que o Templo Naga possui o maior tesouro de Valhalla. Dizem também que é o lar do amuleto da Serpente Dourada. Encontre-o e traga-o aqui para minha coleção. Cuidado: Os nagas são conhecidos por serem sorrateiros e maliciosos. Seu caminho de volta pode não ser tão fácil quanto você pensa.|Ходят слухи, что в храме Нага хранится величайшая сокровищница в Валгалле. Говорят также, что там хранится амулет Золотой Змеи. Найди его и принеси сюда для моей коллекции. Будьте осторожны: наги известны своей подлостью и озорством, ваш обратный путь может оказаться не таким легким, как вы думаете. |||소문에 따르면 나가 사원에는 발할라에서 가장 큰 보물이 있다고 합니다. 또한 황금 뱀 부적이 있는 곳이라고도 합니다. 그것을 찾아서 내 수집품에 가져오세요. 조심하세요: 나가들은 교활하고 장난꾸러기로 알려져 있으며, 돌아오는 길이 생각만큼 쉽지 않을 수 있습니다.||La rumeur veut que le [c_aqua]Temple Naga[c_reset] détienne le plus grand trésor du Valhalla. On dit aussi que c'est là que se trouve l'[c_yellow]amulette du serpent d'or[c_reset]. Trouvez-la et rapportez-la ici pour ma collection. Attention : Les Nagas sont connus pour être sournois et malicieux, votre quête pourrait ne pas être aussi simple que vous le pensez.
+|||||||||
+quest_name_443|The Crown of Surtr ||A Coroa de Surtr|Корона Сюртра |||수르트의 왕관||La couronne de Surt
+quest_description_443|Remove Surtr's crown in Muspelheim.||Remova a coroa de Surtr em Muspelheim|Снимите корону Суртра в Муспельхейме.|||무스펠하임에서 수르트의 왕관을 제거하십시오.||Retirer la couronne de Surt à Muspelheim.
+quest_objective_443_1|Crown removed||Coroa removida|Удаленная коронка|||||Couronne retirée
+quest_dialog_443|In the realm of fire and lava stands Surtr, forever chained to his realm. For eons he has been dormant, turned into obsidian statue that merely displays a fraction of his burning soul. But something is happening, signs indicate he's waking up. We need a hero who could pull of the impossible: get Surtr's crown off of him, it's the source of his power. Good luck to the brave soul who might attempt this. ||No reino do fogo e da lava está Surtr, eternamente acorrentado ao seu reino. Por eras, ele ficou adormecido, transformado em uma estátua de obsidiana que exibe apenas uma fração de sua alma ardente. Mas algo está acontecendo, os sinais indicam que ele está acordando. Precisamos de um herói que consiga realizar o impossível: tirar a coroa de Surtr de cima dele, pois ela é a fonte de seu poder. Boa sorte para a alma corajosa que tentar fazer isso.|В царстве огня и лавы стоит Суртр, навеки прикованный к своему царству. Целую вечность он пребывал в спячке, превратившись в обсидиановую статую, которая отображает лишь частицу его пылающей души. Но что-то происходит, признаки указывают на то, что он просыпается. Нам нужен герой, который смог бы совершить невозможное: снять с него корону Суртра, это источник его силы. Удачи храброй душе, которая может попытаться это сделать. |||불과 용암의 영역에 서 있는 수르트는 영원히 그의 영역에 사슬로 묶여 있습니다. 수세기 동안 그는 잠들어 있었고, 그의 타오르는 영혼의 일부만을 보여주는 흑요석 동상으로 변했습니다. 하지만 무언가가 일어나고 있습니다. 징후들은 그가 깨어나고 있음을 나타냅니다. 우리는 불가능을 해낼 수 있는 영웅이 필요합니다: 그의 힘의 원천인 수르트의 왕관을 그에게서 빼앗아야 합니다. 이 도전을 시도할 용감한 영혼에게 행운을 빕니다.||Dans le royaume du feu et de la lave se tient [c_red]Surt[c_reset], à jamais enchaîné à son royaume à [c_aqua]Muspelheim[c_reset]. Depuis des lustres, il est en sommeil, transformé en statue d'obsidienne qui ne laisse s'exprimer qu'une fraction de son âme flamboyante. Mais quelque chose se passe, des signes indiquent qu'il se réveille. Nous avons besoin d'un héros capable de réaliser l'impossible : lui retirer la [c_yellow]Couronne de Surt[c_reset], qui est la source de son pouvoir. Bonne chance à l'âme courageuse qui tentera l'aventure.
+|||||||||
+quest_name_444|Grim Skull ||Crânio Sinistro|Мрачный Череп |||그림 스컬||Crâne sinistre
+quest_description_444|Find the mystical skull in Niflhel.||Encontre a caveira mística em Niflhel.|Найдите мистический череп в Нифльхеле.|||니플헬에서 신비한 해골을 찾아라.||Trouvez le crâne mystique à Niflhel.
+quest_objective_444_1|Skull collected||Caveira coletada|Собранный череп|||해골 수집됨||Crâne collecté
+quest_dialog_444|There is an old tale of a great and respected warrior who lost his life and was sent to Niflhel to rot. His skull is rumored to be somewhere in there collected by the legendary beast Grimbone and it’s said to hold some mystical powers. Find the skull and return it here, perhaps we would find some use for it. ||Há uma antiga história de um grande e respeitado guerreiro que perdeu a vida e foi enviado a Niflhel para apodrecer. Há rumores de que seu crânio esteja em algum lugar lá, coletado pela lendária fera Grimbone, e dizem que ele possui alguns poderes místicos. Encontre o crânio e devolva-o aqui, talvez encontremos algum uso para ele.|Есть старая история о великом и уважаемом воине, который расстался с жизнью и был отправлен гнить в Нифльхель. Ходят слухи, что его череп находится где-то там, собранный легендарным зверем Гримбоном, и, как говорят, в нем заключены какие-то мистические силы. Найдите череп и верните его сюда, возможно, мы найдем ему какое-то применение. |||위대한 전사에 대한 오래된 이야기가 있습니다. 그 전사는 목숨을 잃고 Niflhel로 보내져 썩어갔습니다. 그의 두개골은 전설적인 괴물 Grimbone에 의해 수집되었고, 신비한 힘을 지니고 있다고 합니다. 두개골을 찾아서 이곳으로 가져오세요. 아마도 그것을 사용할 방법을 찾을 수 있을 것입니다.||Une vieille histoire raconte qu'un héros prestigieux a perdu la vie et a été envoyé à Niflhel pour y croupir. On dit que son crâne se trouve quelque part, collecté par la bête légendaire Grimbone, et qu'il renferme des pouvoirs mystiques. Trouvez le crâne et ramenez-le ici, nous pourrons peut-être l'utiliser.
+|||||||||
+quest_name_445|WANTED: Xor||PROCURADO: Xor|Ежедневная Охота|||수배: Xor||Chasse quotidienne
+quest_description_445|Use Pulser to find Xor in Event Horizon and kill him.||Use o Pulsador para encontrar Xor no Horizonte de Eventos|Найдите [daily_hunt_enemy] в Act [daily_hunt_act].|||펄서를 사용하여 이벤트 호라이즌에서 Xor를 찾아 처치하세요.||Trouvez [daily_hunt_enemy] dans l'acte [daily_hunt_act].
+quest_objective_445_1|Xor dead||Xor morto|[ежедневная охота на врага] убит|||Xor 사망||[daily_hunt_enemy] tué
+quest_dialog_445|WANTED: XOR. An inter dimensional mercenary called Xor is wanted dead! A recent sighting has confirmed that he is indeed hiding somewhere in the Event Horizon. Take the Pulser, use it to find him and kill him.||PROCURA-SE: XOR. Um mercenário interdimensional chamado Xor é desejado morto! Um avistamento recente confirmou que ele está de fato escondido em algum lugar do Horizonte de Eventos. Pegue o Pulsador, use-o para encontrá-lo e matá-lo.|РАЗЫСКИВАЕТСЯ: [daily_hunt_enemy], за преступления против человечности и королевства Таретиэль. Последний раз видели в действии [daily_hunt_act]. Награда за доказательство гибели.|||수배: XOR. 차원 간 용병인 Xor이 사망한 채로 수배 중입니다! 최근 목격 정보에 따르면 그는 이벤트 호라이즌 어딘가에 숨어 있는 것이 확인되었습니다. 펄서를 가져가서 그를 찾아내고 처치하세요.||RECHERCHÉ : [daily_hunt_enemy], pour crimes contre l'humanité et le royaume de Tarethiel. Vu pour la dernière fois dans l'Acte [daily_hunt_act]. Récompense pour preuve de sa mort.
+|||||||||
+quest_name_446|Anita’s Amulet||Amuleto de Anita||||아니타의 부적||
+quest_description_446|Find Anita’s amulet in the Sea of Karponia||Encontre o amuleto de Anita no Mar de Karponia||||카르포니아 해에서 아니타의 부적을 찾아라||
+quest_objective_446_1|Amulet found||Amuleto encontrado||||||
+quest_dialog_446|Hey there, stranger! I am Anita, from Danethrope. I was on a visit in the east, Shujo Retreat, and when swimming in the ocean I got attacked by a bunch of Piranhas. When I swam to safety one of those pesky little fishes grabbed and possibly ate my Amulet. It is really important to me. I will pay you handsomely if you can find it!||Olá, estranho! Eu sou Anita, de Danethrope. Eu estava em uma visita ao leste, no Retiro de Shujo, e quando estava nadando no oceano fui atacada por um bando de piranhas. Quando nadei para me salvar, um desses peixinhos irritantes agarrou e possivelmente comeu meu amuleto. Ele é muito importante para mim. Eu lhe pagarei muito bem se você conseguir encontrá-lo!||||안녕하세요, 낯선 사람! 저는 다네스로프에서 온 아니타입니다. 저는 동쪽의 슈조 리트리트에 방문 중이었고, 바다에서 수영하다가 피라냐 무리에게 공격을 당했습니다. 안전한 곳으로 헤엄쳐 나왔을 때, 그 성가신 작은 물고기 중 하나가 제 부적을 잡아먹었을 가능성이 있습니다. 그 부적은 저에게 정말 중요합니다. 만약 그것을 찾아주신다면, 후하게 보상해드리겠습니다!||
+|||||||||
+quest_name_447|Awful Abominations||Abominações Horrendas||||끔찍한 괴물들||
+quest_description_447|Clear Abomination events||Limpe eventos de Abominação||||혐오 이벤트 클리어||
+quest_objective_447_1|Colossal chests opened||Baús colossais abertos||||거대한 상자 열림||
+quest_dialog_447|Gar Nor here! I need a strong and heroic adventurer to put a stop to those colossal monsters! If you are up for it I will give you an additional reward on top of whatever you find when searching and slaying these foul creatures!||Gar Nor aqui! Preciso de um aventureiro forte e heroico para acabar com esses monstros colossais! Se você estiver disposto a isso, eu lhe darei uma recompensa adicional além do que você encontrar ao procurar e matar essas criaturas imundas!||||여기 가르 노르! 이 거대한 괴물들을 막아줄 강하고 영웅적인 모험가가 필요해! 만약 네가 준비가 되어 있다면, 이 더러운 생물들을 찾아서 처치하는 동안 발견하는 것 외에 추가 보상을 줄게!||
+|||||||||
+quest_name_448|To The Tower!||Para a Torre!||||탑으로!||
+quest_description_448|Clear a Chaos Tower||Limpe uma Torre do Caos||||혼돈의 탑 정리||
+quest_objective_448_1|Chaos Tower cleared||Torre do Caos concluída||||혼돈의 탑 클리어||
+quest_dialog_448|Um here! Please, any Hero in Tarethiel reading this. I need [c_yellow]YOUR[c_reset] help. At some point, these walking Towers emerged from the Chaos to cause havoc in Tarethiel. Me and Mayor Kukkonen tried to find a way to destroy one, but got sucked into it and I barely got out alive. Kukkonen is still in there! Help me cleanse these Chaos Towers once and for all!||Um aqui! Por favor, para qualquer Herói em Tarethiel lendo isso, Eu preciso [c_yellow]DA SUA[c_reset] ajuda. Em algum momento, estas Torres ambulantes emergiram do Caos para causar destruição em Tarethiel. Eu e o Prefeito Kukkonen tentamos achar uma forma de destruir uma, mas ele foi puxado para dentro de uma e eu quase não sai vivo. Kukkonen ainda está lá! Me ajude a limpar estas Torres do Caos de uma vez por todas!||||여기요! 이걸 읽고 있는 Tarethiel의 영웅님, 제발 [c_yellow]당신의[c_reset] 도움이 필요해요. 어느 순간, 이 걷는 탑들이 혼돈에서 나타나 Tarethiel에 파괴를 일으켰어요. 저와 시장 Kukkonen은 하나를 파괴할 방법을 찾으려 했지만, 그 안으로 빨려 들어가 거의 살아나오지 못했어요. Kukkonen은 아직 그 안에 있어요! 이 혼돈의 탑들을 완전히 정화하는 것을 도와주세요!||
+|||||||||
+quest_name_449|Njal Must Die!||Njal Deve Morrer!||||니얄은 죽어야 한다!||
+quest_description_449|Find and Kill Njal in the Snowy Mountains||Encontre e Mate Njal nas Montanhas Nevadas||||눈 덮인 산에서 니얄을 찾아 처치하세요||
+quest_objective_449_1|Njal slain||Njal morto||||Njal 사망||
+quest_objective_449_2|Njal’s head||Cabeça de Njal||||||
+quest_dialog_449|An evil warrior named Njal has been a continuous threat to the people of Danethrope. He has been spotted in the Snowy Mountains just now. Please find him and kill him! Bring his head as proof for the bounty.||Um guerreiro maligno chamado Njal tem sido uma ameaça constante para o povo de Danethrope. Ele foi visto nas Montanhas Nevadas agora mesmo. Por favor, encontre-o e mate-o! Traga a cabeça dele como prova para a recompensa.||||Njal이라는 사악한 전사가 Danethrope 사람들에게 지속적인 위협이 되고 있습니다. 그는 방금 눈 덮인 산맥에서 목격되었습니다. 그를 찾아 죽여주세요! 현상금을 위해 그의 머리를 증거로 가져오세요.||
+|||||||||
+quest_name_450|Security Measures||Medidas de Segurança||||보안 조치||
+quest_description_450|Repair a beacon in each act and activate the system in Dhorn Farum||Repare um sinalizador em cada ato e ative o sistema em Dhorn Farum||||각 행위에서 비콘을 수리하고 Dhorn Farum에서 시스템을 활성화하세요||
+quest_objective_450_1|The Pumpkin Patch beacon repaired||Farol do Canteiro de Abóboras reparado||||호박밭 비콘 수리 완료||
+quest_objective_450_2|The Glacial Trail beacon repaired||Farol da Trilha Glacial reparado||||빙하 길 비콘 수리됨||
+quest_objective_450_3|Dry Hills beacon repaired||Farol das Colinas Secasl reparado||||건조한 언덕의 신호기 수리됨||
+quest_objective_450_4|The Devil's Breach beacon repaired||Farol da Fenda do Diabo reparado||||악마의 틈새 신호기 수리 완료||
+quest_objective_450_5|Mt. Fuji beacon repaired||Farol do Mt. Fuji reparado||||후지산 신호등 수리 완료||
+quest_objective_450_6|Highland Graveyard beacon repaired||Farol do Cemitério das Terras Altas reparado||||하이랜드 묘지 신호등 수리 완료||
+quest_objective_450_7|Parallel Dimension beacon repaired||Farol da Dimensão Paralela reparado||||평행 차원 비콘 수리됨||
+quest_objective_450_8|Security system re-activated||Sistema de segurança reativado||||보안 시스템이 다시 활성화되었습니다||
+quest_dialog_450|Um here! The dwarven made security beacons which help us anticipate upcoming threats all over Tarethiel are in desperate need of repair. Please do the repairs and turn the system back on in Dhorn Farum!||Um aqui! Os sinalizadores de segurança feitos pelos anões, que nos ajudam a prever ameaças futuras em toda Tarethiel, precisam desesperadamente de reparos. Por favor, faça os reparos e ligue o sistema novamente em Dhorn Farum!||||여기요! 타레티엘 전역의 위협을 예상하는 데 도움을 주는 드워프가 만든 보안 비콘들이 절실히 수리가 필요합니다. 수리를 하고 다시 시스템을 드혼 파룸에서 켜주세요!||
+|||||||||
+quest_name_451|Hellpiercer||Operador do Inferno||||헬피어서||
+quest_description_451|Collect the explosives from Old Mining Village, get the detonator from Dr. Tinker Dink and sabotage the Steam Train||Colete os explosivos da Velha Aldeia de Mineração, obtenha o detonador do Dr. Tinker Dink e sabote o Trem a Vapor||||구 광산 마을에서 폭발물을 수집하고, Dr. Tinker Dink에게서 기폭 장치를 받아 증기 기관차를 파괴하십시오.||
+quest_objective_451_1|Explosives collected||Explosivos coletados||||폭발물 수집됨||
+quest_objective_451_2|Detonator acquired||Detonador adquirido||||기폭 장치 획득||
+quest_objective_451_3|Explosives placed||Explosivos posicionados||||폭발물 배치 완료||
+quest_objective_451_4|Explosives detonated||Explosivos detonados||||폭발물이 폭발했습니다||
+quest_dialog_451|Help wanted! This is Dr. Tinker Dink. The Steam Train has become a problem, transporting hellish creatures and resources for the evil forces of Tarethiel at an unprecedented rate. We need to sabotage the train to stop it or at least slow it down! Collect five sets of explosives from the Old Mining Village and meet me! I'll give you the detonator. Then go to the Steam Train and blow the sucker to a halt! I hope to talk to you soon, adventurer!||Precisa-se de ajuda! Aqui é o Dr. Tinker Dink. O Trem a Vapor se tornou um problema, transportando criaturas infernais e recursos para as forças malignas de Tarethiel em uma velocidade sem precedentes. Precisamos sabotar o trem para pará-lo ou, pelo menos, desacelerá-lo! Colete cinco conjuntos de explosivos na Velha Aldeia de Mineração e venha me encontrar! Eu lhe darei o detonador. Em seguida, vá até o trem a vapor e exploda o trem! Espero falar com você em breve, aventureiro!||||도움이 필요합니다! 저는 Dr. Tinker Dink입니다. 증기 기관차가 문제가 되고 있습니다. 이 기차는 지옥의 생물들과 자원을 Tarethiel의 악의 세력에게 전례 없는 속도로 운송하고 있습니다. 우리는 이 기차를 멈추거나 적어도 느려지게 하기 위해 파괴해야 합니다! 구 광산 마을에서 다섯 세트의 폭발물을 모아서 저를 만나세요! 제가 당신에게 기폭 장치를 드리겠습니다. 그런 다음 증기 기관차로 가서 그 녀석을 폭파하여 멈추게 하세요! 곧 당신과 이야기할 수 있기를 바랍니다, 모험가님!||
+tinker_hellpiercer_dialog|Ah, nice to see you [heroname]! So you are the one who wants to help me? Great! Here is the detonator. It has an 8 second timer, so when you place it and turn it on, [shake_letter]RUN![shake_reset] Good luck!||Ah, prazer em vê-lo [heroname]! Então é você quem quer me ajudar? Ótimo! Aqui está o detonador. Ele tem um cronômetro de 10 segundos, portanto, quando você colocá-lo e ligá-lo, [shake_letter]CORRA![shake_reset] Boa sorte!||||아, 반가워요 [heroname]! 당신이 나를 도와주려는 사람이군요? 좋아요! 여기 기폭장치가 있어요. 8초 타이머가 있으니, 설치하고 작동시키면, [shake_letter]달려요![shake_reset] 행운을 빌어요!||
+quest_train_bomb_run|I would [shake_letter][c_red]RUN[c_reset][shake_reset] if I were you!||Eu [shake_letter][c_red]CORRERIA[c_reset][shake_reset] se fosse você!||||내가 너라면 [shake_letter][c_red]뛰어[c_reset][shake_reset]!||
+|||||||||
+quest_name_452|The False Prophet Defenestration||A Defenestração do Falso Profeta||||거짓 예언자의 창문 밖으로 던지기||
+quest_description_452|Talk to Magister Kujala and complete his task.||Fale com o Magister Kujala e conclua a tarefa dele.||||||
+quest_objective_452_1|The true nature of the assignment discovered||A verdadeira natureza da tarefa descoberta||||임무의 진정한 본질이 밝혀졌다||
+quest_objective_452_2|Luthor thrown out of Cathedral window||Luthor arremessado pela janela da Catedral||||루터가 성당 창문 밖으로 던져졌다||
+quest_dialog_452|Looking for a righteous adventurer ready to help me with an urgent issue. I rather not write here about the nature of this task. Should you be interested come talk to me directly for further instructions![nl]- Magister Kujala||Estou procurando um aventureiro honrado que esteja pronto para me ajudar com um problema urgente. Prefiro não escrever aqui sobre a natureza desta tarefa. Se você estiver interessado, fale comigo diretamente para obter mais instruções![nl]- Magister Kujala||||정의로운 모험가를 찾고 있습니다. 급한 문제를 도와줄 준비가 된 분을 찾습니다. 이 작업의 성격에 대해서는 여기서 쓰지 않겠습니다. 관심이 있으시면 직접 저에게 와서 추가 지시를 받으세요![nl]- 마지스터 쿠잘라||
+|||||||||
+|||||||||
+quest_name_475|Mysterious Key||Chave Misteriosa||||수수께끼의 열쇠||
+quest_description_475|Use the key somewhere in Dhorn Farum||Use a chave em algum lugar de Dhorn Farum||||어딘가에서 Dhorn Farum의 열쇠를 사용하세요||
+quest_objective_475_1|Keyhole found||Buraco de fechadura encontrado||||열쇠 구멍 발견||
+|||||||||
+quest_name_476|The Book of Soulforge – page 11||O Livro da Forja da Alma – Página 11|Таинственный Фрагмент|||소울포지의 책 – 페이지 11||Fragment mystérieux
+quest_description_476|Slay Gurag and find the page 11 of the Book of Soulforge.||Mate Gurag e encontre a página 11 do Livro da Forja da Alma.|Похоже, это то, чего вы хотели бы|||구라그를 처치하고 소울포지의 책 11페이지를 찾아라.||Je crois que Örre aimerait bien ça
+quest_objective_476_1|Book of Soulforge page collected||Página do Livro da Forja da Alma coletada|Найди Эрре , кузнеца|||||Trouver Örre le forgeron
+|||||||||
+quest_name_477|The Book of Soulforge – page 12||O Livro da Forja da Alma – Página 12|Потрясающая печатка – часть 1|||소울포지의 책 – 페이지 12||Le sceau grandiose - partie 1
+quest_description_477|Defeat Reaper and find the page 12 of the Book of Soulforge.||Mate o Ceifador e encontre a página 12 do Livro da Forja da Alma.|Найди Фрагменты Радуги|||||Collectez beaucoup de braggite.
+quest_objective_477_1|Book of Soulforge page collected||Página do Livro da Forja da Alma coletada|Собранные фрагменты|||영혼의 대장장이 책 페이지 수집됨||Braggite collectée
+|||||||||
+quest_name_478|The Book of Soulforge – page 13||O Livro da Forja da Alma – Página 13|Потрясающая печатка - часть 2|||소울포지의 책 - 페이지 13||Le sceau grandiose - partie 2
+quest_description_478|Find and help Hurnir inside the Pyramid and retrieve the missing page.||Encontre e ajude Hurnir dentro da Pirâmide e recupere a página perdida.|Собирайте Эссенции Богов у боссов.|||피라미드 안에서 흐르니르를 찾아 도와주고 잃어버린 페이지를 회수하세요.||Récupérez de l'essence des dieux sur les boss.
+quest_objective_478_1|Find and help Hurnir||Encontre e ajude Hurnir|Сущность богов , собранная|||흐르니르를 찾아서 도와주세요||Essence des dieux collectée
+quest_objective_478_2|Defeat Anubis and collect page 13||Derrote Anubis e colete a página 13||||아누비스를 물리치고 페이지 13을 수집하세요||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+quest_name_479|The Book of Soulforge – page 14||O Livro da Forja da Alma – Página 14|Потрясающая печатка - часть 3|||영혼 대장간의 책 – 페이지 14||Le sceau grandiose - partie 3
+quest_description_479|Find page 14 in The Altar of Lost Souls.||Encontre a página 14 no Altar das Almas Perdidas.|Найдите желаемый Удивительный Драгоценный камень.|||||Trouvez la gemme grandiose de votre choix.
+quest_objective_479_1|Book of Soulforge page collected||Página do Livro da Forja da Alma coletada|Собранный драгоценный камень|||영혼 제련서 페이지 수집됨||Gemme collectée
+|||||||||
+quest_name_480|The Book of Soulforge – page 15||O Livro da Forja da Alma – Página 15||||소울포지의 책 – 페이지 15||
+quest_description_480|Gut King Karp at the Emperor's Chamber and collect the page 15.||Estripe o Rei Carpa na Câmara do Imperador e colete a página 15.||||황제의 방에서 카프 왕을 해체하고 페이지 15를 수집하세요.||
+quest_objective_480_1|Book of Soulforge page collected||Página do Livro da Forja da Alma coletada||||소울포지의 책 페이지 수집됨||
+|||||||||
+quest_name_481|The Book of Soulforge – page 16||O Livro da Forja da Alma – Página 16||||영혼의 대장간의 책 – 페이지 16||
+quest_description_481|Defeat Satan in the Seventh Layer of Hell and collect the last page of the Book of Soulforge.||Derrote Satã na Sétima Camada do Inferno e colete a última página do Livro da Forja das Almas.||||지옥의 일곱 번째 층에서 사탄을 물리치고 영혼의 대장간 책의 마지막 페이지를 수집하세요.||
+quest_objective_481_1|Book of Soulforge page collected||Página do Livro da Forja da Alma coletada||||영혼제작서 페이지 수집 완료||
+|||||||||
+quest_name_482|Essential Essence||Essência Essencial||||본질의 정수||
+quest_description_482|Obtain Soul Essence by slaying creatures and monsters.||Obtenha Essência das Almas matando criaturas e monstros.||||생물과 몬스터를 처치하여 영혼 정수를 획득하세요.||
+quest_objective_482_1|Soul essence collected||Essência da Alma coletada||||영혼 정수 수집됨||
+|||||||||
+quest_name_483|Seething Souls||Almas Agitadas||||||
+quest_description_483|Obtain Souls of fallen warriors from piles.||Obtenha Almas de guerreiros caídos de pilhas.||||쓰러진 전사들의 영혼을 더미에서 획득하십시오.||
+quest_objective_483_1|Warrior souls||Almas de Guerreiro||||전사의 영혼||
+|||||||||
+[HS 2.0 ACT SIDEQUESTS]|||||||||
+|||||||||
+quest_name_500|Pest Control||Controle de Pragas|Борьба с вредителями|||||Lutte contre les nuisibles
+quest_description_500|Find and kill Fragrat in Rat Den||Encontre e Mate Fragrat na Toca de Ratos|Найди и убей Аромата в Крысином Логове|||쥐 소굴에서 프래그랫을 찾아 처치하세요||Trouver et tuer Fragrat dans le repaire des rats
+quest_objective_500_1|Fragrat slain||Fragrat morto|Аромат убит|||Fragrat 처치됨||Fragrat tué
+|||||||||
+|||||||||
+quest_name_501|Hunger Issue||Problemas de Fome|Проблема голода|||배고픔 문제||Lutte contre la faim
+quest_description_501|Collect ingredients to the maggot stew and cook it||Colete os ingredientes para o ensopado de larvas e cozinhe-o|Соберите ингредиенты для тушения личинок и приготовьте его|||재료를 모아 구더기 스튜를 요리하세요||Récupérez les ingrédients du ragoût d'asticots et faites-le cuire.
+quest_objective_501_1|Maggots collected||Larvas coletada|Собранные личинки|||구더기 수집됨||Asticots collectés
+quest_objective_501_2|Crimson Pumpkins harvested||Abóboras Carmesim colhidas|Собранные малиновые Тыквы|||수확한 진홍색 호박||Citrouilles cramoisies récoltées
+quest_objective_501_3|Maggot stew cooked||Ensopado de larvas cozinhado|Тушеная личинка , приготовленная|||구더기 스튜 요리됨||Ragoût d'asticots cuit
+|||||||||
+quest_name_502|Murder of Crows||Murder of Crows|Убийство ворон|||까마귀의 살인||Meurtre de corbeaux
+quest_description_502|Head into the Black Tower and bring Ahriman the head of Commander Albert, then head to the Northern Post and find his spellbook.||Vá até a Torre Negra e traga para Ahriman a cabeça do Comandante Albert, então vá até o Posto do Norte e encontre seu livro de feitiços|Найди книгу заклинаний Аримана в подземелье Гурага|||검은 탑으로 가서 아리만에게 알버트 사령관의 머리를 가져오고, 북쪽 초소로 가서 그의 주문서를 찾아라.||Trouvez le livre de sorts d'Ahriman dans le donjon de Gurag.
+quest_objective_502_1|Spellbook found||Livro de feitiços encontrado|Найдена Книга заклинаний|||||Livre de sorts trouvé
+quest_objective_502_2|Commander Albert's Head||Cabeça do Comandante Albert||||알버트 사령관의 머리||
+|||||||||
+quest_name_503|Help Anita||Ajude Anita|Помоги Аните|||||Aidez Anita
+quest_description_503|Collect ginseng plants||Colete plantas de Ginseng|Соберите растения женьшеня|||인삼 식물 수집||Récolter des racines de ginseng
+quest_objective_503_1|Ginseng collected||Ginseng coletado|Собранный женьшень|||||Ginseng collecté
+|||||||||
+quest_name_504|Lost Belongins||Pertences Perdidos|Потерянные Вещи|||잃어버린 소지품||Affaires égarées
+quest_description_504|Find Anita's Herbs||Encontre as ervas de Anita|Найди Травы Аниты|||아니타의 허브를 찾아라||Trouver les herbes d'Anita
+quest_objective_504_1|Herb Pouch||Bolsa de Ervas|Мешочек с Травами|||허브 주머니||Pochette d'herbes
+quest_objective_504_2|Frost Dill||Dill Congelado|Замороженный Укроп|||냉동 딜||Aneth givré
+quest_objective_504_3|Loska||Loska|Лоска|||||Loska
+quest_objective_504_4|Vermroot||Vermroot|Вермут|||버뮤트||Racine de Verm
+quest_objective_504_5|Fanglen||Fanglen|Фанглен|||||Fanglen
+|||||||||
+quest_name_505|The Revenant||O Revenã|Выживший|||레버넌트||The Revenant
+quest_description_505|Track and kill Carnage at the Glacial Trail||Rastreie e mate a Carnificina na Trilha Glacial|Выслеживайте и убивайте Карнажа на Ледниковой тропе|||빙하의 길에서 카니지를 추적하고 처치하세요||Traquez et tuez Carnage sur la piste glaciaire
+quest_objective_505_1|Track Carnage||Carnificina rastreado|Трек Carnage ( Бойня )|||트랙 카니지||Pister Carnage
+quest_objective_505_2|Kill Carnage||Mate Carnificina|Убить Бойню|||||Tuer Carnage
+quest_objective_505_3|Skin Carnage's hide||Esfole pele de Carnificina|Шкура Карнажа шкура Карнажа|||||Dépiauter Carnage
+|||||||||
+quest_name_506|Whip It Good||Bate bem|Взбейте Это Хорошенько|||||Bien fouetter
+quest_description_506|Find Jasper's whip at Mos'Arathim Desert||Encontre o chicote de Jasper no Deserto de Mos’Arathim|Найди хлыст Джаспера в пустыне Мосаратим|||모스아라팀 사막에서 재스퍼의 채찍을 찾으세요||Trouvez le fouet de Jasper dans le désert de Mos'Arathim.
+quest_objective_506_1|Whip collected||Chicote coletado|Собранный хлыст|||채찍 획득||Fouet collecté
+|||||||||
+quest_name_507|We Are Gonna Be Rich!||Nós Vamos Ficar Ricos!|Мы собираемся Разбогатеть!|||우리는 부자가 될 거야!||Nous allons être riches !
+quest_description_507|Find the Ancient Map in Cauflax Tomb||Encontre o mapa antigo na Tumba de Cauflax|Найдите Древнюю карту в гробнице Кауфлакса|||카우플락스 무덤에서 고대 지도를 찾으세요||Trouvez l'ancienne carte dans la tombe de Cauflax
+quest_objective_507_1|Map found||Mapa encontrado|Найденная карта|||지도 발견||Carte trouvée
+|||||||||
+quest_name_508|Raider of the Lost Staff||Incursor do Cajado Perdido|Налетчик на Потерянный Посох|||잃어버린 지팡이의 약탈자||A la recherche du bâton perdu
+quest_description_508|Find Staff of Anubis inside Mysterious Pyramid||Encontre o Cajado de Anubis dentro da Piramide Misteriosa|Найдите Посох Анубиса внутри Таинственной Пирамиды|||신비한 피라미드 안에서 아누비스의 지팡이를 찾으세요||Trouver le bâton d'Anubis dans la mystérieuse pyramide
+quest_objective_508_1|Staff found||Cajado encontrado|Персонал , найденный|||||Bâton trouvé
+|||||||||
+quest_name_509|Devil's Cabbage||Repolho do Diabo|Дьявольская капуста|||악마의 양배추||Marie-jeanne
+quest_description_509|Collect herbs for Ragnar in Old Copper Mine||Colete ervas para Ragnar na Antiga Mina de Cobre|Собирайте травы для Рагнара в Старом Медном руднике|||오래된 구리 광산에서 라그나르를 위해 약초를 모으세요||Aider Ragnar a retrouver Marie-jeanne dans l'ancienne mine de cuivre.
+quest_objective_509_1|Devil's Cabbage collected||Repolho do Diabo coletado|Собранная Дьявольская капуста|||악마의 양배추 수집됨||Marie-jeanne retrouvée
+|||||||||
+quest_name_510|Search for Hurrdurr – part 1||Busca por Hurrdurr – parte 1|Поиск Hurrdurr – часть 1|||Hurrdurr 찾기 – 1부||Recherche de Hurrdurr - partie 1
+quest_description_510|Find out what happened to Hurrdurr||Descubra o que aconteceu com Hurrdurr|Узнай , что случилось с Хуррдурром|||허르더에게 무슨 일이 일어났는지 알아보세요||Découvrez ce qui est arrivé à Hurrdurr
+quest_objective_510_1|Abandoned Mine searched||Mina Abandonada procurada|Обыскана заброшенная Шахта|||버려진 광산 조사 완료||Mine abandonnée fouillée
+|||||||||
+quest_name_511|Search for Hurrdurr – part 2||Busca por Hurrdurr – parte 2|Поиск Hurrdurr – часть 2|||Hurrdurr 찾기 – 2부||Recherche de Hurrdurr - partie 2
+quest_description_511|Find Hurrdurr in Damien's Altar||Encontre Hurrdurr no Altar de Damien|Найди Хуррдурра на Алтаре Дэмиена|||데미안의 제단에서 허르두르를 찾아라||Trouver Hurrdurr dans l'autel de Damien
+quest_objective_511_1|Hurrdurr located||Hurrdurr localizado|Хуррдурр находится|||허르더 위치 확인||Hurrdurr localisé
+quest_objective_511_2|Knights defeated||Cavaleiros derrotados|Побежденные рыцари|||기사들이 패배했다||Chevaliers vaincus
+quest_objective_511_3|Hurrdurr raptured||Hurrdurr arrebatado|Хуррдурр в восторге|||Hurrdurr 휴거||Hurrdurr sauvé
+|||||||||
+quest_name_512|Bamboozled||Enganado|Одураченный|||||Bambobiner
+quest_description_512|Gather materials for fishing equipment||Reúna materiais para equipamentos de pesca|Соберите материалы для рыболовных снастей|||낚시 장비를 위한 재료 모으기||Rassembler les matériaux pour l'équipement de pêche
+quest_objective_512_1|Bamboo sticks||Varas de bambu|Бамбуковые палочки|||대나무 막대기||Tiges de bambou
+quest_objective_512_2|Rod crafted||Vara criada|Изготовленный стержень|||||Canne à pêche fabriquée
+|||||||||
+quest_name_513|Hook on the Line||Anzol na Linha|Крючок на леске|||낚시줄에 걸린 갈고리||Hameçon sur la ligne
+quest_description_513|Find spiderwebs and a viable hook||Encontre teias de aranha e um gancho viável|Найдите паутину и надежный крючок|||거미줄과 사용할 수 있는 갈고리를 찾아라||Trouvez des toiles d'araignée et un hameçon viable
+quest_objective_513_1|Spiderwebs||Teias de aranha|Паутина|||거미줄||Toiles d'araignée
+quest_objective_513_2|Hook||Gancho|Крюк|||||L'hameçon
+|||||||||
+quest_name_514|Fish for the Greedy||Peixe para os Gananciosos|Рыба для жадных|||탐욕스러운 자를 위한 물고기||Pêche pour les gourmands
+quest_description_514|Find Aki in Temple of Zamjo and rescue him||Encontre Aki no Templo de Zamjo e salve-o|Найди Аки в Храме Замджо и спаси его|||잔조 사원에서 아키를 찾아 구출하라||Trouvez Aki dans le Temple de Zamjo et sauvez-le.
+quest_objective_514_1|King Tuna slain||King Tuna derrotado|Король Тунца убит|||킹 튜나 처치||Roi Thon tué
+quest_objective_514_2|Aki rescued||Aki salvo|Аки спасен|||아키 구조됨||Aki sauvé
+|||||||||
+quest_name_515|The Eternal Chalice||O Cálice Eterno|Вечная Чаша|||영원한 성배||Le calice éternel
+quest_description_515|Get the Eternal Chalice in the Steam Train||Pegue o Cálice Eterno no Trem a Vapor|Получите Вечную Чашу в Паровозе|||증기 기관차에서 영원한 성배를 얻으세요||Obtenez le calice éternel dans le train à vapeur.
+quest_objective_515_1|Eternal Chalice collected||Cálice Eterno coletado|Собранная Вечная Чаша|||영원한 성배 수집됨||Calice éternel collecté
+|||||||||
+quest_name_516|Souls of the Damned||Alma dos Condenados|Души проклятых|||저주받은 영혼들||Âmes des damnés
+quest_description_516|Harvest the souls in Prison, find a seal in Unmarked Graves and purify the souls||Colha as almas na Prisão, encontre um selo nas Sepulturas Não Marcadas e purifique as almas|Соберите души в Тюрьме, найдите печать в Безымянных Могилах и очистите души|||감옥에서 영혼을 수확하고, 이름 없는 무덤에서 봉인을 찾아 영혼을 정화하세요||Récoltez les âmes dans la prison, trouvez un sceau dans la tombe anonyme et purifiez les âmes.
+quest_objective_516_1|Souls harvested||Almas colhidas|Собранные Души|||수확된 영혼||Âmes récoltées
+quest_objective_516_2|Souls purified||Almas purificadas|Очищенные души|||||Âmes purifiées
+|||||||||
+|||||||||
+quest_name_517|Lilith||Lilith|Лилит|||릴리트||Lilith
+quest_description_517|...||…|...|||||...
+quest_objective_517_1|Kill Lilith||Mate Lilith|Убить Лилит|||릴리스를 죽여라||Tuer Lilith
+quest_objective_517_2|Lilith's Black Heart taken||Coração Negro de Lilith tomado|Черное Сердце Лилит забрано|||릴리스의 검은 심장 획득||Coeur noir de Lilith récupéré
+|||||||||
+quest_name_518|The Perfect Spot||O Lugar Perfeito|Идеальное Место|||||L'endroit parfait
+quest_description_518|Clear the area around Moira's telescope in Deep Space||Limpe a área em volta do telescópio de Moira no Espaço Profundo|Очистите область вокруг телескопа Мойры в Глубоком Космосе|||모이라의 망원경 주변을 정리하세요||Nettoyer la zone autour du télescope de Moira dans l'Espace profond.
+quest_objective_518_1|Area cleared||Área limpa|Территория очищена|||지역 정리됨||Zone dégagée
+|||||||||
+quest_name_519|Drink Tea||Beba Chá|Пейте чай|||차를 마시다||Boire du thé
+quest_description_519|Drink stardust infused tea||Beba Chá Infundido de Poeira Estelar|Пейте чай, настоянный на звездной пыли|||별가루가 든 차를 마시세요||Thé infusé à la poussière d'étoiles
+quest_objective_519_1|Tea drunk||Chá bebido|Чай выпит|||||Thé bu
+|||||||||
+quest_name_520|Stardust Poisoning||Intoxicação de Poeira Estelar|Отравление Звездной Пылью|||별가루 중독||Empoisonnement à la poussière d'étoiles
+quest_description_520|Find antidote in Distorted Horizons||Encontre o Antídoto nos Horizontes Distorcidos|Найдите противоядие в Искаженных Горизонтах|||왜곡된 지평선에서 해독제를 찾아라||Trouvez l'antidote dans l'horizon distordu.
+quest_objective_520_1|Antidote found||Antídoto encontrado|Найдено противоядие|||해독제 발견||Antidote trouvé
+quest_objective_520_2|Antidote consumed||Antídoto consumido|Потребленное противоядие|||해독제 사용됨||Antidote consommé
+|||||||||
+quest_name_521|The Bestest Tea||O Melhor Chá|Самый Лучший Чай|||최고의 차||Le meilleur thé
+quest_description_521|Find ingredients at the Parallel Dimension||Encontre Ingredientes nas Dimensões Paralelas|Найдите ингредиенты в Параллельном измерении|||평행 차원에서 재료를 찾아라||Trouver les ingrédients dans la dimension parallèle
+quest_objective_521_1|Cosmic Roots||Raízes Cósmicas|Космические Корни|||우주의 뿌리||Racines cosmiques
+quest_objective_521_2|Nebula Lily||Lírio de Nébula|Туманность Лилия|||성운 백합||Lys nébuleux
+quest_objective_521_3|Anti-matter shroom||Cogumelo Antimatéria|Помещение для хранения антивещества|||반물질 버섯||Champignon anti-matière
+quest_objective_521_4|Schrödinger's Cat||Gato de Schrödinger|Schrödinger's Cat|||슈뢰딩거의 고양이||Chat de Schrödinger
+|||||||||
+|||||||||
+[Additional side quests]|||||||||
+|||||||||
+quest_name_600|Olof’s Medicine||Remédio de Olof||||올로프의 약||
+quest_description_600|Find Olof’s medicine from an ice crack in Arctic Tundra||Encontre o remédio de Olof em uma rachadura de gelo na Tundra do Ártico||||북극 툰드라의 얼음 틈에서 올라프의 약을 찾아라||
+quest_objective_600_1|Medicine collected||Remédio coletado||||약품 수집 완료||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+[MAIN QUEST]|||||||||
+quest_name_1000|Corrupted Nature||Natureza Corrompida|Испорченная Природа|||부패한 자연||Nature corrompue
+quest_description_1000|Kill Scorchwood in the River of Inoya.||Mate Madeira Chamuscada no Rio de Inoya|Убейте Скорчвуда в реке Иноя.|||이노야 강에서 스코치우드를 처치하세요.||Tuez Bois brûlé dans la rivière d'Inoya.
+quest_objective_1000_1|Scorchwood killed||Madeira Chamuscada morto|Скорчвуд убит|||스코치우드 처치됨||Bois brûlé tué
+|||||||||
+quest_name_1001|Sarcaster's coffee beans|Sarcasterin kahvipavut|Os grãos de café de Sarcaster|Кофейные зерна Саркастера|萨卡斯特的咖啡豆|サーカスターのコーヒー豆|사캐스터의 커피  콩|Sarcasters Kaffeebohnen|Grains de café de Sarcaster
+quest_description_1001|Retrieve Sarcaster's coffee beans from the Waypoint in Outskirts of Inoya.|Hae Sarcasterin kahvipavut tason I alueen I reittipisteeltä.|Recupere os grãos de café de Sarcaster no Waypoint da Zona I do Act I.|Извлеките кофейные зерна Саркастера из путевой точки зоны I Act I.|从第一章第 I 幕的传送点取回萨卡斯特咖啡豆。|幕 I のゾーン I のボスからサーカスターのコーヒー豆を取り戻してください。|액트 I의 첫 번째 구역 보스에게서 사캐스터의 커피 콩을 되찾아오십시오!|Sammle Sarcasters Kaffeebohnen von Wegpunkt AKT I Zone I.|Récupérez les grains de café de Sarcaster au point de passage de l'Acte I de la Zone I.
+quest_objective_1001_1|Coffee beans retrieved.|Kahvipavut haettu.|Grãos de café recuperados.|Извлечены кофейные зерна.|已取得咖啡豆。|コーヒー豆が取り戻されました。|되찾은 커피 콩.|Kaffeebohnen gesammelt.|Grains de café récupérés.
+|||||||||
+quest_name_1002|Bricks.. So many Bricks|Tiiliä... Niin paljon tiiliä|Tijolos... Tantos tijolos|Кирпичи.. Так много кирпичей|砖块…好多砖块|レンガ…たくさんのレンガ|벽돌이.. 너무나 많네|Ziegel .. So viele Ziegel|Des briques. Tellement de briques
+quest_description_1002|Collect Bricks from destructible objects anywhere.|Kerää tiiliä laatikoista.|Colete tijolos de caixas.|Собирайте кирпичи из коробок.|从盒子里收集砖块。|箱からレンガを集めましょう。|상자에서 벽돌을 모으십시오.|Sammle Ziegel ??aus Kisten.|Collecter des briques dans des par ci, par là.
+quest_objective_1002_1|Bricks collected.|Tiiltä kerätty.|Tijolos coletados.|Собранные кирпичи.|已收集砖块。|レンガが集められました。|모은 벽돌.|Ziegel gesammelt.|Briques collectées.
+|||||||||
+quest_name_1003|Hot Water|Kuumaa vettä|Água Quente|горячая вода|热水|お湯|뜨거운 물|Heisses Wasser|Eau chaude
+quest_description_1003|Collect hot water from The Pumpkin Patch.|Kerää kuumaa vettä tason I alueelta III.|Colete água quente no Ato I Zona III.|Соберите горячую воду из зоны III действия I.|从章节I地区III收集热水。|幕 I のゾーン III からお湯を集めましょう。|액트 I의 세 번째 구역에서 뜨거운 물을 모으십시오.|Sammle heisses Wasser aus AKT I Zone III|Collectez de l'eau chaude aux Champs de citrouilles.
+quest_objective_1003_1|Hot water collected|Kuumaa vettä kerätty.|Água quente coletada.|Собранная горячая вода|已收集热水。|お湯が集められました。|모은 뜨거운 물.|Heisses Wasser gesammelt.|Eau chaude collectée
+quest_objective_1003_2|Kill the Colossal Pumpkin in Pumpkin Cellar||Mate a Abóbora Colossal no Porão de Abóboras||||호박 저장실에서 거대한 호박을 처치하세요||
+|||||||||
+quest_name_1021|Purging the Lands||Purgando as Terras|Очищение Земель|||땅 정화||Purger les contrées
+quest_description_1021|Collect body parts from monsters and bring them to Magister Kujala in the Fields of Battle.||Colete partes de corpo de monstros e traga-os para o Magister Kujala nos Campos de Batalha.|Собирайте части тел монстров и приносите их доктору Тинкердинку на полях сражений.|||몬스터의 신체 부위를 수집하여 전투의 들판에 있는 마지스터 쿠잘라에게 가져가세요.||Collectez des morceaux de corps sur les monstres et apportez-les au Magister Kujala dans les champs de bataille.
+quest_objective_1021_1|Body parts collected|Ruumiinosia kerätty|Partes do corpo coletadas|Собранные части тела|已收集身体部位|ボディパーツが集められました|모은 신체 조각|Koerperteile gesammelt|morceaux de corps collectées
+|||||||||
+quest_name_1022|Shock Therapy|Shokkiterapiaa|Terapia de Choque|Шоковая терапия|惊吓疗法|ショック・セラピー|충격 요법|Schocktherapie|Thérapie de choc
+quest_description_1022|Use the Shocker-3000 to shock monsters.|Käytä Sähkötin-3000 vihollisten sähkötykseen.|Use o Shocker-3000 para eletrocutar os inimigos.|Используйте Шокер-3000, чтобы шокировать монстров.|用惊吓者-3000惊吓敌人。|ショッカー-3000を使って敵に衝撃を与えてください。|적들에게 쇼커-3000을 사용하십시오.|Verwende den Shocker-3000, um Feinde zu schocken.|Utilisez le Choc-3000 pour choquer les monstres.
+quest_objective_1022_1|Enemies shocked|Vihollista sähkötetty|Inimigos eletrocutados|Враги в шоке|已惊吓敌人|敵が衝撃を受けました|충격받은 적.|Feinde geschockt|Ennemis choqués
+|||||||||
+quest_name_1023|Corruptor of the Forest|Metsän korruptoija|Corruptor da Floresta|Осквернитель леса|森林的腐化者|森の破壊者|숲 파괴자|Verderber des Waldes|Corrupteur de la forêt
+quest_description_1023|Find Gurag in King’s Throne and kill him! Report to Gunhild Yngouf in Danethorpe.||Encontre Gurag no Trono do Rei e mate-o! Reporte para Gunhild Yngouf em Danethorpe.|"Найди Гурага в ""Королевском троне"" и убей его! Явись к Гунхильд Ингуф в Данеторп."|||왕의 왕좌에서 구락을 찾아 죽이세요! 다네소프에서 군힐드 잉구프에게 보고하세요.||Trouvez Gurag dans la salle du throne et tuez-le ! Faites votre rapport à Gunhild Yngouf à Danethorpe.
+quest_objective_1023_1|Gurag slain|Gurag surmattu|Gurag morto|Гураг убит|已杀死古拉格|グラゴが殺されました|구라그 처치|Gurag getoetet|Gurag tué
+|||||||||
+quest_name_1024|Provide your aid||Forneça sua ajuda|Окажите свою помощь|||||Apportez votre aide
+quest_description_1024|Kill monsters in the lands of Danethorpe. Meet Halstein at the Chilling Lake to claim your reward.||Mate monstros nas terras de Danethorpe, encontre-se com Meet Halstein no Lago Gelado para receber sua recompensa.|Убивайте монстров на землях Дейнторпа. Встретьтесь с Халстейном у Леденящего озера, чтобы получить свою награду.|||다네소프 땅에서 몬스터를 처치하세요. 보상을 받기 위해 차가운 호수에서 할스테인을 만나세요.||Tuez des monstres dans les environs de Danethorpe. Retrouvez Halstein au lac gelé pour réclamer votre récompense.
+quest_objective_1024_1|Frost Goblins slain||Goblins de Gelo derrotados|Ледяные Гоблины убиты|||서리 고블린 처치||Gobelins de givre tués
+quest_objective_1024_2|Frost Skeletons slain||Esqueletos de Gelo derrotados|Убитые Ледяные Скелеты|||서리 해골 처치||Squelettes de givre tués
+quest_objective_1024_3|Frost Dragons slain||Dragões de Gelo derrotados|Ледяные Драконы убиты|||서리 드래곤 처치||Dragons de givre tués
+quest_objective_1024_4|Ice Elementals slain||Elementais de Gelo derrotados||||얼음 원소 처치||
+|||||||||
+quest_name_1025|Icy Enchanters|Jäiset lumoajat|Encantadores Gelados|Ледяные Чародеи|寒冰咏唱者|アイシーエンチャンター|냉기를 부르는 자|Eisige Zauberer|Enchanteurs de glace
+quest_description_1025|Interrupt frozen portals in Snowy Mountains and meet me at the entrance of the Glacial Trail!||Interrompa portais congelados em Montanhas Nevadas e encontre-me na entrada da Trilha Glacial!|Прервите работу замороженных порталов в Заснеженных горах и встретимся у входа на Ледниковую Тропу!|||눈 덮인 산맥에서 얼어붙은 포탈을 중단시키고 빙하 길 입구에서 나를 만나세요!||Interrompez les portails gelés dans les montagnes enneigées et retrouvez-moi à l'entrée de la piste glaciaire !
+quest_objective_1025_1|Portals interrupted|Portaalia estetty|Portais interrompidos|Прерванные порталы|已干扰传送门|ポータルが中断されました|닫은 포탈.|Portalebeschoerung unterbrochen|Portails interrompus
+|||||||||
+quest_name_1026|Death Itself|Itse kuolema|A Própria Morte|Сама Смерть|死亡本身|死そのもの|죽음 그 자체|Selbst ist der Tod|Mort elle-même
+quest_description_1026|Kill Grim Reaper in the Death’s Breach!|Surmaa Viikatemies tasossa II.|Mate o Ceifador na Fenda da Morte|Убейте Мрачного Жнеца Death's Breach!|杀死章节II的死神。|幕 II でグリム・リーパーを殺してください。|액트 II의사신을 처치하십시오.|Besiege den Sensenmann in AKT II.|Tuez la Faucheuse sinistre dans la brèche de la Mort !
+quest_objective_1026_1|Grim Reaper slain|Viikatemies surmattu|Ceifador morto|Мрачный Жнец убит|已杀死死神|グリム・リーパーが殺されました|사신 처치.|Sensenmann getoetet|Faucheuse sinistre tué
+|||||||||
+quest_name_1027|Save the Innocent!|Pelasta viattomat!|Salve os inocentes!|Спасите Невинных!|拯救无辜者！|無実な人たちを救え！|결백한 사람들 구하기!|Rette die Unschuldigen!|Sauvez les innocents !
+quest_description_1027|Escort prisoners to the Waypoint in the Corrupted Oasis.||||||죄수들을 부패한 오아시스의 웨이포인트로 호위하세요.||
+quest_objective_1027_1|Prisoners saved|Vankia pelastettu|Prisioneiros salvos|Спасенные заключенные|已拯救囚徒|囚人を救いました|구출한 죄수.|Gefangene gerettet|Prisonniers sauvés
+|||||||||
+quest_name_1028|Purify the sands of Mos’Arathim||Purifique as areais de Mos’Arathim|Очисти пески Мосаратхима|||모스아라팀의 모래를 정화하라||Purifiez les sables de Mos'Arathim
+quest_description_1028|Slay monsters around the desert and meet me in the second floor of the Pyramid.||Derrote monstros ao redor do deserto e encontre-me no segundo andar da Pirâmide.|Убивайте монстров по всей пустыне и встречайтесь со мной на втором этаже Пирамиды.|||사막 주변의 몬스터들을 처치하고 피라미드 2층에서 나를 만나세요.||Tuez des monstres dans le désert et retrouvez-moi au deuxième étage de la Pyramide.
+quest_objective_1028_1|Skeletons slain|Luurankoa surmattu|Esqueletos mortos|Убитые скелеты|已杀死骷髅|スケルトンが殺されました|처치한 해골|Skelette getoetet|Squelettes tués
+quest_objective_1028_2|Orcs slain|Örkkiä surmattu|Orcs mortos|Убитые орки|Orcs slain|Orcs slain||Orcs slain|Orques tués
+quest_objective_1028_3|Desert Beasts slain|Hiekkapetoja surmattu|Bestas do Deserto mortas|Звери пустыни убиты|已杀死沙漠野兽|砂漠の獣が殺されました|처치한 사막 야수|Wuestentiere getoetet|Bêtes du désert tuées
+quest_objective_1028_4|Sand Wasps slain|Hiekka-ampiaista surmattu|Vespas de Areia mortas|Песчаные осы убиты|已杀死沙漠黄蜂|砂のスズメバチが殺されました|처치한 모래 말벌|Sandwespen getoetet|Guêpes des sables tuées
+quest_objective_1028_5|Mummies slain|Muumiota surmattu|Múmias mortas|Убитые мумии|已杀死木乃伊|ミイラが殺されました|처치한 미라|Mumien toeten|Momies tuées
+quest_objective_1028_6|Shadow Anomalies slain|Varjo-olentoa surmattu|Anomalias das Sombras mortas|Теневые Аномалии уничтожены|已杀死阴影恶魔|影の異常が殺されました|처치한 그림자 이상|Shadow Anomalies getoetet|Anomalies de l'ombre tuées
+|||||||||
+quest_name_1029|Protector of Graves|Hautojen suojelija|Protetor de Sepulturas|Защитник могил|坟墓守护者|墓穴の守護者|무덤의 수호자|Beschuetzer des Pharaonengrabes|Protecteur des tombes
+quest_description_1029|Kill Anubis in the Tomb of the Fallen King!|Surmaa Anubis tasossa III.|Mate Anúbis na Tumba do Rei Caído!|Убейте Анубиса в Гробнице Павшего короля!|杀死章节III的阿努比斯。|幕 III でアヌビスを殺してください。|액트 III의 아누비스를 처치하십시오.|Toetet Anubis in AKT III.|Tuez Anubis dans la tombe du roi déchu !
+quest_objective_1029_1|Anubis slain|Anubis surmattu|Anúbis morto|Анубис убит|已杀死阿努比斯|アヌビスが殺されました|아누비스 처치.|Anubis getoetet|Anubis tué
+|||||||||
+quest_name_1030|Dungeon Master|Luolamestari|Mestre da Masmorra|Мастер Подземелья|Dungeon Master|Dungeon Master|던전 마스터|Dungeon Master|Maître du donjon
+quest_description_1030|Clear the Old Copper Mine nearby the Old Mining Village!||Limpe a Antiga Mina de Cobre perto da Antiga Vila Mineradora|Очистите Старый Медный рудник рядом со Старой Шахтерской деревней!|||근처의 오래된 광산 마을에 있는 오래된 구리 광산을 정리하세요!||Dégagez l'ancienne mine de cuivre près de l'ancien village minier !
+quest_objective_1030_1|Collector of Bones slain||Coletor de Ossos morto|Убитый Собиратель костей|||뼈 수집가 처치됨||Collectionneur d'os tué
+quest_objective_1030_2|Goblins Killed||Goblins derrotados||||고블린 처치||
+|||||||||
+quest_name_1031|Precious Equipment||Equipamento Precisoso||||귀중한 장비||
+quest_description_1031|Gather mining equipment and purge the undead from Highland Mines, bring the equipment to Thastun in the Corrupted Caves||Reúna equipamentos de mineração e elimine os mortos-vivos das Minas das Terras Altas, leve os equipamentos para Thastun nas Cavernas Corrompidas||||채굴 장비를 모아 고지대 광산의 언데드를 소탕하고, 장비를 타락한 동굴의 타스툰에게 가져가십시오||
+quest_objective_1031_1|Mining Equipment Retrieved||Equipamentos de Mineração Recuperados||||채굴 장비 회수됨||
+quest_objective_1031_2|Cave Slimes killed||Gosmas da Caverna mortos||||동굴 슬라임 처치||
+quest_objective_1031_3|Skull Crawlers killed||Caveiras Rastejantes mortos||||해골 크롤러 처치||
+|||||||||
+quest_name_1032|Prove Yourself|Näytä taitosi|Prove-se|Прояви Себя|证明自己|自分を証明する|네 자신을 증명하라|Sich selbst beweisen|Faites vos preuves
+quest_description_1032|Kill enemies with the Flail.|Surmaa vihollisia varstalla.|Mate inimigos com o Mangual.|Убивайте врагов Кистенем.|用连枷杀死敌人。|からざおを使って敵を殺してください。|철퇴로 적들을 처치하십시오.|Toete Feinde mit dem Dreschflegel.|Tuez des ennemis avec le fléau.
+quest_objective_1032_1|Enemies slain|Vihollista surmattu|Inimigos mortos|Враги убиты|已杀死敌人|敵が殺されました|처치한 적|Gegner getoetet|Ennemis tués
+|||||||||
+quest_name_1033|Demon´s Lair||Covil do Demônio||||||
+quest_description_1033|Find and kill the Damned Commander and slay his minions.||Encontre e mate o Comandante Maldito e elimine seus lacaios.||||저주받은 사령관을 찾아 처치하고 그의 부하들을 섬멸하라.||
+quest_objective_1033_1|Damned Commander killed||Comandante Maldito morto||||저주받은 지휘관 처치됨||
+quest_objective_1033_2|Enemies slain||Inimigos eliminados||||적 처치||
+|||||||||
+quest_name_1034|Damien, Son of Satan|Damien, Saatanan poika|Damien, filho de Satã|Дэмиен, Сын сатаны|达米安，撒旦之子|ダミアン、サタンの子|사탄의 아들, 데미언|Damien, Sohn Satans|Damien, fils de Satan
+quest_description_1034|Kill Damien in the Altar of Lost Souls!||Mate Damien no Altar das Almas Perdidas|Убейте Дэмиена на Алтаре Потерянных Душ!|||데미안을 잃어버린 영혼의 제단에서 처치하세요!||Tuez Damien dans l'autel des âmes perdues !
+quest_objective_1034_1|Damien slain|Damien surmattu|Damien morto|Дэмиен убит|已杀死达米安|ダミアンが殺されました|데미언 처치.|Damien wurde getoetet|Damien tué
+[KARP OF DOOM]|||||||||
+quest_name_1035|Corrupted Statues|Korruptoituneet patsaat|Estátuas Corrompidas|Испорченные Статуи|腐败的雕像|壊れた彫像|부패한 조각상|Verderbte Statuen|Statues corrompues
+quest_description_1035|Destroy corrupted statues and purge the infestation inside the Underground Gardens located in Misty Swamps.||Destrua as estátuas corrompidas e expurgue a infestação dentro dos Jardins Subterrâneos localizado no Pântano Enevoado||||안개 늪지대에 위치한 지하 정원에서 부패한 조각상을 파괴하고 내부의 감염을 정화하세요.||
+quest_objective_1035_1|Corrupted statues destroyed|Patsasta tuhottu|Estátuas corrompidas destruídas|Разрушенные испорченные статуи|损坏的雕像被摧毁|壊れた彫像が破壊された|타락한 조각상 파괴|Verderbte Statuen zerstört|Statues corrompues détruites
+quest_objective_1035_2|Garden Colossus slain||Colosso do Jardim derrotado||||정원 거인 처치||
+|||||||||
+quest_name_1036|Stop the Invasion|Pysäytä tunkeutujat|Pare a Invasão|Остановите Вторжение|阻止入侵|侵略を止める|침략을 중지|Stoppen Sie die Invasion|Arrêtez l'invasion
+quest_description_1036|Bomb the ships at the edge of Fuji Coast!|Pommita veneitä tason V alueen III laidalla.|Bombardeie os Navios nas bordas do Litoral de Fuji|Бомбите корабли на краю побережья Фудзи!|轰炸第五战 区边缘的船只。|幕 V ゾーン III の端に船を爆撃します。|액트 V 구역 III의 가장자리에서 배를 폭격.|Bombardieren Sie die Schiffe am Rande von Act V Zone III.|Bombarde les navires au bord de la côte de Fuji !
+quest_objective_1036_1|Ships sunk|Venettä upotettu|Navios afundados|Потопленные корабли|船舶沉没|沈没した船|선박 침몰|Schiffe versenkt|Navires coulés
+|||||||||
+quest_name_1037|We Feast on Fish|Kalasaalis|Nos Deliciamos com Peixes|Мы лакомимся Рыбой|我们吃鱼|魚を食べる|우리는 물고기를 잔치|Wir essen Fisch|Nous nous régalons de poissons
+quest_description_1037|Capture fishes with fish trap in the Sea of Karponia and  Temple of Zamjo.|Saalista kalaa kala-ansalla tason V alueella IV tai V.|Capture Peixes com Armadilhas no Mar de Karponia e Templo de Zamjo.|Ловите рыбу с помощью рыболовной ловушки в Карпонийском море и храме Замджо.|在第 V 区 IV 或 V 区使用诱捕 器捕获鱼类。|幕 V ゾーン IV または V のフィッシュ トラップで魚 を捕まえます。|행위 V 영역 IV 또는 V에서 물고기 함정으로 물고기를 잡습니다.|Fangen Sie Fische mit Fischfalle in Akt V Zone IV oder V.|Capturez des poissons à l'aide d'un piège à poissons dans la mer de Karponia et le temple de Zamjo.
+quest_objective_1037_1|Fishes captured|Kalaa|Peixes capturados|Пойманные рыбы|捕获的鱼|捕獲した魚|잡은 물고기|Fische gefangen|Poissons capturés
+|||||||||
+quest_name_1038|Sushi Time!|Sushi-aika!|Hora do Sushi!|Время суши!|寿司时间！|寿司タイム！|스시 시간!|Sushi-Zeit!|C'est l'heure des sushis !
+quest_description_1038|Kill Karp King in the Emperor’s Chamber!||Mate o Rei Carpa na Câmara do Imperador!|Убейте короля Карпов в покоях императора!|||황제의 방에서 잉어 왕을 처치하세요!||Tuez le roi Carpe dans la chambre de l'empereur !
+quest_objective_1038_1|Karp King killed|Karppikuningas surmattu|Rei Carpa morto|Карп Кинг убит|卡普·金被杀|殺されたカープキング|잉어 왕 사망|Karp King getötet|Roi Carpe tué
+[DEPTHS OF HELL]|||||||||
+quest_name_1039|Preparation|Valmistautuminen|Preparação|Подготовка|制备|準備|예비|Vorbereitung|Préparation
+quest_description_1039|Collect essence and retrieve Book of Command from the Graveyard!||Colete essência e recupere o Livro do Comando no Cemitério!|Соберите эссенцию и заберите Книгу Повелений с Кладбища!|||정수를 모아 묘지에서 명령의 책을 회수하세요!||Collecte l'essence et récupère le Livre de commandement dans le cimetière !
+quest_objective_1039_1|Book of Command|Komentokirja|Livro do Comando|Книга повелений|命令书|支配の書|커맨드 북|Buch der Beherrschung|Livre de commandement
+quest_objective_1039_2|Essence|Esanssia|Essência|Сущность|本质|エッセンス|본질|Essenz|Essence
+|||||||||
+quest_name_1040|Shut Down|Sammutus|Desligar|Выключен|关掉|シャットダウン|셧다운|Herunterfahren|Extinction
+quest_description_1040|Close demonic portals around the Cathedral.||Feche portais demoníacos ao redor da Catedral.|Закройте демонические порталы вокруг Собора и Тюрьмы|||대성당 주변의 악마 포탈을 닫으세요.||Fermer les portails démoniaques autour de la cathédrale.
+quest_objective_1040_1|Portals closed|Portaalia suljettu|Portais fechados|Порталы закрыты|门户关闭|閉じたポータル|포털 폐쇄|Portale geschlossen|Portails fermés
+|||||||||
+quest_name_1041|Highway to Hell|Valtatie Helvettiin|Estrada para o Inferno|Шоссе в Ад|通向地狱的公路|地獄へのハイウエイ|지옥으로가는 고속도로|Autobahn zur Hölle|Autoroute de l'enfer
+quest_description_1041|Clear cogs out of mysterious vines in the Steam Train.||Limpe as vinhas misteriosas de engrenagens no Trem a Vapor.|Очистите винтики от таинственных виноградных лоз в Паровозе.|||증기 기관차에서 신비한 덩굴을 제거하세요.||Dégagez des lianes mystérieuses sur les engrenages dans le train à vapeur.
+quest_objective_1041_1|Cogs cleared|Rattaita puhdistettu|Engrenagens Limpas|Винтики очищены|齿轮已清除|クリアされた歯車|톱니가 깨끗해짐|Zahnräder geräumt|Rouages dégagés
+|||||||||
+quest_name_1042|Summon Satan|Kutsu Saatana|Convocar Satã|Призови сатану|召唤撒旦|サタン召喚|사탄 소환|Beschwöre Satan|Invoquer Satan
+quest_description_1042|Kill Satan in the Seventh Layer of Hell!||Mate Satã na Sétima Camada do Inferno|Убейте сатану на Седьмом уровне Ада!|||지옥의 일곱 번째 층에서 사탄을 처치하라!||Tuer Satan au septième étage de l'enfer !
+quest_objective_1042_1|Satan killed|Saatana surmattu|Satã morto|Сатана убит|撒旦被杀|サタンが殺された|사탄이 살해되다|Satan getötet|Satan tué
+[WRATH OF MEVIUS]|||||||||
+quest_name_1043|Technology is Great|Teknologia on siistiä|A Tecnologia é Ótima|Технология - это здорово|技术很棒|テクノロジーは素晴らしい|기술은 대단하다|Technologie ist großartig|La technologie, c'est génial
+quest_description_1043|Suck black holes with Sucker-5000 within Deep Space.||Aspire buracos negros com o Aspirador-5000 dentro do Tempo Perdido.|Отсосите черные дыры с помощью Sucker-5000 за Потерянное время.|||Sucker-5000을 사용하여 블랙홀을 빨아들여 심우주에서.||Aspirez les trous noirs avec Aspi-5000 dans la Zone I de l'Acte VII.
+quest_objective_1043_1|Black holes captured|Mustaa-aukkoa kaapattu|Buracos negros capturados|Захваченные черные дыры|黑洞被捕获|捕獲されたブラックホール|블랙홀 캡처|Schwarze Löcher gefangen|Trous noirs capturés
+|||||||||
+quest_name_1044|Lock & Load!|Lataa ja varmista!|Travar & Carregar!|Заприте и загружайте!|锁定并加载！|ロックしてロード！|잠금 및로드!|Sichern und Laden!|Verrouillé et chargé !
+quest_description_1044|Use Sucker-5000-B to capture enemies in Event Horizon.||Use o Aspirador-5000 para capturar inimigos nos Jardins Astrais.|Используйте Sucker-5000-B для захвата врагов в Астральных садах.|||||Utilisez Aspi-5000-B pour capturer des ennemis dans l'Acte VII Zone II ou III.
+quest_objective_1044_1|Enemies captured|Vihollista kaapattu|Inimigos capturados|Враги захвачены в плен|被捕获的敌人|捕獲された敵|적군|Feinde gefangen genommen|Ennemis capturés
+|||||||||
+quest_name_1045|Purge your demons!||Expurgue seus Demônios|Изгони своих демонов!|||당신의 악마를 정화하라!||Dégagez la zone !
+quest_description_1045|Slay enemies within the Parallel Dimension… ||Mate inimigos dentro da Dimensão Paralela…|Убивайте врагов в Параллельном измерении… |||평행 차원 안에서 적을 처치하세요…||Tuez les ennemis dans les zones IV et V de l'acte VII.
+quest_objective_1045_1|Casket Horror||Horror do caixão|Ужас в Гробу|||관 속의 공포||Squelette fantôme
+quest_objective_1045_2|Nightmare Priest||Sacerdote do Pesadelo|Кошмарный Священник|||||Archer fantôme
+quest_objective_1045_3|Gnarler||Deformado|Корявый|||||Chevalier en armure
+quest_objective_1045_4|Headless butler||Mordomo sem cabeça|Безголовый дворецкий|||머리 없는 집사||Majordome sans tête
+|||||||||
+quest_name_1046|Master of Destruction|Tuhon mestari|Mestre da Destruição|Мастер разрушения|毁灭大师|破壊のマスター|파괴의 대가|Meister der Zerstörung|Maître de la destruction
+quest_description_1046|Kill Mevius in the Verge of Insanity||Mate Mevius na Beira da Insanidade.|Убить Мевиуса на грани Безумия|||광기의 벼랑에서 메비우스를 처치하세요||Tuez Mevius dans l'Acte VII.
+quest_objective_1046_1|Mevius killed|Mevius surmattu|Mevius morto|Мевиус убит|梅维乌斯被杀|メビウスは殺された|메비우스 사망|Mevius getötet|Mevius tué
+|||||||||
+[MAIN NIGHTMARE]|||||||||
+quest_name_1101|Magic Stones||Pedras Mágicas||||마법의 돌||
+quest_description_1101|Slay Commander Albert within the Black Tower in Woodhill Plains||Mate o Comandante Albert na Torre Negra nas Planícies Woodhill||||우드힐 평원의 검은 탑에서 알버트 사령관을 처치하십시오||
+quest_objective_1101_1|Commander Albert slain||Comandante Albert morto||||사령관 알버트 사망||
+|||||||||
+quest_name_1102|The Wild Hunt||Pedras Mágicas||||야생의 사냥||
+quest_description_1102|The Hunt is on! Slay the wild creatures and skeletons within Act II.||A caçada começou! Mate as criaturas selvagens e os esqueletos no Ato II.||||사냥이 시작됐다! Act II에서 야생 생물과 해골을 처치하세요.||
+quest_objective_1102_1|Wild Creatures slain||Criaturas Selvagens eliminadas||||야생 생명체 처치||
+quest_objective_1102_2|Skeletons slain||Esqueletos eliminados||||해골 처치||
+|||||||||
+quest_name_1103|Tomb Raider||Invasor de Tumbas||||툼 레이더||
+quest_description_1103|The pyramid is a sacred place taken over by the undead.. Purge them all!||A pirâmide é um local sagrado tomado pelos mortos-vivos. Expurgue todos eles!||||피라미드는 언데드가 점령한 신성한 장소입니다. 모두 정화하세요!||
+quest_objective_1103_1|Desert Monsters slain||Monstros do Deserto mortos||||사막 몬스터 처치||
+quest_objective_1103_2|Pyramid Undead slain||Mortos-vivos da pirâmide mortos||||||
+|||||||||
+quest_name_1104|Secrets of Iron||Segredos do Ferro||||철의 비밀||
+quest_description_1104|Mine Iron Ore for Kleiton and slay the Forge Master within the Abandoned Mine inside the Highland Mines.||Minere Minério de Ferro para Kleiton e mate o Mestre da Forja na Mina Abandonada dentro das Minas das Terras Altas.||||클레이튼을 위해 철광석을 채굴하고 고지대 광산 안에 있는 버려진 광산의 대장장이를 처치하세요.||
+quest_objective_1104_1|Iron Ore Collected||Minério de Ferro Coletado||||||
+quest_objective_1104_2|Forge Master slain||Mestre da Forja morto||||대장장이 사망||
+|||||||||
+quest_name_1105|Warlord Training||Treinamento do Senhor da Guerra||||전쟁 군주 훈련||
+quest_description_1105|Train your combat skills and slay monsters within Act V.||Treine suas habilidades de combate e mate monstros no Ato V.||||전투 기술을 연마하고 Act V에서 몬스터를 처치하세요.||
+quest_objective_1105_1|Monsters slain||Monstros eliminados||||처치한 몬스터 수||
+|||||||||
+quest_name_1106|Souls of the Dead||Almas dos Mortos||||죽은 자의 영혼||
+quest_description_1106|Slay monsters within Act VI and collect their essence.||Mate os monstros no Ato VI e colete a essência deles.||||액트 VI에서 몬스터를 처치하고 그들의 정수를 수집하세요.||
+quest_objective_1106_1|Essence of Undead collected||Essência dos Mortos-vivos coletada||||언데드의 정수 수집됨||
+|||||||||
+quest_name_1107|Lost Manual||Manual Perdido||||잃어버린 매뉴얼||
+quest_description_1107|Retrieve Lost Manual from Distorted Horizons within the Event Horizon.||Recupere o Manual Perdido de Horizontes Distorcidos dentro do Horizonte de Eventos.||||사건의 지평선 안에 왜곡된 지평선에서 잃어버린 매뉴얼을 회수하십시오.||
+quest_objective_1107_1|Lost Manual collected||Manual Perdido coletado||||잃어버린 설명서 수집됨||
+|||||||||
+quest_name_1108|Eight Legged Monstrosities||Monstruosidades de Oito Pernas||||||
+quest_description_1108|Slay Helheim Arachnid within the Camp of Souls||Mate o Aracnídeo de Helheim dentro do Campo das Almas.||||영혼의 캠프에서 헬하임 거미를 처치하세요||
+quest_objective_1108_1|Helheim Arachnid slain||Aracnídeo de Helheim morto.||||헬하임 거미 처치||
+|||||||||
+[MAIN HELL]|||||||||
+quest_name_1201|Grand Purge||O Grande Expurgo||||대정화||
+quest_description_1201|Slay monsters within Act I and then kill Gurag.||Mate monstros no Ato I e depois mate Gurag.||||||
+quest_objective_1201_1|Monsters slain||Monstros mortos||||처치한 몬스터||
+quest_objective_1201_2|Gurag slain||Gurag morto||||구락 처치||
+quest_name_1202|Protect The Wilderness||Proteja a Natureza||||야생 보호||
+quest_description_1202|Collect wild berries and slay monsters within Act II.||Colete frutas silvestres e mate monstros no Ato II.||||야생 열매를 모으고 Act II에서 몬스터를 처치하세요.||
+quest_objective_1202_1|Wild Berries collected||Frutas Silvestres coletadas||||||
+quest_objective_1202_2|Monsters slain||Monstros mortos||||처치한 몬스터||
+quest_name_1203|Free Spirits||Espíritos Livres||||자유로운 영혼들||
+quest_description_1203|Free entrapped souls within Act III.||Liberte as almas aprisionadas no Ato III.||||행동 III에서 갇힌 영혼들을 해방하세요.||
+quest_objective_1203_1|Entrapped Souls freed||Almas Aprisionadas libertadas||||갇힌 영혼 해방||
+quest_name_1204|Tarethium’s Essence||Essência de Tarethium||||타레시움의 정수||
+quest_description_1204|Mine tarethium ore for Kleiton.||Minere Minério de Tarethium para Kleiton||||클레이튼을 위해 타레티움 광석을 채굴하세요.||
+quest_objective_1204_1|Tarethium Ore collected||Minério de Tarethium coletado||||타레시움 광석 수집됨||
+quest_name_1205|Warlord’s Command||Comando do Senhor da Guerra||||전쟁군주의 명령||
+quest_description_1205|Slay monsters within Act V.||Mate monstros no Ato V.||||액트 V에서 몬스터를 처치하세요.||
+quest_objective_1205_1|Monsters slain||Monstros mortos||||몬스터 처치||
+quest_name_1206|Purification||Purificação||||정화||
+quest_description_1206|Destroy skull piles and slay monsters within Act VI.||Destrua pilhas de crânios e mate monstros no Ato VI.||||해골 무더기를 파괴하고 Act VI에서 몬스터를 처치하세요.||
+quest_objective_1206_1|Skull Piles destroyed||Pilhas de Crânios destruídas||||해골 더미 파괴됨||
+quest_objective_1206_2|Monsters slain||Monstros mortos||||처치한 몬스터||
+quest_name_1207|Fixing Glitches||Corrigindo Falhas||||글리치 수정||
+quest_description_1207|Destroy glitching objects within Act VII.||Destrua objetos com falhas no Ato VII.||||Act VII에서 오류가 있는 물체를 파괴하세요.||
+quest_objective_1207_1|Glitches fixed||Falhas corrigidas||||버그 수정 완료||
+quest_name_1208|Cleansing Valhalla||Limpando Valhalla||||발할라 정화||
+quest_description_1208|Slay monsters within Act VIII.||Mate monstros no Ato VIII.||||제8장에서 몬스터를 처치하세요.||
+quest_objective_1208_1|Monsters slain||Monstros mortos||||처치한 몬스터||
+|||||||||
+[MAIN INFERNO]|||||||||
+quest_name_1301|The Fall of Darkness||||||어둠의 몰락||
+quest_description_1301|Slay Gabriel in the Circle of Hatred and Amun-Ra within the Tomb of Amun-Ra||||||||
+quest_objective_1301_1|Gabriel Slain||||||가브리엘 사망||
+quest_objective_1301_2|Amun-Ra Slain||||||아문 라 처치됨||
+|||||||||
+quest_name_1302|The Light of Dawn||||||새벽의 빛||
+quest_description_1302|Purge Tarethiel of evil for good..||||||타레티엘에서 악을 영원히 정화하라.||
+quest_objective_1302_1|Clear a Chaos Tower||||||혼돈의 탑 정리||
+quest_objective_1302_2|Clear an Eternal Battlefield portal||||||영원한 전장의 포탈 정리||
+quest_objective_1302_3|Slay Ancient Monsters||||||고대 괴물 처치||
+quest_objective_1302_4|Slay Mevius||||||메비우스를 처치하라||
+|||||||||
+|||||||||
+|||||||||
+[Community Quests]|||||||||
+community_quest_header|Community Quest||Missão da Comunidade||||커뮤니티 퀘스트||
+|||||||||
+community_quest_title_1|Call to Arms||Chamado às Forças Armadas||||무기 소집||
+community_quest_desc_1|I, Mayor Kukkonen, hereby issue a request for the heroes of Tarethiel. Purge the lands of the monsters! The massive infestation of dark creatures roaming our lands has gone on long enough. To ensure that these creatures will not overrun us in the future we have to act now! Obliterate as many as you can by next Friday.||Eu, prefeito Kukkonen, faço um pedido aos heróis de Tarethiel. Expurguem as terras dos monstros! A infestação maciça de criaturas das trevas que vagam por nossas terras já durou tempo suficiente. Para garantir que essas criaturas não nos inundem no futuro, precisamos agir agora! Obliterem o máximo que puderem até a próxima sexta-feira.||||저, 시장 쿠코넨은 타레티엘의 영웅들에게 요청을 드립니다. 땅을 괴물들로부터 정화하세요! 우리 땅을 배회하는 어두운 생물들의 대규모 침입이 너무 오래 지속되었습니다. 앞으로 이러한 생물들이 우리를 압도하지 않도록 지금 행동해야 합니다! 다음 금요일까지 가능한 한 많이 섬멸하세요.||
+community_quest_objective_1|Slay monsters all around Tarethiel||Mate monstros em toda Tarethiel||||Tarethiel 전역의 몬스터를 처치하세요||
+|||||||||
+community_quest_title_2|Chaos at the Tower||Caos na Torre||||타워의 혼돈||
+community_quest_desc_2|The good warriors of Tarethiel, listen up! Chaos Towers have been running rampant across the lands! Purify these towers on sight! For glory, for honor!||Guerreiros de Tarethiel, prestem atenção! As Torres do Caos estão correndo desenfreadas pelas terras! Purifiquem estas torres imediatamente! Pela glória, pela honra!||||타레티엘의 용감한 전사들이여, 주목하라! 혼돈의 탑들이 이 땅을 휩쓸고 있다! 이 탑들을 즉시 정화하라! 영광을 위하여, 명예를 위하여!||
+community_quest_objective_2|Clear Chaos Towers||Limpe as Torres do Caos||||혼돈의 탑 정리||
+|||||||||
+community_quest_title_3|Heigh-Ho!||Heigh-Ho!||||하이호!||
+community_quest_desc_3|We are in massive need of resources to build our defenses and ensure the survival of the good people of Tarethiel! This is why I, Dr. Tinker Dink, along with Mayor Kukkonen have started a campaign to get as much minerals as possible to bolster our position on the map. Help us collect as much Ores as possible.||Estamos precisando muito de recursos para construir nossas defesas e garantir a sobrevivência do povo de Tarethiel! É por isso que eu, Dr. Tinker Dink, juntamente com o prefeito Kukkonen, iniciamos uma campanha para obter o máximo possível de minerais para reforçar nossa localização no mapa. Ajude-nos a coletar o máximo possível de minérios.||||우리의 방어 시설을 구축하고 타레티엘의 선량한 사람들의 생존을 보장하기 위해 우리는 엄청난 자원이 필요합니다! 그래서 저, 닥터 틴커 딩크와 시장 쿠코넨은 지도를 강화하기 위해 가능한 많은 광물을 확보하기 위한 캠페인을 시작했습니다. 최대한 많은 광석을 모아주세요.||
+community_quest_objective_3|Mine ore nodes||Minere nodos de minério||||광석 노드를 채굴하세요||
+|||||||||
+community_quest_title_4|Sonya’s Soldier||Soldado de Sonya||||소냐의 병사||
+community_quest_desc_4|It’s one thing to face Damien’s troops to purge this land of evil, but to also do it with style? That’s more my style! Bring me proof of completed Challenge Dungeons by opening the Chests at the end, and I shall reward you!||Uma coisa é enfrentar as tropas de Damien para expurgar o mal desta terra, mas também fazer isso com estilo? Esse é mais o meu estilo! Traga-me provas da conclusão de Masmorras de Desafio abrindo os baús no final e eu o recompensarei!||||데미안의 군대를 상대하여 이 땅에서 악을 정화하는 것도 한 가지 일이지만, 스타일리시하게 해내는 건 또 다른 이야기죠? 그게 제 스타일이에요! 도전 던전의 완료 증거를 가져오려면 끝에 있는 상자를 열어 저에게 가져오세요. 그러면 보상을 드리겠습니다!||
+community_quest_objective_4|Open Challenge Dungeon Chests||Abra Baús de Masmorra de Desafio||||도전 던전 상자 열기||
+|||||||||
+community_quest_title_5|Gold Farm||Farm de Ouro||||골드 농장||
+community_quest_desc_5|The economy is tanking! The monsters are rampaging through the lands, murdering innocents and robbing our resources, including gold! We have seen an increase of scams and cheated currency ruining our already unstable economy. Please slay monsters and collect [c_yellow]our gold[c_reset] back from their cold dead hands. More gold in circulation is better for everyone!||A economia está afundando! Os monstros estão se alastrando pelas terras, assassinando inocentes e roubando nossos recursos, inclusive o ouro! Temos visto um aumento de fraudes e moeda fraudada arruinando nossa economia já instável. Por favor, mate os monstros e recupere [c_yellow]nosso ouro[c_reset] de suas mãos mortas e frias. Mais ouro em circulação é melhor para todos!||||경제가 붕괴하고 있어요! 몬스터들이 땅을 휩쓸며 무고한 사람들을 살해하고 우리의 자원, 특히 금을 약탈하고 있어요! 사기와 부정 통화가 증가하여 이미 불안정한 경제를 망치고 있습니다. 몬스터를 처치하고 그들의 차가운 시체에서 [c_yellow]우리의 금[c_reset]을 되찾아 주세요. 더 많은 금이 유통되면 모두에게 좋습니다!||
+community_quest_objective_5|Pick up gold. A lot of gold.||Pegue ouro. Muito ouro.||||황금을 주워라. 많은 황금을.||
+|||||||||
+community_quest_title_6|Uber-Grind||Uber-Grind||||Uber-Grind||
+community_quest_desc_6|The dark forces are getting stronger and danger looms near every domain. Show them that we are not afraid! [shake_letter][c_red]Slaughter them![c_reset][shake_reset] Destroy the biggest evil creatures you can find.||As forças das trevas estão ficando mais fortes e o perigo se aproxima de cada domínio. Mostre a eles que não temos medo! [letter_shake][c_red]Abata-os![c_reset][shake_reset] Destrua as maiores criaturas malignas que você puder encontrar.||||어둠의 세력이 강해지고 있으며, 위험이 모든 영역에 다가오고 있습니다. 그들에게 우리가 두려워하지 않는다는 것을 보여줍시다! [shake_letter][c_red]그들을 도륙하라![c_reset][shake_reset] 찾을 수 있는 가장 큰 악의 생물들을 파괴하십시오.||
+community_quest_objective_6|Slay Uber bosses||Elimine Chefes Uber||||우버 보스 처치||
+|||||||||
+community_quest_title_7|Dungeon Crawler||Explorador de Masmorras||||||
+community_quest_desc_7|To further help with purging the infestation of our lands we have to hit them where it hurts. They are below us, crawling through the dungeons. Scheming, getting stronger. Destroy as many of these dungeon dwellers as possible!||Para ajudar ainda mais a eliminar a infestação de nossas terras, temos que atingi-los onde dói. Eles estão abaixo de nós, rastejando pelas masmorras. Planejando, ficando mais fortes. Destrua o maior número possível desses habitantes das masmorra||||우리 땅의 감염을 제거하기 위해 더 많은 도움을 주려면 그들의 약점을 공격해야 합니다. 그들은 우리 아래, 던전을 기어다니고 있습니다. 음모를 꾸미고, 강해지고 있습니다. 가능한 한 많은 던전 거주자들을 파괴하세요!||
+community_quest_objective_7|Slay enemies within Special Dungeons||Elimine monstros dentro de masmorras especiais.||||||
+|||||||||
+community_quest_title_8|Purge Big Baddies||Expurgue Grandes Vilões||||거대 악당 제거||
+community_quest_desc_8|It’s time to show those bastards who is the boss here. For too long has Reaper ruled over Danethorpe, enough for the Reign of Karp King or Satan’s Influence over these holy grounds. Time to purge this land, once and for all.||Está na hora de mostrar a esses bastardos quem é o chefe aqui. Há muito tempo o Ceifador governa Danethorpe, o suficiente para o Reinado do Rei Carpa ou a Influência de Satã sobre essas terras sagradas. É hora de limpar essa terra, de uma vez por todas.||||이제 저 자식들에게 누가 여기서 보스인지 보여줄 때다. 리퍼가 다네소프를 너무 오랫동안 지배해왔고, 카프 왕의 통치나 사탄의 영향이 이 거룩한 땅을 지배하기에 충분했다. 이제 이 땅을 한 번에 정화할 시간이다.||
+community_quest_objective_8|Kill Act Bosses||Mate Chefes de Ato||||액트 보스 처치||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+[quest casting]|||||||||
+quest_cook_meat|Cook Meat||Cozinhar Carne|Приготовьте Мясо|||고기 요리하기||Cuisiner de la viande
+quest_cook_meat_action|Cooking delicious hog meat||Cozinhando carne de porco deliciosa|Приготовление вкусного свиного мяса|||맛있는 돼지고기 요리||Cuisiner la délicieuse viande de porc
+quest_dirt_dig|Dig||Cavar|Копать|||||Creuser
+quest_dirt_dig_action|Digging up dirt||Cavando a terra|Выкапывание грязи|||||Creuser la terre
+quest_lift_water|Use Well||Usar Fonte|Используйте Хорошо|||우물 사용||Utiliser le puits
+quest_lift_water_action|Lifting water from river Gjöll||Pegando água do rio Gjöll|Подъем воды из реки Йель|||강 Gjöll에서 물 긷기||Prélever de l'eau dans la rivière Gjöll
+quest_potion_cauldron|Conjure Potion||Conjurando Poção|Заклинательное Зелье|||물약 창조||Concocter une potion
+quest_potion_cauldron_action|Boiling ingredients||Fervendo ingredientes|Ингредиенты для варки|||재료 끓이기||Faire bouillir les ingrédients
+quest_attach_wheel|Attach Wheel||Anexar Roda|Прикрепите Колесо|||바퀴 부착||Attacher une roue
+quest_attach_wheel_action|Attaching wheel||Anexando roda|Крепежное колесо|||바퀴 부착||Fixer la roue
+quest_attach_wheel_done|Wheel attached!||Roda Anexada!||||바퀴가 부착되었습니다!||
+quest_harvest_pumpkin_action|Harvesting pumpkin||Colher abóbora|Сбор урожая тыквы|||호박 수확||Moisson de citrouille
+quest_harvest_pumpkin|Pumpkin?||Abóbora?|Тыква?|||||Citrouille ?
+quest_cook_maggot_stew|Boil the ingredients||Ferva os ingredientes|Отварите ингредиенты|||||Faire bouillir les ingrédients
+quest_cooking_maggot_stew|Making Maggot stew||Fazendo Ensopado de larva|Приготовление тушеного мяса из личинок|||구더기 스튜 만들기||Faire un ragoût d'asticots
+quest_gathering_herb|Gathering herbs...||Colhendo ervas…|Сбор трав...|||약초 채집 중...||Cueillir des herbes...
+quest_gather_ginseng|Collect ginseng plant||Coletar planta de Ginseng|Соберите растение женьшеня|||인삼 식물 수집||Récolter la racine de ginseng
+quest_gather_frost_dill|Collect Frost Dill||Coletar Dill|Соберите Морозный Укроп|||||Cueillir l'aneth givré
+quest_gather_loska|Collect Loska||Coletar Loska|Собери Лоску|||로스카 수집||Ramasser la loska
+quest_gather_vermroot|Collect Vermroot||Coletar Vermroot|Соберите Вермут|||||Récolter la racine de Verm
+quest_gather_fanglen|Collect Fanglen||Coletar Fanglen|Собирать Фанглен|||팡글렌 수집||Ramasser la fanglen
+quest_inspect_track|Inspect track||Inspecionar rastro|Осмотрите дорожку|||트랙 조사||Inspecter la piste
+quest_inspecting|Inspecting...||Inspecionando…|Осматриваю...|||검사 중...||Inspection...
+quest_skin_carnage|Skin Carnage's Hide||Esfolar Pele de Carnificina|Шкура Карнажа Шкура Карнажа|||카니지의 가죽||Dépiauter Carnage
+quest_skinning|Skinning...||Esfolando…|Сдирание шкуры...|||||Dépiautage…
+quest_gather_devils_cabbage|Collect Devil's Cabbage||Coletar Repolho-do-Diabo|Собирайте Дьявольскую капусту|||||Marie-jeanne ?
+quest_inspect_cart|Inspect Mining Cart||Inspecionar Carrinho de Mineração|Осмотрите Карьерную тележку|||광산 수레 조사||Inspecter le chariot minier
+quest_mend_hurrdurr|Attempt to heal Hurrdurr||Tentar curar Hurrdurr|Попытка исцелить Хуррдурра|||훌더를 치유 시도||Essayer de soigner Hurrdurr
+quest_mending_hurrdurr|Trying to save Hurrdurr||Tentar salvar Hurrdurr|Пытаясь спасти Хуррдурр|||허르더를 구하려고 시도 중||Tenter de sauver Hurrdurr
+quest_collect_bamboo|Rip Bamboo Sticks||Arrancar Vara de Bambu|Срывайте Бамбуковые Палочки|||대나무 막대기 뽑기||Collecter des tiges de bambou
+quest_collecting_bamboo|Taking sturdy bamboo||Pegando Bambu Robusto|Берем крепкий бамбук|||튼튼한 대나무 가져가기||Prendre du bambou robuste
+quest_craft_rod|Craft Sturdy Fishing Rod||Criar Vara de Pesca Robusta|Изготовьте Прочную Удочку для Ловли Рыбы|||튼튼한 낚싯대 제작||Fabrication d'une canne à pêche robuste
+quest_using_workbench|Crafting...||Criando…|Крафт...|||||Assemblage...
+quest_collect_spiderweb|Collect Spiderweb||Coletar Teia de Aranha|Собирайте Паутину|||||Collecte de toiles d'araignée
+quest_collecting|Collecting...||Coletando…|Сбор...|||수집 중...||Collecte...
+quest_inspect_metal_hook|Inspect Metal Hook||Inspecionar Gancho de Metal|Осмотрите Металлический Крючок|||금속 갈고리 검사||Inspecter le crochet en métal
+quest_harvest_soul|Harvest Damned Soul||Colher Alma Maldita|Жатва Проклятой Души|||저주받은 영혼 수확||Récolter l'âme damnée
+quest_harvesting_soul|Harvesting soul...||Colhendo alma…|Собирающая душу...|||||Moisson de l'âme...
+quest_seal_grave|Bless the Eternal Chalice||Abençoar o Cálice Eterno|Благослови Вечную Чашу|||영원한 성배를 축복하라||Bénir le calice éternel
+quest_seal_grave_action|Purifying Damned Souls||Purificando Almas Malditas|Очищение Проклятых Душ|||저주받은 영혼 정화||Purifier les âmes damnées
+quest_bag_njals_head|Bagging Njal’s head||Empacotando a cabeça de Vjoll||||Njal의 머리를 자루에 넣기||
+quest_repair_beacon|Repairing security beacon||Reparado farol de segurança||||보안 신호기 수리 중||
+quest_beacons_up|Turning the security beacon system on||Ligando o sistema do farol de segurança||||보안 비콘 시스템 켜기||
+quest_ice_crack|Examining||Examinando||||조사 중||
+quest_place_explosives_interact|Placing explosives... carefully||Colocando explosivos… cuidadosamente||||폭발물 설치 중... 조심스럽게||
+quest_detonating|Starting detonator||Iniciando detonador||||기폭 장치 시작||
+quest_igniting_beacon|Igniting beacon||||||신호 불꽃 점화||
+|||||||||
+|||||||||
+|||||||||
+[special cases]|||||||||
+quest_require_valhalla_chain|You must have the Valhalla storyline quests completed to be eligible for today’s Bounty Quest!||Você deve ter concluído as missões do enredo de Valhalla para se qualificar para a Caçada de hoje!||||오늘의 현상금 퀘스트에 참여하려면 발할라 스토리라인 퀘스트를 완료해야 합니다!||
+quest_require_valhalla_dlc|You must own a copy of The Gates of Valhalla Expansion and have the Valhalla storyline quests completed to be eligible for today’s Bounty Quest!||Você deve possuir uma cópia da expansão The Gates of Valhalla e ter concluído as missões do enredo de Valhalla para se qualificar para a Caçada de hoje!||||오늘의 현상금 퀘스트에 참여하려면 The Gates of Valhalla 확장팩을 소유하고 Valhalla 스토리라인 퀘스트를 완료해야 합니다!||
