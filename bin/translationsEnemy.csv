@@ -43,7 +43,7 @@ e_skeleton_mage_lightning_3|Storm Wizard|Myrskyvelho|Mago da Tormenta|Волше
 |||||||||
 e_scarecrow_1|Scarecrow||Espantalho||||허수아비||
 e_scarecrow_2|Scarecrow||Espantalho||||허수아비||
-e_scarecrow_3|Undead Harvester||Colhedor Morto-vivo||||||
+e_scarecrow_3|Undead Harvester||Colhedor Morto-vivo||||언데드 수확자||
 e_pumpkinMage_1|Pumpkin Wraith||Abóbora Fantasma||||호박 망령||
 e_pumpkinMage_2|Pumpkin Wraith||Abóbora Fantasma||||호박 망령||
 e_pumpkinMage_3|Hallowing Pumpkin||Abobora Santificada||||할로윈 호박||
@@ -171,7 +171,7 @@ e_karp_2|Frenzied Karp|Kiivastunut Karppi|Carpa Frenética|Взбешенный 
 e_karp_3|Karpoga|Karppinen|Karpoga|Карпога|超级卡普怪|カルポガ|잉오가|Karpoga|Carpoga
 |||||||||
 e_forest_wasp_1|Forest Wasp||Vespa da Floresta|Лесная Оса|||숲 말벌||Guêpe forestière
-e_forest_wasp_2|Toxic Stinger||Picada Venenosa|Ядовитое Жало|||||Dard toxique
+e_forest_wasp_2|Toxic Stinger||Picada Venenosa|Ядовитое Жало|||독침||Dard toxique
 e_forest_wasp_3|Furious Killerfly||Abelha Furiosa Assassina|Разъяренная Муха - Убийца|||분노한 킬러플라이||Tétranyque furieux
 |||||||||
 e_mimic_1|Mimic|Matkija|Mímico|Имитировать|小丑|擬態魔|의태 괴물|Mimik|Mimique
@@ -191,13 +191,13 @@ e_goblinShadow_3|Shadow Hoarder||Acumulador das Sombras||||그림자 수집가||
 |||||||||
 e_blackPlague_3|Black Plague||Peste Negra||||흑사병||
 e_roninMarksman_3|Ronin Marksman||Atirador Ronin||||로닌 저격수||
-e_karpSpawn_3|Karpspawn||Karpspawn||||||
+e_karpSpawn_3|Karpspawn||Karpspawn||||카프스폰||
 e_bloodSeeker_3|Bloodseeker||Caçador Sanguinário||||블러드시커||
 e_damnedCommander_3|Damned Commander||Comandante Maldito||||저주받은 사령관||
 e_clampingDistortion_3|Clamping Distortion||Distorção Travada||||왜곡 고정||
 e_reakingAgony_3|Reaking Agony||Agonia Fedida||||끔찍한 고통||
 e_theGrandButler_3|The Grand Butler||O Grande Mordomo||||그랜드 집사||
-e_ancientRonin_3|Ancient Ronin||Ronin Ancião||||||
+e_ancientRonin_3|Ancient Ronin||Ronin Ancião||||고대의 로닌||
 |||||||||
 |||||||||
 e_fly_1|Fly|Kärpänen|Mosca|Летать|苍蝇|ハエ|파리|Fliege|Mouche
@@ -600,26 +600,26 @@ e_uberAnubis_3|Amun Ra||||||아문 라||
 |||||||||
 uberAnubis_spell_01|Crushing Meteor||||||분쇄 유성||
 uberAnubis_spell_02|Decaying Wall||||||부식된 벽||
-uberAnubis_spell_03|Corrupted Sarkofagi||||||||
+uberAnubis_spell_03|Corrupted Sarkofagi||||||부패한 사르코파거스||
 uberAnubis_spell_04|Amun Ra´s Curse||||||아문 라의 저주||
 uberAnubis_spell_05|Unholy Voltage||||||불경한 전압||
 uberAnubis_spell_06|Blood of Amun Ra||||||아문 라의 피||
 |||||||||
 e_nestUberAnubis_1|Corrupted Sarkofagus||||||부패한 사르코파구스||
 e_nestUberAnubis_2|Corrupted Sarkofagus||||||부패한 사르코파구스||
-e_nestUberAnubis_3|Corrupted Sarkofagus||||||||
+e_nestUberAnubis_3|Corrupted Sarkofagus||||||부패한 사르코파구스||
 |||||||||
 e_bloodOfRa_3|Amun Ra´s Blood||||||아문 라의 피||
 e_shadeOfSobek_4|Shade of Sobek||||||소벡의 그림자||
-e_shadeOfThoth_4|Shade of Thoth||||||||
+e_shadeOfThoth_4|Shade of Thoth||||||토트의 그림자||
 e_anubisHeart_4|Heart of Amun Ra||||||아문 라의 심장||
-e_crocolisk_3|Crocolisk||||||||
+e_crocolisk_3|Crocolisk||||||크로콜리스크||
 |||||||||
 e_uberLuna_1|Possessed Luna||Luna Possuída||||빙의된 루나||
 e_uberLuna_2|Possessed Luna||Luna Possuída||||빙의된 루나||
 e_uberLuna_3|Possessed Luna||Luna Possuída||||빙의된 루나||
 |||||||||
-uberLuna_spell_01|Crystal Ball||Bola de Cristal||||||
+uberLuna_spell_01|Crystal Ball||Bola de Cristal||||수정 구슬||
 uberLuna_spell_02|Black Hole||Buraco Negro||||블랙홀||
 uberLuna_spell_03|Starstruck||Golpe Estelar||||스타스트럭||
 uberLuna_spell_04|Cosmic Winds||Ventos Cósmicos||||우주의 바람||
@@ -743,7 +743,7 @@ e_cyclops_boss_3|King Rakhul|Kuningas Rakhul|Rei Rakhul|Король Ракху�
 |||||||||
 e_sung_lee_1|Sung Lee|Sung Lee|Sung Lee|Сун Ли|Sung Lee|Sung Lee|성 리|Sung Lee|Sung Lee
 e_sung_lee_2|General Sung Lee|General Sung Lee|General Sung Lee|Генерал Сун Ли|General Sung Lee|General Sung Lee|장군 성 리|General Sung Lee|Général Sung Lee
-e_sung_lee_3|War God Sung Lee|War God Sung Lee|Sung Lee, Deus da Guerra|Бог Войны Сун Ли|War God Sung Lee|War God Sung Lee||War God Sung Lee|Sung Lee, dieu de la guerre 
+e_sung_lee_3|War God Sung Lee|War God Sung Lee|Sung Lee, Deus da Guerra|Бог Войны Сун Ли|War God Sung Lee|War God Sung Lee|전쟁의 신 성 리|War God Sung Lee|Sung Lee, dieu de la guerre 
 |||||||||
 |||||||||
 e_tundra_hog_1|Tundra Hog|Tundra Hog|Porco da Tundra|Тундровый Боров|Tundra Hog|Tundra Hog|툰드라 멧돼지|Tundra Hog|Porc de la toundra
@@ -751,12 +751,12 @@ e_tundra_hog_2|Mountain Swine|Mountain Swine|Porco da Montanha|Горная Св
 e_tundra_hog_3|Elder Swine|Elder Swine|Porco Ancião|Старшая Свинья|Elder Swine|Elder Swine|장로 돼지|Elder Swine|Porc ancien
 |||||||||
 |||||||||
-e_forest_troll_1|Forest Troll|Forest Troll|Troll da Floresta|Лесной Тролль|Forest Troll|Forest Troll||Forest Troll|Troll des forêts
+e_forest_troll_1|Forest Troll|Forest Troll|Troll da Floresta|Лесной Тролль|Forest Troll|Forest Troll|숲 트롤|Forest Troll|Troll des forêts
 e_forest_troll_2|Swamp Roamer|Swamp Roamer|Peregrino do Pântano|Бродяга по болотам|Swamp Roamer|Swamp Roamer|늪지 떠돌이|Swamp Roamer|Rôdeur des marais
 e_forest_troll_3|Mold Eater|Mold Eater|Comedor de Mofo|Пожиратель плесени|Mold Eater|Mold Eater|곰팡이 먹는 자|Mold Eater|Mangeur de moisissures
 |||||||||
 |||||||||
-e_mountain_troll_1|Mountain Troll|Mountain Troll|Troll da Montanha|Горный Тролль|Mountain Troll|Mountain Troll||Mountain Troll|Troll de montagne
+e_mountain_troll_1|Mountain Troll|Mountain Troll|Troll da Montanha|Горный Тролль|Mountain Troll|Mountain Troll|산 트롤|Mountain Troll|Troll de montagne
 e_mountain_troll_2|Cave Troll|Cave Troll|Troll da Caverna|Пещерный Тролль|Cave Troll|Cave Troll|동굴 트롤|Cave Troll|Troll des cavernes
 e_mountain_troll_3|Troll Colossus|Troll Colossus|Troll Colossal|Колосс - Тролль|Troll Colossus|Troll Colossus|트롤 콜로서스|Troll Colossus|Troll colossal
 |||||||||
@@ -766,17 +766,17 @@ e_corrupted_viking_2|Lost Drengr||Drengr Perdido|Потерянный Дренг
 e_corrupted_viking_3|Fallen Berserker||Berserker Caído|Павший Берсеркер|||타락한 광전사||Berserker déchu
 |||||||||
 |||||||||
-e_naga_warrior_1|Naga Warrior||Guerreiro Naga|Воин - Нага|||||Guerrier serpent
+e_naga_warrior_1|Naga Warrior||Guerreiro Naga|Воин - Нага|||나가 전사||Guerrier serpent
 e_naga_warrior_2|Reptilian Champion||Campeão Reptiliano|Чемпион среди Рептилий|||파충류 챔피언||Reptilien champion
 e_naga_warrior_3|Slither Commander||Comandante Escorregadio|Скользящий Командир|||슬리더 지휘관||Commandant rampant
 |||||||||
 |||||||||
 e_valhalla_bear_1|Raging Bear||Urso Furioso|Разъяренный Медведь|||분노한 곰||Ours enragé
-e_valhalla_bear_2|Mauling Bear||Urso Espancador|Растерзанный Медведь|||||Ours massacreur
+e_valhalla_bear_2|Mauling Bear||Urso Espancador|Растерзанный Медведь|||맹렬한 곰||Ours massacreur
 e_valhalla_bear_3|Alpha Bear||Urso Alfa|Альфа - Медведь|||알파 베어||Ours Alpha
 |||||||||
 |||||||||
-e_naga_archer_1|Naga Archer||Arqueiro Naga|Нага Лучник|||||Archer serpent
+e_naga_archer_1|Naga Archer||Arqueiro Naga|Нага Лучник|||나가 궁수||Archer serpent
 e_naga_archer_2|Reptilian Bowman||Arqueiro Reptiliano|Лучник - Рептилия|||파충류 궁수||Traqueur reptilien
 e_naga_archer_3|Slither Marksman||Arqueiro Escorregadio|Скользящий Стрелок|||미끄러운 명사수||Tireur d'élite rampant
 |||||||||
@@ -808,12 +808,12 @@ e_orc_warrior_3|Warchief||Chefe Guerreiro|Вождь|||대족장||Chef de guerre
 |||||||||
 |||||||||
 e_orc_hunter_1|Orc Hunter||Orc Caçador|Охотник на Орков|||오크 사냥꾼||Chasseur orc
-e_orc_hunter_2|Boulderer||Pedregulho|Боулдерер|||||Lanceur de roche
-e_orc_hunter_3|Stone Slinger||Arremessador de Pedras|Метатель Камней|||||Frondeur de pierre
+e_orc_hunter_2|Boulderer||Pedregulho|Боулдерер|||볼더러||Lanceur de roche
+e_orc_hunter_3|Stone Slinger||Arremessador de Pedras|Метатель Камней|||돌 던지기||Frondeur de pierre
 |||||||||
 |||||||||
 e_alien_melee_1|Alien Grunt||Grunhido Alien|Инопланетное Ворчание|||에일리언 그런트||Extraterrestre grognard
-e_alien_melee_2|Astral Commander||Comandante Astral|Астральный Командир|||||Commandant astral
+e_alien_melee_2|Astral Commander||Comandante Astral|Астральный Командир|||아스트랄 사령관||Commandant astral
 e_alien_melee_3|Glitch Demon||Falha Demoníaca|Демон - Глюк|||글리치 데몬||Erreur démonique
 |||||||||
 |||||||||
@@ -839,7 +839,7 @@ e_skeletal_marksman_3|Bone Maker||Criador de Ossos|Производитель к
 |||||||||
 e_grave_ghoul_1|Grave Ghoul||Ghoul da Cova|Могильный Упырь|||묘지의 구울||Goule sépulcrale
 e_grave_ghoul_2|Lurking Horror||Horror Espreitador|Затаившийся Ужас|||잠복하는 공포||Horreur tapie
-e_grave_ghoul_3|Frenzied Anomaly||Anomalia Frenética |Безумная Аномалия|||||Anomalie frénétique
+e_grave_ghoul_3|Frenzied Anomaly||Anomalia Frenética |Безумная Аномалия|||광기의 이상 현상||Anomalie frénétique
 |||||||||
 |||||||||
 e_essence_of_agony_1|Essence of Agony||Essência da Agonia|Сущность Агонии|||고통의 정수||Essence de l'agonie
@@ -858,7 +858,7 @@ e_chilling_marksman_3|White Death||Morte Branca|Белая Смерть|||백색
 |||||||||
 |||||||||
 e_ogre_warrior_1|Ogre Warrior||Ogro Guerreiro|Воин - Людоед|||오우거 전사||Guerrier ogre
-e_ogre_warrior_2|Ogre Champion||Ogro Campeão|Чемпион - Людоед|||||Champion ogre
+e_ogre_warrior_2|Ogre Champion||Ogro Campeão|Чемпион - Людоед|||오우거 챔피언||Champion ogre
 e_ogre_warrior_3|Battle Warchief||Chefe Guerreiro de Batalha|Боевой Вождь|||전투 족장||Chef de bataille
 |||||||||
 |||||||||
@@ -873,7 +873,7 @@ e_unholy_monstrosity_3|Satanic Mutation||Mutação Satânica|Сатанинск�
 |||||||||
 |||||||||
 e_chaos_guard_1|Chaos Guardian||Guardião do Caos|Страж Хаоса|||혼돈의 수호자||Gardien du chaos
-e_chaos_guard_2|Chaos Corruptor||Corruptor do Caos|Разрушитель Хаоса|||||Corrupteur du chaos
+e_chaos_guard_2|Chaos Corruptor||Corruptor do Caos|Разрушитель Хаоса|||혼돈의 타락자||Corrupteur du chaos
 e_chaos_guard_3|Darkness Brute||Bruto da Escuridão|Тьма Грубая|||어둠의 야수||Brute des ténèbres
 |||||||||
 |||||||||
@@ -883,12 +883,12 @@ e_chaos_mage_3|Corrupting Archmage||Arquimago Corrompido|Развращающи�
 |||||||||
 |||||||||
 e_crypt_skeleton_1|Fallen Trooper||Soldado Caído|Упавший Солдат|||쓰러진 병사||Soldat déchu
-e_crypt_skeleton_2|Moldy Champion||Campeão Mofado|Заплесневелый Чемпион|||||Champion moisi
+e_crypt_skeleton_2|Moldy Champion||Campeão Mofado|Заплесневелый Чемпион|||곰팡이 챔피언||Champion moisi
 e_crypt_skeleton_3|Fallen Legion||Legião Caída|Павший Легион|||몰락한 군단||Légionnaire déchu
 |||||||||
 |||||||||
 e_crypt_archer_1|Fallen Archer||Arqueiro Caído|Павший Лучник|||타락한 궁수||Archer déchu
-e_crypt_archer_2|Moldy Legion||Legião Mofada|Заплесневелый Легион|||||Légionnaire moisi
+e_crypt_archer_2|Moldy Legion||Legião Mofada|Заплесневелый Легион|||곰팡이 군단||Légionnaire moisi
 e_crypt_archer_3|Decaying Marksman||Arqueiro Decadente|Разлагающийся Стрелок|||부패한 명사수||Tireur d'élite en décomposition
 |||||||||
 |||||||||
@@ -902,7 +902,7 @@ e_scavenger_2|Mine Lurker||Espreitador da Mina|Мой Подстерегающи
 e_scavenger_3|Swamp Lurker||Espreitador do Pântano|Болотный Прячущийся|||늪지 잠복자||Rôdeur des marais
 |||||||||
 |||||||||
-e_cyclops_ghost_1|Ghostly Brute||Bruto Fantasmagórico|Призрачная Скотина|||||Brute fantôme
+e_cyclops_ghost_1|Ghostly Brute||Bruto Fantasmagórico|Призрачная Скотина|||유령 같은 거인||Brute fantôme
 e_cyclops_ghost_2|Haunting Giant||Gigante Assombrado|Преследующий Гигант|||유령 거인||Géant hanté
 e_cyclops_ghost_3|Spectral Colossus||Colosso Espectral|Призрачный Колосс|||스펙트럴 콜로서스||Colosse spectral
 |||||||||
@@ -938,7 +938,7 @@ e_lurkingShadow_2|Eclipse Assassin||Assassino do Eclipse|Убийца из За�
 e_lurkingShadow_3|Shade of Eternal Night||Sombra da Noite Eterna|Тень Вечной ночи|||영원한 밤의 그림자||Ombre de la nuit éternelle
 |||||||||
 e_maskOfTerror_1|Mask of Terror||Máscara do Terror|Маска ужаса|||공포의 가면||Masque de terreur
-e_maskOfTerror_2|Visage of the Damned||Rosto dos Condenados|Облик Проклятого|||||Visage des damnés
+e_maskOfTerror_2|Visage of the Damned||Rosto dos Condenados|Облик Проклятого|||저주받은 자의 형상||Visage des damnés
 e_maskOfTerror_3|Cursed Veil of Torment||Véu Amaldiçoado da Tormenta|Проклятая Завеса Мучений|||저주의 고통의 장막||Voile maudit du supplice
 |||||||||
 e_shadowLegion_1|Shadow Legion||Legião das Sombras|Теневой Легион|||그림자 군단||Légionnaire de l'ombre
@@ -949,9 +949,9 @@ e_lurkingHorror_1|Lurking Horror||Horror Espreitador|Затаившийся Уж
 e_lurkingHorror_2|Cauflax Horror||Horror de Cauflax|Кошмар из Кауфлакса|||카우플락스의 공포||Horreur de Cauflax
 e_lurkingHorror_3|Rotting Tombwalker||Caminhante Podre da Tumba|Гниющий Могильщик|||썩어가는 무덤걸이||Marcheur de tombeau pourri
 |||||||||
-e_rottingMummy_1|Rotting Mummy||Múmia Apodrecida|Гниющая Мумия|||||Momie pourrie
+e_rottingMummy_1|Rotting Mummy||Múmia Apodrecida|Гниющая Мумия|||썩어가는 미라||Momie pourrie
 e_rottingMummy_2|Decaying Offspring||Filho Apodrecido|Разлагающееся Потомство|||부패한 자손||Rejeton en décomposition
-e_rottingMummy_3|Defiling Carcass||Carcaça Contaminada|Осквернение Туши|||||Carcasse souillée
+e_rottingMummy_3|Defiling Carcass||Carcaça Contaminada|Осквернение Туши|||부정한 시체||Carcasse souillée
 |||||||||
 e_tombWarrior_1|Tomb Warrior||Guerreiro da Tumba|Могильный Воин|||묘지 전사||Guerrier de la tombe
 e_tombWarrior_2|Cauflax Guard||Guarda de Cauflax|Защита из Кауфлакса|||카우플락스 경비||Garde de Cauflax
@@ -1007,7 +1007,7 @@ e_mechGunner_3|Gunsworn Sharpshooter||Atirador de Elite Armado|Закаленн�
 |||||||||
 e_valhallaBear_1|Grizzlepaw Bruin||Urso Pardo Machão|Синяк из Сизолапки|||그리즐포 브루인||Bruin patte de grizzly
 e_valhallaBear_2|Freljord Usant||Urso de Freljord|Freljord Usant|||프렐요드 우산트||Usant des grands froids
-e_valhallaBear_3|Raging Ursus||Urso Enfurecido|Разъяренный Урсус|||||Ursus enragé
+e_valhallaBear_3|Raging Ursus||Urso Enfurecido|Разъяренный Урсус|||분노한 우르수스||Ursus enragé
 |||||||||
 e_crab_1|Clawlasher||Garra-chicote||||클로래셔||
 e_crab_2|Coralcrusher||Esmaga-coral||||산호파괴자||
@@ -1018,7 +1018,7 @@ e_valhallaWraith_2|Helheim Corruptor||Corruptor de Helheim||||헬하임 타락�
 e_valhallaWraith_3|Soulfeaster||Come-almas||||영혼포식자||
 |||||||||
 e_bogMushroom_1|Shroomer||Cogumelinho||||슈루머||
-e_bogMushroom_2|Big Cap||Touca Grande||||||
+e_bogMushroom_2|Big Cap||Touca Grande||||큰 모자||
 e_bogMushroom_3|Colossal Shroom||Cogumelo Colossal||||거대한 버섯||
 e_cursedElf_1|Cursed Elf||Elfo Amaldiçoado||||저주받은 엘프||
 e_cursedElf_2|Possessed Elf||Elfo Possuído||||사로잡힌 엘프||
@@ -1035,12 +1035,12 @@ e_bellCrawler_3|Timelost Lobster||Lagosta do Tempo Perdido||||잃어버린 시�
 e_fallenLegion_1|Fallen Legion||Legião Caída||||몰락 군단||
 e_fallenLegion_2|Commander of Time||Comandante do Tempo||||시간의 지휘관||
 e_fallenLegion_3|Void General||General do Vazio||||공허의 장군||
-e_fallenMage_1|Tickering Magi||Mago Tique-taque||||||
+e_fallenMage_1|Tickering Magi||Mago Tique-taque||||틱커링 마법사||
 e_fallenMage_2|Timeless Mystic||Místico Atemporal||||시간을 초월한 신비주의자||
 e_fallenMage_3|Horizon Seeker||Buscador do Horizonte||||지평선 탐색자||
 |||||||||
 e_abyssalHatredCultist_1|Abyssal Hatred Cultist||Cultista do Ódio Abissal||||심연의 증오 광신도||
-e_abyssalHatredCultist_2|Malevolent Zealot||Fanático Malevolente||||||
+e_abyssalHatredCultist_2|Malevolent Zealot||Fanático Malevolente||||악의적인 광신자||
 e_abyssalHatredCultist_3|High Cultist of the Abyss||Grande Cultista do Abismo||||심연의 고위 제사장||
 |||||||||
 e_hatredcladRattlebone_1|Hatredclad Rattlebone Warrior||Guerreiro Hatredclad Rattlebone||||증오로 뒤덮인 래틀본 전사||
@@ -1049,14 +1049,14 @@ e_hatredcladRattlebone_3|Vengeance Legionnaire||Legionário da Vingança||||복�
 |||||||||
 e_shadowborneWraith_1|Shadowborne Wraith of Hatred||Espectral Sombrio do Ódio||||증오의 그림자 망령||
 e_shadowborneWraith_2|Umbral Specter||Espectro Umbral||||어둠의 유령||
-e_shadowborneWraith_3|Harbringer of Wrath||Mensageiro da Ira||||||
+e_shadowborneWraith_3|Harbringer of Wrath||Mensageiro da Ira||||진노의 전령||
 |||||||||
 e_vengefulSentinel_1|Vengeful Sentinel||Sentinela Vingativo||||복수심에 불타는 파수병||
 e_vengefulSentinel_2|Horned Guardian||Guardião Chifrudo||||뿔 달린 수호자||
 e_vengefulSentinel_3|Hateforged Colossus||Colosso Forjado do Ódio||||증오로 벼려진 거대 골렘||
 |||||||||
 e_wrathshotBoneMarksman_1|Wrathshot Bone Marksman||Atirador Esqueleto||||분노의 뼈 저격수||
-e_wrathshotBoneMarksman_2|Cursed Spine Archer||Arqueiro da Espinha Maldita||||||
+e_wrathshotBoneMarksman_2|Cursed Spine Archer||Arqueiro da Espinha Maldita||||저주받은 척추 궁수||
 e_wrathshotBoneMarksman_3|Necrostorm Arbalest||Arbalete da Tempestade Necrótica||||네크로스톰 석궁||
 |||||||||
 e_demonZealot_1|Demon Zealot||Fanático Demoníaco|Демон - Фанатик|||악마 광신자||Zélote démoniaque
@@ -1084,7 +1084,7 @@ spell_redBeard_0|Anchor Strike||Acerto de Âncora|Якорный удар|||앵�
 spell_redBeard_1|Bomb Barrage||Barragem de Bombas|Шквал бомб|||폭탄 소나기||Barrage de bombes
 spell_redBeard_2|Shiver Me Timbers||Me Arrepia as Pernas|Сотрясите Мои Бревна|||나를 놀라게 해||Frissons
 |||||||||
-e_grimbone_1|Grimbone|Grimbone|Grimbone|Гримбон|Grimbone|Grimbone|Grimbone|Grimbone|Grimbone
+e_grimbone_1|Grimbone|Grimbone|Grimbone|Гримбон|Grimbone|Grimbone||Grimbone|Grimbone
 |||||||||
 e_puppetQueen_1|Puppet Queen||Rainha das Marionetes||||인형 여왕||
 spell_puppetQueen_0|Rain of Judgement||Chuva do Julgamento||||심판의 비||
@@ -1127,14 +1127,14 @@ e_undeadMiner_3|Undead Miner||Mineiro Morto-vivo||||언데드 광부||
 e_nugget_3|Nugget||Nugget||||||
 e_amShaegar_3|Amshaegar||Amshaegar||||||
 e_damienChain_3|Soul Chain||Corrente da Alma||||영혼 사슬||
-e_yoshiMiyamoto_3|Yoshi Miyamoto||Yoshi Miyamoto||||Yoshi Miyamoto||
+e_yoshiMiyamoto_3|Yoshi Miyamoto||Yoshi Miyamoto||||요시 미야모토||
 |||||||||
 [quest enemies]|||||||||
 e_scorchwood_3|Scorchwood||Madeira Chamuscada|Выжженное Дерево|||불타는 나무||Bois brûlé
 e_fragrat_3|Fragrat||Fragrat|Ароматизатор|||||Fragrat
-e_evil_pumpkin_1|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||||Citrouille difforme
-e_evil_pumpkin_2|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||||Citrouille difforme
-e_evil_pumpkin_3|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||||Citrouille difforme
+e_evil_pumpkin_1|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||변형된 호박||Citrouille difforme
+e_evil_pumpkin_2|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||기형 호박||Citrouille difforme
+e_evil_pumpkin_3|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||기형 호박||Citrouille difforme
 e_collector_of_bones_3|Collector of Bones||Colecionador de Ossos|Собиратель костей|||뼈 수집가||Collectionneur d'os
 e_crusher_3|Crusher||Esmagador|Дробилка|||분쇄기||Écraseur
 e_trasher_3|Trasher||Debulhador|Трэшер|||트래셔||Broyeur
@@ -1150,9 +1150,9 @@ mega_rat|Mega Rat|Megarotta|Mega Rato|Мега-Крыса|巨型鼠|メガドブ
 shadow_lantern|Shadow Lantern|Varjolyhty|Lanterna das Sombras|Теневой Фонарь|影子灯笼|シャドーランタン|그림자 등불|Schattenlaterne|Lanterne d'ombre
 valkyrie|Corrupted Valkyrie|Korruptoitunut Valkyrie|Valquíria Corrompida|Испорченная Валькирия|Corrupted Valkyrie|Corrupted Valkyrie|타락한 발키리|Corrupted Valkyrie|Valkyrie corrompue
 e_krampus_1|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus||Satan Klaus|Pire Noël
-unique_odinhuginn|Huginn|Huginn|Huginn|Обнимаю|Huginn|Huginn|Huginn|Huginn|Hugin
+unique_odinhuginn|Huginn|Huginn|Huginn|Обнимаю|Huginn|Huginn||Huginn|Hugin
 unique_odinMuninn|Muninn|Muninn|Muninn|Мунинн|Muninn|Muninn|Muninn|Muninn|Munin
-odin_pillar_enemy|Corrupted Beacon|Corrupted Beacon|Sinalizador Corrompido|Поврежденный Маяк|Corrupted Beacon|Corrupted Beacon||Corrupted Beacon|Balise corrompue
+odin_pillar_enemy|Corrupted Beacon|Corrupted Beacon|Sinalizador Corrompido|Поврежденный Маяк|Corrupted Beacon|Corrupted Beacon|손상된 신호기|Corrupted Beacon|Balise corrompue
 enraged_odin|Enraged Odin|Enraged Odin|Odin Enfurecido|Разгневанный Один|Enraged Odin|Enraged Odin|분노한 오딘|Enraged Odin|Odin enragé
 unique_squishyTheDelicious|Squishy the Delicious|Squishy the Delicious|Squishy, o Delicioso|Мягкий и Вкусный|Squishy the Delicious|Squishy the Delicious|맛있는 스퀴시|Squishy the Delicious|Squishy le délicieux
 odin_skeleton|Skeleton Guardian|Skeleton Guardian|Guardião Esqueleto|Скелет - Страж|Skeleton Guardian|Skeleton Guardian|해골 수호자|Skeleton Guardian|Gardien Squelette
@@ -1183,7 +1183,7 @@ spell_spit|Spit|Sylkäisy|Cuspir|Плюнуть|吐|串|침|Spucke|Cracher
 spell_stomp|Stomp|Tallonta|Pisar|Топать|重踏|ストンプ|스톰프|Stampfen|Pilonnage
 spell_molten_explosion|Molten Explosion|Sula Räjähdys|Explosão Fundida|Взрыв расплавленного вещества|熔融爆炸|溶融爆発|용융 폭발|Geschmolzene Explosion|Explosion en fusion
 spell_soul_eruption|Soul Eruption|Sielupurkaus|Erupção da Alma|Извержение души|灵魂爆发|魂の噴火|영혼의 분화|Seele Eruption|Éruption de l'âme
-spell_soul_pillar|Soul Pillar||||||||
+spell_soul_pillar|Soul Pillar||||||소울 필라||
 spell_decay|Decay|Lahoaminen|Decair|Распад|腐烂|腐る|부패|Zerfallen|Décrépitude
 [Unique spells]|||||||||
 spell_abomination_1|Burp|Röyhtäisy|Arrotar|Отрыжка|饱嗝儿|げっぷ|트림하다|Rülpsen|Blurp
@@ -1287,7 +1287,7 @@ spell_kungo_2|Earth Spikes|Maapiikit|Espetos de Terra|Шипы Земли|接地
 spell_levitating_horror_0|Soul Bolt|Sielunuoli|Disparo de Almas|Болт Души|灵魂螺栓|魂のボルト|영혼 볼트|Seele Schraube|L'éclair d'âme
 spell_levitating_horror_1|Soul Storm|Sielumyrsky|Tempestade de Almas|Буря в Душе|灵魂风暴|魂の嵐|영혼의 폭풍|Seele Sturm|Tempête d'âme
 spell_mask_0|Devouring Charge|Ahmaisurynnäkkö|Carga Devoradora|Всепожирающий Заряд|吞食费|電荷をむさぼり食います|요금을 삼키려는 듯|Verschlingt Ladung|Charge dévorante
-spell_mevius_0|Nightmare Dimension||Dimensão do Pesadelo||||||
+spell_mevius_0|Nightmare Dimension||Dimensão do Pesadelo||||악몽의 차원||
 spell_mevius_1|Forces of Void||Forças do Vazio||||공허의 세력||
 spell_mevius_2|Wall of Agony||Parede de Agonia||||고통의 벽||
 spell_mevius_3|Unimmune|Epäimmuuni|Imune|Неиммунный|非免疫|非免疫|비 면역|Nicht-Immun|Non immunisé
@@ -1349,25 +1349,25 @@ spell_sung_lee_2|Rain of Doom|Rain of Doom|Chuva de Ruína|Роковой дож
 spell_sung_lee_3|Summon Weapon|Summon Weapon|Convocar Arma|Оружие Призыва|Summon Weapon|Summon Weapon|소환 무기|Summon Weapon|Invocation d'arme
 spell_anubis_0|Meteor Shower|Meteor Shower|Chuva de Meteoros|Метеоритный дождь|Meteor Shower|Meteor Shower|유성우|Meteor Shower|Pluie de météores
 spell_anubis_1|Wall of Thunder|Wall of Thunder|Parede do Trovão|Стена грома|Wall of Thunder|Wall of Thunder|천둥의 벽|Wall of Thunder|Mur de tonnerre
-spell_anubis_2|Wrath of Anubis|Wrath of Anubis|Fúria de Anúbis|Гнев Анубиса|Wrath of Anubis|Wrath of Anubis||Wrath of Anubis|Colère d'Anubis
+spell_anubis_2|Wrath of Anubis|Wrath of Anubis|Fúria de Anúbis|Гнев Анубиса|Wrath of Anubis|Wrath of Anubis|아누비스의 분노|Wrath of Anubis|Colère d'Anubis
 spell_corrupted_viking_0|Axe Throw||Arremesso de Machado|Бросок топора|||도끼 던지기||Lancer de hache
 spell_naga_warrior_0|Explosive Charge||Carga Explosiva|Заряд взрывчатого вещества|||폭발물 장치||Charge explosive
-spell_naga_archer_0|Scatter Bombs||Bombas Espalhadas|Разбрасывать бомбы|||||Dispersion des bombes
+spell_naga_archer_0|Scatter Bombs||Bombas Espalhadas|Разбрасывать бомбы|||산탄 폭탄||Dispersion des bombes
 spell_orc_warrior_0|Battle Rage||Fúria de Batalha|Боевая Ярость|||전투 격노||Rage de la bataille
 spell_orc_hunter_0|Bouncing Stones||Pedras Saltitantes|Прыгающие Камни|||튕기는 돌||Pierres rebondissantes
-spell_sheep_king_0|Balls of Wool||Bolas de Lã|Клубки шерсти|||||Boules de laine
-spell_sheep_king_1|Sweet Death||Doce Morte|Сладкая Смерть|||||Mort douce
+spell_sheep_king_0|Balls of Wool||Bolas de Lã|Клубки шерсти|||양털 공||Boules de laine
+spell_sheep_king_1|Sweet Death||Doce Morte|Сладкая Смерть|||달콤한 죽음||Mort douce
 spell_sheep_king_2|Baaaaaa||Baaaaaaa|Бааааааа|||||Bééééééé !
 spell_unholy_monstrosity_0|Blood Gush||Esguicho de Sangue|Хлынувшая кровь|||피가 솟구침||Jaillissement de sang
 spell_amazon_spear_0|Javelin Throw||Arremesso de Dardo|Метание копья|||창 던지기||Lancer de javelot
 spell_alien_melee_0|Alienation||Alienação|Отчуждение|||소외||Aliénation
 spell_alien_ranged_0|Barrage||Barragem|Шквал|||탄막||Barrage
 spell_samurai_skeleton_0|Katanoshi||Katanoshi|Катаноши|||||Katanoshi
-spell_samurai_archer_0|Storm Arrows||Flechas da Tempestade|Штормовые Стрелы|||||Flèches d'orage
+spell_samurai_archer_0|Storm Arrows||Flechas da Tempestade|Штормовые Стрелы|||폭풍 화살||Flèches d'orage
 spell_ghost_skeleton_0|Spectral Army||Exército Espectral|Призрачная Армия|||유령 군대||Armée spectrale
 spell_ghost_skeleton_archer_0|Crippling Chains||Correntes Deformadas|Калечащие Цепи|||절단의 사슬||Chaînes incapacitantes
 spell_skeletal_trooper_0|Ambush||Emboscada|Засада|||매복||Embuscade
-spell_skeletal_trooper_1|Giant Slash||Corte Gigante|Гигантский Разрез|||||Tranche géante
+spell_skeletal_trooper_1|Giant Slash||Corte Gigante|Гигантский Разрез|||거대한 베기||Tranche géante
 spell_skeletal_marksman_0|Empowered Shot||Tiro Fortalecido|Мощный Выстрел|||강화된 사격||Tir puissant
 spell_chilling_marksman_0|Marked for Frost||Marcado para Congelar|Помечен для Заморозков|||냉기로 표시됨||Marqué par le gel
 spell_forest_troll_0|Ground Pound||Batida no Chão|Измельченный Фунт|||그라운드 파운드||Martelage
@@ -1382,19 +1382,19 @@ spell_odin_phase_1_3|Summon Raven||Invocar Corvo|Призови Ворона|||�
 spell_muninn_0|Corrupted Memories||Memórias Corrompidas|Искаженные Воспоминания|||손상된 기억||Souvenirs troublés
 spell_huginn_0|Fearful Thoughts||Pensamentos de Medo|Страшные Мысли|||두려운 생각들||Pensées effrayantes
 |||||||||
-spell_odin_phase_2_0|Ground Smash||Esmagamento|Удар о землю|||||Impact
+spell_odin_phase_2_0|Ground Smash||Esmagamento|Удар о землю|||대지 강타||Impact
 spell_odin_phase_2_1|Meteor Shower||Chuva de Meteoros|Метеоритный дождь|||유성우||Pluie de météorites
 spell_odin_phase_2_2|Shove||Empurrão|Толкать|||||Poussée
 spell_odin_phase_2_3|Engulfing Flames||Engolir em Chamas|Всепоглощающее Пламя|||모든 것을 삼키는 불길||Flammes dévorantes
-spell_odin_phase_2_4|Last Stand||Última Posição|Последняя битва|||||Dernier combat
-spell_odin_phase_2_pillar_0|Repel Wave||Onda Repelente|Отталкивающая Волна|||||Vague de répulsion
+spell_odin_phase_2_4|Last Stand||Última Posição|Последняя битва|||최후의 저항||Dernier combat
+spell_odin_phase_2_pillar_0|Repel Wave||Onda Repelente|Отталкивающая Волна|||물결 격퇴||Vague de répulsion
 |||||||||
 spell_grimbone_0|Summon Undead||Invocar Mortos|Призывать Нежить|||언데드 소환||Invocation de morts-vivants
 spell_grimbone_1|Pincer Charge||Avanço de Pinça|Заряд клещей|||협공 돌격||Charge tenaille
-spell_grimbone_2|Shadow Cleave||Cutilação das Sombras|Расщепление Тени|||||Purge de l'ombre
+spell_grimbone_2|Shadow Cleave||Cutilação das Sombras|Расщепление Тени|||어둠의 베기||Purge de l'ombre
 spell_grimbone_3|Grim Fissure||Fissura Sombria|Мрачная Трещина|||어두운 균열||Fissure sinistre
 |||||||||
-spell_valkyrie_0|Impale||Empalar|Пронзить|||||Empaler
+spell_valkyrie_0|Impale||Empalar|Пронзить|||꿰뚫다||Empaler
 spell_valkyrie_1|Unholy Blast||Explosão Profana|Нечестивый Взрыв|||불경한 폭발||Souffle impie
 spell_valkyrie_2|Call of the Valkyrie||Chamado das Valquírias|Зов валькирии|||발키리의 부름||Appel de la Valkyrie
 spell_valkyrie_3|Rain of Spears||Chuva de Lanças|Дождь из Копий|||창의 비||Pluie de lances
@@ -1413,7 +1413,7 @@ championEnraged|Enraged||Enfurecido||||격노한||
 championHaunted|Haunted||Assombrado||||유령이 나오는||
 championVampiric|Vampiric||Vampírico||||흡혈||
 championFallenAngel|Fallen Angel||Anjo Caído||||타락한 천사||
-championBurstShot|Burst Shot||Tiro em Rajada||||||
+championBurstShot|Burst Shot||Tiro em Rajada||||연속 사격||
 championColossus|Colossus||Colosso ||||거대괴수||
 ancientPossessed|Possessed||Possuído||||빙의됨||
 ancientExtraFast|Extra Fast||Extra-rápido||||초고속||
@@ -1435,5 +1435,5 @@ ancientGuardianOfHell|Guardian of Hell||Guardião do Inferno||||지옥의 수호
 ancientBloating|Bloating||||||팽창||
 ancientSharpShooter|Sharpshooter||||||명사수||
 ancientPyromaniac|Pyromaniac||||||방화광||
-ancientBerserker|Berserker||||||||
+ancientBerserker|Berserker||||||버서커||
 ancientProximityTangible|Proximity Tangible||||||근접 가시화||

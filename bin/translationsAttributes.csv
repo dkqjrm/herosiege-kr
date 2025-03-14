@@ -873,26 +873,26 @@ craft_destroy_sockets|Empty Sockets|Tyhjät pistorasiat|Engastes Vazios|Пуст
 craft_re_roll_charm|Re-Roll Affixes|Rullaa kiinnitykset uudelleen|Rolar Afixos|Переброска аффиксов|重滚动词缀|アフィックスを再ロール|접사 재굴리기|Affixierungen neu würfeln|Relancer les affixes
 craft_angelic_augment|Angelic Augment|Enkelinen lisäys|Ampliamento Angelical|Ангельское улучшение|天使增强|天使の強化|천사 증강|Engelhafte Verstärkung|Augmentation angélique
 craft_common_item|Common White Item|Yhteinen valkoinen esine |Item Branco Comum|Обычный белый предмет |普通白色物品 |一般的な白のアイテム |일반 화이트 아이템 |Gewöhnlicher weißer Gegenstand |Objet blanc commun 
-craft_satanic_common|Common Star Level+||||||||
+craft_satanic_common|Common Star Level+||||||일반 별 등급+||
 craft_satanic_common_d|Common [D] Star Level+||||||일반 [D] 별 등급+||
 craft_satanic_common_c|Common [C] Star Level+||||||일반 [C] 스타 레벨+||
-craft_satanic_common_b|Common [B] Star Level+||||||||
-craft_satanic_common_a|Common [A] Star Level+||||||||
+craft_satanic_common_b|Common [B] Star Level+||||||일반 [B] 별 레벨+||
+craft_satanic_common_a|Common [A] Star Level+||||||일반 [A] 별 레벨+||
 craft_satanic_common_s|Common [S] Star Level+||||||일반 [S] 스타 레벨+||
 craft_satanic_d|Satanic [D] Star Level+||||||사탄의 [D] 스타 레벨+||
 craft_satanic_c|Satanic [C] Star Level+||||||사탄의 [C] 스타 레벨+||
 craft_satanic_b|Satanic [B] Star Level+||||||사탄 [B] 스타 레벨+||
 craft_satanic_a|Satanic [A] Star Level+||||||사탄의 [A] 스타 레벨+||
-craft_satanic_s|Satanic [S] Star Level+||||||||
+craft_satanic_s|Satanic [S] Star Level+||||||사탄의 [S] 스타 레벨+||
 craft_satanic_ss|Satanic [SS] Star Level+||||||사탄의 [SS] 스타 레벨+||
-craft_satanic_heroic|Heroic Star Level+||||||||
+craft_satanic_heroic|Heroic Star Level+||||||영웅의 별 레벨+||
 craft_satanic_angelic|Angelic / Unholy Star Level+||||||천사 / 불경한 별 레벨+||
 craft_any_satanic|Any Satanic Item|Mikä tahansa saatanallinen esine|Qualquer Item Satânico|Любой сатанинский предмет|任何撒旦物品|あらゆるサタニックアイテム|모든 사탄 아이템|Jeder satanische Gegenstand|Tout objet satanique
 craft_any_common|Any Common Item|Mikä tahansa yhteinen kohde|Qualquer item comum |Любой обычный предмет|任何普通物品|あらゆる一般アイテム|모든 일반 아이템|Jeder gewöhnliche Gegenstand|Tout objet commun
 craft_tier_dust|Satanic Crystal Fragment||||||사탄의 크리스탈 조각||
 craft_mythic_dust|Mythic Dust based on Tier|Mythic Dust perustuu tasoon|||||티어에 따른 신화의 먼지||
 craft_weapon_augment_ranger|Random Ranged Weapon Augment|Random Ranged Weapon Augment|Ampliamento Aleatório de Armas de Longo Alcance||||랜덤 원거리 무기 강화||
-craft_weapon_augment_warrior|Random Melee Weapon Augment|Satunnainen lähitaistelu aseen lisäys|Ampliamento Aleatório de Armas Corpo a Corpo||||||
+craft_weapon_augment_warrior|Random Melee Weapon Augment|Satunnainen lähitaistelu aseen lisäys|Ampliamento Aleatório de Armas Corpo a Corpo||||무작위 근접 무기 강화||
 craft_weapon_augment_mage|Random Caster Weapon Augment|Random Caster Weapon Augment|Ampliamento Aleatório de Armas de Conjurador||||무작위 캐스터 무기 강화||
 craft_weapon_augment_level|Weapon Augment Level|Aseen lisäyksen taso|Nível do Ampliamento de Arma|Глиф |字形 |グリフ |글리프 |Glyphe |Glyphe 
 craft_glyph|Glyph|Glyph |Glifo||||글리프||

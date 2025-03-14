@@ -1,247 +1,247 @@
 [zone]|en|fi|pt|ru|zh|ja|ko|de|fr
-Act_01_Pregame|River of Inoya|Inoyan Joki|Rio de Inoya|Река Иноя|以诺亚之河|イノヤ川|이노야의 강 (River of Inoya)|Fluss von Inoya|Rivière d'Inoya
-Act_01_01|Outskirts of Inoya|Inoyan laidalla|Arredores de Inoya|Окраины Инои|伊诺亚郊区|イノヤの郊外|미노야 변두리 (Outskirts of Inoya)|Außenbezirke von Inoya|Abords d'Inoya
-Act_01_02|Fields of Battle|Taistelutanner|Campos de Batalha|Поля сражений|战场之地|バトルのフィールド|전장 (Fields of Battle)|Schlachtfelder|Champs de bataille
-Act_01_03|The Pumpkin Patch|Kurpitsapelto|O Canteiro de Abóboras|Тыквенная Грядка|南瓜地|パンプキン・パッチ（かぼちゃ畑）|호박밭 (The Pumpkin Patch)|Der Kürbis Aufnäher|Champs de citrouilles
-Act_01_04|Woodhill Plains||Planícies de Woodhill|Вудхиллские равнины|||우드힐 평원 (Woodhill Plains)||Plaines des collines boisées
-Act_01_04_02|Village of Lamia||Vilarejo de Lamia||||라미아 마을 (Village of Lamia)||
-Act_01_05|King's Garden|Kuninkaan puutarha|Jardim do Rei|Королевский сад|国王的花园|キングのガーデン|왕실 정원 (King's Garden)|Königsgarten|Jardin du roi
-Act_01_02_02|Witching River||Rio das Bruxas||||마녀의 강 (Witching River)||
+Act_01_Pregame|River of Inoya|Inoyan Joki|Rio de Inoya|Река Иноя|以诺亚之河|イノヤ川|이노야의 강 (River of Inoya) (River of Inoya)|Fluss von Inoya|Rivière d'Inoya
+Act_01_01|Outskirts of Inoya|Inoyan laidalla|Arredores de Inoya|Окраины Инои|伊诺亚郊区|イノヤの郊外|미노야 변두리 (Outskirts of Inoya) (Outskirts of Inoya)|Außenbezirke von Inoya|Abords d'Inoya
+Act_01_02|Fields of Battle|Taistelutanner|Campos de Batalha|Поля сражений|战场之地|バトルのフィールド|전장 (Fields of Battle) (Fields of Battle)|Schlachtfelder|Champs de bataille
+Act_01_03|The Pumpkin Patch|Kurpitsapelto|O Canteiro de Abóboras|Тыквенная Грядка|南瓜地|パンプキン・パッチ（かぼちゃ畑）|호박밭 (The Pumpkin Patch) (The Pumpkin Patch)|Der Kürbis Aufnäher|Champs de citrouilles
+Act_01_04|Woodhill Plains||Planícies de Woodhill|Вудхиллские равнины|||우드힐 평원 (Woodhill Plains) (Woodhill Plains)||Plaines des collines boisées
+Act_01_04_02|Village of Lamia||Vilarejo de Lamia||||라미아 마을 (Village of Lamia) (Village of Lamia)||
+Act_01_05|King's Garden|Kuninkaan puutarha|Jardim do Rei|Королевский сад|国王的花园|キングのガーデン|왕실 정원 (King's Garden) (King's Garden)|Königsgarten|Jardin du roi
+Act_01_02_02|Witching River||Rio das Bruxas||||마녀의 강 (Witching River) (Witching River)||
 |||||||||
-Act_02_01|Crystal Village|Kristallikylä|Vila de Cristal|Хрустальная Деревня|水晶村庄|クリスタル・ビレッジ|크리스탈 마을 (Crystal Village)|Kristalldorf|Village de cristal
-Act_02_02|Chilling Lake|Hyytävä järvi|Lago Gelado|Леденящее душу Озеро|寒冷之湖|チリング・レーク（寒冷の湖）|얼어붙은 호수 (Chilling Lake)|Kühlender See|Lac gelé
-Act_02_03|Arctic Tundra|Arktinen tundra|Tundra do Ártico|Арктическая Тундра|北极冻土圈|北極ツンドラ|북극 툰드라 (Arctic Tundra)|Arktische Tundra|Toundra arctique
-Act_02_04|Snowy Mountains|Lumivuoret|Montanhas Nevadas|Заснеженные Горы|雪山|雪山|설산 (Snowy Mountains)|Verschneite Berge|Montagnes enneigées
-Act_02_05|The Glacial Trail|Jäätikön Polku|Trilha Glacial|Ледниковая тропа|冰川足迹|氷河トレイル|빙하 흔적 (The Glacial Trail)|Gletscherweg|La piste glaciaire
+Act_02_01|Crystal Village|Kristallikylä|Vila de Cristal|Хрустальная Деревня|水晶村庄|クリスタル・ビレッジ|크리스탈 마을 (Crystal Village) (Crystal Village)|Kristalldorf|Village de cristal
+Act_02_02|Chilling Lake|Hyytävä järvi|Lago Gelado|Леденящее душу Озеро|寒冷之湖|チリング・レーク（寒冷の湖）|얼어붙은 호수 (Chilling Lake) (Chilling Lake)|Kühlender See|Lac gelé
+Act_02_03|Arctic Tundra|Arktinen tundra|Tundra do Ártico|Арктическая Тундра|北极冻土圈|北極ツンドラ|북극 툰드라 (Arctic Tundra) (Arctic Tundra)|Arktische Tundra|Toundra arctique
+Act_02_04|Snowy Mountains|Lumivuoret|Montanhas Nevadas|Заснеженные Горы|雪山|雪山|설산 (Snowy Mountains) (Snowy Mountains)|Verschneite Berge|Montagnes enneigées
+Act_02_05|The Glacial Trail|Jäätikön Polku|Trilha Glacial|Ледниковая тропа|冰川足迹|氷河トレイル|빙하 흔적 (The Glacial Trail) (The Glacial Trail)|Gletscherweg|La piste glaciaire
 |||||||||
-Act_03_01|Corrupted Oasis||||||타락한 오아시스 (Corrupted Oasis)||
-Act_03_02|Dry Hills|Kuivat kukkulat|Colinas Secas|Сухие Холмы|干燥丘陵|ドライ・ヒルズ|메마른 언덕 (Dry Hills)|Trockene Hügel|Collines arides
-Act_03_03|Mos'Arathim Desert|Mos'Arathim aavikko|Deserto de Mos'Arathim|Пустыня Мосаратим|莫斯阿斯玛沙漠|モスアスマ砂漠|모스'아라팀 사막 (Mos'Arathim Desert)|Mos'Arathim-Wüste|Désert de Mos'Arathim
-Act_03_04|Pyramid Level 1|Pyramidi taso 1|Pirâmide Nível 1|Пирамида Уровня 1|金字塔1层|ピラミッドの1階|피라미드 1층 (Pyramid Level 1)|Pyramide Stufe 1|Pyramide niveau 1
-Act_03_05|Pyramid Level 2|Pyramidi taso 2|Pirâmide Nível 2|Пирамида 2 - го уровня|金字塔2层|ピラミッドの2階|피라미드 2층 (Pyramid Level 2)|Pyramide Stufe 2|Pyramide niveau 2
-Act_03_06|Curacan Hollow||||||큐라칸 할로우 (Curacan Hollow)||
+Act_03_01|Corrupted Oasis||||||타락한 오아시스 (Corrupted Oasis) (Corrupted Oasis)||
+Act_03_02|Dry Hills|Kuivat kukkulat|Colinas Secas|Сухие Холмы|干燥丘陵|ドライ・ヒルズ|메마른 언덕 (Dry Hills) (Dry Hills)|Trockene Hügel|Collines arides
+Act_03_03|Mos'Arathim Desert|Mos'Arathim aavikko|Deserto de Mos'Arathim|Пустыня Мосаратим|莫斯阿斯玛沙漠|モスアスマ砂漠|모스'아라팀 사막 (Mos'Arathim Desert) (Mos'Arathim Desert)|Mos'Arathim-Wüste|Désert de Mos'Arathim
+Act_03_04|Pyramid Level 1|Pyramidi taso 1|Pirâmide Nível 1|Пирамида Уровня 1|金字塔1层|ピラミッドの1階|피라미드 1층 (Pyramid Level 1) (Pyramid Level 1)|Pyramide Stufe 1|Pyramide niveau 1
+Act_03_05|Pyramid Level 2|Pyramidi taso 2|Pirâmide Nível 2|Пирамида 2 - го уровня|金字塔2层|ピラミッドの2階|피라미드 2층 (Pyramid Level 2) (Pyramid Level 2)|Pyramide Stufe 2|Pyramide niveau 2
+Act_03_06|Curacan Hollow||||||큐라칸 할로우 (Curacan Hollow) (Curacan Hollow)||
 |||||||||
-Act_04_01|Old Mining Village|Vanha kaivoskylä|Velha Aldeia de Mineração|Старая Шахтерская Деревня|旧矿村|旧い鉱業村|오래된 광산 마을 (Old Mining Village)|Altes Bergbau-Dorf|Ancien village minier
-Act_04_02|The Highland Mines|Ylängön kaivos|As Minas das Terras Altas|Горные Рудники|高地矿场|高原鉱区|고지 광산 (The Highland Mines)|Die Highland Minen|Les mines des hautes terres
-Act_04_03|Corrupted Cave|Korruptoitunut luola|Caverna Corrompida|Испорченная Пещера|腐化洞穴|壊れた洞窟|타락한 동굴 (Corrupted Cave)|Verderbte Höhle|Grotte corrompue
-Act_04_04|The Nightmare|Painajainen|O Pesadelo|Кошмар|梦魇|ナイトメア|나이트메어 (The Nightmare)|Der Alptraum|Le cauchemar
-Act_04_05|The Devil's Breach|Paholaisen aukko|A Fenda do Diabo|Дьявольская брешь|恶魔突破口|悪魔の突破口|악마의 골짜기 (The Devil's Breach)|Teufelsbruch|La brèche du diable
+Act_04_01|Old Mining Village|Vanha kaivoskylä|Velha Aldeia de Mineração|Старая Шахтерская Деревня|旧矿村|旧い鉱業村|오래된 광산 마을 (Old Mining Village) (Old Mining Village)|Altes Bergbau-Dorf|Ancien village minier
+Act_04_02|The Highland Mines|Ylängön kaivos|As Minas das Terras Altas|Горные Рудники|高地矿场|高原鉱区|고지 광산 (The Highland Mines) (The Highland Mines)|Die Highland Minen|Les mines des hautes terres
+Act_04_03|Corrupted Cave|Korruptoitunut luola|Caverna Corrompida|Испорченная Пещера|腐化洞穴|壊れた洞窟|타락한 동굴 (Corrupted Cave) (Corrupted Cave)|Verderbte Höhle|Grotte corrompue
+Act_04_04|The Nightmare|Painajainen|O Pesadelo|Кошмар|梦魇|ナイトメア|나이트메어 (The Nightmare) (The Nightmare)|Der Alptraum|Le cauchemar
+Act_04_05|The Devil's Breach|Paholaisen aukko|A Fenda do Diabo|Дьявольская брешь|恶魔突破口|悪魔の突破口|악마의 골짜기 (The Devil's Breach) (The Devil's Breach)|Teufelsbruch|La brèche du diable
 |||||||||
-Act_05_01|Mt. Fuji|Fuji vuori|Mt. Fuji|Гора Фудзи|富士山|富士山|후지산 (Mt. Fuji)|Fuji Berg|Mont Fuji
-Act_05_02|Misty Swamp|Sumuinen suo|Pântano Enevoado|Туманное Болото|迷雾沼泽|ミスティ・スワンプ|안개 낀 늪 (Misty Swamp)|Nebliger Sumpf|Marais brumeux
-Act_05_03|Fuji Coast|Fujin rannikko|Litoral de Fuji|Побережье Фудзи|富士海岸|富士海岸|후지 해변 (Fuji Coast)|Fuji-Küste|Côte de Fuji
-Act_05_04|Sea of Karponia|Karponian meri|Mar de Karponia|Карпонийское море|卡普尼亚之海|カルポニアの海|잉오니아의 바다 (Sea of Karponia)|Karponisches Meer|Mer de Karponia
-Act_05_05|Temple of Zamjo|Zamjon temppeli|Templo de Zamjo|Храм Замджо|山庙|ザンジョーの神殿|잠조의 사원 (Temple of Zamjo)|Tempel von Zamjo|Temple de Zamjo
+Act_05_01|Mt. Fuji|Fuji vuori|Mt. Fuji|Гора Фудзи|富士山|富士山|후지산 (Mt. Fuji) (Mt. Fuji)|Fuji Berg|Mont Fuji
+Act_05_02|Misty Swamp|Sumuinen suo|Pântano Enevoado|Туманное Болото|迷雾沼泽|ミスティ・スワンプ|안개 낀 늪 (Misty Swamp) (Misty Swamp)|Nebliger Sumpf|Marais brumeux
+Act_05_03|Fuji Coast|Fujin rannikko|Litoral de Fuji|Побережье Фудзи|富士海岸|富士海岸|후지 해변 (Fuji Coast) (Fuji Coast)|Fuji-Küste|Côte de Fuji
+Act_05_04|Sea of Karponia|Karponian meri|Mar de Karponia|Карпонийское море|卡普尼亚之海|カルポニアの海|잉오니아의 바다 (Sea of Karponia) (Sea of Karponia)|Karponisches Meer|Mer de Karponia
+Act_05_05|Temple of Zamjo|Zamjon temppeli|Templo de Zamjo|Храм Замджо|山庙|ザンジョーの神殿|잠조의 사원 (Temple of Zamjo) (Temple of Zamjo)|Tempel von Zamjo|Temple de Zamjo
 |||||||||
-Act_06_01|Highland Graveyard|Ylängön hautuumaa|Cemitério das Terras Altas|Высокогорное кладбище|墓园高地|高原墓地|고원 묘지 (Highland Graveyard)|Highland-Friedhof|Cimetière des hautes terres
-Act_06_02|The Cathedral|Katedraali|A Catedral|Кафедральный собор|大教堂|大聖堂|성당 (The Cathedral)|Die Kathedrale|La cathédrale
-Act_06_03|Prison Dungeon|Vankityrmä|Calabouço da Prisão|Тюремное Подземелье|监狱地牢|プリズン・ダンジョン|지하 감옥 (Prison Dungeon)|Gefängnis-Verlies|Prison du donjon
-Act_06_04|Steam Train|Höyryjuna|Trem a Vapor|Паровоз|蒸汽火车|蒸気機関車|증기 기관차 (Steam Train)|Dampfzug|Train à vapeur
-Act_06_05|The Depths of Hell|Helvetin syöverit|As Profundezas do Inferno|Глубины ада|地狱深处|地獄の奥底|지옥의 끝 (The Depths of Hell)|Die Tiefen der Hölle|Les profondeurs de l'enfer
+Act_06_01|Highland Graveyard|Ylängön hautuumaa|Cemitério das Terras Altas|Высокогорное кладбище|墓园高地|高原墓地|고원 묘지 (Highland Graveyard) (Highland Graveyard)|Highland-Friedhof|Cimetière des hautes terres
+Act_06_02|The Cathedral|Katedraali|A Catedral|Кафедральный собор|大教堂|大聖堂|성당 (The Cathedral) (The Cathedral)|Die Kathedrale|La cathédrale
+Act_06_03|Prison Dungeon|Vankityrmä|Calabouço da Prisão|Тюремное Подземелье|监狱地牢|プリズン・ダンジョン|지하 감옥 (Prison Dungeon) (Prison Dungeon)|Gefängnis-Verlies|Prison du donjon
+Act_06_04|Steam Train|Höyryjuna|Trem a Vapor|Паровоз|蒸汽火车|蒸気機関車|증기 기관차 (Steam Train) (Steam Train)|Dampfzug|Train à vapeur
+Act_06_05|The Depths of Hell|Helvetin syöverit|As Profundezas do Inferno|Глубины ада|地狱深处|地獄の奥底|지옥의 끝 (The Depths of Hell) (The Depths of Hell)|Die Tiefen der Hölle|Les profondeurs de l'enfer
 |||||||||
-Act_07_01|Deep Space|Syvä Avaruus|Espaço Profundo|Глубокий Космос|深空|ディープスペース|깊은 공간 (Deep Space)|Tiefer Raum|Espace lointain
-Act_07_02|Event Horizon|Tapahtumahorisontti|Horizonte de Eventos|Горизонт Событий|视界|イベントホライズン|사상의 지평선 (Event Horizon)|Event-Horizont|Horizon des événements
-Act_07_03|The Black Hole|Musta Aukko|O Buraco Negro|Черная Дыра|黑洞|ブラックホール|블랙홀 (The Black Hole)|Das schwarze Loch|Le trou noir
-Act_07_04|Parallel Dimension|Vastakkainen Todellisuus|Dimensão Paralela|Параллельное Измерение|平行维度|パラレルディメンション|평행 차원 (Parallel Dimension)|Paralleldimension|Dimension parallèle
-Act_07_05|Subconscious Mind|Alitajunta|Mente Subconsciente|Подсознательный Разум|潜意识思想|潜在意識|잠재 의식 (Subconscious Mind)|Unterbewusstsein|Le subconscient
+Act_07_01|Deep Space|Syvä Avaruus|Espaço Profundo|Глубокий Космос|深空|ディープスペース|깊은 공간 (Deep Space) (Deep Space)|Tiefer Raum|Espace lointain
+Act_07_02|Event Horizon|Tapahtumahorisontti|Horizonte de Eventos|Горизонт Событий|视界|イベントホライズン|사상의 지평선 (Event Horizon) (Event Horizon)|Event-Horizont|Horizon des événements
+Act_07_03|The Black Hole|Musta Aukko|O Buraco Negro|Черная Дыра|黑洞|ブラックホール|블랙홀 (The Black Hole) (The Black Hole)|Das schwarze Loch|Le trou noir
+Act_07_04|Parallel Dimension|Vastakkainen Todellisuus|Dimensão Paralela|Параллельное Измерение|平行维度|パラレルディメンション|평행 차원 (Parallel Dimension) (Parallel Dimension)|Paralleldimension|Dimension parallèle
+Act_07_05|Subconscious Mind|Alitajunta|Mente Subconsciente|Подсознательный Разум|潜意识思想|潜在意識|잠재 의식 (Subconscious Mind) (Subconscious Mind)|Unterbewusstsein|Le subconscient
 |||||||||
-Act_08_01|Forest of the Slain|Surmattujen metsä|Floresta dos Mortos|Лес убитых|被杀死的森林|殺された森|학살의 숲 (Forest of the Slain)|Wald der Erschlagenen|Forêt des défunts
-Act_08_02|Flooded Plains|Tulinut tasanko|Planícies Inundadas|Затопленные Равнины|泛滥的平原|氾濫した平原|침수 평야 (Flooded Plains)|Überflutete Ebenen|Plaines inondées
-Act_08_03|Forgotten Caves|Unohdetut luolat|Cavernas Esquecidas|Забытые Пещеры|被遗忘的洞穴|忘れられた洞窟|잊혀진 동굴 (Forgotten Caves)|Vergessene Höhlen|Grottes oubliées
-Act_08_04|Camp of Souls|Sielujen leiri|Acampamento das Almas|Лагерь душ|灵魂营|魂のキャンプ|영혼의 캠프 (Camp of Souls)|Lager der Seelen|Camp des âmes
-Act_08_05|Helheim|Helheim|Helheim|Helheim|海尔海姆|ヘルヘイム|헬헤임 (Helheim)|Helheim|Helheim
+Act_08_01|Forest of the Slain|Surmattujen metsä|Floresta dos Mortos|Лес убитых|被杀死的森林|殺された森|학살의 숲 (Forest of the Slain) (Forest of the Slain)|Wald der Erschlagenen|Forêt des défunts
+Act_08_02|Flooded Plains|Tulinut tasanko|Planícies Inundadas|Затопленные Равнины|泛滥的平原|氾濫した平原|침수 평야 (Flooded Plains) (Flooded Plains)|Überflutete Ebenen|Plaines inondées
+Act_08_03|Forgotten Caves|Unohdetut luolat|Cavernas Esquecidas|Забытые Пещеры|被遗忘的洞穴|忘れられた洞窟|잊혀진 동굴 (Forgotten Caves) (Forgotten Caves)|Vergessene Höhlen|Grottes oubliées
+Act_08_04|Camp of Souls|Sielujen leiri|Acampamento das Almas|Лагерь душ|灵魂营|魂のキャンプ|영혼의 캠프 (Camp of Souls) (Camp of Souls)|Lager der Seelen|Camp des âmes
+Act_08_05|Helheim|Helheim|Helheim|Helheim|海尔海姆|ヘルヘイム|헬헤임 (Helheim) (Helheim)|Helheim|Helheim
 |||||||||
-Act_08_Valkyrie|Plain of Ida|Idan tasanko|Planícies de Ida|Равнина Иды|Plain of Ida|Plain of Ida|이다 평원 (Plain of Ida)|Plain of Ida|Plaine d'Ida
-Act_08_Valhalla|Gates of Valhalla|Valhallan portit|Portões de Valhalla|Врата Валгаллы|瓦尔哈拉之门|ヴァルハラの門|발할라의 문 (Gates of Valhalla)|Tore von Walhalla|Portes du Valhalla
-Act_08_River|River Gjöll|Gjöll-joki|Rio Gjöll|Река Йель|杰尔河|ギョッル川|Gjöll 강 (River Gjöll)|Fluss Gjöll|Rivière Gjöll
-Act_08_Mevius_Intro|Memory of Mevius|Meviuksen muisto|Memória de Mevius|Память о Мевиусе|记忆的Mevius|メビウスの記憶|뫼비우스의 기억 (Memory of Mevius)|Erinnerung an Mevius|Mémoire de Mevius
-Act_08_Helheim|Gates of Helheim|Helheimin portti|Portões de Helheim|Врата Хельхейма|Gates of Helheim|Gates of Helheim|헬헤임의 문 (Gates of Helheim)|Gates of Helheim|Portes de Helheim
-Grindfest_Orres_Lair_rm|Örre's Lair|Örren pesä|Covil de Örre|Логово Эрре|Örre's Lair|Örre's Lair||Örre's Lair|Tanière d'Örre
-Act_08_03_TrollQuest_Room_rm|Refugee Camp|Pakolaisleiri|Campo de Refugiados|Лагерь беженцев|Refugee Camp|Refugee Camp|난민 캠프 (Refugee Camp)|Refugee Camp|Camp de réfugiés
+Act_08_Valkyrie|Plain of Ida|Idan tasanko|Planícies de Ida|Равнина Иды|Plain of Ida|Plain of Ida|이다 평원 (Plain of Ida) (Plain of Ida)|Plain of Ida|Plaine d'Ida
+Act_08_Valhalla|Gates of Valhalla|Valhallan portit|Portões de Valhalla|Врата Валгаллы|瓦尔哈拉之门|ヴァルハラの門|발할라의 문 (Gates of Valhalla) (Gates of Valhalla)|Tore von Walhalla|Portes du Valhalla
+Act_08_River|River Gjöll|Gjöll-joki|Rio Gjöll|Река Йель|杰尔河|ギョッル川|Gjöll 강 (River Gjöll) (River Gjöll)|Fluss Gjöll|Rivière Gjöll
+Act_08_Mevius_Intro|Memory of Mevius|Meviuksen muisto|Memória de Mevius|Память о Мевиусе|记忆的Mevius|メビウスの記憶|뫼비우스의 기억 (Memory of Mevius) (Memory of Mevius)|Erinnerung an Mevius|Mémoire de Mevius
+Act_08_Helheim|Gates of Helheim|Helheimin portti|Portões de Helheim|Врата Хельхейма|Gates of Helheim|Gates of Helheim|헬헤임의 문 (Gates of Helheim) (Gates of Helheim)|Gates of Helheim|Portes de Helheim
+Grindfest_Orres_Lair_rm|Örre's Lair|Örren pesä|Covil de Örre|Логово Эрре|Örre's Lair|Örre's Lair|오레의 소굴 (Örre's Lair)|Örre's Lair|Tanière d'Örre
+Act_08_03_TrollQuest_Room_rm|Refugee Camp|Pakolaisleiri|Campo de Refugiados|Лагерь беженцев|Refugee Camp|Refugee Camp|난민 캠프 (Refugee Camp) (Refugee Camp)|Refugee Camp|Camp de réfugiés
 |||||||||
-Act_01_Boss|King's Throne||Trono do Rei|Королевский трон|||왕의 왕좌 (King's Throne)||Salle du trône du roi
-Act_02_Boss|Death’s Breach||Fenda do Ceifador|Брешь смерти|||죽음의 균열 (Death’s Breach)||Brèche de la Mort
-Act_03_Boss|Tomb of the Fallen King||Tumba do Rei Caído|Гробница Павшего короля|||쓰러진 왕의 무덤 (Tomb of the Fallen King)||Tombeau du roi déchu
-Act_04_Boss|Altar of Lost Souls||Altar das Almas Perdidas|Алтарь Потерянных душ|||잃어버린 영혼의 제단 (Altar of Lost Souls)||Autel des âmes perdues
-Act_05_Boss|Emperor’s Chamber||Câmara do Imperador|Покои императора|||||Chambre de l'empereur
-Act_06_Boss|Seventh Layer of Hell|Helvetin seitsemäs taso|Sétima Camada do Inferno|Седьмой уровень ада|地狱第七层|地獄の第七層|지옥의 7층 (Seventh Layer of Hell)|Siebte Schicht der Hölle|Septième étage de l'enfer
-Act_07_Boss|The Verge of Insanity|Hulluuden Raja|Á Beira da Insanidade|На грани Безумия|疯狂的边缘|狂気の瀬戸際|광기의 직전 (The Verge of Insanity)|Der Rand des Wahnsinns|Le bord de la folie
-Act_08_Boss|Throne of Helheim||Trono de Helheim|Трон Хельхейма|||헬헤임의 왕좌 (Throne of Helheim)||Trône de Helheim
+Act_01_Boss|King's Throne||Trono do Rei|Королевский трон|||왕의 왕좌 (King's Throne) (King's Throne)||Salle du trône du roi
+Act_02_Boss|Death’s Breach||Fenda do Ceifador|Брешь смерти|||죽음의 균열 (Death’s Breach) (Death’s Breach)||Brèche de la Mort
+Act_03_Boss|Tomb of the Fallen King||Tumba do Rei Caído|Гробница Павшего короля|||쓰러진 왕의 무덤 (Tomb of the Fallen King) (Tomb of the Fallen King)||Tombeau du roi déchu
+Act_04_Boss|Altar of Lost Souls||Altar das Almas Perdidas|Алтарь Потерянных душ|||잃어버린 영혼의 제단 (Altar of Lost Souls) (Altar of Lost Souls)||Autel des âmes perdues
+Act_05_Boss|Emperor’s Chamber||Câmara do Imperador|Покои императора|||황제의 방 (Emperor’s Chamber)||Chambre de l'empereur
+Act_06_Boss|Seventh Layer of Hell|Helvetin seitsemäs taso|Sétima Camada do Inferno|Седьмой уровень ада|地狱第七层|地獄の第七層|지옥의 7층 (Seventh Layer of Hell) (Seventh Layer of Hell)|Siebte Schicht der Hölle|Septième étage de l'enfer
+Act_07_Boss|The Verge of Insanity|Hulluuden Raja|Á Beira da Insanidade|На грани Безумия|疯狂的边缘|狂気の瀬戸際|광기의 직전 (The Verge of Insanity) (The Verge of Insanity)|Der Rand des Wahnsinns|Le bord de la folie
+Act_08_Boss|Throne of Helheim||Trono de Helheim|Трон Хельхейма|||헬헤임의 왕좌 (Throne of Helheim) (Throne of Helheim)||Trône de Helheim
 |||||||||
-Act_01_Boss_Dungeon_01|Northern Post||Posto do Norte|Северный пост|||북부 초소 (Northern Post)||Poste du Nord
-Act_01_Boss_Dungeon_02|Old Mausoleum||Mausoléu Antigo|Старый Мавзолей|||오래된 영묘 (Old Mausoleum)||Ancien mausolée
-Act_01_Boss_Dungeon_03|King’s Tomb||Tumba do Rei|Гробница короля|||왕의 무덤 (King’s Tomb)||Tombeau du roi
+Act_01_Boss_Dungeon_01|Northern Post||Posto do Norte|Северный пост|||북부 초소 (Northern Post) (Northern Post)||Poste du Nord
+Act_01_Boss_Dungeon_02|Old Mausoleum||Mausoléu Antigo|Старый Мавзолей|||오래된 영묘 (Old Mausoleum) (Old Mausoleum)||Ancien mausolée
+Act_01_Boss_Dungeon_03|King’s Tomb||Tumba do Rei|Гробница короля|||왕의 무덤 (King’s Tomb) (King’s Tomb)||Tombeau du roi
 |||||||||
-Act_02_Boss_Dungeon_01|Chilling Cavern||Caverna Arrepiante|Леденящая Душу Пещера|||오싹한 동굴 (Chilling Cavern)||Caverne glaciale
-Act_02_Boss_Dungeon_02|Freezing Steppes||Estepes Congelantes|Замерзающие Степи|||얼어붙은 평원 (Freezing Steppes)||Steppes gelées
-Act_02_Boss_Dungeon_03|Chamber of Ice||Câmara de Gelo|Ледяная камера|||얼음의 방 (Chamber of Ice)||Chambre de glace
+Act_02_Boss_Dungeon_01|Chilling Cavern||Caverna Arrepiante|Леденящая Душу Пещера|||오싹한 동굴 (Chilling Cavern) (Chilling Cavern)||Caverne glaciale
+Act_02_Boss_Dungeon_02|Freezing Steppes||Estepes Congelantes|Замерзающие Степи|||얼어붙은 평원 (Freezing Steppes) (Freezing Steppes)||Steppes gelées
+Act_02_Boss_Dungeon_03|Chamber of Ice||Câmara de Gelo|Ледяная камера|||얼음의 방 (Chamber of Ice) (Chamber of Ice)||Chambre de glace
 |||||||||
-Act_03_Boss_Dungeon_01|Sewers of Mos’Arathim||Esgotos de Mos’Arathim|Канализация Мосаратхима|||모스아라팀의 하수구 (Sewers of Mos’Arathim)||Égouts de Mos'Arathim
-Act_03_Boss_Dungeon_02|Ra’s Labyrinth||Labirinto de Ra|Лабиринт Ра|||라의 미로 (Ra’s Labyrinth)||Labyrinthe de Râ
-Act_03_Boss_Dungeon_03|Tomb of Ancients||Tumba dos Anciões|Гробница древних|||고대인의 무덤 (Tomb of Ancients)||Tombe des Anciens
+Act_03_Boss_Dungeon_01|Sewers of Mos’Arathim||Esgotos de Mos’Arathim|Канализация Мосаратхима|||모스아라팀의 하수구 (Sewers of Mos’Arathim) (Sewers of Mos’Arathim)||Égouts de Mos'Arathim
+Act_03_Boss_Dungeon_02|Ra’s Labyrinth||Labirinto de Ra|Лабиринт Ра|||라의 미로 (Ra’s Labyrinth) (Ra’s Labyrinth)||Labyrinthe de Râ
+Act_03_Boss_Dungeon_03|Tomb of Ancients||Tumba dos Anciões|Гробница древних|||고대인의 무덤 (Tomb of Ancients) (Tomb of Ancients)||Tombe des Anciens
 |||||||||
-Act_04_Boss_Dungeon_01|Lair of Corruption||Covil da Corrupção|Логово коррупции|||타락의 소굴 (Lair of Corruption)||Antre de la corruption
-Act_04_Boss_Dungeon_02|Maze of Shadows||Labirinto das Sombras|Лабиринт Теней|||그림자의 미로 (Maze of Shadows)||Labyrinthe des ombres
-Act_04_Boss_Dungeon_03|Chamber of Burning Souls||Câmara das Almas Ardentes|Палата горящих Душ|||불타는 영혼의 방 (Chamber of Burning Souls)||Chambre des âmes brûlantes
+Act_04_Boss_Dungeon_01|Lair of Corruption||Covil da Corrupção|Логово коррупции|||타락의 소굴 (Lair of Corruption) (Lair of Corruption)||Antre de la corruption
+Act_04_Boss_Dungeon_02|Maze of Shadows||Labirinto das Sombras|Лабиринт Теней|||그림자의 미로 (Maze of Shadows) (Maze of Shadows)||Labyrinthe des ombres
+Act_04_Boss_Dungeon_03|Chamber of Burning Souls||Câmara das Almas Ardentes|Палата горящих Душ|||불타는 영혼의 방 (Chamber of Burning Souls) (Chamber of Burning Souls)||Chambre des âmes brûlantes
 |||||||||
-Act_05_Boss_Dungeon_01|Temple of Fishes||Templo de Peixes|Храм рыб|||물고기 사원 (Temple of Fishes)||Temple des poissons
-Act_05_Boss_Dungeon_02|Underground Trench||Trincheira Subterrânea|Подземная Траншея|||지하 참호 (Underground Trench)||Fosse souterraine
-Act_05_Boss_Dungeon_03|The Sacred Temple||O Templo Sagrado|Священный Храм|||성스러운 사원 (The Sacred Temple)||Le temple sacré
+Act_05_Boss_Dungeon_01|Temple of Fishes||Templo de Peixes|Храм рыб|||물고기 사원 (Temple of Fishes) (Temple of Fishes)||Temple des poissons
+Act_05_Boss_Dungeon_02|Underground Trench||Trincheira Subterrânea|Подземная Траншея|||지하 참호 (Underground Trench) (Underground Trench)||Fosse souterraine
+Act_05_Boss_Dungeon_03|The Sacred Temple||O Templo Sagrado|Священный Храм|||성스러운 사원 (The Sacred Temple) (The Sacred Temple)||Le temple sacré
 |||||||||
-Act_06_Boss_Dungeon_01|Hollowing Sanctuary||Santuário Vazio|Опустошающее Святилище|||공허한 성소 (Hollowing Sanctuary)||Sanctuaire creusé
-Act_06_Boss_Dungeon_02|Sacrilegious Chappel||Capela Sacrílega|Святотатственный Чаппел|||신성 모독의 예배당 (Sacrilegious Chappel)||Chapelle profanée
-Act_06_Boss_Dungeon_03|Pathway to Hell||Caminho para o Inferno|Путь в Ад|||지옥으로 가는 길 (Pathway to Hell)||Chemin des enfers
+Act_06_Boss_Dungeon_01|Hollowing Sanctuary||Santuário Vazio|Опустошающее Святилище|||공허한 성소 (Hollowing Sanctuary) (Hollowing Sanctuary)||Sanctuaire creusé
+Act_06_Boss_Dungeon_02|Sacrilegious Chappel||Capela Sacrílega|Святотатственный Чаппел|||신성 모독의 예배당 (Sacrilegious Chappel) (Sacrilegious Chappel)||Chapelle profanée
+Act_06_Boss_Dungeon_03|Pathway to Hell||Caminho para o Inferno|Путь в Ад|||지옥으로 가는 길 (Pathway to Hell) (Pathway to Hell)||Chemin des enfers
 |||||||||
-Act_07_Boss_Dungeon_01|The Void||O Vazio|Пустота|||공허 (The Void)||Le Vide
-Act_07_Boss_Dungeon_02|Pathway of Souls||Caminho das Almas|Путь душ|||영혼의 길 (Pathway of Souls)||Chemin des âmes
-Act_07_Boss_Dungeon_03|The Waiting Room||A Sala de Espera|Зал ожидания|||대기실 (The Waiting Room)||La salle d'attente
+Act_07_Boss_Dungeon_01|The Void||O Vazio|Пустота|||공허 (The Void) (The Void)||Le Vide
+Act_07_Boss_Dungeon_02|Pathway of Souls||Caminho das Almas|Путь душ|||영혼의 길 (Pathway of Souls) (Pathway of Souls)||Chemin des âmes
+Act_07_Boss_Dungeon_03|The Waiting Room||A Sala de Espera|Зал ожидания|||대기실 (The Waiting Room) (The Waiting Room)||La salle d'attente
 |||||||||
-Act_08_Boss_Dungeon_01|Ruins of Helheim|Helheimin Rauniot|Ruínas de Helheim|Руины Хельхейма|Ruins of Helheim|Ruins of Helheim|헬하임의 폐허 (Ruins of Helheim)|Ruins of Helheim|Ruines de Helheim
-Act_08_Boss_Dungeon_02|Helheim Channel||Canal de Heilheim|Канал Хельхейм|||헬하임 채널 (Helheim Channel)||Canal de Helheim
-Act_08_Boss_Dungeon_03|Vault of Ancients||Cofre dos Anciões|Хранилище древних|||고대인의 금고 (Vault of Ancients)||Caveau des Anciens
+Act_08_Boss_Dungeon_01|Ruins of Helheim|Helheimin Rauniot|Ruínas de Helheim|Руины Хельхейма|Ruins of Helheim|Ruins of Helheim|헬하임의 폐허 (Ruins of Helheim) (Ruins of Helheim)|Ruins of Helheim|Ruines de Helheim
+Act_08_Boss_Dungeon_02|Helheim Channel||Canal de Heilheim|Канал Хельхейм|||헬하임 채널 (Helheim Channel) (Helheim Channel)||Canal de Helheim
+Act_08_Boss_Dungeon_03|Vault of Ancients||Cofre dos Anciões|Хранилище древних|||고대인의 금고 (Vault of Ancients) (Vault of Ancients)||Caveau des Anciens
 |||||||||
-Town_01_rm|Town of Inoya|Inoyan kylä|Cidade de Inoya|Город Иноя|伊诺亚小镇|イノヤ町|이노야 마을 (Town of Inoya)|Stadt Inoya|Ville d'Inoya
-Town_02_rm|Danethorpe|Danethorpe|Danethorpe|Дэнторп|邓恩斯洛普|デーンソープ|데인소프 (Danethorpe)|Danethorpe|Danethorpe
-Town_03_rm|Village of Mos'Arathim|Mos'Arathimin Kylä|Vila de Mos'Arathim|Деревня Мосаратим|摩斯奥拉斯姆村|モス・アラティム村|Mos'Arathim의 마을 (Village of Mos'Arathim)|Dorf von Mos'Arathim|Village de Mos'Arathim
-Town_04_rm|Dhorn Farum|Dhorn Farum|Dhorn Farum|Дхорн Фарум|迪霍法洛姆|ドーン・ファルム|돈 파룸 (Dhorn Farum)|Dhorn Farum|Dhorn Farum
-Town_05_rm|Shujo Retreat|Shujon piilo|Retiro de Shujo|Отступление Сюдзе|修礁度假村|シュジョー・リトリート|슈조 휴양소 (Shujo Retreat)|Shujo-Zuflucht|Retraite de Shujo
-Town_06_rm|Dawn's Chapel|Aamun kappeli|Capela Dawn|Часовня рассвета|黎明的礼拜堂|夜明けのチャペル|새벽의 채플 (Dawn's Chapel)|Kapelle von Dawn|Chapelle de l'Aube
-Town_07_rm|Astral Encampment|Astraalileiri|Acampamento Astral|Астральный Лагерь|星际营地|星の野営|별의 야영지 (Astral Encampment)|Astrales Feldlager|Campement astral
+Town_01_rm|Town of Inoya|Inoyan kylä|Cidade de Inoya|Город Иноя|伊诺亚小镇|イノヤ町|이노야 마을 (Town of Inoya) (Town of Inoya)|Stadt Inoya|Ville d'Inoya
+Town_02_rm|Danethorpe|Danethorpe|Danethorpe|Дэнторп|邓恩斯洛普|デーンソープ|데인소프 (Danethorpe) (Danethorpe)|Danethorpe|Danethorpe
+Town_03_rm|Village of Mos'Arathim|Mos'Arathimin Kylä|Vila de Mos'Arathim|Деревня Мосаратим|摩斯奥拉斯姆村|モス・アラティム村|Mos'Arathim의 마을 (Village of Mos'Arathim) (Village of Mos'Arathim)|Dorf von Mos'Arathim|Village de Mos'Arathim
+Town_04_rm|Dhorn Farum|Dhorn Farum|Dhorn Farum|Дхорн Фарум|迪霍法洛姆|ドーン・ファルム|돈 파룸 (Dhorn Farum) (Dhorn Farum)|Dhorn Farum|Dhorn Farum
+Town_05_rm|Shujo Retreat|Shujon piilo|Retiro de Shujo|Отступление Сюдзе|修礁度假村|シュジョー・リトリート|슈조 휴양소 (Shujo Retreat) (Shujo Retreat)|Shujo-Zuflucht|Retraite de Shujo
+Town_06_rm|Dawn's Chapel|Aamun kappeli|Capela Dawn|Часовня рассвета|黎明的礼拜堂|夜明けのチャペル|새벽의 채플 (Dawn's Chapel) (Dawn's Chapel)|Kapelle von Dawn|Chapelle de l'Aube
+Town_07_rm|Astral Encampment|Astraalileiri|Acampamento Astral|Астральный Лагерь|星际营地|星の野営|별의 야영지 (Astral Encampment) (Astral Encampment)|Astrales Feldlager|Campement astral
 |||||||||
-Uber_Inoya_rm|Fallen Inoya|Tuhottu Inoya|Queda de Inoya|Упавший В Воду|陷落的伊诺亚|陥落したイノヤ|파괴된 이노야 (Fallen Inoya)|Gefallenes Inoya|Inoya déchue
-Sheep_rm|Sheeponia|Lampola|Sheeponia|Шипония|什普尼亚|シエポニア|양오니아 (Sheeponia)|Sheeponia|Moutopia
-PVP_Arena_1_rm|Battlefield|Taistelutanner|Campo de Batalha|Поле битвы|战场|戦場|교전지 (Battlefield)|Schlachtfeld|Front de guerre
-Anniversary_rm|Old Tarethiel|Vanha Tarethiel|Antiga Tarethiel|Старый Таретиэль|古老的塔雷蒂尔|老タレティエル|올드 타레티엘 (Old Tarethiel)|Altes Tarethiel|Vieux Tarethiel
-Player_Hideout_rm|Player Hideout|Pelaajan piilopaikka|Esconderijo do Jogador|Убежище игрока|玩家藏身处|プレイヤーハイドアウト|플레이어 은신처 (Player Hideout)|Spielerversteck|Repaire des joueurs
-The_Labyrinth_01_rm|The Labyrinth||O Labirinto||||미로 (The Labyrinth)||
-The_Labyrinth_02_rm|The Labyrinth||O Labirinto||||미궁 (The Labyrinth)||
-Circle_of_Hatred_rm|The Circle of Hatred||O Círculo do Ódio||||증오의 원 (The Circle of Hatred)||
-Fortune_Teller_rm|World´s Edge||Limite do Mundo||||세계의 끝 (World´s Edge)||
-Tomb_of_Amun_Ra_02_rm|Tomb of Amun Ra||||||아문 라의 무덤 (Tomb of Amun Ra)||
+Uber_Inoya_rm|Fallen Inoya|Tuhottu Inoya|Queda de Inoya|Упавший В Воду|陷落的伊诺亚|陥落したイノヤ|파괴된 이노야 (Fallen Inoya) (Fallen Inoya)|Gefallenes Inoya|Inoya déchue
+Sheep_rm|Sheeponia|Lampola|Sheeponia|Шипония|什普尼亚|シエポニア|양오니아 (Sheeponia) (Sheeponia)|Sheeponia|Moutopia
+PVP_Arena_1_rm|Battlefield|Taistelutanner|Campo de Batalha|Поле битвы|战场|戦場|교전지 (Battlefield) (Battlefield)|Schlachtfeld|Front de guerre
+Anniversary_rm|Old Tarethiel|Vanha Tarethiel|Antiga Tarethiel|Старый Таретиэль|古老的塔雷蒂尔|老タレティエル|올드 타레티엘 (Old Tarethiel) (Old Tarethiel)|Altes Tarethiel|Vieux Tarethiel
+Player_Hideout_rm|Player Hideout|Pelaajan piilopaikka|Esconderijo do Jogador|Убежище игрока|玩家藏身处|プレイヤーハイドアウト|플레이어 은신처 (Player Hideout) (Player Hideout)|Spielerversteck|Repaire des joueurs
+The_Labyrinth_01_rm|The Labyrinth||O Labirinto||||미로 (The Labyrinth) (The Labyrinth)||
+The_Labyrinth_02_rm|The Labyrinth||O Labirinto||||미궁 (The Labyrinth) (The Labyrinth)||
+Circle_of_Hatred_rm|The Circle of Hatred||O Círculo do Ódio||||증오의 원 (The Circle of Hatred) (The Circle of Hatred)||
+Fortune_Teller_rm|World´s Edge||Limite do Mundo||||세계의 끝 (World´s Edge) (World´s Edge)||
+Tomb_of_Amun_Ra_02_rm|Tomb of Amun Ra||||||아문 라의 무덤 (Tomb of Amun Ra) (Tomb of Amun Ra)||
 |||||||||
-Black_Tower_01_rm|Black Tower|Pimeä Torni|Torre Negra|Черная башня|黑塔|黒の塔|검은 탑 (Black Tower)|Schwarzer Turm|Tour Noire
-Rat_Den_01_rm|Rat Den|Rottaluola|Toca de Ratos|Rat Den|鼠洞|ドブネズミの巣窟|쥐 동굴 (Rat Den)|Rattenbau|Repaire des rats
+Black_Tower_01_rm|Black Tower|Pimeä Torni|Torre Negra|Черная башня|黑塔|黒の塔|검은 탑 (Black Tower) (Black Tower)|Schwarzer Turm|Tour Noire
+Rat_Den_01_rm|Rat Den|Rottaluola|Toca de Ratos|Rat Den|鼠洞|ドブネズミの巣窟|쥐 동굴 (Rat Den) (Rat Den)|Rattenbau|Repaire des rats
 |||||||||
-Frozen_Cellar_01_rm|Frozen Cellar Level 1|Jäätynyt Kellari Taso 1|Porão Congelado Nível 1|Замороженный погреб, Уровень 1|冻地窖1级|フローズンセラー レベル1|냉동 저장실 레벨 1 (Frozen Cellar Level 1)|Gefrorener Keller Level 1|Cave glacée niveau 1
-Frozen_Cellar_02_rm|Frozen Cellar Level 2|Jäätynyt Kellari Taso 2|Porão Congelado Nível 2|Замороженный погреб, Уровень 2|冻地窖2级|フローズンセラー レベル2|냉동 저장실 레벨 2 (Frozen Cellar Level 2)|Gefrorener Keller Level 2|Cave glacée niveau 2
+Frozen_Cellar_01_rm|Frozen Cellar Level 1|Jäätynyt Kellari Taso 1|Porão Congelado Nível 1|Замороженный погреб, Уровень 1|冻地窖1级|フローズンセラー レベル1|냉동 저장실 레벨 1 (Frozen Cellar Level 1) (Frozen Cellar Level 1)|Gefrorener Keller Level 1|Cave glacée niveau 1
+Frozen_Cellar_02_rm|Frozen Cellar Level 2|Jäätynyt Kellari Taso 2|Porão Congelado Nível 2|Замороженный погреб, Уровень 2|冻地窖2级|フローズンセラー レベル2|냉동 저장실 레벨 2 (Frozen Cellar Level 2) (Frozen Cellar Level 2)|Gefrorener Keller Level 2|Cave glacée niveau 2
 |||||||||
-Pumpkin_Cellar_01_rm|Pumpkin Cellar|Kurpitsakellari|Porão de Abóbora|Тыквенный погреб|南瓜地下室|パンプキンセラ|호박 저장실 (Pumpkin Cellar)|Kürbiskeller|Remise à citrouilles
+Pumpkin_Cellar_01_rm|Pumpkin Cellar|Kurpitsakellari|Porão de Abóbora|Тыквенный погреб|南瓜地下室|パンプキンセラ|호박 저장실 (Pumpkin Cellar) (Pumpkin Cellar)|Kürbiskeller|Remise à citrouilles
 |||||||||
-Abandoned_Mine_01_rm|Abandoned Mine|Hylätty Kaivos|Mina Abandonada|Заброшенная Шахта|废弃矿井|廃坑|버려진 광산 (Abandoned Mine)|Verlassene Mine|Mine abandonnée
-Old_Copper_Mine_01_rm|Old Copper Mine||Antiga Mina de Cobre|Старый Медный Рудник|||오래된 구리 광산 (Old Copper Mine)||Ancienne mine de cuivre
+Abandoned_Mine_01_rm|Abandoned Mine|Hylätty Kaivos|Mina Abandonada|Заброшенная Шахта|废弃矿井|廃坑|버려진 광산 (Abandoned Mine) (Abandoned Mine)|Verlassene Mine|Mine abandonnée
+Old_Copper_Mine_01_rm|Old Copper Mine||Antiga Mina de Cobre|Старый Медный Рудник|||오래된 구리 광산 (Old Copper Mine) (Old Copper Mine)||Ancienne mine de cuivre
 |||||||||
-Forgotten_City_01_rm|Forgotten City Level 1|Kadonnut Kaupunki Taso 1|Cidade Esquecida Nível 1|Забытый Город Уровень 1|被遗忘的城市1级|忘却都市 レベル1|잊혀진 도시 레벨 1 (Forgotten City Level 1)|Vergessene Stadt Level 1|Cité oubliée niveau 1
-Forgotten_City_02_rm|Forgotten City Level 2|Kadonnut Kaupunki Taso 2|Cidade Esquecida Nível 2|Забытый Город Уровень 2|被遗忘的城市2级|忘却都市 レベル2|잊혀진 도시 레벨 2 (Forgotten City Level 2)|Vergessene Stadt Level 2|Cité oubliée niveau 2
+Forgotten_City_01_rm|Forgotten City Level 1|Kadonnut Kaupunki Taso 1|Cidade Esquecida Nível 1|Забытый Город Уровень 1|被遗忘的城市1级|忘却都市 レベル1|잊혀진 도시 레벨 1 (Forgotten City Level 1) (Forgotten City Level 1)|Vergessene Stadt Level 1|Cité oubliée niveau 1
+Forgotten_City_02_rm|Forgotten City Level 2|Kadonnut Kaupunki Taso 2|Cidade Esquecida Nível 2|Забытый Город Уровень 2|被遗忘的城市2级|忘却都市 レベル2|잊혀진 도시 레벨 2 (Forgotten City Level 2) (Forgotten City Level 2)|Vergessene Stadt Level 2|Cité oubliée niveau 2
 |||||||||
-Ancient_City_01_rm|Ancient City Level 1|Muinainen kaupunki, taso 1|Cidade Antiga Nível 1|Древний город Уровень 1|1级古城|古代都市レベル1|고대 도시 레벨 1 (Ancient City Level 1)|Antike Stadt Level 1|Ancienne cité niveau 1
-Ancient_City_02_rm|Ancient City Level 2|Muinainen kaupunki, taso 2|Cidade Antiga Nível 2|Древний город Уровень 2|2级古城|古代都市レベル2|고대 도시 레벨 2 (Ancient City Level 2)|Antike Stadt Level 2|Ancienne cité niveau 2
-Ancient_City_03_rm|Ancient City Level 3|Muinainen kaupunki, taso 3|Cidade Antiga Nível 3|Древний город Уровень 3|3级古城|古代都市レベル3|고대 도시 레벨 3 (Ancient City Level 3)|Antike Stadt Level 3|Ancienne cité niveau 3
-Sand_Cave_01_rm|Sand Cave|Hiekkaluola|Caverna de Areia|Песчаная пещера|沙洞|砂の洞窟|모래 동굴 (Sand Cave)|Sandhöhle|Caverne ensevelie
-Cauflax_Tomb_01_rm|Cauflax Tomb Level 1|Cauflax-hauta, taso 1|Tumba Cauflax Nível 1|Гробница Кауфлакса Уровень 1|卡夫拉克斯墓1级|コーフラックスの墓レベル1|Cauflax 무덤 레벨 1 (Cauflax Tomb Level 1)|Cauflax Grab Level 1|Tombe de Cauflax niveau 1
-Cauflax_Tomb_02_rm|Cauflax Tomb Level 2|Cauflax-hauta, taso 2|Tumba Cauflax Nível 2|Гробница Кауфлакса Уровень 2|卡夫拉克斯墓2级|コーフラックスの墓レベル2|Cauflax 무덤 2 층 (Cauflax Tomb Level 2)|Cauflax Grab Level 2|Tombe de Cauflax niveau 2
-Cauflax_Tomb_03_rm|Cauflax Tomb Level 3|Cauflax-hauta, taso 3|Tumba Cauflax Nível 3|Гробница Кауфлакса Уровень 3|卡夫拉克斯墓3级|コーフラックスの墓レベル3|Cauflax 무덤 레벨 3 (Cauflax Tomb Level 3)|Cauflax Grab Level 3|Tombe de Cauflax niveau 3
-Devils_Hole_01_rm|Devil's Hole|Paholaisen reik|Buraco do Diabo|Дьявольская дыра|魔鬼之穴|悪魔の穴|악마의 구멍 (Devil's Hole)|Teufelsloch|Fosse du diable
-Fuji_Crater_01_rm|Fuji Crater Level 1|Fuji-kraatteri, taso 1|Cratera Fuji Nível 1|Кратер Фудзи Уровень 1|富士火山口1级|富士クレーターレベル1|후지 분화구 레벨 1 (Fuji Crater Level 1)|Fuji-Krater Stufe 1|Cratère Fuji niveau 1
-Fuji_Crater_02_rm|Fuji Crater Level 2|Fuji-kraatteri, taso 2|Cratera Fuji Nível 2|Кратер Фудзи Уровень 2|富士陨石坑2级|富士クレーターレベル2|후지 분화구 레벨 2 (Fuji Crater Level 2)|Fuji-Krater Stufe 2|Cratère Fuji niveau 2
-Kaojin_Temple_01_rm|Kaojin Temple 1|Kaojinin temppeli|Templo Kaojin Nível 1|Храм Каодзин 1|Kaojin Temple|Kaojin Temple|카오진 사원 1 (Kaojin Temple 1)|Kaojin Temple|Temple Kaojin niveau 1
-Kaojin_Temple_02_rm|Kaojin Temple 2|Kaojinin temppeli|Templo Kaoijin Nível 2|Храм Каодзин 2|Kaojin Temple|Kaojin Temple|카오진 사원 2 (Kaojin Temple 2)|Kaojin Temple|Temple Kaojin niveau 2
-Underground_Garden_01_rm|Underground Garden|Maanalainen Puutarha|Jardins Subterrâneos|Подземный сад|Underground Garden|Underground Garden||Underground Garden|Jardin souterrain
-Temple_Trapdoor_01_rm|Temple Trapdoor 1|Temppelin Luukku 1|Alçapão do Templo 1|Храмовый люк 1|Temple Trapdoor 1|Temple Trapdoor 1|사원의 함정문 1 (Temple Trapdoor 1)|Temple Trapdoor 1|Pièce secrète du temple niveau 1
-Temple_Trapdoor_02_rm|Temple Trapdoor 2|Temppelin Luukku 2|Alçapão do Templo 2|Храмовый люк 2|Temple Trapdoor 2|Temple Trapdoor 2|사원의 함정문 2 (Temple Trapdoor 2)|Temple Trapdoor 2|Pièce secrète du temple niveau 2
-Unmarked_Grave_01_rm|Unmarked Grave|Merkitsemätön Hauta|Túmulo sem Identificação|Безымянная могила|Unmarked Grave|Unmarked Grave|무명 묘 (Unmarked Grave)|Unmarked Grave|Tombe anonyme
-Distorted_Horizons_01_rm|Distorted Horizon 1|Vääristynyt Horisontti 1|Horizontes Distorcidos 1|Искаженный горизонт 1|Distorted Horizon 1|Distorted Horizon 1|왜곡된 지평선 1 (Distorted Horizon 1)|Distorted Horizon 1|Horizon distordu niveau 1
-Distorted_Horizons_02_rm|Distorted Horizon 2|Vääristynyt Horisontti 2|Horizontes Distorcidos 2|Искаженный горизонт 2|Distorted Horizon 2|Distorted Horizon 2|왜곡된 지평선 2 (Distorted Horizon 2)|Distorted Horizon 2|Horizon distordu niveau 2
-Distorted_Horizons_03_rm|Distorted Horizon 3|Vääristynyt Horisontti 3|Horizontes Distorcidos 3|Искаженный горизонт 3|Distorted Horizon 3|Distorted Horizon 3|왜곡된 지평선 3 (Distorted Horizon 3)|Distorted Horizon 3|Horizon distordu niveau 3
+Ancient_City_01_rm|Ancient City Level 1|Muinainen kaupunki, taso 1|Cidade Antiga Nível 1|Древний город Уровень 1|1级古城|古代都市レベル1|고대 도시 레벨 1 (Ancient City Level 1) (Ancient City Level 1)|Antike Stadt Level 1|Ancienne cité niveau 1
+Ancient_City_02_rm|Ancient City Level 2|Muinainen kaupunki, taso 2|Cidade Antiga Nível 2|Древний город Уровень 2|2级古城|古代都市レベル2|고대 도시 레벨 2 (Ancient City Level 2) (Ancient City Level 2)|Antike Stadt Level 2|Ancienne cité niveau 2
+Ancient_City_03_rm|Ancient City Level 3|Muinainen kaupunki, taso 3|Cidade Antiga Nível 3|Древний город Уровень 3|3级古城|古代都市レベル3|고대 도시 레벨 3 (Ancient City Level 3) (Ancient City Level 3)|Antike Stadt Level 3|Ancienne cité niveau 3
+Sand_Cave_01_rm|Sand Cave|Hiekkaluola|Caverna de Areia|Песчаная пещера|沙洞|砂の洞窟|모래 동굴 (Sand Cave) (Sand Cave)|Sandhöhle|Caverne ensevelie
+Cauflax_Tomb_01_rm|Cauflax Tomb Level 1|Cauflax-hauta, taso 1|Tumba Cauflax Nível 1|Гробница Кауфлакса Уровень 1|卡夫拉克斯墓1级|コーフラックスの墓レベル1|Cauflax 무덤 레벨 1 (Cauflax Tomb Level 1) (Cauflax Tomb Level 1)|Cauflax Grab Level 1|Tombe de Cauflax niveau 1
+Cauflax_Tomb_02_rm|Cauflax Tomb Level 2|Cauflax-hauta, taso 2|Tumba Cauflax Nível 2|Гробница Кауфлакса Уровень 2|卡夫拉克斯墓2级|コーフラックスの墓レベル2|Cauflax 무덤 2 층 (Cauflax Tomb Level 2) (Cauflax Tomb Level 2)|Cauflax Grab Level 2|Tombe de Cauflax niveau 2
+Cauflax_Tomb_03_rm|Cauflax Tomb Level 3|Cauflax-hauta, taso 3|Tumba Cauflax Nível 3|Гробница Кауфлакса Уровень 3|卡夫拉克斯墓3级|コーフラックスの墓レベル3|Cauflax 무덤 레벨 3 (Cauflax Tomb Level 3) (Cauflax Tomb Level 3)|Cauflax Grab Level 3|Tombe de Cauflax niveau 3
+Devils_Hole_01_rm|Devil's Hole|Paholaisen reik|Buraco do Diabo|Дьявольская дыра|魔鬼之穴|悪魔の穴|악마의 구멍 (Devil's Hole) (Devil's Hole)|Teufelsloch|Fosse du diable
+Fuji_Crater_01_rm|Fuji Crater Level 1|Fuji-kraatteri, taso 1|Cratera Fuji Nível 1|Кратер Фудзи Уровень 1|富士火山口1级|富士クレーターレベル1|후지 분화구 레벨 1 (Fuji Crater Level 1) (Fuji Crater Level 1)|Fuji-Krater Stufe 1|Cratère Fuji niveau 1
+Fuji_Crater_02_rm|Fuji Crater Level 2|Fuji-kraatteri, taso 2|Cratera Fuji Nível 2|Кратер Фудзи Уровень 2|富士陨石坑2级|富士クレーターレベル2|후지 분화구 레벨 2 (Fuji Crater Level 2) (Fuji Crater Level 2)|Fuji-Krater Stufe 2|Cratère Fuji niveau 2
+Kaojin_Temple_01_rm|Kaojin Temple 1|Kaojinin temppeli|Templo Kaojin Nível 1|Храм Каодзин 1|Kaojin Temple|Kaojin Temple|카오진 사원 1 (Kaojin Temple 1) (Kaojin Temple 1)|Kaojin Temple|Temple Kaojin niveau 1
+Kaojin_Temple_02_rm|Kaojin Temple 2|Kaojinin temppeli|Templo Kaoijin Nível 2|Храм Каодзин 2|Kaojin Temple|Kaojin Temple|카오진 사원 2 (Kaojin Temple 2) (Kaojin Temple 2)|Kaojin Temple|Temple Kaojin niveau 2
+Underground_Garden_01_rm|Underground Garden|Maanalainen Puutarha|Jardins Subterrâneos|Подземный сад|Underground Garden|Underground Garden|지하 정원 (Underground Garden)|Underground Garden|Jardin souterrain
+Temple_Trapdoor_01_rm|Temple Trapdoor 1|Temppelin Luukku 1|Alçapão do Templo 1|Храмовый люк 1|Temple Trapdoor 1|Temple Trapdoor 1|사원의 함정문 1 (Temple Trapdoor 1) (Temple Trapdoor 1)|Temple Trapdoor 1|Pièce secrète du temple niveau 1
+Temple_Trapdoor_02_rm|Temple Trapdoor 2|Temppelin Luukku 2|Alçapão do Templo 2|Храмовый люк 2|Temple Trapdoor 2|Temple Trapdoor 2|사원의 함정문 2 (Temple Trapdoor 2) (Temple Trapdoor 2)|Temple Trapdoor 2|Pièce secrète du temple niveau 2
+Unmarked_Grave_01_rm|Unmarked Grave|Merkitsemätön Hauta|Túmulo sem Identificação|Безымянная могила|Unmarked Grave|Unmarked Grave|무명 묘 (Unmarked Grave) (Unmarked Grave)|Unmarked Grave|Tombe anonyme
+Distorted_Horizons_01_rm|Distorted Horizon 1|Vääristynyt Horisontti 1|Horizontes Distorcidos 1|Искаженный горизонт 1|Distorted Horizon 1|Distorted Horizon 1|왜곡된 지평선 1 (Distorted Horizon 1) (Distorted Horizon 1)|Distorted Horizon 1|Horizon distordu niveau 1
+Distorted_Horizons_02_rm|Distorted Horizon 2|Vääristynyt Horisontti 2|Horizontes Distorcidos 2|Искаженный горизонт 2|Distorted Horizon 2|Distorted Horizon 2|왜곡된 지평선 2 (Distorted Horizon 2) (Distorted Horizon 2)|Distorted Horizon 2|Horizon distordu niveau 2
+Distorted_Horizons_03_rm|Distorted Horizon 3|Vääristynyt Horisontti 3|Horizontes Distorcidos 3|Искаженный горизонт 3|Distorted Horizon 3|Distorted Horizon 3|왜곡된 지평선 3 (Distorted Horizon 3) (Distorted Horizon 3)|Distorted Horizon 3|Horizon distordu niveau 3
 |||||||||
-Arm_Storage_01_rm|Arm Storage|Asevarasto|Armazém de Armas|Хранение оружия|Arm Storage|Arm Storage||Arm Storage|Stockage de bras
-Arm_Storage_Easter_egg_rm|Hidden Storage Cabinet|Piilotettu Varastokaappi|Armazém Oculto|Скрытый Шкаф для хранения|Hidden Storage Cabinet|Hidden Storage Cabinet|숨겨진 저장 캐비닛 (Hidden Storage Cabinet)|Hidden Storage Cabinet|Meuble de rangement caché
+Arm_Storage_01_rm|Arm Storage|Asevarasto|Armazém de Armas|Хранение оружия|Arm Storage|Arm Storage|무기 보관함 (Arm Storage)|Arm Storage|Stockage de bras
+Arm_Storage_Easter_egg_rm|Hidden Storage Cabinet|Piilotettu Varastokaappi|Armazém Oculto|Скрытый Шкаф для хранения|Hidden Storage Cabinet|Hidden Storage Cabinet|숨겨진 저장 캐비닛 (Hidden Storage Cabinet) (Hidden Storage Cabinet)|Hidden Storage Cabinet|Meuble de rangement caché
 |||||||||
-Niflhel_01_rm|Niflhel|Niflhel|Nilflhel|Нифльхель|Niflhel|Niflhel|Niflhel (Niflhel)|Niflhel|Niflhel
+Niflhel_01_rm|Niflhel|Niflhel|Nilflhel|Нифльхель|Niflhel|Niflhel|니플헬 (Niflhel)|Niflhel|Niflhel
 |||||||||
-Muspelheim_01_rm|Muspelheim|Muspelheim|Muspelheim|Муспельхейм|Muspelheim|Muspelheim|무스펠하임 (Muspelheim)|Muspelheim|Muspelheim
+Muspelheim_01_rm|Muspelheim|Muspelheim|Muspelheim|Муспельхейм|Muspelheim|Muspelheim|무스펠하임 (Muspelheim) (Muspelheim)|Muspelheim|Muspelheim
 |||||||||
-Naga_Temple_01_rm|Naga Temple 1|Naga Temple 1|Templo Naga 1|Храм Нага 1|Naga Temple 1|Naga Temple 1|나가 사원 1 (Naga Temple 1)|Naga Temple 1|Temple Naga niveau 1
-Naga_Temple_02_rm|Naga Temple 2|Naga Temple 2|Templo Naga 2|Храм Нага 2|Naga Temple 2|Naga Temple 2||Naga Temple 2|Temple Naga niveau 2
+Naga_Temple_01_rm|Naga Temple 1|Naga Temple 1|Templo Naga 1|Храм Нага 1|Naga Temple 1|Naga Temple 1|나가 사원 1 (Naga Temple 1) (Naga Temple 1)|Naga Temple 1|Temple Naga niveau 1
+Naga_Temple_02_rm|Naga Temple 2|Naga Temple 2|Templo Naga 2|Храм Нага 2|Naga Temple 2|Naga Temple 2|나가 사원 2 (Naga Temple 2)|Naga Temple 2|Temple Naga niveau 2
 |||||||||
-Gladsheim_Halls_01_rm|Gladsheim Halls 1|Gladsheim Halls 1|Salões de Gladsheim 1|Залы Гладсхайма 1|Gladsheim Halls 1|Gladsheim Halls 1|글래드샤임 홀 1 (Gladsheim Halls 1)|Gladsheim Halls 1|Hall de Gladsheim niveau 1
-Gladsheim_Halls_02_rm|Gladsheim Halls 2|Gladsheim Halls 2|Salões de Gladsheim 2|Залы Гладсхайма 2|Gladsheim Halls 2|Gladsheim Halls 2|글래드샤임 홀 2 (Gladsheim Halls 2)|Gladsheim Halls 2|Hall de Gladsheim niveau 2
+Gladsheim_Halls_01_rm|Gladsheim Halls 1|Gladsheim Halls 1|Salões de Gladsheim 1|Залы Гладсхайма 1|Gladsheim Halls 1|Gladsheim Halls 1|글래드샤임 홀 1 (Gladsheim Halls 1) (Gladsheim Halls 1)|Gladsheim Halls 1|Hall de Gladsheim niveau 1
+Gladsheim_Halls_02_rm|Gladsheim Halls 2|Gladsheim Halls 2|Salões de Gladsheim 2|Залы Гладсхайма 2|Gladsheim Halls 2|Gladsheim Halls 2|글래드샤임 홀 2 (Gladsheim Halls 2) (Gladsheim Halls 2)|Gladsheim Halls 2|Hall de Gladsheim niveau 2
 |||||||||
-Bifrost_rm|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst|비프로스트 (Bifröst)|Bifröst|Bifröst
-Vanaheim_rm|Vanaheim|Vanaheim|Vanaheim|Ванахейм|Vanaheim|Vanaheim|바나하임 (Vanaheim)|Vanaheim|Vanaheim
-Asgard_rm|Asgard|Asgard|Asgard|Асгард|Asgard|Asgard|아스가르드 (Asgard)|Asgard|Asgard
-Niflheim_rm|Niflheim|Niflheim|Niflheim|Нифльхейм|Niflheim|Niflheim|니플헤임 (Niflheim)|Niflheim|Niflheim
-Mists_Of_Chaos_rm|Mists of Chaos|Mists of Chaos|Névoas do Caos|Туманы Хаоса|Mists of Chaos|Mists of Chaos|혼돈의 안개 (Mists of Chaos)|Mists of Chaos|Brumes du Chaos
+Bifrost_rm|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst|비프로스트 (Bifröst) (Bifröst)|Bifröst|Bifröst
+Vanaheim_rm|Vanaheim|Vanaheim|Vanaheim|Ванахейм|Vanaheim|Vanaheim|바나하임 (Vanaheim) (Vanaheim)|Vanaheim|Vanaheim
+Asgard_rm|Asgard|Asgard|Asgard|Асгард|Asgard|Asgard|아스가르드 (Asgard) (Asgard)|Asgard|Asgard
+Niflheim_rm|Niflheim|Niflheim|Niflheim|Нифльхейм|Niflheim|Niflheim|니플헤임 (Niflheim) (Niflheim)|Niflheim|Niflheim
+Mists_Of_Chaos_rm|Mists of Chaos|Mists of Chaos|Névoas do Caos|Туманы Хаоса|Mists of Chaos|Mists of Chaos|혼돈의 안개 (Mists of Chaos) (Mists of Chaos)|Mists of Chaos|Brumes du Chaos
 |||||||||
-xmas_dungeon_1_rm|North Pole|North Pole|Polo Norte|Северный полюс|North Pole|North Pole|북극 (North Pole)|North Pole|Pôle Nord
-xmas_dungeon_2_rm|Santa's Hut|Santa's Hut|Cabana do Papai Noel|Хижина Санты|Santa's Hut|Santa's Hut||Santa's Hut|Cabane du Père Noël
+xmas_dungeon_1_rm|North Pole|North Pole|Polo Norte|Северный полюс|North Pole|North Pole|북극 (North Pole) (North Pole)|North Pole|Pôle Nord
+xmas_dungeon_2_rm|Santa's Hut|Santa's Hut|Cabana do Papai Noel|Хижина Санты|Santa's Hut|Santa's Hut|산타의 오두막 (Santa's Hut)|Santa's Hut|Cabane du Père Noël
 |||||||||
-Rift_Void_rm|[redacted]|[redaktoitu]|[redigido]|[отредактировано]|[已编辑]|[編集済み]|[수정] ([redacted])|[redigiert]|[redacted]
-Rift_Treasure_rm|Rift of Fortune|Rikkauksien Repeämä|Fenda da Fortuna|Трещина в судьбе|时运|運命の裂け目|행운의 균열 (Rift of Fortune)|Glücksbruch|Rift of Fortune
+Rift_Void_rm|[redacted]|[redaktoitu]|[redigido]|[отредактировано]|[已编辑]|[編集済み]|[수정] ([redacted]) ([redacted])|[redigiert]|[redacted]
+Rift_Treasure_rm|Rift of Fortune|Rikkauksien Repeämä|Fenda da Fortuna|Трещина в судьбе|时运|運命の裂け目|행운의 균열 (Rift of Fortune) (Rift of Fortune)|Glücksbruch|Rift of Fortune
 |||||||||
-Old_Copper_Mine_1_rm|Old Copper Mine|Vanha kuparikaivos|Antiga Mina de Cobre|Старый Медный Рудник|Old Copper Mine|Old Copper Mine|오래된 구리 광산 (Old Copper Mine)|Old Copper Mine|Ancienne mine de cuivre
-Angelic_Realm_rm|Angelic Realm|Angelic Realm|Reino Angélico|Ангельское Царство|Angelic Realm|Angelic Realm|천사의 영역 (Angelic Realm)|Angelic Realm|Royaume angélique
-Ruby_Gardens_rm|Ruby Gardens|Rubiinipuutarha|Jardins de Rubi|Рубиновые Сады|红宝石花园|ルビーガーデンズ|루비 정원 (Ruby Gardens)|Rubinengärten|Jardins de Rubis
-Shadow_Realm_rm|Shadow Realm|Pimeyden valtakunta|Reino das Sombras|Царство Теней|影子王国|シャドーレルム|그림자 왕국 (Shadow Realm)|Schattenreich|Royaume des ombres
-Shadow_Boss_rm|Reaper's Breach|Kuoleman tyyssija|Fenda do Ceifador|Брешь Жнеца|死神的违反|リーパーズ･ブリーチ|사신의 위반 (Reaper's Breach)|Übertritt des Sensenmanns|Brèche de la Mort
+Old_Copper_Mine_1_rm|Old Copper Mine|Vanha kuparikaivos|Antiga Mina de Cobre|Старый Медный Рудник|Old Copper Mine|Old Copper Mine|오래된 구리 광산 (Old Copper Mine) (Old Copper Mine)|Old Copper Mine|Ancienne mine de cuivre
+Angelic_Realm_rm|Angelic Realm|Angelic Realm|Reino Angélico|Ангельское Царство|Angelic Realm|Angelic Realm|천사의 영역 (Angelic Realm) (Angelic Realm)|Angelic Realm|Royaume angélique
+Ruby_Gardens_rm|Ruby Gardens|Rubiinipuutarha|Jardins de Rubi|Рубиновые Сады|红宝石花园|ルビーガーデンズ|루비 정원 (Ruby Gardens) (Ruby Gardens)|Rubinengärten|Jardins de Rubis
+Shadow_Realm_rm|Shadow Realm|Pimeyden valtakunta|Reino das Sombras|Царство Теней|影子王国|シャドーレルム|그림자 왕국 (Shadow Realm) (Shadow Realm)|Schattenreich|Royaume des ombres
+Shadow_Boss_rm|Reaper's Breach|Kuoleman tyyssija|Fenda do Ceifador|Брешь Жнеца|死神的违反|リーパーズ･ブリーチ|사신의 위반 (Reaper's Breach) (Reaper's Breach)|Übertritt des Sensenmanns|Brèche de la Mort
 |||||||||
-crypt|Ancient Crypt|Muinainen krypta|Cripta Antiga|Древний Склеп|古老的地下墓室|古代の地下室|고대의 납골당 (Ancient Crypt)|Alte Krypta|Ancienne crypte
-wormhole|Wormhole|Madonreikä|Buraco de Minhoca|Червоточина|虫洞|ワームホール|웜홀 (Wormhole)|Wurmloch|Vortex
-dungeon|Dungeon|Tyrmä|Masmorra|Подземелье|地牢|ダンジョン|던전 (Dungeon)|Verlies|Donjon
-unstable_rift|Unstable Rift|Epävakaa Repeämä|Falha Instável|Нестабильный Разлом|活跃裂缝|不安定な裂け目|불안정한 움직임 (Unstable Rift)|Instabiler Riss|Faille instable
-Arch_Demons_Plateau_rm|Arch Demon’s Plateau||Platô do Arquidemônio|Плато Архидемона|||대악마의 고원 (Arch Demon’s Plateau)||
+crypt|Ancient Crypt|Muinainen krypta|Cripta Antiga|Древний Склеп|古老的地下墓室|古代の地下室|고대의 납골당 (Ancient Crypt) (Ancient Crypt)|Alte Krypta|Ancienne crypte
+wormhole|Wormhole|Madonreikä|Buraco de Minhoca|Червоточина|虫洞|ワームホール|웜홀 (Wormhole) (Wormhole)|Wurmloch|Vortex
+dungeon|Dungeon|Tyrmä|Masmorra|Подземелье|地牢|ダンジョン|던전 (Dungeon) (Dungeon)|Verlies|Donjon
+unstable_rift|Unstable Rift|Epävakaa Repeämä|Falha Instável|Нестабильный Разлом|活跃裂缝|不安定な裂け目|불안정한 움직임 (Unstable Rift) (Unstable Rift)|Instabiler Riss|Faille instable
+Arch_Demons_Plateau_rm|Arch Demon’s Plateau||Platô do Arquidemônio|Плато Архидемона|||대악마의 고원 (Arch Demon’s Plateau) (Arch Demon’s Plateau)||
 |||||||||
 Cabin_01_rm|s Cabin||Cabine do |каюта s|||||
-Orres_Lair_rm|Örre's Lair|Örren Piilopaikka|Covil de Örre||||Örre의 소굴 (Örre's Lair)||
-Hero_Editor_rm|Hero Editor||Editor do Herói||||영웅 편집기 (Hero Editor)||
+Orres_Lair_rm|Örre's Lair|Örren Piilopaikka|Covil de Örre||||Örre의 소굴 (Örre's Lair) (Örre's Lair)||
+Hero_Editor_rm|Hero Editor||Editor do Herói||||영웅 편집기 (Hero Editor) (Hero Editor)||
 |||||||||
 [Chaos Tower]|||||||||
-Chaos_Tower_xLobby|Tower Lobby|Tornin Aula|Saguão da Torre|Вестибюль башни|塔楼大厅|タワーロビー|타워 로비 (Tower Lobby)|Turm Lobby|Lobby de la tour
-Chaos_Tower_Boss_1|Ancient Colosseum|Muinainen Areena|Coliseu Antigo|Древний Колизей|古代罗马竞技场|古代コロッセオ|고대 콜로세움 (Ancient Colosseum)|Altes Kolosseum|Colisée antique
-chaos_tower_enter|Chaos Tower||Torre do Caos||||혼돈의 탑 (Chaos Tower)||
-next_floor|Next Floor||Próximo Andar||||||
+Chaos_Tower_xLobby|Tower Lobby|Tornin Aula|Saguão da Torre|Вестибюль башни|塔楼大厅|タワーロビー|타워 로비 (Tower Lobby) (Tower Lobby)|Turm Lobby|Lobby de la tour
+Chaos_Tower_Boss_1|Ancient Colosseum|Muinainen Areena|Coliseu Antigo|Древний Колизей|古代罗马竞技场|古代コロッセオ|고대 콜로세움 (Ancient Colosseum) (Ancient Colosseum)|Altes Kolosseum|Colisée antique
+chaos_tower_enter|Chaos Tower||Torre do Caos||||혼돈의 탑 (Chaos Tower) (Chaos Tower)||
+next_floor|Next Floor||Próximo Andar||||다음 층 (Next Floor)||
 |||||||||
-Chaos_Tower_Zone_01|Burning Village||||||불타는 마을 (Burning Village)||
-Chaos_Tower_Zone_02|Glacial Tundra||Tundra Glacial||||빙하 툰드라 (Glacial Tundra)||
-Chaos_Tower_Zone_03|Scorching Desert||||||||
-Chaos_Tower_Zone_04|Tomb of Abyss||Tumba do Abismo||||심연의 무덤 (Tomb of Abyss)||
-Chaos_Tower_Zone_05|Miner’s Cave||Caverna do Mineiro||||광부의 동굴 (Miner’s Cave)||
-Chaos_Tower_Zone_06|Arreat Summit||Cúpula de Arreat||||아리앗 정상 (Arreat Summit)||
-Chaos_Tower_Zone_07|Grave Site||Zona dos Túmulos||||무덤 구역 (Grave Site)||
-Chaos_Tower_Zone_08|PAS Office||Escritório PAS||||PAS 사무실 (PAS Office)||
-Chaos_Tower_Zone_09|Penguin Village||Vila dos Pinguins||||펭귄 마을 (Penguin Village)||
-Chaos_Tower_Zone_10|Delirium||Delírio||||망상 (Delirium)||
-Chaos_Tower_Zone_11|Ashen Plains||Planícies Cinzentas||||잿빛 평원 (Ashen Plains)||
-Chaos_Tower_Zone_12|Chappel of Demons||Capela dos Demônios||||악마의 예배당 (Chappel of Demons)||
-Chaos_Tower_Zone_13|Hellfire Chasm||Abismo do Fogo do Inferno||||지옥불의 심연 (Hellfire Chasm)||
-Chaos_Tower_Zone_14|Deepholm Caves||Cavernas Deepholm||||딥홈 동굴 (Deepholm Caves)||
-Chaos_Tower_Zone_15|Eastern Front||Frentes do Leste||||동부 전선 (Eastern Front)||
-Chaos_Tower_Zone_16|Between Time and Space||Entre o Tempo e o Espaço||||시간과 공간 사이 (Between Time and Space)||
+Chaos_Tower_Zone_01|Burning Village||||||불타는 마을 (Burning Village) (Burning Village)||
+Chaos_Tower_Zone_02|Glacial Tundra||Tundra Glacial||||빙하 툰드라 (Glacial Tundra) (Glacial Tundra)||
+Chaos_Tower_Zone_03|Scorching Desert||||||타오르는 사막 (Scorching Desert)||
+Chaos_Tower_Zone_04|Tomb of Abyss||Tumba do Abismo||||심연의 무덤 (Tomb of Abyss) (Tomb of Abyss)||
+Chaos_Tower_Zone_05|Miner’s Cave||Caverna do Mineiro||||광부의 동굴 (Miner’s Cave) (Miner’s Cave)||
+Chaos_Tower_Zone_06|Arreat Summit||Cúpula de Arreat||||아리앗 정상 (Arreat Summit) (Arreat Summit)||
+Chaos_Tower_Zone_07|Grave Site||Zona dos Túmulos||||무덤 구역 (Grave Site) (Grave Site)||
+Chaos_Tower_Zone_08|PAS Office||Escritório PAS||||PAS 사무실 (PAS Office) (PAS Office)||
+Chaos_Tower_Zone_09|Penguin Village||Vila dos Pinguins||||펭귄 마을 (Penguin Village) (Penguin Village)||
+Chaos_Tower_Zone_10|Delirium||Delírio||||망상 (Delirium) (Delirium)||
+Chaos_Tower_Zone_11|Ashen Plains||Planícies Cinzentas||||잿빛 평원 (Ashen Plains) (Ashen Plains)||
+Chaos_Tower_Zone_12|Chappel of Demons||Capela dos Demônios||||악마의 예배당 (Chappel of Demons) (Chappel of Demons)||
+Chaos_Tower_Zone_13|Hellfire Chasm||Abismo do Fogo do Inferno||||지옥불의 심연 (Hellfire Chasm) (Hellfire Chasm)||
+Chaos_Tower_Zone_14|Deepholm Caves||Cavernas Deepholm||||딥홈 동굴 (Deepholm Caves) (Deepholm Caves)||
+Chaos_Tower_Zone_15|Eastern Front||Frentes do Leste||||동부 전선 (Eastern Front) (Eastern Front)||
+Chaos_Tower_Zone_16|Between Time and Space||Entre o Tempo e o Espaço||||시간과 공간 사이 (Between Time and Space) (Between Time and Space)||
 Chaos_Tower_Zone_17|Too Much…||Demais...||||||
-Chaos_Tower_Zone_18|Rich Node Village||Aldeia de Nodos Ricos||||부유한 노드 마을 (Rich Node Village)||
-Chaos_Tower_Zone_19|In the Abyss||No Abismo||||심연 속으로 (In the Abyss)||
-Chaos_Tower_Zone_20|Fetish Forest||Floresta de Fetiches||||페티시 숲 (Fetish Forest)||
-Chaos_Tower_Zone_21|Race Track||Pista de Corrida||||레이스 트랙 (Race Track)||
-Chaos_Tower_Zone_22|Construction Yard||Pátio de Construção||||건설 야드 (Construction Yard)||
-Chaos_Tower_Zone_23|Sky Fort||Forte do Céu||||하늘 요새 (Sky Fort)||
-Chaos_Tower_Zone_24|Tarethiel Disc Golf Park||Parque de Golfe de Disco de Tarethiel||||타레티엘 디스크 골프 공원 (Tarethiel Disc Golf Park)||
+Chaos_Tower_Zone_18|Rich Node Village||Aldeia de Nodos Ricos||||부유한 노드 마을 (Rich Node Village) (Rich Node Village)||
+Chaos_Tower_Zone_19|In the Abyss||No Abismo||||심연 속으로 (In the Abyss) (In the Abyss)||
+Chaos_Tower_Zone_20|Fetish Forest||Floresta de Fetiches||||페티시 숲 (Fetish Forest) (Fetish Forest)||
+Chaos_Tower_Zone_21|Race Track||Pista de Corrida||||레이스 트랙 (Race Track) (Race Track)||
+Chaos_Tower_Zone_22|Construction Yard||Pátio de Construção||||건설 야드 (Construction Yard) (Construction Yard)||
+Chaos_Tower_Zone_23|Sky Fort||Forte do Céu||||하늘 요새 (Sky Fort) (Sky Fort)||
+Chaos_Tower_Zone_24|Tarethiel Disc Golf Park||Parque de Golfe de Disco de Tarethiel||||타레티엘 디스크 골프 공원 (Tarethiel Disc Golf Park) (Tarethiel Disc Golf Park)||
 Chaos_Tower_Zone_25|Heavens||Céus||||||
-Chaos_Tower_Zone_26|Wetlands||Áreas Alagadas||||습지 (Wetlands)||
-Chaos_Tower_Zone_27|Castle Cemetary||Cemitério do Castelo||||성 묘지 (Castle Cemetary)||
-Chaos_Tower_Zone_28|Pumpkin Fields||Campos de Abóbora||||호박 밭 (Pumpkin Fields)||
-Chaos_Tower_Zone_29|Misty Garden||Jardim Nebuloso||||안개 정원 (Misty Garden)||
-Chaos_Tower_Zone_30|Catacomb Barracks||Quartel das Catacumbas||||지하 묘지 병영 (Catacomb Barracks)||
+Chaos_Tower_Zone_26|Wetlands||Áreas Alagadas||||습지 (Wetlands) (Wetlands)||
+Chaos_Tower_Zone_27|Castle Cemetary||Cemitério do Castelo||||성 묘지 (Castle Cemetary) (Castle Cemetary)||
+Chaos_Tower_Zone_28|Pumpkin Fields||Campos de Abóbora||||호박 밭 (Pumpkin Fields) (Pumpkin Fields)||
+Chaos_Tower_Zone_29|Misty Garden||Jardim Nebuloso||||안개 정원 (Misty Garden) (Misty Garden)||
+Chaos_Tower_Zone_30|Catacomb Barracks||Quartel das Catacumbas||||지하 묘지 병영 (Catacomb Barracks) (Catacomb Barracks)||
 |||||||||
 |||||||||
 |||||||||
-Fields_Boss_rm|Eternal Battlefield|Ikuinen sotatanner|Campos Eternos de Batalha|Вечное Поле битвы|永恒战场|永遠の戦場|영원한 전장 (Eternal Battlefield)|Ewiges Schlachtfeld|Champ de bataille éternel
+Fields_Boss_rm|Eternal Battlefield|Ikuinen sotatanner|Campos Eternos de Batalha|Вечное Поле битвы|永恒战场|永遠の戦場|영원한 전장 (Eternal Battlefield) (Eternal Battlefield)|Ewiges Schlachtfeld|Champ de bataille éternel
 |||||||||
 [Wormholes]|||||||||
-Wormhole_01_rm|Chappel Catacomb’s Wormhole||Catacumbas da Capela|Червоточина катакомб Чаппеля|||채플 지하묘지의 웜홀 (Chappel Catacomb’s Wormhole)||Vortex des catacombes de la chapelle
-Wormhole_02_rm|Valley of Cauflax Wormhole||Vale do Cauflax|Червоточина долины Кауфлакс|||카우플락스 웜홀 계곡 (Valley of Cauflax Wormhole)||
-Wormhole_03_rm|Great Marsh Wormhole||Grande Pântano|Великая Болотная Червоточина|||대습지 웜홀 (Great Marsh Wormhole)||
-Wormhole_04_rm|Sky’s Reach Wormhole||Extensão dos Céus|Червоточина Небесного охвата|||하늘의 닿는 웜홀 (Sky’s Reach Wormhole)||
-Wormhole_05_rm|Fallen Realm Wormhole||Reino Caído||||타락한 영역의 웜홀 (Fallen Realm Wormhole)||
-Wormhole_06_rm|The Witch Bog||||||마녀의 늪 (The Witch Bog)||
+Wormhole_01_rm|Chappel Catacomb’s Wormhole||Catacumbas da Capela|Червоточина катакомб Чаппеля|||채플 지하묘지의 웜홀 (Chappel Catacomb’s Wormhole) (Chappel Catacomb’s Wormhole)||Vortex des catacombes de la chapelle
+Wormhole_02_rm|Valley of Cauflax Wormhole||Vale do Cauflax|Червоточина долины Кауфлакс|||카우플락스 웜홀 계곡 (Valley of Cauflax Wormhole) (Valley of Cauflax Wormhole)||
+Wormhole_03_rm|Great Marsh Wormhole||Grande Pântano|Великая Болотная Червоточина|||대습지 웜홀 (Great Marsh Wormhole) (Great Marsh Wormhole)||
+Wormhole_04_rm|Sky’s Reach Wormhole||Extensão dos Céus|Червоточина Небесного охвата|||하늘의 닿는 웜홀 (Sky’s Reach Wormhole) (Sky’s Reach Wormhole)||
+Wormhole_05_rm|Fallen Realm Wormhole||Reino Caído||||타락한 영역의 웜홀 (Fallen Realm Wormhole) (Fallen Realm Wormhole)||
+Wormhole_06_rm|The Witch Bog||||||마녀의 늪 (The Witch Bog) (The Witch Bog)||
 |||||||||
 |||||||||
 |||||||||
@@ -267,4 +267,4 @@ Wormhole_06_rm|The Witch Bog||||||마녀의 늪 (The Witch Bog)||
 |||||||||
 |||||||||
 |||||||||
-floor|Floor|Kerros|Andar|Этаж|地板|床|바닥 (Floor)|Fußboden|Étage
+floor|Floor|Kerros|Andar|Этаж|地板|床|바닥 (Floor) (Floor)|Fußboden|Étage
