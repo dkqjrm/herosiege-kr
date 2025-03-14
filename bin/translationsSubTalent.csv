@@ -135,7 +135,7 @@ subDescVikingZeal02|Increases the damage dealt by zeal.||||||열정으로 인한
 subDescVikingZeal03|Zeal now works with throwing weapons gaining increased attack range and damage.||||||열정이 이제 투척 무기와 함께 작동하여 공격 범위와 피해가 증가합니다.||
 subDescVikingZeal04|Increases critical strike damage dealt by zeal.||||||열정으로 인한 치명타 피해가 증가합니다.||
 subDescVikingZeal05|Chance to summon an orbiting axe around the target on hit.||||||적중 시 대상 주위에 도끼를 소환할 확률.||
-subDescVikingZeal06|Increases attack rating when using zeal.||||||열정을 사용할 때 공격 등급이 증가합니다.||
+subDescVikingZeal06|Increases attack rating when using zeal.||||||열정을 사용할 때 명중률이 증가합니다.||
 subDescVikingZeal07|Chance to inflict bleeding on hit.||||||공격 시 출혈 효과를 줄 확률.||
 subDescVikingZeal08|Increases damage dealt to bleeding targets.||||||출혈 중인 대상에게 가하는 피해가 증가합니다.||
 subDescVikingZeal09|Zeal now executes targets below a certain percentage of life.||||||열정은 이제 특정 생명 비율 이하의 대상을 처형합니다.||
@@ -163,7 +163,7 @@ subDescVikingYmirsChampion01|Increases the damage dealt by ymir's champion.|||||
 subDescVikingYmirsChampion02|Increases the duration of axes.||||||도끼의 지속 시간을 증가시킵니다.||
 subDescVikingYmirsChampion03|Increases the size of axes.||||||도끼의 크기를 증가시킵니다.||
 subDescVikingYmirsChampion04|Increases damage dealt to frozen targets.||||||얼어붙은 적에게 가하는 피해량 증가||
-subDescVikingYmirsChampion05|Increases attack rating when using ymir's champion.||||||이미르의 챔피언을 사용할 때 공격 등급이 증가합니다.||
+subDescVikingYmirsChampion05|Increases attack rating when using ymir's champion.||||||이미르의 챔피언을 사용할 때 명중률이 증가합니다.||
 subDescVikingYmirsChampion06|Increases the orbit radius of axes.||||||도끼의 궤도 반경을 증가시킵니다.||
 subDescVikingYmirsChampion07|Increases the projectile speed of axes.||||||도끼의 발사체 속도를 증가시킵니다.||
 subDescVikingYmirsChampion08|Chance to unleash an ice nova on hit.||||||적중 시 얼음 폭발을 일으킬 확률.||
@@ -188,7 +188,7 @@ subVikingWhirlwind11|Sharpened Blades||||||날카로운 칼날||
 subVikingWhirlwind12|Detonation||||||폭발||
 subVikingWhirlwind13|Negative Pressure||||||부정적 압력||
 subVikingWhirlwind14|Airborne||||||공중||
-subDescVikingWhirlwind01|Increases attack rating when using whirlwind.||||||회오리바람 사용 시 공격 등급 증가.||
+subDescVikingWhirlwind01|Increases attack rating when using whirlwind.||||||회오리바람 사용 시 명중률 증가.||
 subDescVikingWhirlwind02|Increases the damage dealt by whirlwind.||||||회오리 바람으로 입히는 피해가 증가합니다.||
 subDescVikingWhirlwind03|Increases critical strike damage when using whirlwind.||||||회오리바람 사용 시 치명타 피해 증가||
 subDescVikingWhirlwind04|Increases the area of effect radius of whirlwind.||||||회오리의 효과 범위 반경이 증가합니다.||
@@ -249,7 +249,7 @@ subVikingBerserk14|Giant´s Grasp||||||거인의 손아귀||
 subDescVikingBerserk01|Increases the damage dealt by berserk.||||||광폭화로 인한 피해량이 증가합니다.||
 subDescVikingBerserk02|Increases the movement speed bonus from berserk.||||||광폭화 상태에서 이동 속도 보너스를 증가시킵니다.||
 subDescVikingBerserk03|Chance on attack to perform an additional attack.||||||공격 시 추가 공격을 할 확률이 있습니다.||
-subDescVikingBerserk04|Increases attack rating when using berserk.||||||광폭화 사용 시 공격 등급 증가.||
+subDescVikingBerserk04|Increases attack rating when using berserk.||||||광폭화 사용 시 명중률 증가.||
 subDescVikingBerserk05|Chance to strike the monster with force causing pieces of it to scatter around and damage nearby targets.||||||몬스터를 강하게 타격하여 조각이 흩어지고 주변의 타겟에 피해를 입힐 확률||
 subDescVikingBerserk06|Chance on hit to throw a piercing axe towards your target inflicting armor break to all monsters hit.||||||공격 시 일정 확률로 목표를 향해 관통하는 도끼를 던져 맞은 모든 몬스터의 방어력을 감소시킵니다.||
 subDescVikingBerserk07|Every strike now stacks to an additional buff unleashing a powerful area of effect pulse when reaching max stacks.||||||모든 공격이 추가 버프를 쌓아 최대 스택에 도달하면 강력한 범위 효과 펄스를 발산합니다.||
@@ -594,7 +594,7 @@ subMarksmanTrickshot11|Sniper's Touch||||||저격수의 손길||
 subMarksmanTrickshot12|Splitting Trickshot||||||분할 트릭샷||
 subMarksmanTrickshot13|Scorching Arrow||||||불타는 화살||
 subMarksmanTrickshot14|Powershot||||||파워샷||
-subDescMarksmanTrickshot01|Increases attack rating when using trickshot.||||||트릭샷 사용 시 공격 등급 증가||
+subDescMarksmanTrickshot01|Increases attack rating when using trickshot.||||||트릭샷 사용 시 명중률 증가||
 subDescMarksmanTrickshot02|Reduces the mana cost of trickshot.||||||속임수 사격의 마나 소모를 줄입니다.||
 subDescMarksmanTrickshot03|Increases the damage dealt by trickshot.||||||트릭샷의 피해량이 증가합니다.||
 subDescMarksmanTrickshot04|Increases the amount of bounces for trickshot.||||||트릭샷의 바운스 횟수를 증가시킵니다.||
@@ -625,7 +625,7 @@ subMarksmanVault13|Safespace||||||안전 구역||
 subMarksmanVault14|iArrow||||||||
 subDescMarksmanVault01|Increases vault length.||||||금고 길이를 증가시킵니다.||
 subDescMarksmanVault02|Increases the damage dealt by vault.||||||||
-subDescMarksmanVault03|Increases attack rating when vaulting.||||||도약 시 공격 등급 증가.||
+subDescMarksmanVault03|Increases attack rating when vaulting.||||||도약 시 명중률 증가.||
 subDescMarksmanVault04|Increases the amount of projectiles fired when vaulting.||||||도약 시 발사되는 투사체의 수를 증가시킵니다.||
 subDescMarksmanVault05|Increases air time when vaulting. Vault can now go over hard terrain.||||||도약 시 공중 체류 시간이 증가합니다. 이제 도약으로 험한 지형을 넘을 수 있습니다.||
 subDescMarksmanVault06|When landing fire projectiles in a circle around you.||||||착지 시 주변에 원형으로 화염 투사체를 발사합니다.||
@@ -681,7 +681,7 @@ subMarksmanVolatileShot11|Colossal Arrow||||||거대한 화살||
 subMarksmanVolatileShot12|Volatile Multishot||||||불안정한 멀티샷||
 subMarksmanVolatileShot13|Fire in the Hole!||||||수류탄 투척!||
 subMarksmanVolatileShot14|Artillery||||||포병||
-subDescMarksmanVolatileShot01|Increases attack rating when using volatile shot.||||||불안정한 샷 사용 시 공격 등급 증가||
+subDescMarksmanVolatileShot01|Increases attack rating when using volatile shot.||||||불안정한 샷 사용 시 명중률 증가||
 subDescMarksmanVolatileShot02|Increases the damage dealt by volatile shot.||||||휘발성 사격으로 인한 피해량 증가.||
 subDescMarksmanVolatileShot03|Increases the attack range of volatile shot.||||||휘발성 샷의 공격 범위를 증가시킵니다.||
 subDescMarksmanVolatileShot04|Inflicts armor break on hit.||||||명중 시 방어구 파괴를 일으킵니다.||
@@ -1036,7 +1036,7 @@ subDescPirateExplosiveBullets04|Chance on attack to fire an additional explosive
 subDescPirateExplosiveBullets05|Increases the damage dealt by explosive bullets against bosses.||||||폭발탄으로 보스에게 입히는 피해가 증가합니다.||
 subDescPirateExplosiveBullets06|Chance on hit to unleash additional explosions.||||||공격 시 추가 폭발을 일으킬 확률이 있습니다.||
 subDescPirateExplosiveBullets07|Increases the explosion area of effect radius for explosive bullet.||||||폭발성 탄환의 폭발 범위 반경이 증가합니다.||
-subDescPirateExplosiveBullets08|Increases attack rating when using explosive bullets.||||||폭발탄 사용 시 공격 등급이 증가합니다.||
+subDescPirateExplosiveBullets08|Increases attack rating when using explosive bullets.||||||폭발탄 사용 시 명중률이 증가합니다.||
 subDescPirateExplosiveBullets09|Chance to inflict burning on hit.||||||명중 시 화상 상태를 입힐 확률.||
 subDescPirateExplosiveBullets10|Increases damage dealt to burning targets.||||||불타는 대상에게 가하는 피해 증가.||
 subDescPirateExplosiveBullets11|Explosive bullet now explodes multiple times.||||||폭발 탄환이 이제 여러 번 폭발합니다.||
@@ -1409,7 +1409,7 @@ subNomadBladeStrike14|Giant Slayer||||||거인 학살자||
 subDescNomadBladeStrike01|Increases critical strike chance when using blade strike.||||||칼날 공격 사용 시 치명타 확률 증가.||
 subDescNomadBladeStrike02|Increases critical strike damage when using blade strike.||||||칼날 공격 사용 시 치명타 피해 증가||
 subDescNomadBladeStrike03|Increases damage dealt by blade strike.||||||칼날 공격으로 인한 피해 증가||
-subDescNomadBladeStrike04|Increases attack rating when using blade strike.||||||칼날 공격 사용 시 공격 등급 증가||
+subDescNomadBladeStrike04|Increases attack rating when using blade strike.||||||칼날 공격 사용 시 명중률 증가||
 subDescNomadBladeStrike05|Inflicts armor break on hit.||||||적중 시 방어구 파괴||
 subDescNomadBladeStrike06|Chance on attack to throw your weapon with force dealing additional damage and bouncing from terrain. ||||||공격 시 무기를 던져 추가 피해를 주고 지형에 튕길 확률이 있습니다.||
 subDescNomadBladeStrike07|Increases the area of effect of blade strike.||||||칼날 공격의 효과 범위를 증가시킵니다.||
@@ -1443,7 +1443,7 @@ subDescNomadEyeOfRa05|Increases damage dealt to burning targets.||||||불타는 
 subDescNomadEyeOfRa06|Increases the amount of sun rays additionally inflicting slow on hit.||||||햇살의 양을 증가시키고, 적중 시 추가로 느려지게 합니다.||
 subDescNomadEyeOfRa07|Inflicts fire break on hit.||||||명중 시 화염 파괴를 입힙니다.||
 subDescNomadEyeOfRa08|Increases critical strike damage dealt by eye of ra.||||||라의 눈에 의한 치명타 피해 증가||
-subDescNomadEyeOfRa09|Increases attack rating when using eye of ra.||||||라의 눈을 사용할 때 공격 등급이 증가합니다.||
+subDescNomadEyeOfRa09|Increases attack rating when using eye of ra.||||||라의 눈을 사용할 때 명중률이 증가합니다.||
 subDescNomadEyeOfRa10|Inflicts armor break on hit.||||||적중 시 방어구 파괴를 입힙니다.||
 subDescNomadEyeOfRa11|Unleash eye of ra on all nearby monsters. Eye of Ra now has a cooldown. ||||||근처의 모든 몬스터에게 라의 눈을 발동합니다. 라의 눈은 이제 쿨타임이 있습니다.||
 subDescNomadEyeOfRa12|Unleash pillars of light in a narrow line each dealing damage over time and slowing on hit. ||||||좁은 선을 따라 빛의 기둥을 발사하여 시간 경과에 따라 피해를 주고 맞은 적을 느리게 합니다.||
@@ -1494,7 +1494,7 @@ subNomadChainSlice12|Ghost Blade||||||유령 칼날||
 subNomadChainSlice13|Critical Shred||||||치명적인 분쇄||
 subNomadChainSlice14|Chainception||||||체인셉션||
 subDescNomadChainSlice01|Increases the amount of bounces for chainslice.||||||체인슬라이스의 튕김 횟수를 증가시킵니다.||
-subDescNomadChainSlice02|Increases attack rating when using chainslice.||||||체인슬라이스 사용 시 공격 등급 증가||
+subDescNomadChainSlice02|Increases attack rating when using chainslice.||||||체인슬라이스 사용 시 명중률 증가||
 subDescNomadChainSlice03|Inflict armor break on hit.||||||명중 시 방어구 파괴||
 subDescNomadChainSlice04|Increases the range of chainslice.||||||체인 슬라이스의 범위가 증가합니다.||
 subDescNomadChainSlice05|Increases the projectile speed of chainslice.||||||체인슬라이스의 투사체 속도가 증가합니다.||
@@ -1525,7 +1525,7 @@ subNomadScimitarCharge14|Phantom Charge||||||팬텀 차지||
 subDescNomadScimitarCharge01|Increases damage dealt by scimitar charge.||||||시미터 돌진으로 인한 피해 증가||
 subDescNomadScimitarCharge02|Increases the area of effect radius of scimitar charge.||||||시미터 돌진의 효과 범위를 증가시킵니다.||
 subDescNomadScimitarCharge03|Increases the traveling distance of scimitar charge.||||||시미터 돌진의 이동 거리를 증가시킵니다.||
-subDescNomadScimitarCharge04|Increases attack rating when using scimitar charge.||||||시미터 돌진 사용 시 공격 등급 증가||
+subDescNomadScimitarCharge04|Increases attack rating when using scimitar charge.||||||시미터 돌진 사용 시 명중률 증가||
 subDescNomadScimitarCharge05|Knock monsters back dealing increased damage on hit.||||||몬스터를 밀쳐내고 타격 시 추가 피해를 입힙니다.||
 subDescNomadScimitarCharge06|Increases travel speed when using scimitar charge.||||||시미터 돌진 사용 시 이동 속도가 증가합니다.||
 subDescNomadScimitarCharge07|Decreases the mana cost of scimitar charge.||||||시미터 돌진의 마나 소모를 감소시킵니다.||
@@ -2193,7 +2193,7 @@ subDescSamuraiQuickslash01|Increases dash speed.||||||대시 속도 증가||
 subDescSamuraiQuickslash02|Increases quickslash area of effect radius.||||||빠른 베기 효과 범위가 증가합니다.||
 subDescSamuraiQuickslash03|Increases the amount of performed slashes.||||||베기 횟수가 증가합니다.||
 subDescSamuraiQuickslash04|Chance on hit to stun the target.||||||공격 시 대상 기절 확률.||
-subDescSamuraiQuickslash05|Increases attack rating when using quickslash.||||||빠른 베기를 사용할 때 공격 등급이 증가합니다.||
+subDescSamuraiQuickslash05|Increases attack rating when using quickslash.||||||빠른 베기를 사용할 때 명중률이 증가합니다.||
 subDescSamuraiQuickslash06|Increases the damage dealt to stunned targets.||||||기절한 적에게 가하는 피해가 증가합니다.||
 subDescSamuraiQuickslash07|Summon shadow performing quickslash towards a nearby monster dealing a portion of the damage.||||||그림자를 소환하여 근처의 몬스터에게 빠른 베기를 가해 일부 피해를 입힙니다.||
 subDescSamuraiQuickslash08|Leave a shadow behind slashing monsters around it dealing a portion of the damage.||||||몬스터를 베어내며 그림자를 남기고, 그 주변의 몬스터들에게 일정 부분의 피해를 줍니다.||
@@ -2218,7 +2218,7 @@ subSamuraiSmokeBomb11|Adjusted Formula||||||조정된 공식||
 subSamuraiSmokeBomb12|Stealth Zone||||||은신 구역||
 subSamuraiSmokeBomb13|Monster Cleansing||||||몬스터 정화||
 subSamuraiSmokeBomb14|Smoke Trail||||||연기 자국||
-subDescSamuraiSmokeBomb01|Slows and reduces attack rating of targets hit.||||||적중한 대상의 속도를 늦추고 공격 등급을 감소시킵니다.||
+subDescSamuraiSmokeBomb01|Slows and reduces attack rating of targets hit.||||||적중한 대상의 속도를 늦추고 명중률을 감소시킵니다.||
 subDescSamuraiSmokeBomb02|Increases projectile speed.||||||발사체 속도가 증가합니다.||
 subDescSamuraiSmokeBomb03|Chance on hit to inflict armor break.||||||타격 시 방어구 파괴를 입힐 확률.||
 subDescSamuraiSmokeBomb04|Increases smoke bomb area of effect radius.||||||연막탄의 효과 범위를 증가시킵니다.||
@@ -2228,7 +2228,7 @@ subDescSamuraiSmokeBomb07|Smoke bomb has a chance to bounce releasing an additio
 subDescSamuraiSmokeBomb08|Increases cast rate when using smoke bomb.||||||연막탄 사용 시 시전 속도가 증가합니다.||
 subDescSamuraiSmokeBomb09|Inflicts burning on hit.||||||적중 시 화상 입힘.||
 subDescSamuraiSmokeBomb10|Increases damage dealt to burning targets.||||||불타는 대상에게 가하는 피해 증가.||
-subDescSamuraiSmokeBomb11|Significantly reduce enemy attack rating and increase monster damage taken when inside smoke bomb.||||||연막탄 안에 있을 때 적의 공격 등급을 크게 감소시키고 몬스터가 받는 피해를 증가시킵니다.||
+subDescSamuraiSmokeBomb11|Significantly reduce enemy attack rating and increase monster damage taken when inside smoke bomb.||||||연막탄 안에 있을 때 적의 명중률을 크게 감소시키고 몬스터가 받는 피해를 증가시킵니다.||
 subDescSamuraiSmokeBomb12|Throw out smoke bombs in all directions forming a massive cloud increasing your movement speed inside of it. Smoke bomb now has a cooldown.||||||연막탄을 모든 방향으로 던져 거대한 연기 구름을 형성하여 그 안에서 이동 속도를 증가시킵니다. 연막탄은 이제 재사용 대기시간이 있습니다.||
 subDescSamuraiSmokeBomb13|Smoke bomb consumes damage over time debuffs from monsters inside of it dealing full damage instantly. ||||||연막탄은 내부의 몬스터에게 걸린 지속 피해 디버프를 흡수하여 즉시 전체 피해를 입힙니다.||
 subDescSamuraiSmokeBomb14|Smoke bomb now leaves a trail of smoke behind you dealing increased damage. Smoke bomb now has a cooldown.||||||연막탄이 이제 뒤에 연기를 남기며 더 많은 피해를 입힙니다. 연막탄에 이제 재사용 대기시간이 있습니다.||
@@ -2334,7 +2334,7 @@ subSamuraiOmnislash11|Lucky Strikes||||||럭키 스트라이크||
 subSamuraiOmnislash12|Rain Of Chaos||||||혼돈의 비||
 subSamuraiOmnislash13|Poison Coated Daggers||||||독 묻은 단검||
 subSamuraiOmnislash14|Thunder Slashes||||||번개의 베기||
-subDescSamuraiOmnislash01|Increases attack rating when using omnislash.||||||옴니슬래시 사용 시 공격 등급이 증가합니다.||
+subDescSamuraiOmnislash01|Increases attack rating when using omnislash.||||||옴니슬래시 사용 시 명중률이 증가합니다.||
 subDescSamuraiOmnislash02|Increases the amount of slashes.||||||베기 횟수가 증가합니다.||
 subDescSamuraiOmnislash03|Reduces the cooldown of omnislash.||||||옴니슬래시의 재사용 대기시간이 감소합니다.||
 subDescSamuraiOmnislash04|Increases the damage dealt by omnislash.||||||옴니슬래시의 피해량이 증가합니다.||
@@ -2427,7 +2427,7 @@ subDescPaladinVengeance03|Increases the lightning damage dealt by vengeance.||||
 subDescPaladinVengeance04|Increases the attack damage dealt by vengeance according to your strength.||||||자신의 힘에 따라 복수로 가하는 공격 피해가 증가합니다.||
 subDescPaladinVengeance05|Vengeance restores a portion of damage dealt as mana on hit.||||||복수는 적중 시 입힌 피해의 일부를 마나로 회복합니다.||
 subDescPaladinVengeance06|Vengeance has increased attack range. No longer requires hitting a target.||||||복수의 공격 범위가 증가했습니다. 이제 더 이상 목표를 맞출 필요가 없습니다.||
-subDescPaladinVengeance07|Increases your attack rating when using vengeance.||||||복수 사용 시 공격 등급이 증가합니다.||
+subDescPaladinVengeance07|Increases your attack rating when using vengeance.||||||복수 사용 시 명중률이 증가합니다.||
 subDescPaladinVengeance08|Increases the length of lightning bolts.||||||번개의 길이를 증가시킵니다.||
 subDescPaladinVengeance09|Vengeance's lightning bolts have a chance to inflict lightning break on hit.||||||복수의 번개는 적중 시 번개 파괴를 가할 확률이 있습니다.||
 subDescPaladinVengeance10|Vengeance's lightning bolts have a chance to zap monsters on hit dealing additional damage.||||||복수의 번개는 적중 시 몬스터를 감전시켜 추가 피해를 입힐 수 있습니다.||
@@ -2887,7 +2887,7 @@ subAmazonSpearnage13|Boomerang Spears||||||부메랑 창||
 subAmazonSpearnage14|Explosive Speartips||||||폭발적인 창촉||
 subDescAmazonSpearnage01|Increases the damage dealt by spearnage.||||||창 무기의 피해량이 증가합니다.||
 subDescAmazonSpearnage02|Increases the amount of spears thrown.||||||투창 수가 증가합니다.||
-subDescAmazonSpearnage03|Increases attack rating when using spearnage.||||||창을 사용할 때 공격 등급이 증가합니다.||
+subDescAmazonSpearnage03|Increases attack rating when using spearnage.||||||창을 사용할 때 명중률이 증가합니다.||
 subDescAmazonSpearnage04|Increases lightning damage dealt by spearnage.||||||창으로 가하는 번개 피해가 증가합니다.||
 subDescAmazonSpearnage05|Spears grow in size and gain increased damage while traveling.||||||창이 커지면서 이동 중에 피해가 증가합니다.||
 subDescAmazonSpearnage06|Chance to inflict armor break on hit.||||||공격 시 방어구 파괴 확률 증가.||
@@ -3004,7 +3004,7 @@ subDemonSlayerBulletHell14|Gunpowder||||||화약||
 subDescDemonSlayerBulletHell01|Increases damage dealt by bullet hell.||||||탄막으로 입히는 피해 증가||
 subDescDemonSlayerBulletHell02|Increases the amount of projectiles fired by bullet hell.||||||탄막에 의해 발사되는 투사체의 수가 증가합니다.||
 subDescDemonSlayerBulletHell03|Chance on attack to fire an additional wave of bullets.||||||공격 시 추가 탄환 파동을 발사할 확률이 있습니다.||
-subDescDemonSlayerBulletHell04|Increases attack rating when using bullet hell.||||||탄막 슈팅 사용 시 공격 등급 증가.||
+subDescDemonSlayerBulletHell04|Increases attack rating when using bullet hell.||||||탄막 슈팅 사용 시 명중률 증가.||
 subDescDemonSlayerBulletHell05|Chance to knock monsters back on hit stunning them.||||||몬스터를 타격 시 기절시키며 밀쳐낼 확률.||
 subDescDemonSlayerBulletHell06|Increases projectile speed.||||||투사체 속도 증가||
 subDescDemonSlayerBulletHell07|Increases the size of bullet hell projectiles.||||||탄막 투사체의 크기를 증가시킵니다.||
@@ -3119,7 +3119,7 @@ subDemonSlayerFastSlices13|Shadow Daggers||||||그림자 단검||
 subDemonSlayerFastSlices14|High Strike||||||강력한 타격||
 subDescDemonSlayerFastSlices01|Increases the area of effect radius of fast slices.||||||빠른 베기의 효과 범위 반경이 증가합니다.||
 subDescDemonSlayerFastSlices02|Increases damage dealt by fast slices.||||||빠른 베기의 피해량이 증가합니다.||
-subDescDemonSlayerFastSlices03|Increases attack rating when using fast slices.||||||빠른 베기를 사용할 때 공격 등급이 증가합니다.||
+subDescDemonSlayerFastSlices03|Increases attack rating when using fast slices.||||||빠른 베기를 사용할 때 명중률이 증가합니다.||
 subDescDemonSlayerFastSlices04|Chance to heat target souls causing them to explode after a brief moment dealing area of effect damage.||||||대상 영혼을 가열하여 잠시 후 폭발시켜 범위 피해를 입힐 확률.||
 subDescDemonSlayerFastSlices05|Chance to knock monsters airborne causing them to deal area of effect damage upon landing on the third hit.||||||세 번째 공격 시 몬스터를 공중으로 띄워 착지할 때 범위 피해를 입힐 확률이 있습니다.||
 subDescDemonSlayerFastSlices06|Chance to inflict burning on hit.||||||명중 시 화상을 입힐 확률.||
@@ -4194,7 +4194,7 @@ subDescMarauderSerratedChains01|Increases the area of effect radius of serrated 
 subDescMarauderSerratedChains02|Increases the damage dealt by serrated chains.||||||톱니 사슬로 가하는 피해가 증가합니다.||
 subDescMarauderSerratedChains03|Increases damage dealt to bleeding targets.||||||출혈 상태의 적에게 가하는 피해 증가.||
 subDescMarauderSerratedChains04|Chance to increase the tick frequency of serrated chains.||||||톱니 체인의 틱 주기를 증가시킬 확률.||
-subDescMarauderSerratedChains05|Increases the damage dealt by serrated chains decreasing attack rating.||||||톱니 체인의 피해량이 증가하지만 공격 등급이 감소합니다.||
+subDescMarauderSerratedChains05|Increases the damage dealt by serrated chains decreasing attack rating.||||||톱니 체인의 피해량이 증가하지만 명중률이 감소합니다.||
 subDescMarauderSerratedChains06|Increases attack rating when using serrated chains.||||||톱니 사슬을 사용할 때 공격력이 증가합니다.||
 subDescMarauderSerratedChains07|Ignore a portion of target defense when using serrated chains.||||||톱니 사슬을 사용할 때 대상의 방어력을 일부 무시합니다.||
 subDescMarauderSerratedChains08|Increases the area of effect width decreasing the length of serrated chains.||||||톱니 사슬의 길이를 줄이면서 효과 범위의 너비를 증가시킵니다.||
@@ -4343,7 +4343,7 @@ subDescPlagueDoctorMiasma05|Increases the size of miasma.||||||독기의 크기�
 subDescPlagueDoctorMiasma06|Chance to unleash additional miasma clouds from poisoned targets on hit.||||||중독된 대상에게 타격 시 추가적인 독구름을 발생시킬 확률.||
 subDescPlagueDoctorMiasma07|Chance to inflict burning on hit.||||||명중 시 화상 상태 이상 부여 확률.||
 subDescPlagueDoctorMiasma08|Chance to critically hit with increased critical strike damage.||||||치명타 확률 증가와 치명타 피해 증가.||
-subDescPlagueDoctorMiasma09|Increases attack rating when using miasma.||||||미아즈마 사용 시 공격 등급 증가.||
+subDescPlagueDoctorMiasma09|Increases attack rating when using miasma.||||||미아즈마 사용 시 명중률 증가.||
 subDescPlagueDoctorMiasma10|Chance to drop a burning meteor at burning targets on hit unleashing multiple fire balls to all directions when exploding.||||||명중 시 불타는 대상에게 불타는 유성을 떨어뜨릴 확률이 있으며, 폭발 시 모든 방향으로 여러 개의 불덩이를 방출합니다.||
 subDescPlagueDoctorMiasma11|Miasma sticks to the target with increased size and damage.||||||미아즈마가 대상에 붙어 크기와 피해량이 증가합니다.||
 subDescPlagueDoctorMiasma12|Fling targets behind you on hit inflicting elemental break and stunning them. Miasma clouds now spawn behind you.||||||타격 시 뒤에 있는 표적을 던져 원소 붕괴를 일으키고 기절시킵니다. 이제 뒤에 독기 구름이 생성됩니다.||
@@ -4367,7 +4367,7 @@ subPlagueDoctorSurgicalBloodLetting14|Cutting Storm||||||||
 subDescPlagueDoctorSurgicalBloodLetting01|Increases the damage dealt by surgical blood letting.||||||외과적 혈액 방출로 인한 피해량 증가.||
 subDescPlagueDoctorSurgicalBloodLetting02|Inflict bleeding to targets on hit.||||||적중 시 대상에게 출혈을 입힙니다.||
 subDescPlagueDoctorSurgicalBloodLetting03|Increases the projectile speed of surgical blood letting.||||||외과적 사혈의 투사체 속도가 증가합니다.||
-subDescPlagueDoctorSurgicalBloodLetting04|Increases attack rating when using surgical blood letting.||||||외과적 혈액 방출을 사용할 때 공격 등급이 증가합니다.||
+subDescPlagueDoctorSurgicalBloodLetting04|Increases attack rating when using surgical blood letting.||||||외과적 혈액 방출을 사용할 때 명중률이 증가합니다.||
 subDescPlagueDoctorSurgicalBloodLetting05|Chance to restore life on hit for a portion of your additive physical damage.||||||적을 공격할 때 물리 피해의 일부를 생명력으로 회복할 확률이 있습니다.||
 subDescPlagueDoctorSurgicalBloodLetting06|Chance on attack to inflict increased bleed damage.||||||공격 시 출혈 피해 증가 확률.||
 subDescPlagueDoctorSurgicalBloodLetting07|Increases damage dealt to bleeding enemies.||||||출혈 상태의 적에게 가하는 피해 증가.||
@@ -4627,7 +4627,7 @@ subShieldLancerCrushingLance13|Seismic Perforation||||||지진 천공||
 subShieldLancerCrushingLance14|Marked for Javelinstrike||||||창 투척 대상||
 subDescShieldLancerCrushingLance01|Increases the damage dealt by crushing lance.||||||분쇄 창으로 입히는 피해가 증가합니다.||
 subDescShieldLancerCrushingLance02|Increases the area of effect radius of crushing lance.||||||분쇄 창의 효과 반경을 증가시킵니다.||
-subDescShieldLancerCrushingLance03|Increases attack rating when using crushing lance.||||||분쇄 창 사용 시 공격 등급 증가.||
+subDescShieldLancerCrushingLance03|Increases attack rating when using crushing lance.||||||분쇄 창 사용 시 명중률 증가.||
 subDescShieldLancerCrushingLance04|Every third attack with crushing lance is empowered increasing area of effect radius and damage.||||||파괴의 창으로 세 번째 공격마다 효과 범위와 피해가 증가합니다.||
 subDescShieldLancerCrushingLance05|Increases damage dealt to stunned targets.||||||기절한 대상에게 가하는 피해량 증가.||
 subDescShieldLancerCrushingLance06|Chance to unleash an additional crushing lance from the target to a nearby monster on hit.||||||타격 시 대상에서 인근 몬스터로 추가로 강력한 창을 발사할 기회가 있습니다.||
@@ -4659,7 +4659,7 @@ subDescShieldLancerLanceThrust02|Increases the range of lance thrust.||||||창 �
 subDescShieldLancerLanceThrust03|Increases stun duration and damage when colliding with commending banner.||||||명령 깃발과 충돌 시 기절 시간과 피해량 증가.||
 subDescShieldLancerLanceThrust04|Chance to inflict bleeding on hit.||||||타격 시 출혈을 일으킬 확률.||
 subDescShieldLancerLanceThrust05|Knock monsters back on hit dealing increased damage.||||||공격 시 몬스터를 밀쳐내며 추가 피해를 입힙니다.||
-subDescShieldLancerLanceThrust06|Chance to gain a stack of swift strikes on hit increasing your attack speed and attack rating.||||||적중 시 공격 속도와 공격 등급이 증가하는 신속한 타격 스택을 얻을 확률이 있습니다.||
+subDescShieldLancerLanceThrust06|Chance to gain a stack of swift strikes on hit increasing your attack speed and attack rating.||||||적중 시 공격 속도와 명중률이 증가하는 신속한 타격 스택을 얻을 확률이 있습니다.||
 subDescShieldLancerLanceThrust07|Increases the critical strike damage dealt by lance thrust when using polearms.||||||장창을 사용할 때 찌르기 공격의 치명타 피해량이 증가합니다.||
 subDescShieldLancerLanceThrust08|Increases damage dealt to bleeding targets.||||||출혈 상태의 적에게 입히는 피해량 증가.||
 subDescShieldLancerLanceThrust09|Every third attack with lance thrust is empowered increasing range and damage slowing monsters on hit.||||||세 번째 창 찌르기 공격마다 사거리가 증가하고 피해가 늘어나며, 명중 시 몬스터의 속도를 늦춥니다.||
@@ -5017,7 +5017,7 @@ subDescJotunnBreathOfIce12|Inflict targets with a stack of frost charged on hit 
 subDescJotunnBreathOfIce13|Increases the length of breath of ice significantly inflicting strong slow and freeze on hit. ||||||얼음 숨결의 길이가 크게 증가하여 적중 시 강력한 둔화 및 얼리기를 가합니다.||
 subDescJotunnBreathOfIce14|Unleash multiple breaths of ice with chance to critically hit dealing increased critical strike damage.||||||여러 번의 얼음 숨결을 내뿜으며, 치명타 확률이 증가하고 치명타 피해가 증가합니다.||
 |||||||||
-subJotunnOrbOfFrost01|Festering Cold||||||부패하는 추위||
+subJotunnOrbOfFrost01|Festering Cold||||||부패하는 냉기||
 subJotunnOrbOfFrost02|Frost Icicles||||||서리 고드름||
 subJotunnOrbOfFrost03|Frozen Mass||||||얼어붙은 덩어리||
 subJotunnOrbOfFrost04|Icy Winds||||||얼음 바람||
@@ -5105,7 +5105,7 @@ subDescJotunnBlizzard13|Unleash a shockwave of blizzards towards target location
 subDescJotunnBlizzard14|Blizzard gains increased size and projectile frequency over time dropping a huge boulder when expiring..||||||눈보라는 시간이 지남에 따라 크기와 발사 빈도가 증가하며 만료 시 거대한 바위를 떨어뜨립니다.||
 |||||||||
 subJotunnFlashFreeze01|Hail Force||||||우박의 힘||
-subJotunnFlashFreeze02|Excess Cold||||||과도한 추위||
+subJotunnFlashFreeze02|Excess Cold||||||과도한 냉기||
 subJotunnFlashFreeze03|Precise Tundra||||||정확한 툰드라||
 subJotunnFlashFreeze04|Fractured Ice||||||부서진 얼음||
 subJotunnFlashFreeze05|Nordic Frenzy||||||노르딕 프렌지||
@@ -5120,7 +5120,7 @@ subJotunnFlashFreeze13|Swirling Wintershard ||||||소용돌이치는 겨울의 �
 subJotunnFlashFreeze14|Coldflash Volley||||||콜드플래시 발리||
 subDescJotunnFlashFreeze01|Increases the damage dealt by flash freeze.||||||섬광 동결로 인한 피해가 증가합니다.||
 subDescJotunnFlashFreeze02|Increases the amount of icicles unleashed by frost orb.||||||서리 구체에서 방출되는 고드름의 양이 증가합니다.||
-subDescJotunnFlashFreeze03|Increases attack rating when using flash freeze.||||||플래시 프리즈 사용 시 공격 등급 증가.||
+subDescJotunnFlashFreeze03|Increases attack rating when using flash freeze.||||||플래시 프리즈 사용 시 명중률 증가.||
 subDescJotunnFlashFreeze04|Chance for icicles to fork on hit.||||||타격 시 고드름이 갈라질 확률.||
 subDescJotunnFlashFreeze05|Increases damage dealt to frozen targets.||||||얼어붙은 대상에게 가하는 피해가 증가합니다.||
 subDescJotunnFlashFreeze06|Increases the area of effect radius of flash freeze.||||||섬광 얼음의 효과 반경을 증가시킵니다.||
@@ -5164,7 +5164,7 @@ subDescJotunnFreezingLeap14|Pull nearby monsters towards you when landing with i
 |||||||||
 subJotunnAvalanche01|Devastating Snowslide||||||파괴적인 눈사태||
 subJotunnAvalanche02|Devouring Snowpour||||||눈보라의 포식자||
-subJotunnAvalanche03|Timeless Cold||||||시간을 초월한 추위||
+subJotunnAvalanche03|Timeless Cold||||||시간을 초월한 냉기||
 subJotunnAvalanche04|Colossus of Yggdrasil||||||이그드라실의 거상||
 subJotunnAvalanche05|Acute Hoarfrost||||||날카로운 서리||
 subJotunnAvalanche06|Frigid Safeguard||||||차가운 수호||
@@ -5207,7 +5207,7 @@ subJotunnSweepFreeze13|Gelid Riptide||||||차가운 급류||
 subJotunnSweepFreeze14|Unstoppable Assault||||||막을 수 없는 공격||
 subDescJotunnSweepFreeze01|Increases the damage dealt by sweep freeze.||||||휩쓸기 동결로 인한 피해가 증가합니다.||
 subDescJotunnSweepFreeze02|Chance to inflict armor break on hit.||||||공격 시 방어구 파괴 확률.||
-subDescJotunnSweepFreeze03|Increases attack rating when using sweep freeze and damage based on your vitality.||||||빙결 휩쓸기 사용 시 공격 등급이 증가하고 체력에 기반한 피해를 입힙니다.||
+subDescJotunnSweepFreeze03|Increases attack rating when using sweep freeze and damage based on your vitality.||||||빙결 휩쓸기 사용 시 명중률이 증가하고 체력에 기반한 피해를 입힙니다.||
 subDescJotunnSweepFreeze04|Increases attack speed when using sweep freeze.||||||휩쓸기 동작 시 공격 속도가 증가합니다.||
 subDescJotunnSweepFreeze05|Chance to inflict frostbite on hit.||||||적중 시 동상 효과를 부여할 확률.||
 subDescJotunnSweepFreeze06|Chance to inflict cold break on hit.||||||공격 시 냉기 파괴를 일으킬 확률.||
@@ -5428,7 +5428,7 @@ subExoBlackHole02|Super Massive||||||슈퍼 매시브||
 subExoBlackHole03|Time != Space||||||시간 != 공간||
 subExoBlackHole04|Mass Density||||||질량 밀도||
 subExoBlackHole05|Interstellar Radiation||||||성간 방사선||
-subExoBlackHole06|Watermelting Cold||||||수박 녹는 추위||
+subExoBlackHole06|Watermelting Cold||||||수박 녹는 냉기||
 subExoBlackHole07|Time Bender||||||시간 굽힘자||
 subExoBlackHole08|Time Traveler||||||시간 여행자||
 subExoBlackHole09|Subzero Frequency||||||절대 영도 주파수||
@@ -5467,7 +5467,7 @@ subButcherSlicingThrow12|Slicing Vortex||||||베는 소용돌이||
 subButcherSlicingThrow13|Bladesaw Massacre||||||블레이드쏘 학살||
 subButcherSlicingThrow14|Daisy´s Regards||||||데이지의 인사||
 subDescButcherSlicingThrow01|Increases the damage of slicing throw.||||||베기 던지기의 피해량이 증가합니다.||
-subDescButcherSlicingThrow02|Increases attack rating when using slicing throw.||||||베기 던지기를 사용할 때 공격 등급이 증가합니다.||
+subDescButcherSlicingThrow02|Increases attack rating when using slicing throw.||||||베기 던지기를 사용할 때 명중률이 증가합니다.||
 subDescButcherSlicingThrow03|Increases the critical strike damage and projectile speed of slicing throw.||||||베기 던지기의 치명타 피해와 투사체 속도를 증가시킵니다.||
 subDescButcherSlicingThrow04|Chance to inflict armor break on hit.||||||타격 시 방어구 파괴 확률.||
 subDescButcherSlicingThrow05|Chance to unleash an additional chaining blade on hit.||||||타격 시 추가 연쇄 블레이드를 발동할 확률.||
@@ -5529,7 +5529,7 @@ subDescButcherChainRip02|Increases the damage dealt by chain rip.||||||연쇄 �
 subDescButcherChainRip03|Chance to inflict bleeding on hit.||||||공격 시 출혈 효과 발생 확률.||
 subDescButcherChainRip04|Inflicts armor break on hit.||||||적중 시 방어구 파괴를 입힙니다.||
 subDescButcherChainRip05|Replenish a portion of your maximum life and maximum mana on hit.||||||적중 시 최대 생명력과 최대 마나의 일부를 회복합니다.||
-subDescButcherChainRip06|Decreases monster attack rating inflicting slow on hit.||||||몬스터의 공격 등급을 감소시키고, 적중 시 느려지게 합니다.||
+subDescButcherChainRip06|Decreases monster attack rating inflicting slow on hit.||||||몬스터의 명중률을 감소시키고, 적중 시 느려지게 합니다.||
 subDescButcherChainRip07|Increases the projectile speed of chain rip.||||||연쇄 공격의 발사체 속도를 증가시킵니다.||
 subDescButcherChainRip08|Decreases the cooldown of chain rip.||||||연쇄 찢기의 재사용 대기시간을 감소시킵니다.||
 subDescButcherChainRip09|Gain increased damage reduction for a short duration when using chain rip.||||||사슬 찢기를 사용할 때 잠시 동안 피해 감소가 증가합니다.||
@@ -5729,7 +5729,7 @@ subStormweaverLightningSurge13|Concurrent Current||||||동시 전류||
 subStormweaverLightningSurge14|Surging Tornado||||||급류 토네이도||
 subDescStormweaverLightningSurge01|Increases the damage dealt by lightning surge.||||||번개 돌진의 피해량이 증가합니다.||
 subDescStormweaverLightningSurge02|Decreases the mana cost of lightning surge.||||||번개 쇄도의 마나 소모량 감소||
-subDescStormweaverLightningSurge03|Chance to lower target attack rating on hit.||||||공격 시 대상의 공격 등급을 낮출 확률.||
+subDescStormweaverLightningSurge03|Chance to lower target attack rating on hit.||||||공격 시 대상의 명중률을 낮출 확률.||
 subDescStormweaverLightningSurge04|Chance to inflict burning on hit.||||||명중 시 화상을 입힐 확률.||
 subDescStormweaverLightningSurge05|Chance to inflict lightning break on hit.||||||타격 시 번개 파괴를 가할 확률.||
 subDescStormweaverLightningSurge06|Chance to restore portion of your maximum mana on hit.||||||공격 시 최대 마나의 일부를 회복할 확률.||
