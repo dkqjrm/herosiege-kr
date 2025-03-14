@@ -1,0 +1,1439 @@
+[enemies]|en|fi|pt|ru|zh|ja|ko|de|fr
+e_rat_1|Rat Champion|Rottamestari|Rato Campeão|Крысиный Чемпион|鼠王|ラット・チャンピオン|챔피언 쥐|Ratten-Champion|Rat champion
+e_rat_2|Plague Rat|Tautinen rotta|Rato da Peste|Чумная Крыса|瘟疫鼠|プレイグ・ラット|역병 쥐|Pest-Ratte|Rat de la peste
+e_rat_3|Freak of Nature|Luonnonoikku|Aberração da Natureza|Причуда природы|大自然的怪胎|造化の戯れ|돌연변이 쥐|Natur-Freak|Erreur de la nature
+|||||||||
+|||||||||
+e_spider_1|Arachnid|Arachnid|Aracnídeo|Паукообразный|蜘蛛|蛛系魔|거미|Spinnentier|Arachnide
+e_spider_2|Broodmother|Parviemo|Mãe da Ninhada|Праматерь|育母蜘蛛|蛛系魔の母|거미 여왕|Brutmutter|Couveuse
+e_spider_3|Theraphosidae|Theraphosidae|Theraphosidae|Терафозиды|捕鸟蛛|大型の熱帯グモ|타란툴라|Theraphosidae|Theraphosidae
+|||||||||
+e_cave_spider_1|Cave Spider||Aranha da Caverna|Пещерный Паук|||동굴 거미||Araignée des cavernes
+e_cave_spider_2|Venomous Skitter||Escorregadio Venenoso|Ядовитый Скитер|||독성 스키터||Venimeux
+e_cave_spider_3|Toxic Lurker||Espreitador Venenoso|Ядовитый Подстерегающий|||독성 잠복자||Rôdeur toxique
+|||||||||
+e_skeleton_1|Bone Champion|Luumestari|Campeão dos Ossos|Костяной Чемпион|骷髅王|ボーン・チャンピオン|챔피언 해골|Knochen-Champion|Os champion
+e_skeleton_2|Skeletal Ancestor|Muinainen luuranko|Ancestral Esquelético|Скелетообразный Предок|骷髅祖先|骨格の先祖|조상의 유골|Skelett-Ahne|Ancêtre squelettique
+e_skeleton_3|Risen God|Noussut jumala|Deus Ressuscitado|Воскресший Бог|复活骷髅王|リズンゴッド|되살아난 시체|Auferstandener Gott|Dieu ressuscité
+|||||||||
+|||||||||
+e_skeleton_archer_1|Fallen Marksman|Kaatunut jousiampuja|Atirador Caído|Павший Стрелок|堕落的射手|フォールンマークマン|전사한 사수|Gefallener Scharfschütze|Tireur d'élite déchu
+e_skeleton_archer_2|Undead Sharpshooter|Epäkuollut tarkka-ampuja|Atirador de Elite Morto-Vivo|Снайпер - Нежить|亡灵射手|アンデッド・シャープシューター|언데드 명사수|Untoter Scharfschütze|Tireur d'élite mort-vivant
+e_skeleton_archer_3|Rotten Archer|Mätä jousimies|Arqueiro Apodrecido|Никудышный Лучник|腐化射手|ロッテン・アーチャー|부패한 궁수|Faulender Bogenschütze|Archer pourri
+|||||||||
+|||||||||
+e_skeleton_mage_1|Skeletal Archmage|Luuranko arkkimaagi|Arquimago Esquelético|Архимаг - Скелет|骷髅法师|骨格のアークマージ|해골 대마법사|Skeletaler Erzmagier|Archi-mage squelettique
+e_skeleton_mage_2|Unholy Priest|Epäpyhä pappi|Sacerdote Profano|Нечестивый Священник|邪恶祭司|不浄な司祭|불결한 사제|Unheiliger Priester|Prêtre impie
+e_skeleton_mage_3|Satanic Pagan|Saatanallinen pakana|Pagão Satânico|Сатанинский Язычник|撒旦异教徒|魔王の異教徒|사탄의 이교도|Satanischer Heide|Païen satanique
+|||||||||
+|||||||||
+e_skeleton_mage_fire_1|Burning Mage|Palava Maagi|Mago Ardente|Пылающий Маг|燃烧法师|燃える魔道士|불타는 마법사|Brennender Magier|Mage fumant
+e_skeleton_mage_fire_2|Flame Wizard|Liekin Velho|Feiticeiro de Chamas|Волшебник Пламени|火焰精灵|フレイムウィザード|화염 마법사|Flammenassistent|Mage de flammes
+e_skeleton_mage_fire_3|Infernal Mystic|Helvetin Mystikko|Místico Infernal|Адский Мистик|地狱的神秘主义者|地獄の神秘家|지옥 불 신비 주의자|Höllenmystiker|Mystique infernal
+|||||||||
+|||||||||
+e_skeleton_mage_frost_1|Frost Mage|Jää Maagi|Mago de Gelo|Ледяной Маг|冰霜法师|フロストメイジ|서리 마법사|Frostmagier|Mage givré
+e_skeleton_mage_frost_2|Chilling Occultist|Jäätynyt Okkultisti|Ocultista Arrepiante|Леденящий Душу Оккультист|寒冷的神秘学家|身も凍るオカルティスト|오싹한 오컬 티스트|Chillender Okkultist|Occultiste glaçant
+e_skeleton_mage_frost_3|Permafrozen Pagan|Syväjäätynyt Pakana|Pagão Gélido|Вечнозамороженный Язычник|永久冻土异教徒|永久凍土異教|영구 동결 이교도|Permafrozen Heidnisch|Païen permagelé
+|||||||||
+|||||||||
+e_skeleton_mage_lightning_1|Lightning Mage|Salama Maagi|Mago Elétrico|Маг Молнии|闪电法师|ライトニングメイジ|번개 마법사|Blitzmagier|Mage survolté
+e_skeleton_mage_lightning_2|Thunder Caller|Ukkosen Kutsuja|Conjurador do Trovão|Громовой Призыватель|雷声来电者|サンダーコーラー|천둥 호출자|Donnerrufer|Conjurateur de tonnerre
+e_skeleton_mage_lightning_3|Storm Wizard|Myrskyvelho|Mago da Tormenta|Волшебник Бури|风暴精灵|ストームウィザード|폭풍 마법사|Sturm-Zauberer|Sorcier de l'orage
+|||||||||
+e_scarecrow_1|Scarecrow||Espantalho||||허수아비||
+e_scarecrow_2|Scarecrow||Espantalho||||허수아비||
+e_scarecrow_3|Undead Harvester||Colhedor Morto-vivo||||||
+e_pumpkinMage_1|Pumpkin Wraith||Abóbora Fantasma||||호박 망령||
+e_pumpkinMage_2|Pumpkin Wraith||Abóbora Fantasma||||호박 망령||
+e_pumpkinMage_3|Hallowing Pumpkin||Abobora Santificada||||할로윈 호박||
+|||||||||
+e_maggot_1|Blood Maggot|Verimato|Larva de Sangue|Кровавый Опарыш|嗜血蠕虫|血ウジ|피 구더기|Blutmadde|Asticot de sang
+e_maggot_2|Corpse Maggot|Ruumismato|Larva de Cadáveres|Трупный Опарыш|食尸蠕虫|死体ウジ|시체 구더기|Leichenmade|Asticot de cadavre
+e_maggot_3|Devouring Worm|Ahmijamato|Verme Devorador|Пожирающий Червь|毁灭蠕虫|パクパク・ワーム|포식 벌레|Verschlingender Wurm|Ver dévorant
+|||||||||
+|||||||||
+e_wendigo_1|Wendigo Scavenger|Wendigo raadonsyöjä|Wendigo Carniceiro|Мусорщик Вендиго|清道食尸鬼|ウェンディゴ・スカベンジャー|웬디고|Wendigo-Aasfresser|Wendigo Charognard
+e_wendigo_2|Throngcroft|Throngcroft|Throngcroft|Тронгкрофт|园地食尸群|スロンクロフト|쓰롱크로프트|Throngcroft|Throngcroft
+e_wendigo_3|Mist Stalker|Sumuvaanija|Perseguidor da Névoa|Сталкер Тумана|迷雾食尸鬼|ミスト・ストーカー|안개 사냥꾼|Nebel-Wandler|Traqueur de brume
+|||||||||
+|||||||||
+e_undying_1|Undying|Epäkuolevainen|Imortal|Бессмертный|不死族|不滅のモノ|불사자|Unsterblicher|Immortel
+e_undying_2|Faceless Horror|Kasvoton hirviö|Horror sem Rosto|Безликий Ужас|无脸恐怖|フェースレス・ホラー|얼굴없는 공포|Gesichtsloser Horror|Horreur sans visage
+e_undying_3|Unknown|Tuntematon|Desconhecido|Неизвестный|未知恐怖|未知のモノ|미지|Unbekannter|Inconnu
+|||||||||
+|||||||||
+e_ent_1|Ent Sapling|Enttitaimi|Ent Jovem|Лор - Саженец|树苗树精|エントの苗木|어린 엔트|Ent-Setzling|Pousse d'Ent
+e_ent_2|Horror Branch|Oksakammotus|Galho do Horror|Ветвь Ужасов|恐怖树精|ホラー・ブランチ|공포의 나무가지|Horror-Zweig|Branche de l'horreur
+e_ent_3|Deadwood|Kuolon puu|Árvore Morta|Сухостой|不死树精|デッド・ウッド|죽은 나무|Totholz|Bois mort
+|||||||||
+e_ent_valhalla_1|Ent Sapling|Enttitaimi|Ent Jovem|Лор - Саженец|树苗树精|エントの苗木|어린 엔트|Ent-Setzling|Pousse d'Ent
+e_ent_valhalla_2|Horror Branch|Oksakammotus|Galho do Horror|Ветвь Ужасов|恐怖树精|ホラー・ブランチ|공포의 나무가지|Horror-Zweig|Branche de l'horreur
+e_ent_valhalla_3|Deadwood|Kuolon puu|Árvore Morta|Сухостой|不死树精|デッド・ウッド|죽은 나무|Totholz|Bois mort
+|||||||||
+e_goblin_1|Goblin Captain|Peikkokapteeni|Capitão Goblin|Капитан Гоблинов|妖精船长|ゴブリンのキャプテン|대장 고블린|Goblinkapitän|Capitaine gobelin
+e_goblin_2|Tinker|Näpertelijä|Funileiro|Повозиться|淘气树精|ティンカー|땜장이|Pfuscher|Bricoleur
+e_goblin_3|Da Bling|Blingi|Da Bling|Да Побрякушки|妖精王|ダ・ブリング|다 블링|Der Bling|Bling-bling
+|||||||||
+|||||||||
+e_imp_1|Nether Imp|Pikku pirulainen|Diabinho|Нижний Бес|地狱小鬼|冥土の小悪魔|지옥의 임프|Unterweltler|Diablotin du Néant
+e_imp_2|Devil Breed|Pirulaispentu|Raça Demoníaca|Дьявольская порода|地狱鬼窝|悪魔の繁殖|소악마|Teufelsbrut|Lignée démoniaque
+e_imp_3|Arch Demon|Arkkidemoni|Arquidemônio|Архидемон|恶魔王|アーチ・デーモン|대악마|Schelmischer Dämon|Archi-démon
+|||||||||
+|||||||||
+e_dragon_whelp_1|Dragon Whelp|Lohikäärmeen pentu|Filhote de Dragão|Драконий Щенок|龙崽|ドラゴンの子|새끼 용|Drachenwelpe|Petit Dragon
+e_dragon_whelp_2|Red Drake|Punainen lohikäärme|Dragão Vermelho|Красный Селезень|红色德雷克|レッド・ドレイク|적룡|Roter Drache|Drake rouge
+e_dragon_whelp_3|Pinky|Pinky|Rosado|Мизинец|粉色龙|ピンキー|핑키|Pinkie|Pinkie
+|||||||||
+|||||||||
+e_yeti_1|Tundra Yeti|Tundra Jeti|Iéti da Tundra|Тундровый йети|苔原雪人|ツンドラ・イエティ|툰드라 예티|Tundra Yeti|Yéti de la toundra
+e_yeti_2|Gargantuan Beast|Jättiläispeto|Besta Gigantesca|Гигантский Зверь|巨大雪怪|巨獣|거수|Gigantisches Biest|Bête gargantuesque
+e_yeti_3|Mountain Monstrosity|Vuorenhirviö|Monstruosidade da Montanha|Горное Чудовище|山峰超级雪怪|マウンテン・モンスターシティー|산더미 거수|Berg-Monstrosität|Monstruosité des montagnes
+|||||||||
+|||||||||
+e_nautilus_1|Nautilus|Nautilus|Náutilo|Наутилус|鹦鹉螺|ノーチラス|노틸러스|Nautilus|Nautile
+e_nautilus_2|Sea Hunter|Merimetsästäjä|Caçador do Mar|Морской Охотник|海上猎手|シー・ハンター|바다 사냥꾼|Meeresjäger|Chasseur de mer
+e_nautilus_3|Colossal Nautilus|Jättiläis-Nautilus|Náutilo Colossal|Колоссальный Наутилус|巨型鹦鹉螺|巨大ノーチラス|거대 노틸러스|Kolossaler Nautilus|Nautile colossal
+|||||||||
+|||||||||
+e_horror_1|Sleeping Horror|Nukkuva kauhu|Horror Dormente|Спящий Ужас|沉睡恐怖|スリーピング・ホラー|수면의 공포|Schlafender Horror|Horreur nocturne
+e_horror_2|Slumbering Demon|Uinuva demoni|Demônio Adormecido|Дремлющий Демон|酣睡恶魔|熟睡している悪魔|수면 악마|Schlummernder Dämon|Démon somnolant
+e_horror_3|Master of Limbo|Limbon mestari|Mestre do Limbo|Мастер Лимбо|地狱恶魔|リムボーのマスター|연옥의 주인|Meister der Vorhölle|Maître des limbes
+|||||||||
+|||||||||
+e_chilling_head_1|Chilling Head|Kylmä pää|Cabeça Congelante|Леденящая Голову|颤栗头颅|チリング・ヘッド|차디찬 머리|Eisiger Kopf|Tête glaçante
+e_chilling_head_2|Frozen Curse|Jäätynyt kirous|Maldição Congelada|Замороженное Проклятие|冰冻诅咒|凍結の呪い|혹한의 저주|Gefrorener Fluch|Malédiction gelée
+e_chilling_head_3|Ancient Apparition|Muinainen ilmestys|Aparição Anciã|Древнее Видение|远古幻影|古代の鬼魅|고대의 발현|Antike Apparation|Ancienne Apparition
+|||||||||
+|||||||||
+e_jormungar_1|Ravenous Jormungar|Ahnas Jormungar|Jormungar Esfomeado|Голодный Йормунгар|贪婪的乔芒格龙|卑劣なヨルンガル|탐욕의 요르문간드|Gefräßiger Jormungar|Jormungar vorace
+e_jormungar_2|Tundra Crawler|Tundraryömijä|Rastejador da Tundra|Тундровый Краулер|苔原爬行龙|ツンドラ・クローラー|툰드라 애벌레|Tundra-Kriecher|Rampant de la toundra
+e_jormungar_3|Burrowing Ambusher|Hautautuva väijyttäjä|Emboscador Entocado|Роющий Засаду|掘穴龙|潜伏している伏兵|천공 매복자|Grabenbrecher|Boyeur embusqué
+|||||||||
+|||||||||
+e_bride_1|Dead Bride|Kuollut morsian|Noiva Morta|Мертвая Невеста|不死新娘|死んだ花嫁|죽은 신부|Tote Braut|Mariée assassinée
+e_bride_2|Ghost Spouse|Haamupuoliso|Cônjuge Fantasma|Призрачный Супруг|幽灵配偶|幽霊配偶者|유령 신부|Geister-Gatte|Époux fantôme
+e_bride_3|Widow Anomaly|Leskikummajainen|Anomalia Viúva|Аномалия Вдовы|不死寡妇|寡婦の異常|뒤틀린 과부|Witwenanomalie|Anomalie de la veuve
+|||||||||
+|||||||||
+e_fetish_doll_1|Fetish Doll|Taikanukke|Boneca Enfeitiçada|Фетишистская Кукла|娃娃偶像|フェチ人形|주술 인형|Fetisch Puppe|Poupée fétiche
+e_fetish_doll_2|Fetish Shaman|Taikashamaani|Xamã Enfeitiçado|Фетиш- Шаман|娃娃巫师|フェチシャーマン|주술사의 인형|Fetisch Schamane|Chamane fétiche
+e_fetish_doll_3|Cursed Doll|Kirottu nukke|Boneca Amaldiçoada|Проклятая Кукла|被诅咒的娃娃|呪われた人形|저주 인형|Verfluchte Puppe|Poupée maudite
+|||||||||
+|||||||||
+e_parasect_1|Parasect|Parasekti|Parasita|Паразитировать|帕拉斯特怪|パラセクト|기생충|Parasekt|Parasect
+e_parasect_2|Hellspawn Abomination|Helvetin inhokki|Abominação Nascida no Inferno|Исчадие Ада , Мерзость|地狱之命的憎恶|フェイスボール・スケアモンスター|지옥에서 태어난 기형충|Höllengeborene Monstrosität|Abomination de l'engeance
+e_parasect_3|Colossal Parasect|Jättiläis parasekti|Parasita Colossal|Колоссальный Паразит|巨型帕拉斯特怪|巨大なパラセクト|거대 기생충|Kolossales Parasekt|Parasect colossal
+|||||||||
+|||||||||
+e_fungus_monster_1|Fungus Monster|Sienihirviö|Fungo Monstruoso|Грибной Монстр|蘑菇怪|真菌モンスター|버섯 괴물|Pilzmonster|Monstre fongique
+e_fungus_monster_2|Faceless Mushroom|Kasvoton sieni|Cogumelo sem Rosto|Безликий Гриб|无面蘑菇|顔なしキノコ|얼굴없는 버섯|Gesichtsloser Pilz|Champignon sans visage
+e_fungus_monster_3|Caclauschex|Caclauschex|Caclauschex|Каклаушекс|无敌蘑菇怪|巨大真菌体|거대 균체|Caclauschex|Caclauschex
+|||||||||
+|||||||||
+e_desert_skeleton_1|Desert Legion|Aavikkolegioonalainen|Legião do Deserto|Пустынный легион|沙漠军团|砂漠軍団|사막의 군단병|Wüstenlegionär|Légionnaire du désert
+e_desert_skeleton_2|Legion Captain|Legioonalaiskapteeni|Capitão da Legião|Капитан легиона|军团队长|軍団長|군단장|Legionskapitän|Capitaine de la légion
+e_desert_skeleton_3|Desert Commander|Aavikkokomentaja|Comandante do Deserto|Командующий Пустыней|沙漠指挥官|砂漠のコマンダー|사막의 지휘관|Wüstenkommandant|Commandant du désert
+|||||||||
+|||||||||
+e_burning_legion_1|Burning Legion|Palava legioonalainen|Legião Ardente|Пылающий Легион|燃烧军团|燃焼軍団|화마의 군단병|Brennende Legion|Légionnaire ardent
+e_burning_legion_2|Risen Archer|Noussut jousimies|Arqueiro Ressuscitado|Восставший Лучник|复活射手|蘇ったアーチャー|되살아난 궁수|Auferstandener Bogenschütze|Archer ressuscité
+e_burning_legion_3|Fallen Legion|Kaatunut legioonalainen|Legião Caída|Павший Легион|堕落军团|死者軍団|전사한 군단병|Gefallener Legionär|Légionnaire déchu
+|||||||||
+|||||||||
+e_mummy_1|Mummy|Muumio|Múmia|Мамочка|木乃伊|ミイラ|미라|Mumie|Momie
+e_mummy_2|Deceased Demon|Demonivainaja|Demônio Falecido|Умерший Демон|死亡恶魔|死去した悪魔|죽은 악마|Verstorbener Dämon|Démon trépassé
+e_mummy_3|Embalmed King|Palsamoitu kuningas|Rei Embalsamado|Забальзамированный Король|木乃伊王|エンバアルド・キング|미라가 된 왕|Einbalsamierter König|Roi embaumé
+|||||||||
+|||||||||
+e_desert_beast_1|Desert Beast|Aavikkopeto|Besta do Deserto|Пустынный Зверь|沙怪|砂漠の獣|사막 괴수|Wüstenbestie|Bête du désert
+e_desert_beast_2|Sand Goliath|Hiekkagoljatti|Golias de Areia|Песчаный Голиаф|沙漠巨人|サンドゴリアテ|모래 골리앗|Sand-Goliath|Goliath des sables
+e_desert_beast_3|Colossal Behemoth|Jättiläis Behemoth|Mastodonte Colossal|Колоссальный Бегемот|巨型沙怪|巨大なビヒモス|거대 베히모스|Kolossaler Behemoth|Béhémoth colossal
+|||||||||
+|||||||||
+e_earth_elemental_1|Earth Elemental|Maaelementaali|Elemental de Terra|Элементаль Земли|地球元素|アース・エレメンタル|대지의 정령|Erdelementar|Élémentaire de terre
+e_earth_elemental_2|Monument of Stone|Kivimonumentti|Monumento de Pedra|Памятник из камня|石碑|石のモニュメント|모뉴먼트|Denkmal aus Stein|Monument de pierre
+e_earth_elemental_3|Avalachion|Maanvyöryttäjä|Avalachion|Авалахион|阿瓦拉奇翁|アバランチオン|아발라치언|Avalanchion|Avalachion
+|||||||||
+|||||||||
+e_sand_wasp_1|Sand Wasp|Hiekka-ampiainen|Vespa da Areia|Песчаная Оса|沙漠黄蜂|砂のスズメバチ|모래 말벌|Sand-Wespe|Guêpe des sables
+e_sand_wasp_2|Desert Bee|Aavikkomehiläinen|Abelha do Deserto|Пустынная Пчела|沙漠蜜蜂|砂漠の蜂|사막 벌|Wüsten-Biene|Abeille du désert
+e_sand_wasp_3|Wasp Queen|Ampiaiskuningatar|Vespa Rainha|Королева ос|黄蜂蜂后|スズメバチの女王|여왕 말벌|Wespenkönigin|Reine des guêpes
+|||||||||
+|||||||||
+e_dust_feeder_1|Dust Feeder|Tomunsyöjä|Comedor de Poeira|Пылеуловитель|吸尘怪|ダスト・フィーダー|먼지 흡입자|Staubschlinger|Cracheur de poussière
+e_dust_feeder_2|Devourer|Ahmija|Devorador|Пожиратель|吞噬吸尘怪|デバウアー|포식귀|Verschlinger|Dévoreur
+e_dust_feeder_3|Colossal Devourer|Jättiläisahmija|Devorador Colossal|Колоссальный Пожиратель|巨型吸尘怪|巨大なデバウアー|거대 포식귀|Kolossaler Verschlinger|Dévoreur colossal
+|||||||||
+|||||||||
+e_karp_1|Karp|Karppi|Carpa|Карп|卡普怪|カープ|잉어|Karpfen|Carpe commune
+e_karp_2|Frenzied Karp|Kiivastunut Karppi|Carpa Frenética|Взбешенный Карп|狂热的卡普怪|狂暴なカープ|발광 잉어|Rasender Karpfen|Carpe furieuse
+e_karp_3|Karpoga|Karppinen|Karpoga|Карпога|超级卡普怪|カルポガ|잉오가|Karpoga|Carpoga
+|||||||||
+e_forest_wasp_1|Forest Wasp||Vespa da Floresta|Лесная Оса|||숲 말벌||Guêpe forestière
+e_forest_wasp_2|Toxic Stinger||Picada Venenosa|Ядовитое Жало|||||Dard toxique
+e_forest_wasp_3|Furious Killerfly||Abelha Furiosa Assassina|Разъяренная Муха - Убийца|||분노한 킬러플라이||Tétranyque furieux
+|||||||||
+e_mimic_1|Mimic|Matkija|Mímico|Имитировать|小丑|擬態魔|의태 괴물|Mimik|Mimique
+e_mimic_2|Flesh Eater|Lihansyöjä|Comedor de Carne|Пожиратель Плоти|食人小丑|血肉喰い|생살 포식자|Fleischfresser|Mangeur de chair
+e_mimic_3|I AM ERROR|MINÄ OLEN VIRHE|EU SOU ERRO|Я - ОШИБКА|疯狂小丑|我はエラーである|나는 오류다|ICH BIN EIN FEHLER|JE SUIS L'ERREUR
+|||||||||
+|||||||||
+e_treasure_goblin_1|Treasure Goblin|Aarrepeikko|Goblin do Tesouro|Гоблин с Сокровищами|宝藏妖精|トレジャー・ゴブリン|보물 고블린|Schatzgoblin|Gobelin au trésor
+e_treasure_goblin_2|Treasure Hoarder|Aarrehamstraaja|Colecionador de Tesouros|Кладоискатель сокровищ|宝藏囤积者|トレジャー・マスター|보물 찾기의 대가|Schatzhüter|Gardien du trésor
+e_treasure_goblin_3|Treasure Master|Aarremestari|Mestre de Tesouros|Мастер Сокровищ|宝藏大师|トレジャー・ホーダー|보물 싹쓸이꾼|Schatzmeister|Argentier
+e_goblinRune_1|Rune Goblin||Goblin de Runas||||룬 고블린||
+e_goblinRune_2|Rune Goblin||Goblin de Runas||||룬 고블린||
+e_goblinRune_3|Rune Fiddler||Violinista de Runas||||룬 바이올리니스트||
+e_goblinShadow_1|Shadow Goblin||Goblin das Sombras||||그림자 고블린||
+e_goblinShadow_2|Shadow Goblin||Goblin das Sombras||||그림자 고블린||
+e_goblinShadow_3|Shadow Hoarder||Acumulador das Sombras||||그림자 수집가||
+|||||||||
+e_blackPlague_3|Black Plague||Peste Negra||||흑사병||
+e_roninMarksman_3|Ronin Marksman||Atirador Ronin||||로닌 저격수||
+e_karpSpawn_3|Karpspawn||Karpspawn||||||
+e_bloodSeeker_3|Bloodseeker||Caçador Sanguinário||||블러드시커||
+e_damnedCommander_3|Damned Commander||Comandante Maldito||||저주받은 사령관||
+e_clampingDistortion_3|Clamping Distortion||Distorção Travada||||왜곡 고정||
+e_reakingAgony_3|Reaking Agony||Agonia Fedida||||끔찍한 고통||
+e_theGrandButler_3|The Grand Butler||O Grande Mordomo||||그랜드 집사||
+e_ancientRonin_3|Ancient Ronin||Ronin Ancião||||||
+|||||||||
+|||||||||
+e_fly_1|Fly|Kärpänen|Mosca|Летать|苍蝇|ハエ|파리|Fliege|Mouche
+e_fly_2|Frenzied Fly|Seonnut kärpänen|Mosca Frenética|Бешеная Муха|疯狂的苍蝇|狂暴なハエ|발광 파리|Rasende Fliege|Mouche frénétique
+e_fly_3|Diseased Mosquito|Tautinen sääski|Mosquito Doente|Больной Комар|瘟疫蚊子|病気にかかった蚊|질병 모기|Kranker Moskito|Moustique porteur de maladie
+|||||||||
+|||||||||
+e_sheep_1|Sheep|Lammas|Ovelhas|Овцы|羊|シープ|양|Schaf|Mouton
+e_sheep_2|Chaos Mutton|Lammasmestari|Campeão das Ovelhas|Чемпион Овец|绵羊冠军|シープ・チャンピオン|챔피언 양|Schaf Champion|Mouton champion
+e_sheep_3|Demonhorn Enforcer|Demonisarven Pakottaja|VExecutor do Chifre Demoníaco|Демонический Рог Инфорсер |变异羊|シープ・エラー|양ㅇ1Lㅔ0ㅣEㅓ|Dämonenhorn-Vollstrecker |Exécuteur de la Corne du Démon 
+|||||||||
+|||||||||
+e_cursed_doll_1|Cursed Doll|Kirottu Nukke|Boneca Amaldiçoada|Проклятая Кукла|被诅咒的娃娃|呪われた人形|재앙 인형|Verfluchte Puppe|Poupée maudite
+e_cursed_doll_2|Fetish Voodoo Doll|Voodoo nukke|Boneca Voodoo Enfeitiçada|Фетишистская Кукла Вуду|巫毒娃娃偶像|フェチ・ブードゥー・ドール|부두 인형|Fetisch-Voodoo-Puppe|Poupée fétiche vaudou
+e_cursed_doll_3|Stygian Puppet|Synkkä Nukke|Marionete do Estígio|Стигийская Марионетка|地狱木偶|地獄の操り人形|지옥의 꼭두각시|Schauerliche Marionette|Marionnette effrayante
+|||||||||
+|||||||||
+e_hollow_stump_1|Hollow Stump|Ontto kanto|Toco Vazio|Полый Обрубок|空心树桩|中空の切り株|공허 그루터기|Ausgehöhlter Stumpf|Souche creuse
+e_hollow_stump_2|Hollow Terror|Ontto kauhu|Terror Vazio|Пустой Ужас|空心恐怖|中空テロ|헛된 공포|Ausgehöhlter Terror|Terreur évidée
+e_hollow_stump_3|Deepwood Horror|Syvän metsän kammotus|Árvore do Horror Profundo|Ужас Темнолесья|深林恐怖|ディープ・ウッド・ホラー|깊은 숲의 공포|Das Grauen aus Wald|Horreur de la forêt
+|||||||||
+|||||||||
+e_damned_legion_1|Damned Legion|Kirottu legioonalainen|Legião Maldita|Проклятый Легион|被诅咒的军团|呪われた軍団|저주받은 군단병|Verfluchter Legionär|Légionnaire damné
+e_damned_legion_2|Forsaken Soldier|Unohdettu sotilas|Soldado Abandonado|Покинутый Солдат|被遗弃的士兵|見捨てられたソルジャー|버려진 병사|Verlassener Soldat|Soldat abandonné
+e_damned_legion_3|Satanic Commander|Saatanallinen komentaja|Comandante Satânico|Сатанинский Командир|撒旦指挥官|魔王のコマンダー|사탄 지휘관|Satanischer Kommandant|Commandant satanique
+|||||||||
+|||||||||
+e_levitating_horror_1|Levitating Horror|Levitoiva kauhu|Horror Levitante|Парящий Ужас|悬浮恐怖|浮遊するホラー|부유 공포|Schwebender Horror|Horreur volante
+e_levitating_horror_2|Soul Horror|Sielukauhu|Horror da Alma|Ужас Души|灵魂恐怖|ソウル・ホラー|영혼 공포|Seelen-Horror|Horreur de l'âme
+e_levitating_horror_3|Soul Cancer|Sielusyöpä|Câncer da Alma|Рак Души|灵魂癌症|ソウル・キャンサー|영혼 암|Seelenkrebs|Cancer de l'âme
+|||||||||
+|||||||||
+e_goblin_cannoneer_1|Goblin Cannoneer|Peikkopommittaja|Goblin Artilheiro|Канонир - Гоблин|妖精炮手|ゴブリン砲手|고블린 포병|Goblin-Kanonier|Canonnier gobelin
+e_goblin_cannoneer_2|Crazy Bombardier|Hullu pommittaja|Bombardeiro Louco|Сумасшедший Бомбардир|疯狂的投弹手|クレイジー・ボンバルディア|광분 포격수|Verrückter Bombenschütze|Bombardier fou
+e_goblin_cannoneer_3|Explosion Expert|Räjähde-ekspertti|Especialista em Explosão|Эксперт по взрывам|轰炸专家|爆発エキスパート|폭발 전문가|Explosionsexperte|Expert en explosions
+|||||||||
+|||||||||
+e_ghost_skeleton_archer_1|Archer Anomaly|Jousimieskummajainen|Arqueiro da Anomalia|Аномалия Лучника|恐怖射手|アーチャーの異常|뒤틀린 궁수|Bogenschützen-Anomalie|Anomalie de l'archer
+e_ghost_skeleton_archer_2|Lost Ghost|Kadonnut haamu|Fantasma Perdido|Потерянный Призрак|失落的幽灵|ロスト・ゴースト|길 잃은 유령|Verlorener Geist|Esprit perdu
+e_ghost_skeleton_archer_3|Awaken Horror|Herännyt kauhu|Horror Despertado|Пробудить Ужас|复活的骷髅|アウェイク・ホラー|깨어난 공포|Erwachen Horror|Horreur éveillée
+|||||||||
+|||||||||
+e_ghost_skeleton_1|Skeletal Ghost|Luurankohaamu|Fantasma Esquelético|Призрак - Скелет|骷髅幽灵|スケルトン・ゴースト|해골 유령|Skelett-Geist|Fantôme squelettique
+e_ghost_skeleton_2|Wandering Soul|Vaeltava sielu|Alma Errante|Блуждающая Душа|流浪的灵魂|放浪魂|방랑 영혼|Wandernde Seele|Âme errante
+e_ghost_skeleton_3|Lost Anomaly|Kadonnut kummajainen|Anomalia Perdida|Потерянная Аномалия|恐怖失落|失われた異常|뒤틀린 망령|Verlorene Anomalie|Anomalie perdue
+|||||||||
+|||||||||
+e_frost_dragon_1|Frozen Whelpling|Jäinen pentu|Dragãozinho Congelado|Замороженный Щенок|冰封的龙崽|凍結の竜の子|새끼 빙룡|Gefrorenes Rädchen|Rouet congelé
+e_frost_dragon_2|Chilling Drake|Hyytävä lohikäärme|Dragão Congelado|Леденящий душу Дрейк|颤栗的德雷克|チリング・ドレーク|빙룡|Eisiger Drache|Drake glacial
+e_frost_dragon_3|Awoken Frostburn||Queima-Frio Despertado|Разбуженный Фростберн|||각성한 프로스트번||Brûlure de givre
+|||||||||
+|||||||||
+e_frost_goblin_1|Tundra Goblin|Tundrapeikko|Goblin da Tundra|Тундровый Гоблин|苔原妖精|ツンドラ・ゴブリン|툰드라 고블린|Tundra-Goblin|Gobelin de la toundra
+e_frost_goblin_2|Chilling Tinker|Hyinen näpertelijä|Funileiro Congelado|Леденящий Душу Тинкер|冰霜妖精|チリング・ティンカー|혹한의 땜장이|Eisiger Tüftler|Penseur glacial
+e_frost_goblin_3|Da Frozen Bling|Jäätynyt Blingi|Da Bling Congelado|Замороженные Побрякушки Da|冰霜妖精王|ダ・フローズン・ブリング|서리의 다 블링|Der gefrorene Bling|Bling-bling gelé
+|||||||||
+|||||||||
+e_ice_elemental_1|Ice Elemental|Jääelementaali|Elemental de Gelo|Элементаль Льда|冰元素|アイス・エレメンタル|결빙 원소|Eis-Elementar|Élémentaire de glace
+e_ice_elemental_2|Dark Ice Magician|Pimeä jäätaikuri|Mago do Gelo Sombrio|Темный Ледяной Маг|黑冰魔法师|ダーク・アイス・マジシャン|결빙 흑마법사|Dunkler Eiszauberer|Magicien de glace sombre
+e_ice_elemental_3|Frost Apparition|Pakkasilmestys|Aparição Congelada|Морозное Видение|冰霜幻影|霜の鬼魅|혹한의 발현|Frostige Erscheinung|Apparition du givre
+|||||||||
+|||||||||
+e_pyramid_guardian_1|Pyramid Guardian|Pyramidin suojelija|Guardião da Pirâmide|Страж Пирамиды|金字塔守护者|ピラミッド・ガーディアン|피라미드 수호자|Pyramidenwächter|Gardien de la pyramide
+e_pyramid_guardian_2|Tomb Legion|Hautalegioonalainen|Legião da Tumba|Могильный Легион|古墓军团|墓軍団|병마용|Grab-Legionär|Légionnaire des tombes
+e_pyramid_guardian_3|Anubis Worshipper|Anubiksen palvoja|Adorador de Anúbis|Поклоняющийся Анубису|阿努比斯崇拜者|アヌビスの崇拝者|아누비스 숭배자|Anubis Anbeterin|Adorateur d'Anubis
+|||||||||
+|||||||||
+e_frost_skeleton_1|Frost Legion|Jäätynyt legioonalainen|Legião Congelada|Ледяной Легион|冰霜军团|フロスト軍団|혹한 군단병|Frost-Legion|Légionnaire du givre
+e_frost_skeleton_2|Dark Commander|Tumma komentaja|Comandante Sombrio|Темный Командир|黑暗指挥官|ダーク・コマンダー|암흑 지휘관|Dunkler Kommandant|Commandant des ténèbres
+e_frost_skeleton_3|Frozen Champion|Jäämestari|Campeão Congelado|Замороженный Чемпион|冰霜冠军|凍結のチャンピオン|서리 챔피언|Gefrorener Champion|Champion de glace
+|||||||||
+|||||||||
+e_goblin_devilkin_1|Devilkin|Piru-Peikko|Devilkin|Дьяволкин|小恶魔|小悪魔|악귀|Teufelchen|Diablotin
+e_goblin_devilkin_2|Slave Master|Orjamestari|Mestre dos Escravos|Раб - Хозяин|恶魔领头|スレーブ・マスター|노예주|Sklavenmeister|Maître esclavagiste
+e_goblin_devilkin_3|Hellspawn Shaman|Helvetin Shamaani|Xamã Nascido no Inferno|Шаман - Исчадие Ада|地狱巫师|フェイスボール・シャーマン|지옥에서 태어난 주술사|Höllenschamane|Chaman de l'engeance
+|||||||||
+|||||||||
+e_goblin_bomber_1|Goblin Bomber|Peikkopommittaja|Goblin Bombardeiro|Гоблин - Бомбардировщик|妖精投弹手|ゴブリン・ボンバー|고블린 폭파범|Goblin-Bomber|Bombardier gobelin
+e_goblin_bomber_2|Bomb Engineer|Pommi-insinööri|Engenheiro de Bombas|Инженер - взрывотехник|炸弹工程师|爆弾技師|폭탄 기술자|Bombeningenieur|Ingénieur bombardier
+e_goblin_bomber_3|Manic Bomber|Maaninen pommittaja|Bombardeiro Maníaco|Маниакальный Бомбардировщик|狂躁的投弹手|躁病のボンバー|광분의 폭파범|Manischer Bomber|Bombardier maniaque
+|||||||||
+|||||||||
+e_organic_anomaly_1|Organic Anomaly|Orgaaninen kummajainen|Anomalia Orgânica|Органическая Аномалия|尸体恐怖|有機異形|뒤틀린 장기|Organische Anomalie|Anomalie organique
+e_organic_anomaly_2|Sack of Flesh|Lihasäkki|Saco de Carne|Мешок Плоти|一麻袋尸体|血肉の袋|살코기 뭉텅이|Fleischsack|Sac de chair
+e_organic_anomaly_3|Flesh of Satan|Saatanan liha|Carne de Satã|Плоть сатаны|撒旦的尸体|サタンの血肉|사탄의 살코기|Fleisch des Satans|Chair de Satan
+|||||||||
+|||||||||
+e_skeleton_samurai_1|Skeletal Samurai|Luurankosamurai|Samurai Esquelético|Скелет Самурая|骨骼武士|スケルトン・サムライ|해골 사무라이|Skelett-Samurai|Samouraï squelette
+e_skeleton_samurai_2|Ancient Zen Legion|Muinainen Zen-legioonalainen|Legião Zen Anciã|Древний дзенский Легион|古代禅宗军团|古代禅軍団|고대의 선병|Uralter Zen-Legionär|Légionnaire zen ancestral
+e_skeleton_samurai_3|Samurai Warlord|Samurai sotapäällikkö|Samurai Senhor de Guerra|Военачальник - самурай|武士军阀|サムライ武将|장군 사무라이|Samurai-Kriegsherr|Seigneur de guerre samouraï
+|||||||||
+|||||||||
+e_piranha_1|Piranha|Piraija|Piranha|Пиранья|水虎鱼|ピラニア|피라냐|Piranha|Piranha
+e_piranha_2|Frenzied Piranha|Raivokas piraija|Piranha Frenética|Взбешенная Пиранья|狂热的水虎鱼|狂暴なピラニア|광란 피라냐|Fieberhafter Piranha|Piranha frénétique
+e_piranha_3|Colossal Piranha|Jättiläispiraija|Piranha Colossal|Колоссальная Пиранья|巨型水虎鱼|巨大なピラニア|거대 피라냐|Kolossaler Piranha|Piranha colossal
+|||||||||
+|||||||||
+e_rift_grunt_1|Rift Grunt|Repeämäkätryi|Grunhido da Fenda|Рифтовое Ворчание|裂缝步兵|割れ目のブーブー獣|균열의 소리|Kluft-Grunzen|Grondeur de la faille
+e_rift_grunt_2|Astral Warrior|Astraalisoturi|Guerreiro Astral|Астральный Воин|星际武士|アストラル・ウオーリアー|성계 전사|Astraler Krieger|Guerrier astral
+e_rift_grunt_3|Rift Commander|Repeämäkomentaja|Comandante da Fenda|Командующий Рифтом|裂谷指挥官|割れ目のコマンダー|균열의 지휘관|Kluftkommandant|Commandant de la faille
+|||||||||
+|||||||||
+e_illuminated_stone_1|Illuminated Stone|Valaistunut kivi|Pedra Iluminada|Освещенный Камень|发光石|イルミネーション・ストーン|발광석|Luminierter Steine|Pierre illuminée
+e_illuminated_stone_2|Colossal Illumination|Valtava valaisija|Iluminação Colossal|Колоссальное Освещение|巨型发光石|巨大なイルミネーション|거광체|Kolossale Illumination|Illumination colossale
+e_illuminated_stone_3|Illuminati|Illuminati|Iluminati|Иллюминаты|超级发光石|イルミナティ|일루마나티|Illuminati|Illuminati
+|||||||||
+|||||||||
+e_corrosive_ooze_1|Corrosive Ooze|Syövyttävä lima|Lodo Corrosivo|Едкий ил|腐蚀性软泥|腐食性のある粘液|부패된 분비물|Ätzender Schlamm|Boue corrosive
+e_corrosive_ooze_2|Unstable Matter|Epävakaa materia|Matéria Instável|Нестабильная Материя|不稳定物质|不安定な物質|불안정 물질|Instabile Materie|Matière instable
+e_corrosive_ooze_3|Devouring Slime|Lima-ahmija|Gosma Devoradora|Пожирающая Слизь|吞噬烂泥|パクパク・スライム|포식 슬라임|Verschlingender Schleim|Vase dévorante
+|||||||||
+|||||||||
+e_corrupted_monk_1|Corrupted Monk|Korruptoitunut munkki|Monge Corrupto|Развращенный Монах|腐烂的和尚|堕落した修道士|타락한 수도승|Verderbter Mönch|Moine corrompu
+e_corrupted_monk_2|Enlightened Horror|Valaistunut kauhu|Horror Iluminado|Просветленный Ужас|觉醒的恐怖|開化したホラー|깨우친 공포|Erleuchteter Horror|Horreur illuminée
+e_corrupted_monk_3|Shaolin Demigod|Shaolin puolijumala|Shaolin Semideus|Шаолиньский Полубог|少林神明|少林寺の邪神|반신 소림|Shaolin Halbgott|Demi-dieu de Shaolin
+|||||||||
+|||||||||
+e_giant_1|Astral Giant|Astraalijättiläinen|Gigante Astral|Астральный Гигант|星际巨人|アストラル・ジャイアント|성계 거수|Astraler Riese|Géant astral
+e_giant_2|Rift Walker|Repeämäkulkija|Caminhante da Fenda|Ходок по Рифтам|裂谷巨人|割れ目のウォーカー|균열을 걷는 자|Riss Gehhilfe|Voyageur de la faille
+e_giant_3|Gorgon Giant|Jättiläis Gorgon|Górgona Gigante|Гигантская Горгона|蛇发女怪|ゴーゴン・ジャイアント|거대 고르곤|Gorgon-Riese|Gorgone géante
+|||||||||
+|||||||||
+e_headless_butler_1|Headless Butler|Päätön hovimestari|Mordomo sem Cabeça|Безголовый Дворецкий|无头管家|ヘッドレス・バトラー|머리 없는 집사|Kopfloser Butler|Majordome sans tête
+e_headless_butler_2|Butler of Death|Kuoleman hovimestari|Mordomo da Morte|Дворецкий Смерти|死亡管家|バトラー・オブ・デス|죽음의 집사|Butler des Todes|Majordome de la Mort
+e_headless_butler_3|Corpse Assistant|Ruumisavustaja|Assistente de Cadáver|Помощник Трупа|尸体助理|死体アシスタント|시체 집사|Leichen-Assistentin|Assistant cadavérique
+|||||||||
+|||||||||
+e_haunted_book_1|Haunted Book|Kirottu kirja|Livro Assombrado|Книга с Привидениями|闹鬼的书|お化けの本|빙의서|Gespenstisches Buch|Livre hanté
+e_haunted_book_2|Horror Diary|Kauhupäiväkirja|Diário dos Horrores|Дневник ужасов|恐怖日记|ホラー・ダイアリー|빙의 수첩|Horror-Tagebuch|Journal de l'horreur
+e_haunted_book_3|Corrupted Necronomicon|Korruptoitunut Necronomicon|Necronomicon Corrompido|Испорченный Некрономикон|腐败的死灵之书|堕落したネクロノミコン|저주받은 네크로노미콘|Beschädigtes Necronomicon|Necronomicon
+|||||||||
+|||||||||
+e_flesh_plant_1|Flesh Plant|Lihakasvi|Planta de Carne|Мякоть Растения|食肉植物|血肉の植物|육식 식물|Fleischpflanze|Plante carnivore
+e_flesh_plant_2|Carnivorous|Lihansyöjä|Carnívoro|Плотоядный|食人族|肉食者|식인 식물|Fleischfressend|Dévoreur de chair
+e_flesh_plant_3|Fertilized Horror|Hedelmällinen kammotus|Horror Fertilizado|Оплодотворенный Ужас|施肥恐怖|肥沃となったホラー|공포 식물|Befruchteter Horror|Horreur enrichie
+|||||||||
+|||||||||
+e_spider_sibling_1|Spider Sibling|Hämähäkkisisarus|Aranha Irmã|Брат - Паук|蜘蛛兄弟|スパイダー同胞|새끼 거미|Spinne|Araignée
+e_spider_sibling_2|Giant Spider|Jättiläis-Hämähäkki|Aranha Gigante|Гигантский Паук|巨型蜘蛛|ジャイアント・スパイダー|거대 거미|Riesenspinne|Araignée géante
+e_spider_sibling_3|Arachnid Mother|Arachnid Emo|Mãe Aracnídea|Мать - Паукообразный|蛛母|蛛系魔の母|어미 거미|Arachnidenmutter|Mère arachnide
+|||||||||
+|||||||||
+e_slime_1|Slime|Lima|Gosma|Слизь|烂泥|スライム|슬라임|Schleim|Slime
+e_slime_2|Slime Champion|Limamestari|Gosma Campeã|Чемпион По Слизи|烂泥冠军|スライムチャンピオン|챔피언 슬라임|Schleim-Champion|Slime champion
+e_slime_3|Toxic Waste|Myrkkyjäte|Resíduo Tóxico|Токсичные отходы|有毒废料|有毒廃棄物|독폐수 슬라임|Giftiger Abfall|Déchet toxique
+|||||||||
+|||||||||
+e_hell_beast_1|Hell Beast|Helvetin peto|Besta do Inferno|Адский Зверь|地狱野兽|地獄の野獣|지옥 괴수|Höllenbestie|Bête de l'enfer
+e_hell_beast_2|Goliath of Hell|Helvetin goljatti|Golias do Inferno|Голиаф из ада|地狱的巨人|地獄のゴリアテ|지옥의 골리앗|Goliath aus der Hölle|Goliath de l'enfer
+e_hell_beast_3|Sacrilegious Goliath|Rienaava goljatti|Golias Sacrílego|Святотатственный Голиаф|亵渎的巨人|冒涜のゴリアテ|신성모독 골리앗|Sakralerr Goliath|Goliath profane
+|||||||||
+|||||||||
+e_skull_crawler_1|Skull Crawler|Kalloryömijä|Caveira Rastejante|Краулер с черепом|头骨履带|スカルクローラ|해골 크롤러|Schädelkriecher|Lèche-crâne
+e_skull_crawler_2|Bonecrab|Luurapu|Caranguejo de Ossos|Костяной Граб|骨蟹|ボーンクラブ|본크랩|Knochenkrabbe|Crabe osseux
+e_skull_crawler_3|Bonecrab|Luurapu|Caranguejo de Ossos|Костяной Граб|骨蟹|ボーンクラブ|본크랩|Knochenkrabbe|Tourteau osseux
+|||||||||
+|||||||||
+e_cave_slime_1|Cave Slime|Kaivoslima|Gosma da Caverna|Пещерная Слизь|洞穴的粘液|ケーブスライム|동굴 점액|Höhlenschleim|Slime des cavernes
+e_cave_slime_2|Toxic Mucus|Myrkkylima|Muco Tóxico|Токсичная Слизь|有毒的粘液|毒粘液|독성 점액|Toxischer Schleim|Mucus toxique
+e_cave_slime_3|Toxic Mucus|Myrkkylima|Muco Tóxico|Токсичная Слизь|有毒的粘液|毒粘液|독성 점액|Toxischer Schleim|Mucosité toxique
+|||||||||
+|||||||||
+e_cyclops_1|Cyclops|Kyklooppi|Ciclope|Циклоп|独眼巨人|サイクロプス|키클롭스|Zyklop|Cyclope
+e_cyclops_2|Cyclops Goliath|Kyklooppigoljatti|Ciclope Golias|Циклоп Голиаф|独眼巨人歌利亚|サイクロプス･ゴリアテ|키클롭스 골리앗|Zyklopgoliath|Cyclope goliath
+e_cyclops_3|Cyclops Goliath|Kyklooppigoljatti|Ciclope Golias|Циклоп Голиаф|独眼巨人歌利亚|サイクロプス･ゴリアテ|키클롭스 골리앗|Zyklopgoliath|Cyclope colossal
+|||||||||
+|||||||||
+e_rift_skeleton_1|Rift Skeleton|Repeämäluuranko|Esqueleto da Fenda|Рифтовый Скелет|裂缝骨架|リフトスケルトン|리프트 스켈레톤|Riftskelett|Squelette de la faille
+e_rift_skeleton_2|Shadow Champion|Varjomestari|Campeão das Sombras|Теневой Чемпион|影子冠军|シャドーチャンピオン|그림자 챔피언|Schattenchampion|Champion de l'ombre
+e_rift_skeleton_3|Rift Legion|Repeämälegioonalainen|Legião da Fenda|Рифтовый Легион|裂谷军团|リフトレギオン|리프트 군단|Riftlegion|Légionnaire de la faille
+|||||||||
+|||||||||
+[bosses]|||||||||
+e_pontus_1|Pontus the Lard|Läski Pontus|Pontus, o Grandão|Понтус Сало|本都拉德|ラードのポントス|기름쥐 폰토스|Pontus des Schmalzes|Pontus le lardon
+e_pontus_2|Pontus the Sewer Rat|Viemärirotta Pontus|Pontus, o Rato de Esgoto|Понтус - Канализационная Крыса|本都褐鼠|ドブネズミのポントス|시궁쥐 폰토스|Pontus der Kanalratten|Pontus le rat d'égout
+e_pontus_3|Pontus the Ancient Lard|Muinainen Läski Pontus|Pontus, o Grandão Ancião|Понтус Древний Сало|本都古代拉德|古代ラードのポントス|고대의 기름쥐 폰토스|Pontus des alten Schmalzes|Pontus le vieux lardon
+|||||||||
+|||||||||
+e_khorga_1|King Khorga|Kuningas Khorga|Rei Khorga|Король Хорга|霍尔加国王|キングコルガ|코르가왕|König Khorga|Roi Khorga
+e_khorga_2|King Khorga II|Kuningas Khorga II|Rei Khorga II|Король Хорга II|霍尔加二世|キングコルガ 2 世|코르가왕 II세|König Khorga II.|Roi Khorga II
+e_khorga_3|Ancient War King Khorga|Muinainen sotakuningas Khorga|Khorga, Rei da Guerra Antiga|Король Древней Войны Хорга|古代战争之王霍尔加|古代戦争王コルガ|고대의 전쟁왕 코르가|Antiker Kriegerkönig Khorga|Ancien roi de guerre Khorga
+|||||||||
+|||||||||
+e_akrea_1|Akrea|Akrea|Akrea|Акреа|阿克雷亚|骨格のアークマージ|해골 대마법사|Akrea|Akrea
+e_akrea_2|Skeletal Archmage|Luuranko arkkimaagi|Arquimago Esquelético|Архимаг - Скелет|骷髅大法师|不浄な司祭|불결한 사제|Skelettierter Erzmagier|Archevêque squelettique
+e_akrea_3|Unholy Priest|Epäpyhä pappi|Sacerdote Profano|Нечестивый Священник|邪恶祭司|魔王の異教徒|사탄의 이교도|Unheiliger Priester|Prêtre impie
+|||||||||
+|||||||||
+e_dahzul_1|Dah'Zul|Dah'Zul|Dah'Zul|Да'Зул|达祖尔|ダーズル|다'줄|Dah'Zul|Dah'Zul
+e_dahzul_2|Dah'Gul|Dah'Gul|Dah'Gul|Да'Гул|达古尔|ダーグル|다'굴|Dah'Gul|Dah'Gul
+e_dahzul_3|Zen'Zhuul|Zen'Zhuul|Zen'Zhuul|Зен'Зуул|禅宗祖尔|ゼンズール|젠'줄|Zen'Zhuul|Zen'Zhuul
+|||||||||
+|||||||||
+e_kayo_1|Kayo the Sapling|Taimi Kayo|Kayo, a Muda|Кайо - Молодое деревце|卡约树苗|苗木のカヨ|어린 나무 카요|Kayo der Schössling|Kayo la jeune pousse
+e_kayo_2|Kayo the Ent|Entti Kayo|Kayo, o Ent|Кайо - Лор|卡约树精|エントのカヨ|엔트 카요|Kayo der Ent|Kayo l'Ent
+e_kayo_3|Ancient Branch|Muinainen oksa|Galho Antigo|Древняя Ветвь|古代树精|古代のブランチ|고대의 나무가지|Antiker Zweig|Branche séculaire
+|||||||||
+|||||||||
+e_kalcifer_1|Kalcifer|Kalcifer|Kalcifer|Кальцифер|卡尔西费尔|カルシファー|칼시퍼|Kalcifer|Kalcifer
+e_kalcifer_2|Kalcifer the Fiery Demonspawn|Tulinen pirulainen Kalcifer|Kalcifer, a Cria de Demônio Ardente|Кальцифер - Огненное Демоническое Отродье|卡尔西弗尔 炽热恶魔|火のデーモンズポーン・カルシファー|화염의 데몬스폰 칼시퍼|Die feurige Dämonenbrut Kalcifer|Kalcifer l'engeance ardente
+e_kalcifer_3|Margogah the Ancient Imp|Muinainen piru Margogah|Margogah, o Diabrete Ancião|Маргога , Древний Бес|马尔戈加 古代恶魔|古代の小悪魔マルゴーガ|고대의 임프 마르고가|Margogah, der alte Imperator|Margogah l'ancien empereur
+|||||||||
+|||||||||
+e_hayro_1|Hayro|Hayro|Hayro|Hayro|海罗|へーロー|헤이로|Hayro|Hayro
+e_hayro_2|Ancient Hayro|Muinainen Hayro|Hayro Ancião|Древний Хайро|古代海罗|古代へーロー|고대의 헤이로|Antiker Hayro|Hayro ancestral
+e_hayro_3|Colossal Hayro|Jättiläis Hayro|Hayro Colossal|Колоссальный Хайро|巨型海罗|巨大へーロー|거대 헤이로|Kolossaler Hayro|Hayro colossal
+|||||||||
+|||||||||
+e_kungo_1|Kungo|Kungo|Kungo|Kungo|昆戈|クンゴ|쿵고|Kungo|Kungo
+e_kungo_2|Kungo the Tyrant|Tyranni Kungo|Kungo, o Tirano|Кунго - Тиран|昆戈暴君|クンゴ・タイタン|폭군 쿵고|Der Tyrann Kungo|Kungo le tyran
+e_kungo_3|Overlord Kungo|Ylikomentaja Kungo|Kungo, o Soberano|Повелитель Кунго|霸主昆戈|オーバーロード・クンゴ|대폭군 쿵고|Lehensherr Kungo|Seigneur suprême Kungo
+|||||||||
+|||||||||
+e_hololo_1|Hololo|Hololo|Hololo|Хололо|霍洛洛|ホロロ|홀로로|Hololo|Hololo
+e_hololo_2|Hololo of the Abyss|Syvyyksien Hololo|Hololo do Abismo|Гололо бездны|地狱的霍洛洛|アビスのホロロ|심연의 홀로로|Hololo aus der Hölle|Hololo abyssal
+e_hololo_3|Holo-bob Metal Pants|Holo-Paavo Metallisieni|Holo-bob Calça Metálica|Металлические Брюки в стиле Голо-боб|霍洛-鲍勃金属裤|ホロボブ・メタルパンツ|쇳소리 홀로-밥|Holo-bob Metall Pants|Hololo Culotte-de-fer
+|||||||||
+|||||||||
+e_annie_1|Annie|Annie|Annie|Энни|安妮|アニー|애니|Annie|Annie
+e_annie_2|Samara|Samara|Samara|Самара|翅果|サマラ|사마라|Samara|Samara
+e_annie_3|Kayako|Kayako|Kayako|Каяко|卡亚科|カヤコ|카야코|Kayako|Kayako
+|||||||||
+|||||||||
+e_parasectoid_1|Parasectoid|Parasectoidi|Parasectoid|Парасектоид|寄生物|奇形獣|기형수|Parasectoid|Parasectoid
+e_parasectoid_2|Fuxxagen|Fuxxagen|Fuxxagen|Фуксаген|富克萨根|異形獣|괴형수|Fuxxagen|Fuxxagen
+e_parasectoid_3|Vedensulattajas Homolus|Vedensulattajas Homolus|Vedensulattajas Homolus|Веденсулаттаяс Гомолус|韦登苏拉塔亚斯·霍莫卢斯|人造怪物|호문쿨루스|Vedensulattajas Homolus|Vedensulattajas Homolus
+|||||||||
+|||||||||
+e_garguth_1|Garguth|Garguth|Garguth|Гаргут|加古斯|ガーグス|가르거스|Garguth|Garguth
+e_garguth_2|Garguth the Moss Beast|Sammalhirviö Garguth|Garguth, a Besta de Musgo|Гаргут - Моховой Зверь|加古斯的苔藓怪|モス・ビーストのガーグス|이끼 괴수 가르거스|Garguth das Moos-Biest|Garguth la bête moussue
+e_garguth_3|Gargudoguth|Gargudoguth|Gargudoguth|Гаргудогут|加尔古多古斯|ガーグドグース|가르거도거스|Gargudoguth|Gargudoguth
+|||||||||
+|||||||||
+e_betankhamun_1|Betankhamun|Betankhamun|Betankhamun|Бетанхамон|贝坦卡蒙|ベタンカーメン|베탄카문|Betankhamun|Bétankhamon
+e_betankhamun_2|Betankhamun the Fallen|Kaatunut Betankhamun|Betankhamun, o Caído|Бетанхамон Павший|贝坦卡蒙堕落者|死者ベタンカーメン|망자 베탄카문|Betankhamun der Gefallene|Bétankhamon le déchu
+e_betankhamun_3|Betankhamun the Servant|Palvelija Betankhamun|Betankhamun, o Servo|Бетанхамон - Слуга|贝坦卡蒙仆人|使用人ベタンカーメン|하수인 베탄카문|Betankhamun der Diener|Bétankhamon le serviteur
+|||||||||
+|||||||||
+e_general_kaw_1|General Kaw|Kenraali Kaw|General Kaw|Генерал Кау|考将军|将軍カウ|코우 장군|General Kaw|Général Kaw
+e_general_kaw_2|Enraged General Kaw|Raivostunut Kenraali Kaw|General Kaw Enfurecido|Разъяренный генерал Кау|愤怒的考将军|激怒した将軍カウ|격분한 고우 장군|Wütender General Kaw|Général Kaw enragé
+e_general_kaw_3|Kawaii|Kawaii|Kawaii|Кавайный|卡瓦伊|カワイイ|카와이|Kawaii|Kawaii
+|||||||||
+|||||||||
+e_anubis_1|Anubis|Anubis|Anúbis|Анубис|阿努比斯|アヌビス|아누비스|Anubis|Anubis
+e_anubis_2|Guardian of the Eternal Life|Ikuisen elämän suojelija|Guardião da Vida Eterna|Хранитель Вечной Жизни|永生的守护者|永遠の命の守護者|영생의 수호자|Hüter des ewigen Lebens|Gardien de la vie éternelle
+e_anubis_3|Reincarnation of Ramses II|Uudelleensyntynyt Ramses II|Reencarnação de Ramsés II|Реинкарнация Рамзеса II|拉姆西斯二世的转世|生まれ変わったラムセス II 世|람세스 II세의 현신|Reinkarnation von Ramses II.|Réincarnation de Ramsès II
+|||||||||
+|||||||||
+e_damien_1|Damien|Damien|Damien|Дэмиен|达米恩|ダミアン|데미언|Damien|Damien
+e_damien_2|Wretched Kid|Kirottu poika|Criança Miserável|Несчастный Ребенок|可怜的孩子|惨めな子供|비참한 아이|Elendes Kind|Enfant misérable
+e_damien_3|Son of Lucifer|Luciferin poika|Filho de Lúcifer|Сын Люцифера|路西法的儿子|ルシファーの息子|루시퍼의 아들|Sohn Luzifers|Fils de Lucifer
+e_damiensMask_1|Damien’s Mirror||Espelho de Damien||||다미엔의 거울||
+e_damiensMask_2|Damien’s Mirror||Espelho de Damien||||다미엔의 거울||
+e_damiensMask_3|Damien’s Mirror||Espelho de Damien||||다미엔의 거울||
+spell_damien_01|Unleashed Agony||Agonia Desenfreada||||해방된 고통||
+spell_damien_02|Mirror’s of Darkness||Espelhos da Escuridão||||어둠의 거울||
+spell_damien_03|Masked Agony||Agonia Mascarada||||가면의 고통||
+spell_damien_04|Blood Surge||Surto de Sangue||||피의 쇄도||
+spell_damien_05|Pools of Agony||Piscinas de Agonia||||고통의 웅덩이||
+|||||||||
+e_reaper_1|Grim Reaper|Viikatemies|Ceifador|Мрачный Жнец|死神|グリム・リーパー|사신|Sensenmann|Faucheuse sinistre
+e_reaper_2|Soul Harvester|Sielujen kerääjä|Colhedor de Almas|Сборщик Душ|灵魂收割者|ソウル・ハーベスター|영혼 수확자|Seelenerntemaschine|Moissonneuse d'âmes
+e_reaper_3|Death|Kuolema|Morte|Смерть|死亡|死神|저승사자|Tod|La Mort
+|||||||||
+|||||||||
+e_gurag_1|Gurag the Destroyer|Tuhoaja Gurag|Gurag, o Destruidor|Гураг - Разрушитель|古拉格毁坏者|駆逐艦グラゴ|파괴자 구라그|Gurag der Zerstörer|Gurag le destructeur
+e_gurag_2|Gurag the Demolisher|Täystuho Gurag|Gurag, o Demolidor|Гураг Разрушитель|古拉格毁灭者|破壊者グラゴ|파멸자 구라그|Gurag der Vernichter|Gurag le démolisseur
+e_gurag_3|Gurag the Demi-God|Puolijumala Gurag|Gurag, o Semideus|Гураг - Полубог|古拉格半神|グラゴ・ザ・デミ・ゴッド|반신 구라그|Gurag der Halbgott|Gurag le demi-dieu
+|||||||||
+|||||||||
+e_karp_king_1|The Karp King|Karppi Kuningas|O Rei das Carpas|Король Карпов|卡普国王|カープキング|잉어 왕|Karp King|Roi Carpe
+e_karp_king_2|Aku|Aku|Aku|Aku|阿库|アク|아쿠|Aku|Aku
+e_karp_king_3|Gaforashyu|Gaforashyu|Gaforashyu|Гафорашью|加福拉什尤|ガフォラシェ|가포라슈|Gaforashyu|Gaforashyu
+|||||||||
+|||||||||
+e_ent_boss_1|Keeper of the Haunted Forest|Kummitusmetsän Pitäjä|Guarda da Floresta Assombrada|Хранитель Леса с привидениями|闹鬼森林的看守者|お化けの森の番人|유령 숲의 파수꾼|Hüter des Geisterwaldes|Gardien de la forêt hantée
+e_ent_boss_2|Guardian of the Haunted Forest|Kummitusmetsän Vartija|Guardião da Floresta Assombrada|Страж Леса с Привидениями|闹鬼森林的守护者|お化けの森の守護者|유령 숲의 수호자|Wächter des Geisterwaldes|Protecteur de la forêt hantée
+e_ent_boss_3|Hollow Death|Ontto Kuolema|Morte Vazia|Пустая Смерть|空心死亡|中空の死|공허한 죽음|Aushöhlender Tod|Mort creuse
+|||||||||
+|||||||||
+e_abomination_1|Gluttony|Ahnaisuus|Gula|Обжорство|暴食|暴飲暴食|폭식 어보미네이션|Völlerei|Gloutonnerie
+e_abomination_2|Hellspawn Abomination|Helvetin Iljetys|Abominação Nascida no Inferno|Исчадие Ада , Мерзость|地狱之命的憎恶|フェイスボール・スケアモンスター|지옥에서 태어난 어보미네이션|Höllengeborene Abscheulichkeit|Abomination née de l'enfer
+e_abomination_3|Abomination|Iljetys|Abominação|Мерзость|憎恶|嫌悪すべきもの|어보미네이션|Abscheulichkeit|Abomination
+|||||||||
+|||||||||
+e_eye_1|The Eye|Silmä|O Olho|Глаз|眼睛|目球|눈|Das Auge|L'œil
+e_eye_2|Devil's Eye|Pirun silmä|Olho do Demônio|Глаз дьявола|魔鬼之眼|悪魔の目|악마의 눈|Teufelsauge|L'œil du diable
+e_eye_3|Eye of Satan|Saatanan silmä|Olho de Satã|Око сатаны|撒旦之眼|サタンの目|사탄의 눈|Das Auge des Satans|L'œil de Satan
+|||||||||
+|||||||||
+e_mask_1|Conjured Mask|Loihdittu naamio|Máscara Conjurada|Наколдованная Маска|施了魔法的面具|召喚のマスク|강령 가면|Beschworene Maske|Masque de conjuration
+e_mask_2|Face of Horror|Kauhun kasvot|Face do Horror|Лицо ужаса|恐怖的脸|恐怖の顔|공포의 얼굴|Gesicht des Schreckens|Visage de l'horreur
+e_mask_3|Pure Evil|Puhdas pahuus|Mal Puro|Чистое Зло|完全邪恶|純粋な悪|악의 결정체|Das Reine Böse|Mal à l'état pur
+|||||||||
+|||||||||
+e_sheep_king_1|The Sheep King|Lammaskuningas|O Rei das Ovelhas|Король Овец|羊王|シープ・キング|양 왕|Der Schafskönig|Roi des moutons
+e_sheep_king_2|Sheep King Senior II|Lammaskuningas II|Rei das Ovelhas Sênior II|Король Овец Старший II|羊王进阶II|シープ・キング・シニア II|양 왕 시니어 II세|Schafskönig Senior II|Roi des moutons senior II
+e_sheep_king_3|Jefre the God of Sheep|Lammasjumala Jefre|Jefre, o Deus das Ovelhas|Джефре , Бог овец|耶夫羊神|シープ・ゴッド・ジェフリー|양의 신 제프리|Jefre der Gott der Schafe|Jefre le dieu des moutons
+|||||||||
+|||||||||
+e_pogocho_1|Pogocho|Pogocho|Pogocho|Погочо|波戈乔|ポゴチョ|포고초|Pogocho|Pogocho
+e_pogocho_2|Pogocho the Awaken Horror|Herännyt kauhu Pogocho|Pogocho, o Terror Desperto|Погочо Пробужденный Ужас|波戈乔的觉醒恐怖|ポゴチョ・ザ・アウェイク・ホラー|깨어난 공포 포고초|Pogocho, der erwachende Horror|Pogocho l'horreur éveillée
+e_pogocho_3|Pogocho the Terror Lord|Kauhuloordi Pogocho|Pogocho, o Senhor do Terror|Погочо Повелитель Ужаса|波戈乔恐怖之王|恐怖の主ポゴチョ|공포의 제왕 포고초|Pogocho der Terrorherr|Pogocho le seigneur de la terreur
+|||||||||
+|||||||||
+e_jonathan_1|Sir Jonathan|Sir Joonatan|Sir Jonathan|Сэр Джонатан|乔纳森爵士|サー・ジョナサン|조나단 경|Sir Jonathan|Sir Jonathan
+e_jonathan_2|Jonathan the Fallen Marksman|Kaatunut jousimies Joonatan|Jonathan, o Atirador Caído|Джонатан - Павший Стрелок|乔纳森堕落的射手|ジョナサン・ザ・フォールン・マークスマン|전사한 명사수 조나단|Jonathan der Gefallene Scharfschütze|Jonathan, le tireur d'élite déchu
+e_jonathan_3|Sir Jonathan Lacy|Sir Jonathan Lacy|Sir Jonathan Lacy|Сэр Джонатан Лейси|乔纳森·莱西爵士|サー・ジョナサン・レイシー|조나단 레이시 경|Sir Jonathan Lacy|Sir Jonathan Lacy
+|||||||||
+|||||||||
+e_igor_1|Igor|Iigor|Igor|Игорь|伊戈尔|イゴール|이고르|Igor|Igor
+e_igor_2|Igor the Frozen Shaman|Jäätynyt shamaani Iigor|Igor, o Xamã Congelado|Игорь Замороженный Шаман|冰霜巫师伊戈尔|凍結シャーマン・イゴール|서리 주술사 이고르|Igor der gefrorene Schamane|Igor le chaman gelé
+e_igor_3|Shadow Shaman Igor|Varjoshamaani Iigor|Igor, Xamã das Sombras|Теневой Шаман Игорь|影子巫师伊戈尔|シャドーシャーマン・イゴール|환영 주술사 이고르|Schattenschamane Igor|Igor le chaman de l'ombre
+|||||||||
+|||||||||
+e_colossal_anomaly_1|Colossal Anomaly|Jättimäinen Poikkeama|Anomalia Colossal|Колоссальная Аномалия|巨型恶鬼|巨大な異形|뒤틀린 거대 장기|Kolossale Anomalie|Anomalie colossale
+e_colossal_anomaly_2|Plump of Flesh|Lihakimpale|Roliço de Carne|Пухленькая Мякоть|丰满的肉体|ふくよかな血肉|살코기 덩어리|Fleischklumpen|Boulettes de viande
+e_colossal_anomaly_3|Underworld Devourer|Alamaailman Ahmija|Devorador do Submundo|Пожиратель Подземного Мира|地下毁灭者|アンダーワールド・デバウアー|지옥의 포식귀|Unterwelt Verschlinger|Dévoreur du monde souterrain
+|||||||||
+|||||||||
+e_satan_1|Satan|Saatana|Satã|Сатана|撒旦|サタン|사탄|Satan|Satan
+e_satan_2|Beelzebub|Beelzebub|Belzebu|Вельзевул|魔王|ベルゼブブ|벨제붑|Beelzebub|Belzébuth
+e_satan_3|Perkele|Perkele|Perkele|Перкеле|佩尔凯勒|ペルケル|퍼켈레|Teufel|Diable
+|||||||||
+|||||||||
+e_gaben_1|Lord Gaben|Loordi Gaben|Senhor Gaben|Lord Gaben|加本勋爵|ゲイブン卿|게이브 경|Lord Gaben|Seigneur Gaben
+e_gaben_2|Gabenator|Gabenaattori|Gabenator|Габенатор|加贝纳托|ゲイブネーター|게이브네이터|Gabenator|Gabenator
+e_gaben_3|Master of Steam|Steamin mestari|Senhor da Steam|Мастер пара|蒸汽大师|マスター・オブ・Steam|Steam의 제왕|Meister des Dampfes|Maître de Steam
+|||||||||
+|||||||||
+e_gargorath_1|Gargorath|Gargorath|Gargorath|Гаргорат|加尔戈拉|ガゴラス|가르고라스|Gargorath|Gargorath
+e_gargorath_2|Gargorath the Dominator|Hallitsija Gargorath|Gargorath, o Dominador|Гаргорат Властелин|加戈拉特·多明特|支配者ガゴラス|지배자 가르고라스|Gargorath der Dominator|Gargorath le dictateur
+e_gargorath_3|Doom Commander Gargorath|Tuhokomentaja Gargorath|Gargorath, Comandante da Desgraça|Роковой Командир Гаргорат|末日指挥官加尔戈拉|ドゥーム・コマンダー・ ガゴラス|파멸의 지휘관 가르고라스|Untergangskommandant Gargorath|Gargorath le commandant de la destruction
+|||||||||
+|||||||||
+e_steve_1|Stickman Steve|Teemu Tikku-Ukko|Stickman Steve|Крупье Стив|火柴人史蒂夫|棒人間スティーブ|졸라맨 스티브|Strichmännchen Steve|Stickman Steve
+e_steve_2|Stickman Steve Senior|Sr. Teemu Tikku-Ukko|Stickman Steve Sênior|Крупье Стив Старший|火柴人史蒂夫进阶|棒人間スティーブ・シニア|졸라맨 스티브 시니어|Strichmännchen Steve Senior|Stickman Steve senior
+e_steve_3|Ancient Stickman Steve|Muinainen Teemu Tikku-Ukko|Steve, Stickman Ancião|Древний Крупье Стив|古代火柴人史蒂夫|古代棒人間スティーブ|고대 졸라맨 스티브|Alter Strichmännchen Steve|Stickman Steve ancestral
+|||||||||
+e_ooze_1|Nightmare Ooze|Tihkuva painajainen|Gosma do Pesadelo|Кошмарная Жижа|软泥噩梦|悪夢の粘液|악몽의 분비물|Schlammiger Albtraum|Boue cauchemardesque
+e_ooze_2|Corrosive Nightmare|Syövyttävä painajainen|Pesadelo Corrosivo|Разъедающий Кошмар|腐蚀性噩梦|腐食の悪夢|부패된 악몽|Ätzender Albtraum|Cauchemar corrosif
+e_ooze_3|Sleep Paralysis|Unihalvaus|Paralisia do Sono|Сонный паралич|睡眠麻痹|睡眠麻痺|수면 마비|Lähmender Schlaf|Paralysie du sommeil
+|||||||||
+|||||||||
+e_mevius_1|Mevius|Mevius|Mevius|Mevius|梅维乌斯|メビウス|메비우스|Mevius|Mevius
+e_mevius_2|Rift Horror Mevius|Repeämän kauhu Mevius|Mevius, Horror da Fenda|Рифт Хоррор Мевиус|裂缝恐怖梅维乌斯|割れ目のホラー・メビウス|균열 공포 메비우스|Mevius, das Grauen aus der Tiefe|Mevius horreur de la faille
+e_mevius_3|Mevius the Rift God|Repeämän jumala Mevius|Mevius, o Deus da Fenda|Мевиус - Бог Разлома|梅维乌斯裂缝神|割れ目の神・メビウス|균열의 신 메비우스|Mevius, der Gott der Tiefe|Mevius dieu de la faille
+|||||||||
+|||||||||
+e_shadowreaper_1|Shade of Death|Kuoleman varjo|Sombra da Morte|Тень смерти|死亡阴影|デスシェード|죽음의 장막|Schatten des Todes|Ombre de la Mort
+e_shadowreaper_2|Shade of Death|Kuoleman varjo|Sombra da Morte|Тень смерти|死亡阴影|デスシェード|죽음의 장막|Schatten des Todes|Ombre de la Mort
+e_shadowreaper_3|Shade of Death|Kuoleman varjo|Sombra da Morte|Тень смерти|死亡阴影|デスシェード|죽음의 장막|Schatten des Todes|Ombre de la Mort
+|||||||||
+|||||||||
+e_gimbo_1|Gimbo the Hammermaster|Vasaramestari Gimbo|Gimbo, o Mestre do Martelo|Джимбо - Мастер Молота|金博锤神|ハンーマ・マスターのギンボ|망치장이 김보|Gimbo, der Meister des Hammers|Gimbo le maître du marteau
+e_gimbo_2|Gimbo the Conqueror|Valloittaja Gimbo|Gimbo, o Conquistador|Гимбо - Завоеватель|金博征服者|征服者ギンボ|정복자 김보|Gimbo der Eroberer|Gimbo le conquérant
+e_gimbo_3|The Giant|Jättiläinen|O Gigante|Гигант|巨人|ジャイアント|거대한 존재|Der Gigant|Le Géant
+|||||||||
+|||||||||
+e_necronomicon_1|The Necronomicon|Necronomicon|O Necronomicon|Некрономикон|死灵之书|ヘッドレスのジェームス|머리 없는 자 제임스|James der Kopflose|Le Necronomicon
+e_necronomicon_2|Ancient Book of Death|Kuoleman muinainen kirja|Livro da Morte Ancião|Древняя Книга Смерти|古代死灵之书|ジェームズ伯爵|제임스 백작|Graf James|Ancien livre de la Mort
+e_necronomicon_3|THE BOOK|KIRJA|O LIVRO|КНИГА|死灵之书|ジェームズ・ザ・モンスターシティ|기괴한 자 제임스|Jakobus der Ungeheuerliche|LE LIVRE
+|||||||||
+|||||||||
+e_james_1|James the Headless|Päätön James|James, o Sem-cabeça|Джеймс Безголовый|无头詹姆斯|ネクロノミコン|네크로노미콘|Das Necronomicon|Jacques le décapité
+e_james_2|Count James|Kreivi James|Conde James|Граф Джеймс|詹姆斯伯爵|古代の死の本|고대 죽음의 서|Antikes Buch des Todes|Comte Jacques
+e_james_3|James the Monstrosity|Rumilus James|James, a Monstruosidade|Джеймс - Чудовище|詹姆斯超级怪物|ザ・ブック|그 책|DAS BUCH|Jacques la monstruosité
+|||||||||
+|||||||||
+e_leviathan_1|Leviathan|Leviatan|Leviatã|Левиафан|利维坦海怪|リヴァイアサン|리바이어던|Leviathan|Léviathan
+e_leviathan_2|Ancient Leviathan|Muinainen Leviatan|Leviatã Ancião|Древний Левиафан|古代利维坦海怪|昔のリヴァイアサン|고대의 리바이어던|Antiker Leviathan|Léviathan antique
+e_leviathan_3|Leviathan the Demon God|Demonijumala Leviatan|Leviatã, o Deus Demônio|Левиафан - Бог - Демон|利维坦海怪|魔神リヴァイアサン|반신 리바이어던|Leviathan, der Dämonengott|Léviathan, le dieu démoniaque
+|||||||||
+e_jormungandr_1|Jormungandr||||||요르문간드||
+e_jormungandr_2|Jormungandr||||||요르문간드||
+e_jormungandr_3|The World Serpent||||||세계 뱀||
+|||||||||
+e_graveSkeleton_1|Grave Skeleton||Esqueleto da Tumba||||무덤 해골||
+e_graveSkeleton_2|Grave Skeleton||Esqueleto da Tumba||||무덤 해골||
+e_graveSkeleton_3|Grave Skeleton||Esqueleto da Tumba||||무덤 해골||
+|||||||||
+e_graveZombie_1|Grave Zombie||Zumbi da Tumba||||무덤 좀비||
+e_graveZombie_2|Grave Zombie||Zumbi da Tumba||||무덤 좀비||
+e_graveZombie_3|Grave Zombie||Zumbi da Tumba||||무덤 좀비||
+|||||||||
+e_curcanLegion_1|Curacan Legion||||||쿠라칸 군단||
+e_curcanLegion_2|Curacan Legion||||||쿠라칸 군단||
+e_curcanLegion_3|Curacan Warchief||||||쿠라칸 전쟁족장||
+|||||||||
+e_curacanMarksman_1|Curacan Marksman||||||쿠라칸 명사수||
+e_curacanMarksman_2|Curacan Marksman||||||쿠라칸 명사수||
+e_curacanMarksman_3|Curacan Stinger||||||큐라칸 스팅어||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+e_uberAnubis_1|Amun Ra||||||아문 라||
+e_uberAnubis_2|Amun Ra||||||아문 라||
+e_uberAnubis_3|Amun Ra||||||아문 라||
+|||||||||
+uberAnubis_spell_01|Crushing Meteor||||||분쇄 유성||
+uberAnubis_spell_02|Decaying Wall||||||부식된 벽||
+uberAnubis_spell_03|Corrupted Sarkofagi||||||||
+uberAnubis_spell_04|Amun Ra´s Curse||||||아문 라의 저주||
+uberAnubis_spell_05|Unholy Voltage||||||불경한 전압||
+uberAnubis_spell_06|Blood of Amun Ra||||||아문 라의 피||
+|||||||||
+e_nestUberAnubis_1|Corrupted Sarkofagus||||||부패한 사르코파구스||
+e_nestUberAnubis_2|Corrupted Sarkofagus||||||부패한 사르코파구스||
+e_nestUberAnubis_3|Corrupted Sarkofagus||||||||
+|||||||||
+e_bloodOfRa_3|Amun Ra´s Blood||||||아문 라의 피||
+e_shadeOfSobek_4|Shade of Sobek||||||소벡의 그림자||
+e_shadeOfThoth_4|Shade of Thoth||||||||
+e_anubisHeart_4|Heart of Amun Ra||||||아문 라의 심장||
+e_crocolisk_3|Crocolisk||||||||
+|||||||||
+e_uberLuna_1|Possessed Luna||Luna Possuída||||빙의된 루나||
+e_uberLuna_2|Possessed Luna||Luna Possuída||||빙의된 루나||
+e_uberLuna_3|Possessed Luna||Luna Possuída||||빙의된 루나||
+|||||||||
+uberLuna_spell_01|Crystal Ball||Bola de Cristal||||||
+uberLuna_spell_02|Black Hole||Buraco Negro||||블랙홀||
+uberLuna_spell_03|Starstruck||Golpe Estelar||||스타스트럭||
+uberLuna_spell_04|Cosmic Winds||Ventos Cósmicos||||우주의 바람||
+uberLuna_spell_05|Starshower||Chuva de Estrelas||||별비||
+|||||||||
+e_uberGabriel_1|Gabriel the Fallen Angel|Kaatunut enkeli Gabriel|Gabriel, o Anjo Caído|Гавриил - Падший Ангел|加布里埃尔堕落天使|ガブリエル・ザ・堕天使|타락 천사 가브리엘|Gabriel, der gefallene Engel|Gabriel, l'ange déchu
+e_uberGabriel_2|Gabriel the Fallen Angel|Kaatunut enkeli Gabriel|Gabriel, o Anjo Caído|Гавриил - Падший Ангел|加布里埃尔堕落天使|ガブリエル・ザ・堕天使|타락 천사 가브리엘|Gabriel, der gefallene Engel|Gabriel, l'ange déchu
+e_uberGabriel_3|Gabriel the Fallen Angel|Kaatunut enkeli Gabriel|Gabriel, o Anjo Caído|Гавриил - Падший Ангел|加布里埃尔堕落天使|ガブリエル・ザ・堕天使|타락 천사 가브리엘|Gabriel, der gefallene Engel|Gabriel, l'ange déchu
+|||||||||
+gabriel_spell_01|Gabriel’s Shadow||Sombra de Gabriel||||가브리엘의 그림자||
+gabriel_spell_02|Defile||Perverter||||더럽히다||
+gabriel_spell_03|Fallen Heretic||Herege Caído||||타락한 이단자||
+gabriel_spell_04|Annihilation||Aniquilação||||||
+|||||||||
+e_nest_stump_1|Giant Stump|Jättikanto|Toco Gigante|Гигантский Пень|巨型树桩|巨大な切り株|거대한 그루터기|Riesiger Stumpf|Souche géante
+e_nest_skeleton_1|Bone Lair|Luukolo|Covil de Ossos|Костяное Логово|骷髅巢穴|骨の埋め場|뼈대|Knochenhöhle|Tanière d'os
+e_nest_goblin_1|Goblin Den|Peikon kolo|Covil de Goblins|Goblin Den|妖精窝|ゴブリンの巣窟|고블린 던전|Goblinversteck|Repaire de gobelins
+e_nest_maggot_1|Maggot Lair|Madon kolo|Covil de Larvas|Логово Личинок|蠕虫窝|蛆虫のアジト|가드 레어|Madenhöhle|Repaire d'asticots
+e_nest_rat_1|Rat Nest|Rotan pesä|Ninho de Ratos|Крысиное гнездо|鼠巢|ドブネズミの巣|쥐 소굴|Rattennest|Nid de rats
+e_nest_mummy_1|Sarkofagus|Sarkofagi|Sarcófago|Саркофагус|石棺|サルコファガス|석관|Sarkophag|Sarcophage
+e_nest_skeleton_desert_1|Skeletal Cave|Luurankoluola|Caverna Esquelética|Пещера Скелетов|骷髅洞穴|骸骨の洞窟|해골 굴|Skeletthöhle|Grotte squelettique
+e_nest_samurai_1|Samurai Altar|Samurai alttari|Altar Samurai|Алтарь самурая|武士祭坛|サムライの祭壇|사무라이 제단|Samuraialtar|Autel de samouraï
+e_nest_piranha_1|Piranha Cave|Piraijaluola|Caverna de Piranhas|Пещера Пираньи|水虎鱼洞穴|ピラニアの洞窟|피라냐 동굴|Piranhahöhle|Grotte des piranhas
+e_nest_beast_1|Beast Cove|Pedon poukama|Esconderijo das Bestas|Бухта Зверя|怪兽山谷|猛獣の入江|비스트 코브|Biesterbucht|Baie des bêtes
+e_attack_dummy_1|Attack Dummy|Harjoitusnukke|Boneco de Ataque|Атакующий Манекен|攻击傀儡|攻撃ダミー|더미 공격|Angriffspuppe|Mannequin d'attaque
+e_damien_head_1|Damien's Head|Damienin pää|Cabeça de Damien|Голова Дэмиена|达米恩的头颅|デイミアンの頭|데미안의 머리|Damiens Kopf|Tête de Damien
+e_rat_pontus_pack_1|Pack of Rats|Rottalauma|Bando de Ratos|Стая крыс|一群老鼠|ドブネズミの群れ|쥐 무리|Rattenrudel|Paquet de rats
+e_nest_anubis_1|Anubis Sarkofagus|Anubis sarkofagi|Sarcófago de Anúbis|Анубис Саркофагус|阿努比斯石棺|アヌビスのサルコファガス|아누비스 석관|Anubis' Sarkophag|Sarcophage d'Anubis
+e_nest_anubis_2|Anubis Sarkofagus|Anubis sarkofagi|Sarcófago de Anúbis|Анубис Саркофагус|阿努比斯石棺|アヌビスのサルコファガス|아누비스 석관|Anubis' Sarkophag|Sarcophage d'Anubis
+e_nest_anubis_3|Anubis Sarkofagus|Anubis sarkofagi|Sarcófago de Anúbis|Анубис Саркофагус|阿努比斯石棺|アヌビスのサルコファガス|아누비스 석관|Anubis' Sarkophag|Sarcophage d'Anubis
+e_satan_left_hand_1|Satan's Left Hand|Saatanan vasen käsi|Mão Esquerda de Satã|Левая рука сатаны|撒旦的左手|サタンの左手|사탄의 왼손|Satans Rechte Hand|Main gauche de Satan
+e_satan_right_hand_1|Satan's Right Hand|Saatanan oikea käsi|Mão Direita de Satã|Правая рука сатаны|撒旦的右手|サタンの右手|사탄의 오른손|Satans Linke Hand|Main droite de Satan
+e_plague_rat_1|Plague Rat|Ruttorotta|Rato da Peste|Чумная Крыса|瘟疫鼠|黒死病ドブネズミ|병든 쥐|Pestratte|Rat de la peste
+e_black_widow_1|Black Widow|Musta leski|Viúva Negra|Черная Вдова|黑寡妇|黒後家蜘蛛|블랙 위도우|Schwarze Witwe|Veuve noire
+e_earthworm_jack_1|Earthworm Jack|Jaska Maanmatonen|Jack, a Minhoca|Джек из Дождевого Червя|蚯蚓杰克|ミミズのジャック|지렁이 잭|Regenwurm Jack|Jack le ver de terre
+e_abyssal_imp_1|Abyssal Imp|Syvyyksien piru|Diabrete Abissal|Бездонный Бес|地狱恶魔|深淵の邪鬼|심연의 악마|Abyssaler Wichtel|Diablotin abyssal
+e_icehowl_1|Ice Howl|Jääulvoja|Uivo de Gelo|Ледяной Вой|冰雪怒号|氷の遠吠え|아이스 하울|Eisgeheul|Hurlement de glace
+e_freezing_monstrosity_1|Freezing Monstrosity|Jäätävä monsteri|Monstruosidade Congelante|Леденящее Душу Чудовище|冰霜超级怪物|凍結の怪物|얼어붙은 괴물|Gefrorene Monstrosität|Monstruosité glacée
+e_colossal_legion_1|Colossal Legion|Jättiläislegioonalainen|Legião Colossal|Колоссальный Легион|巨星军团|巨大軍団|거대 군단|Kolossale Legion|Légionnaire colossal
+gurag_guard|Gurag's Guard|Guragin vartija|Guarda do Gurag|Охранник Гурага|古拉格的卫兵|グーラグの衛兵|구라그의 가드|Gurags Wächter|Garde de Gurag
+|||||||||
+e_zombie_crawler_1|Zombie Crawler|Zombie matelija|Zumbi Rastejante|Зомби - Краулер|僵尸爬行者|地を這うゾンビ|좀비 크롤러|Zombie-Kriecher|Zombie rampant 
+e_zombie_crawler_2|Diseased Gnawler|Tautinen näykkijä|Roedor Adoecido|Больной Грызун|瘟疫啮噬者|病気の噛むゾンビ|질병에 걸린 깨무는자|Verseuchter Nager|Charognard contaminé
+e_zombie_crawler_3|Putrid Monstrosity|Mädäntynyt monsteri|Monstruosidade Pútrida|Гнилостное Чудовище|腐烂的超级僵尸|腐敗した怪物|부패한 괴물|Faulige Monstrosität|Monstruosité putride
+|||||||||
+|||||||||
+e_undead_priest_1|Undead Priest|Epäkuollut pappi|Sacerdote Morto-vivo|Немертвый Священник|亡灵祭司|不死の祭司|언데드 신부|Untoter Priester|Prêtre mort-vivant
+e_undead_priest_2|Fallen Bishop|Kaatunut piispa|Bispo Caído|Падший Епископ|堕落主教|堕ちた司祭|타락한 주교|Gefallener Bischof|Évêque déchu
+e_undead_priest_3|Satan Worshiper|Saatananpalvoja|Adorador de Satã|Поклоняющийся сатане|撒旦崇拜者|サタンの信仰者|사탄 숭배자|Satans-Verehrer|Adorateur de Satan
+|||||||||
+|||||||||
+e_shade_1|Shade|Varjo|Sombra|Тень|阴影|日陰|그림자|Schatten|Ombre
+e_shade_2|Dark Shade|Synkkä varjo|Sombra das Trevas|Темный Оттенок|黑暗阴影|暗黒の日陰|다크 섀도우|Dunkler Schatten|Ombre noire
+e_shade_3|Shadow of Evil|Pahuuden varjo|Sombra do Mal|Тень зла|邪恶的阴影|悪魔の影|악마의 그림자|Schatten des Bösen|Ombre du mal
+|||||||||
+|||||||||
+e_shadow_anomaly_1|Shadow Anomaly|Varjokummajainen|Anomalia das Sombras|Теневая Аномалия|阴影恶魔|影の異常|그림자 이상|Schattenanomalie|Anomalie de l'ombre
+e_shadow_anomaly_2|Dark Lurker|Synkkä vaanija|Espreitador das Trevas|Темный Скрывающийся|黑暗潜伏着|暗黒の潜伏者|어른거리는 어둠|Dunkler Beobachter|Rôdeur sombre
+e_shadow_anomaly_3|Ancient Zealot|Muinainen fanaatikko|Fanático Ancião|Древний Фанатик|古代的狂热者|古代の狂信者|고대 광신도|Uralter Berserker|Zélote antique
+|||||||||
+|||||||||
+e_monk_1|Monk|Munkki|Monge|Монах|和尚|僧侶|수도승|Mönch|Moine
+e_monk_2|Shaolin Fighter|Shaolin taistelija|Lutador Shaolin|Шаолиньский Боец|少林武士|少林拳士|소림 전투|Shaolinkämpfer|Combattant Shaolin
+e_monk_3|High Monk|Ylimunkki|Monge Superior|Верховный Монах|高僧|大僧正|취한 수도승|Hoher Mönch|Moine supérieur
+|||||||||
+|||||||||
+e_armored_knight_1|Armored Knight|Haarniskaritari|Cavaleiro Blindado|Рыцарь в доспехах|装甲骑士|甲冑騎士|갑옷 입은 기사|Ritter in Rüstung|Chevalier en armure
+e_armored_knight_2|Horned Trooper|Sarvipäinen soturi|Soldado Chifrudo|Рогатый солдат|角骑兵|角のある騎兵|뿔난 군인|Gehörnter Soldat|Soldat cornu
+e_armored_knight_3|Legion Officer|Legioonan upseeri|Oficial da Legião|Офицер Легиона|军团军官|軍団長|군단 장교|Legionsoffizier|Officier de la légion
+|||||||||
+|||||||||
+e_prison_guard_1|Prison Guard|Vanginvartija|Guarda da Prisão|Тюремный охранник|狱警|刑務官|교도관|Gefängniswärter|Gardien de prison
+e_prison_guard_2|Jail Officer|Vankilaupseeri|Oficial da Prisão|Тюремный надзиратель|监狱警长|牢番|감옥 지킴이|Gefängnisaufseher|Officier de la pénitence
+e_prison_guard_3|Dungeon Marauder|Tyrmämestari|Saqueador da Masmorra|Мародер Подземелий|地牢掠夺者|地下牢の襲撃者|던전 약탈자|Verliesplünderer|Pilleur de donjon
+|||||||||
+|||||||||
+e_triangle_1|Triangle Charger|Kolmioryntääjä|Triângulo Carregador|Треугольное Зарядное Устройство|三角形充电器|トライアングルチャージャー|삼각 충전기|Dreieckangreifer|Triangle
+e_triangle_2|Champion Triangle|Kolmiomestari|Triângulo Campeão|Чемпионский Треугольник|冠军三角形|チャンピオン･トライアングル|챔피언 삼각형|Champion-Dreieck|Triangle champion
+e_triangle_3|Monstrous Triangle|Kolmiohirviö|Triângulo Monstruoso|Чудовищный Треугольник|怪兽三角形|モンスタラス･トライアングル|괴물 같은 삼각형|Monströses Dreieck|Triangle monstrueux
+|||||||||
+|||||||||
+e_propeller_1|Propeller|Potkuri|Propulsor|Пропеллер|螺旋桨|プロペラ|프로펠러|Propeller|Hélice
+e_propeller_2|Flying Shape|Lentävä muoto|Forma Voadora|Летящая Форма|飞行的形状|フライングシェイプ|날으는 형태|Fliegende Form|Forme volante
+e_propeller_3|Abnormal Geocube|Epätavallinen geokuutio|Geocubo Anormal|Аномальный Геокуб|异常的几何魔方|アブノーマル･ジオキューブ|비정상 지오 큐브|Abnormer Geowürfel|Géocube anormal
+|||||||||
+|||||||||
+e_cube_1|Cube Fighter|Taistelukuutio|Cubo Lutador|Кубический Боец|魔方战斗机|キューブファイター|큐브 파이터|Würfelkämpfer|Combattant cubique
+e_cube_2|Warrior Box|Soturikuutio|Caixa Guerreira|Шкатулка Воина|战士的盒子|ウォリアーボックス|워리어 박스|Kriegerbox|Boîte guerrière
+e_cube_3|Betawave Crusher|Beta-aaltomurskaaja|Esmagador de Ondas Beta|Двухволновая Дробилка|贝塔波破碎机|ベータウェーブクラッシャー|베타웨이브 크러셔|Betawellen-Zerstörer|Destructeur d'ondes bêta
+|||||||||
+|||||||||
+e_ball_1|Geoball|Geopallo|Geobola|Геоболл|几何球|ジオボール|지오볼|Geoball|Géoballe
+e_ball_2|Fractured Orb|Murtunut pallo|Orbe Fraturado|Расколотый Шар|裂缝的球|砕けたオーブ|파열된 구체|Gebrochene Kugel|Orbe fracturé
+e_ball_3|Fractal Monstrosity|Fraktaalihirviö|Monstruosidade Fractal|Фрактальное Чудовище|分形怪物|フラクタル･モンストロシティ|프랙털 흉물|Fraktale Monströsität|Monstruosité fractale
+|||||||||
+|||||||||
+e_samurai_archer_1|Samurai Marksman|Samurai-ampuja|Atirador Samurai|Стрелок - Самурай|武士射手|侍射手|사무라이 명사수|Samurai-Schütze|Tireur d'élite samouraï
+e_samurai_archer_2|Legion Marksman|Legioonan ampuja|Atirador da Legião|Стрелок Легиона|军团神射手|レギオン射手|군단 명사수|Legionsschütze|Tireur d'élite de la Légion
+e_samurai_archer_3|Master of Arrows|Nuolien Mestari|Mestre das Flechas|Мастер Стрел|箭大师|矢の達人|화살의 달인|Meister der Pfeile|Maître des flèches
+|||||||||
+|||||||||
+e_gnarler_1|Gnarler|Murisija|Deformado|Корявый|木节|グナーラー|그날러|Knurrer|Noyeur
+e_gnarler_2|Paralyzed Horror|Halvaantunut kauhu|Horror Paralisado|Парализованный Ужас|瘫痪的恐惧|麻痺した恐怖|마비된 공포|Paralysierter Horror|Horreur paralysante
+e_gnarler_3|Subconcious Demon|Alitajuinen demoni|Demônio Subconsciente|Подсознательный Демон|潜意识恶魔|潜在意識の悪魔|잠재적 악마|Unterbewusster Dämon|Démon de l'inconscient
+|||||||||
+|||||||||
+e_casket_horror_1|Casket Horror|Arkkukammotus|Horror do Caixão|Ужас в Гробу|棺材恐怖|キャスケットホラー|관 공포|Sarghorror|Horreur du cercueil
+e_casket_horror_2|Casket Horror|Arkkukammotus|Horror do Caixão|Ужас в Гробу|棺材恐怖|キャスケットホラー|관 공포|Sarghorror|Terreur du cercueil
+e_casket_horror_3|Meat Logger|Lihametsuri|Madeireiro de Carne|Мясорубка|肉记录器|ミートロガー|고기 로거|Fleischlogger|Bûcheron de viande
+|||||||||
+|||||||||
+e_nightmare_priest_1|Nightmare Priest|Painajaispappi|Sacerdote do Pesadelo|Кошмарный Священник|噩梦神父|ナイトメアプリースト|악몽의 사제|Alptraumpriester|Prêtre cauchemardesque
+e_nightmare_priest_2|Nightmare Priest|Painajaispappi|Sacerdote do Pesadelo|Кошмарный Священник|噩梦神父|ナイトメアプリースト|악몽의 사제|Alptraumpriester|Prêtre du cauchemar
+e_nightmare_priest_3|Hallucinated Baptist|Hallusinoitu baptisti|Batista Alucinado|Баптист с Галлюцинациями|时浸信会|幻覚のバプテスト|환각의 침례교|Halluzinierter Baptist|Baptiseur halluciné
+|||||||||
+|||||||||
+e_cyclops_boss_1|King Rakhul|Kuningas Rakhul|Rei Rakhul|Король Ракхул|拉库尔国王|ラクル王|라쿨 왕|König Rakhul|Roi Rakhul
+e_cyclops_boss_2|King Rakhul|Kuningas Rakhul|Rei Rakhul|Король Ракхул|拉库尔国王|ラクル王|라쿨 왕|König Rakhul|Roi Rakhul
+e_cyclops_boss_3|King Rakhul|Kuningas Rakhul|Rei Rakhul|Король Ракхул|拉库尔国王|ラクル王|라쿨 왕|König Rakhul|Roi Rakhul
+|||||||||
+|||||||||
+e_sung_lee_1|Sung Lee|Sung Lee|Sung Lee|Сун Ли|Sung Lee|Sung Lee|성 리|Sung Lee|Sung Lee
+e_sung_lee_2|General Sung Lee|General Sung Lee|General Sung Lee|Генерал Сун Ли|General Sung Lee|General Sung Lee|장군 성 리|General Sung Lee|Général Sung Lee
+e_sung_lee_3|War God Sung Lee|War God Sung Lee|Sung Lee, Deus da Guerra|Бог Войны Сун Ли|War God Sung Lee|War God Sung Lee||War God Sung Lee|Sung Lee, dieu de la guerre 
+|||||||||
+|||||||||
+e_tundra_hog_1|Tundra Hog|Tundra Hog|Porco da Tundra|Тундровый Боров|Tundra Hog|Tundra Hog|툰드라 멧돼지|Tundra Hog|Porc de la toundra
+e_tundra_hog_2|Mountain Swine|Mountain Swine|Porco da Montanha|Горная Свинья|Mountain Swine|Mountain Swine|산돼지|Mountain Swine|Porc de montagne
+e_tundra_hog_3|Elder Swine|Elder Swine|Porco Ancião|Старшая Свинья|Elder Swine|Elder Swine|장로 돼지|Elder Swine|Porc ancien
+|||||||||
+|||||||||
+e_forest_troll_1|Forest Troll|Forest Troll|Troll da Floresta|Лесной Тролль|Forest Troll|Forest Troll||Forest Troll|Troll des forêts
+e_forest_troll_2|Swamp Roamer|Swamp Roamer|Peregrino do Pântano|Бродяга по болотам|Swamp Roamer|Swamp Roamer|늪지 떠돌이|Swamp Roamer|Rôdeur des marais
+e_forest_troll_3|Mold Eater|Mold Eater|Comedor de Mofo|Пожиратель плесени|Mold Eater|Mold Eater|곰팡이 먹는 자|Mold Eater|Mangeur de moisissures
+|||||||||
+|||||||||
+e_mountain_troll_1|Mountain Troll|Mountain Troll|Troll da Montanha|Горный Тролль|Mountain Troll|Mountain Troll||Mountain Troll|Troll de montagne
+e_mountain_troll_2|Cave Troll|Cave Troll|Troll da Caverna|Пещерный Тролль|Cave Troll|Cave Troll|동굴 트롤|Cave Troll|Troll des cavernes
+e_mountain_troll_3|Troll Colossus|Troll Colossus|Troll Colossal|Колосс - Тролль|Troll Colossus|Troll Colossus|트롤 콜로서스|Troll Colossus|Troll colossal
+|||||||||
+|||||||||
+e_corrupted_viking_1|Corrupted Viking||Viking Corrompido|Развращенный Викинг|||타락한 바이킹||Viking corrompu
+e_corrupted_viking_2|Lost Drengr||Drengr Perdido|Потерянный Дренгр|||잃어버린 드랭그르||Draugr perdu
+e_corrupted_viking_3|Fallen Berserker||Berserker Caído|Павший Берсеркер|||타락한 광전사||Berserker déchu
+|||||||||
+|||||||||
+e_naga_warrior_1|Naga Warrior||Guerreiro Naga|Воин - Нага|||||Guerrier serpent
+e_naga_warrior_2|Reptilian Champion||Campeão Reptiliano|Чемпион среди Рептилий|||파충류 챔피언||Reptilien champion
+e_naga_warrior_3|Slither Commander||Comandante Escorregadio|Скользящий Командир|||슬리더 지휘관||Commandant rampant
+|||||||||
+|||||||||
+e_valhalla_bear_1|Raging Bear||Urso Furioso|Разъяренный Медведь|||분노한 곰||Ours enragé
+e_valhalla_bear_2|Mauling Bear||Urso Espancador|Растерзанный Медведь|||||Ours massacreur
+e_valhalla_bear_3|Alpha Bear||Urso Alfa|Альфа - Медведь|||알파 베어||Ours Alpha
+|||||||||
+|||||||||
+e_naga_archer_1|Naga Archer||Arqueiro Naga|Нага Лучник|||||Archer serpent
+e_naga_archer_2|Reptilian Bowman||Arqueiro Reptiliano|Лучник - Рептилия|||파충류 궁수||Traqueur reptilien
+e_naga_archer_3|Slither Marksman||Arqueiro Escorregadio|Скользящий Стрелок|||미끄러운 명사수||Tireur d'élite rampant
+|||||||||
+|||||||||
+[ancient enemies]|||||||||
+e_ancient_golem_1|Ancient Golem||Golem Ancião|Древний Голем|||고대 골렘||Golem antique
+e_ancient_golem_2|Ancient Golem||Golem Ancião|Древний Голем|||고대 골렘||Golem antique
+e_ancient_golem_3|Ancient Golem||Golem Ancião|Древний Голем|||고대 골렘||Golem antique
+|||||||||
+|||||||||
+e_ancient_skeleton_1|Ancient Skeleton||Esqueleto Ancião|Древний Скелет|||고대 해골||Squelette antique
+e_ancient_skeleton_2|Ancient Skeleton||Esqueleto Ancião|Древний Скелет|||고대 해골||Squelette antique
+e_ancient_skeleton_3|Ancient Skeleton||Esqueleto Ancião|Древний Скелет|||고대 해골||Squelette antique
+|||||||||
+|||||||||
+e_ancient_spider_1|Ancient Spider||Aranha Anciã|Древний Паук|||고대 거미||Araignée antique
+e_ancient_spider_2|Ancient Spider||Aranha Anciã|Древний Паук|||고대 거미||Araignée antique
+e_ancient_spider_3|Ancient Spider||Aranha Anciã|Древний Паук|||고대 거미||Araignée antique
+|||||||||
+|||||||||
+e_ancient_zombie_1|Ancient Zombie||Zumbi Ancião|Древний Зомби|||고대 좀비||Zombie antique
+e_ancient_zombie_2|Ancient Zombie||Zumbi Ancião|Древний Зомби|||고대 좀비||Zombie antique
+e_ancient_zombie_3|Ancient Zombie||Zumbi Ancião|Древний Зомби|||고대 좀비||Zombie antique
+|||||||||
+|||||||||
+e_orc_warrior_1|Orc Warrior||Orc Guerreiro|Орк - Воин|||오크 전사||Guerrier orque
+e_orc_warrior_2|Grunt Champion||Campeão do Grunhido|Пехотинец - Чемпион|||그런트 챔피언||Grognard champion 
+e_orc_warrior_3|Warchief||Chefe Guerreiro|Вождь|||대족장||Chef de guerre
+|||||||||
+|||||||||
+e_orc_hunter_1|Orc Hunter||Orc Caçador|Охотник на Орков|||오크 사냥꾼||Chasseur orc
+e_orc_hunter_2|Boulderer||Pedregulho|Боулдерер|||||Lanceur de roche
+e_orc_hunter_3|Stone Slinger||Arremessador de Pedras|Метатель Камней|||||Frondeur de pierre
+|||||||||
+|||||||||
+e_alien_melee_1|Alien Grunt||Grunhido Alien|Инопланетное Ворчание|||에일리언 그런트||Extraterrestre grognard
+e_alien_melee_2|Astral Commander||Comandante Astral|Астральный Командир|||||Commandant astral
+e_alien_melee_3|Glitch Demon||Falha Demoníaca|Демон - Глюк|||글리치 데몬||Erreur démonique
+|||||||||
+|||||||||
+e_alien_ranged_1|Alien Trooper||Soldado Alienígena|Инопланетный Солдат|||에일리언 병사||Soldat extraterrestre
+e_alien_ranged_2|Vector Marksman||Atirador de Vetor|Векторный Стрелок|||벡터 저격수||Vecteur tireur d'élite
+e_alien_ranged_3|Triggershot||Gatilho|Спусковой крючок|||||Coup de gâchette
+|||||||||
+|||||||||
+e_alien_devourer_1|Unknown Beast||Besta Desconhecida|Неизвестный Зверь|||알 수 없는 야수||Bête inconnue
+e_alien_devourer_2|Fatal Experiment||Experimento Fatal|Фатальный Эксперимент|||치명적인 실험||Expérience funeste
+e_alien_devourer_3|Spectral Malfunction||Defeito Espectral|Спектральная неисправность|||스펙트럴 결함||Dysfonctionnement spectral
+|||||||||
+|||||||||
+e_skeletal_trooper_1|Skeletal Trooper||Soldado Esqueleto|Солдат - Скелет|||해골 병사||Soldat squelettique
+e_skeletal_trooper_2|Bone Commander||Comandante dos Ossos|Костяной Командир|||뼈의 지휘관||Commandant osseux
+e_skeletal_trooper_3|Skeletal Warlord||Esqueleto Senhor da Guerra|Скелетообразный Военачальник|||해골 전쟁 군주||Maître de guerre squelettique
+|||||||||
+|||||||||
+e_skeletal_marksman_1|Skeletal Marksman||Atirador Esqueleto|Стрелок - Скелет|||해골 명사수||Tireur d'élite squelettique
+e_skeletal_marksman_2|Guerilla Ambusher||Emboscador de Guerrilha|Партизанская засада|||게릴라 매복자||Guérillero embusquée
+e_skeletal_marksman_3|Bone Maker||Criador de Ossos|Производитель костей|||뼈 제작자||Créateur d'os
+|||||||||
+|||||||||
+e_grave_ghoul_1|Grave Ghoul||Ghoul da Cova|Могильный Упырь|||묘지의 구울||Goule sépulcrale
+e_grave_ghoul_2|Lurking Horror||Horror Espreitador|Затаившийся Ужас|||잠복하는 공포||Horreur tapie
+e_grave_ghoul_3|Frenzied Anomaly||Anomalia Frenética |Безумная Аномалия|||||Anomalie frénétique
+|||||||||
+|||||||||
+e_essence_of_agony_1|Essence of Agony||Essência da Agonia|Сущность Агонии|||고통의 정수||Essence de l'agonie
+e_essence_of_agony_2|Agonizing Anomaly||Anomalia Agonizante|Мучительная Аномалия|||고통스러운 이상현상||Anomalie agonisante
+e_essence_of_agony_3|Burdened Agony||Agonia Sobrecarregada|Отягощенная Агония|||고통의 짐||Agonie accablante
+|||||||||
+|||||||||
+e_disturbed_spirit_1|Disturbed Soul||Alma Perturbada|Потревоженная Душа|||혼란스러운 영혼||Âme perturbée
+e_disturbed_spirit_2|Distorted Anima||Ânima Distorcido|Искаженная Анима|||왜곡된 아니마||Esprit déformé
+e_disturbed_spirit_3|Fractured Ego||Ego Fraturado|Раздробленное Эго|||분열된 자아||Ego fracturé
+|||||||||
+|||||||||
+e_chilling_marksman_1|Chilling Marksman||Atirador Gelado|Пугающий Стрелок|||냉혹한 저격수||Tireur d'élite glacé
+e_chilling_marksman_2|Frosted Sharpshooter||Atirador da Geada|Матовый Снайпер|||서리 저격수||Tireur d'élite givré
+e_chilling_marksman_3|White Death||Morte Branca|Белая Смерть|||백색 죽음||Mort blanche
+|||||||||
+|||||||||
+e_ogre_warrior_1|Ogre Warrior||Ogro Guerreiro|Воин - Людоед|||오우거 전사||Guerrier ogre
+e_ogre_warrior_2|Ogre Champion||Ogro Campeão|Чемпион - Людоед|||||Champion ogre
+e_ogre_warrior_3|Battle Warchief||Chefe Guerreiro de Batalha|Боевой Вождь|||전투 족장||Chef de bataille
+|||||||||
+|||||||||
+e_amazon_spear_1|Amazon Warrior||Guerreira Amazona|Воин - Амазонка|||아마존 전사||Guerrière amazone
+e_amazon_spear_2|Tribal Commander||Comandante Tribal|Командир племени|||부족 사령관||Commandant de tribu
+e_amazon_spear_3|Amazon Matriarch||Amazona Matriarca|Матриарх Амазонки|||아마존 여족장||Matriarche
+|||||||||
+|||||||||
+e_unholy_monstrosity_1|Unholy Monstrosity||Monstruosidade Profana|Нечестивое Чудовище|||불경한 괴물||Monstruosité impie
+e_unholy_monstrosity_2|Malevolent Anomaly||Anomalia Malevolente|Зловещая Аномалия|||악의적 이상 현상||Anomalie malveillante
+e_unholy_monstrosity_3|Satanic Mutation||Mutação Satânica|Сатанинская Мутация|||사탄의 변이||Mutation satanique
+|||||||||
+|||||||||
+e_chaos_guard_1|Chaos Guardian||Guardião do Caos|Страж Хаоса|||혼돈의 수호자||Gardien du chaos
+e_chaos_guard_2|Chaos Corruptor||Corruptor do Caos|Разрушитель Хаоса|||||Corrupteur du chaos
+e_chaos_guard_3|Darkness Brute||Bruto da Escuridão|Тьма Грубая|||어둠의 야수||Brute des ténèbres
+|||||||||
+|||||||||
+e_chaos_mage_1|Chaos Mage||Mago do Caos|Маг Хаоса|||혼돈의 마법사||Mage du chaos
+e_chaos_mage_2|Mage of Darkness||Mago da Escuridão|Маг Тьмы|||어둠의 마법사||Mage des ténèbres
+e_chaos_mage_3|Corrupting Archmage||Arquimago Corrompido|Развращающий Архимаг|||타락한 대마법사||Archi-mage corrupteur
+|||||||||
+|||||||||
+e_crypt_skeleton_1|Fallen Trooper||Soldado Caído|Упавший Солдат|||쓰러진 병사||Soldat déchu
+e_crypt_skeleton_2|Moldy Champion||Campeão Mofado|Заплесневелый Чемпион|||||Champion moisi
+e_crypt_skeleton_3|Fallen Legion||Legião Caída|Павший Легион|||몰락한 군단||Légionnaire déchu
+|||||||||
+|||||||||
+e_crypt_archer_1|Fallen Archer||Arqueiro Caído|Павший Лучник|||타락한 궁수||Archer déchu
+e_crypt_archer_2|Moldy Legion||Legião Mofada|Заплесневелый Легион|||||Légionnaire moisi
+e_crypt_archer_3|Decaying Marksman||Arqueiro Decadente|Разлагающийся Стрелок|||부패한 명사수||Tireur d'élite en décomposition
+|||||||||
+|||||||||
+e_crypt_doll_1|Crypt Doll||Boneca da Cripta|Кукла из Склепа|||지하 묘지 인형||Poupée de la crypte
+e_crypt_doll_2|Devil Child||Filho do Diabo|Дьявольское Дитя|||악마의 아이||Enfant du diable
+e_crypt_doll_3|Demon's Offspring||Filho do Demônio|Отпрыск демона|||악마의 자식||Progéniture du démon
+|||||||||
+|||||||||
+e_scavenger_1|Cave Scavenger||Carniceiro da Caverna|Пещерный Падальщик|||동굴 청소부||Charognard des cavernes
+e_scavenger_2|Mine Lurker||Espreitador da Mina|Мой Подстерегающий|||광산 잠복자||Rôdeur de mine
+e_scavenger_3|Swamp Lurker||Espreitador do Pântano|Болотный Прячущийся|||늪지 잠복자||Rôdeur des marais
+|||||||||
+|||||||||
+e_cyclops_ghost_1|Ghostly Brute||Bruto Fantasmagórico|Призрачная Скотина|||||Brute fantôme
+e_cyclops_ghost_2|Haunting Giant||Gigante Assombrado|Преследующий Гигант|||유령 거인||Géant hanté
+e_cyclops_ghost_3|Spectral Colossus||Colosso Espectral|Призрачный Колосс|||스펙트럴 콜로서스||Colosse spectral
+|||||||||
+|||||||||
+e_zombie_pyramid_1|Rotten Corpse||Corpo Podre|Сгнивший Труп|||썩은 시체||Cadavre pourri
+e_zombie_pyramid_2|Tomb Horror||Horror da Tumba|Ужас Гробницы|||무덤의 공포||Horreur de la tombe
+e_zombie_pyramid_3|Rotting Nightmare||Pesadelo Apodrecido|Гниющий Кошмар|||썩어가는 악몽||Putréfacteur de cauchemar
+|||||||||
+|||||||||
+e_royal_skeleton_1|Skeleton Knight||Cavaleiro Esqueleto|Рыцарь - Скелет|||해골 기사||Chevalier squelette
+e_royal_skeleton_2|Royal Guard||Guarda Real|Королевская гвардия|||왕실 근위대||Garde royale
+e_royal_skeleton_3|Undead Commander||Comandante Morto-vivo|Командир Нежити|||언데드 사령관||Commandant mort-vivant
+|||||||||
+|||||||||
+e_legion_skeleton_1|Skeletal Legion||Legião Esquelética|Легион Скелетов|||해골 군단||Légionnaire squelettique
+e_legion_skeleton_2|Rattling Bonelord||Rei dos Ossos Barulhento|Гремящий Повелитель Костей|||덜그럭거리는 뼈의 군주||Chef des os cliquetant
+e_legion_skeleton_3|Hulking Skullster||Crânio Pesado|Неуклюжий Скулстер|||거대한 해골||Sculpteur de crânes
+|||||||||
+e_royal_archer_1|Rattling Archer||Arqueiro Barulhento|Грохочущий Лучник|||덜컹거리는 궁수||Archer cliquetant
+e_royal_archer_2|Royal Arrowskull||Arqueiro Real|Королевский Череп Стрелы|||왕실 화살머리||Lance-crânes royal
+e_royal_archer_3|King's Skullguard||Guarda Esquelética do Rei|Королевский страж черепа|||왕의 해골 경비대||Garde-crânes royal
+|||||||||
+e_legion_archer_1|Legion Marksman||Arqueiro da Legião|Стрелок Легиона|||군단 저격수||Tireur d'élite de la Légion
+e_legion_archer_2|Hulking Archer||Arqueiro Pesado|Неуклюжий Лучник|||거대한 궁수||Archer de Hulking
+e_legion_archer_3|Bony Deadshot||Ossudo Tiro-certo|Костлявый Дэдшот|||해골 명사수||Tireur d'élite osseux
+|||||||||
+e_fearsEssence_1|Fear’s Essence||Essência do Medo|Сущность страха|||공포의 정수||Essence de la peur
+e_fearsEssence_2|Spectral Harbringer||Arauto Espectral|Призрачный Преследователь|||스펙트럴 하브링어||Annonciateur spectral
+e_fearsEssence_3|Reaper of Seven Sins||Ceifador dos Sete Pecados|Жнец семи грехов|||일곱 죄악의 수확자||Faucheur des sept péchés
+|||||||||
+e_lurkingShadow_1|Lurking Shadow||Sombra Espreitante|Притаившаяся Тень|||잠복하는 그림자||Ombre tapie
+e_lurkingShadow_2|Eclipse Assassin||Assassino do Eclipse|Убийца из Затмения|||일식 암살자||Assassin de l'éclipse
+e_lurkingShadow_3|Shade of Eternal Night||Sombra da Noite Eterna|Тень Вечной ночи|||영원한 밤의 그림자||Ombre de la nuit éternelle
+|||||||||
+e_maskOfTerror_1|Mask of Terror||Máscara do Terror|Маска ужаса|||공포의 가면||Masque de terreur
+e_maskOfTerror_2|Visage of the Damned||Rosto dos Condenados|Облик Проклятого|||||Visage des damnés
+e_maskOfTerror_3|Cursed Veil of Torment||Véu Amaldiçoado da Tormenta|Проклятая Завеса Мучений|||저주의 고통의 장막||Voile maudit du supplice
+|||||||||
+e_shadowLegion_1|Shadow Legion||Legião das Sombras|Теневой Легион|||그림자 군단||Légionnaire de l'ombre
+e_shadowLegion_2|Dreadlord of Shadows||Senhor do Medo Sombrio|Повелитель Ужаса Теней|||어둠의 공포 군주||Seigneur des ombres
+e_shadowLegion_3|Souldbound Shade||Sombra Vinculada à Alma|Бездушная Тень|||영혼에 속박된 그림자||Ombre liée à l'âme
+|||||||||
+e_lurkingHorror_1|Lurking Horror||Horror Espreitador|Затаившийся Ужас|||잠복하는 공포||Horreur tapie
+e_lurkingHorror_2|Cauflax Horror||Horror de Cauflax|Кошмар из Кауфлакса|||카우플락스의 공포||Horreur de Cauflax
+e_lurkingHorror_3|Rotting Tombwalker||Caminhante Podre da Tumba|Гниющий Могильщик|||썩어가는 무덤걸이||Marcheur de tombeau pourri
+|||||||||
+e_rottingMummy_1|Rotting Mummy||Múmia Apodrecida|Гниющая Мумия|||||Momie pourrie
+e_rottingMummy_2|Decaying Offspring||Filho Apodrecido|Разлагающееся Потомство|||부패한 자손||Rejeton en décomposition
+e_rottingMummy_3|Defiling Carcass||Carcaça Contaminada|Осквернение Туши|||||Carcasse souillée
+|||||||||
+e_tombWarrior_1|Tomb Warrior||Guerreiro da Tumba|Могильный Воин|||묘지 전사||Guerrier de la tombe
+e_tombWarrior_2|Cauflax Guard||Guarda de Cauflax|Защита из Кауфлакса|||카우플락스 경비||Garde de Cauflax
+e_tombWarrior_3|Cursed Commander||Comandante Amaldiçoado|Проклятый Командир|||저주받은 지휘관||Commandant maudit
+|||||||||
+e_scorchingArcher_1|Scorching Archer||Arqueiro Abrasador|Обжигающий Лучник|||불타는 궁수||Archer brûlant
+e_scorchingArcher_2|Fleshmelter||Derrete-carne|Плавильщик плоти|||살점 녹이는 자||Fondeur de chair
+e_scorchingArcher_3|Spellburned Marksman||Arqueiro Enfeitiçado|Обожженный Заклинаниями Стрелок|||주문에 불탄 명사수||Tireur d'élite brûlé par la magie
+|||||||||
+e_darkKnight_1|Dark Knight||Cavaleiro das Trevas|Темный Рыцарь|||다크 나이트||Chevalier noir
+e_darkKnight_2|Unholy Templar||Templário Profano|Нечестивый Тамплиер|||불경한 성전사||Templier impie
+e_darkKnight_3|Reanimated Knight||Cavaleiro Reanimado|Оживший Рыцарь|||재생된 기사||Chevalier réanimé
+|||||||||
+e_fearsEmbodiment_1|Fear’s Embodiment||Personificação do Medo|Воплощение страха|||두려움의 구현||Incarnation de la peur
+e_fearsEmbodiment_2|Faces of Destruction||Faces da Destruição|Грани разрушения|||파괴의 얼굴||Visages de la destruction
+e_fearsEmbodiment_3|Doomsday Prophecy||Profecia do Apocalipse|Пророчество О Конце Света|||종말의 예언||Prophétie du jugement dernier
+|||||||||
+e_paganPreacher_1|Pagan Preacher||Pregador Pagão|Языческий проповедник|||이교도 설교자||Prédicateur païen
+e_paganPreacher_2|Exalted Priest||Padre Exaltado|Возвышенный Священник|||고귀한 사제||Prêtre exalté
+e_paganPreacher_3|Fallen Saint||Santo Caído|Падший Святой|||타락한 성인||Saint déchu
+|||||||||
+e_sacrilegiousLegion_1|Sacrilegious Legion||Legião do Sacrilégio|Святотатственный Легион|||신성모독 군단||Légionnaire profane
+e_sacrilegiousLegion_2|Keeper of Blasphemy||Guarda da Blasfêmia|Хранитель Богохульства|||신성모독의 수호자||Gardien du blasphème
+e_sacrilegiousLegion_3|Brimstone Commander||Comandante Brimstone|"Командир "" Бримстоуна """|||브림스톤 사령관||Commandant Brimmstone
+|||||||||
+e_spiderCritter_1|Spider Critter||Criatura Aracnídea|Паучья Тварь|||거미 생물||Araignée
+e_spiderCritter_2|Spider Critter||Criatura Aracnídea|Паучья Тварь|||거미 생물||Araignée
+e_spiderCritter_3|Spider Critter||Criatura Aracnídea|Паучья Тварь|||거미 생물||Araignée
+|||||||||
+e_helheimSpider_1|Helheim Arachnid||Aracnídeo de Helheim|Паукообразный из Хельхейма|||헬하임 거미||Arachnide de Helheim
+e_helheimSpider_2|Helheim Arachnid||Aracnídeo de Helheim|Паукообразный из Хельхейма|||헬하임 거미류||Arachnide de Helheim
+e_helheimSpider_3|Helheim Arachnid||Aracnídeo de Helheim|Паукообразный из Хельхейма|||헬하임 거미||Arachnide de Helheim
+|||||||||
+e_corruptedArcher_1|Corrupted Archer||Arqueiro Corrompido|Испорченный Лучник|||타락한 궁수||Archer corrompu
+e_corruptedArcher_2|Freljord Marksman||Atirador de Freljord|Стрелок из Фрельйорда|||프렐요드 명사수||Franc-tireur de Freljord
+e_corruptedArcher_3|Frostbitten Sharpshooter||Atirador Queimado pelo Frio|Обмороженный Снайпер|||동상에 걸린 저격수||Tireur d'élite mordu par le gel
+|||||||||
+e_tribalDoll_1|Tribal Doll||Boneca Tribal|Племенная Кукла|||부족 인형||Poupée tribale
+e_tribalDoll_2|Voodoo Lurker||Espreitador Voodoo|Скрывающийся Вудуист|||부두 잠복자||Rôdeur vaudou
+e_tribalDoll_3|Tikitaki||Tikitaki|Тикитаки|||||Tikitaki
+|||||||||
+e_harpy_1|Harpy||Harpia|Гарпия|||하피||Harpie
+e_harpy_2|Wind Gusher||Propagadora de Ventos|Поток ветра|||바람 분출기||Hurl'vent
+e_harpy_3|Furyclaw||Garra Furiosa|Фурийная Лапка|||분노의 발톱||Furie griffue
+|||||||||
+e_mechPirate_1|Mech Pirate||Pirata Mech|Механический Пират|||메카 해적||Mécha pirate
+e_mechPirate_2|Dreadnaut||Temerário|Дредноут|||드레드노트||Effroi-telot
+e_mechPirate_3|Ironcut Trooper||Tropa Corta-ferro|Солдат с Железными Зубами|||철절단 병사||Équipage coupe-fer
+|||||||||
+e_mechGunner_1|Flintlock Gunner||Artilheiro de Pederneira|Стрелок с кремневым ружьем|||플린트락 건너||Tireur à la carabine à silex
+e_mechGunner_2|Blazecannoner||Canhoneiro Ardente|Канонир Пламени|||화염포병||Canonnier à flamme
+e_mechGunner_3|Gunsworn Sharpshooter||Atirador de Elite Armado|Закаленный в Стрельбе Снайпер|||총기 전문가 저격수||Tireur d'élite armé
+|||||||||
+e_valhallaBear_1|Grizzlepaw Bruin||Urso Pardo Machão|Синяк из Сизолапки|||그리즐포 브루인||Bruin patte de grizzly
+e_valhallaBear_2|Freljord Usant||Urso de Freljord|Freljord Usant|||프렐요드 우산트||Usant des grands froids
+e_valhallaBear_3|Raging Ursus||Urso Enfurecido|Разъяренный Урсус|||||Ursus enragé
+|||||||||
+e_crab_1|Clawlasher||Garra-chicote||||클로래셔||
+e_crab_2|Coralcrusher||Esmaga-coral||||산호파괴자||
+e_crab_3|Razorshell||Concha-lâmina||||칼날조개||
+|||||||||
+e_valhallaWraith_1|Wraith||Fantasma ||||망령||
+e_valhallaWraith_2|Helheim Corruptor||Corruptor de Helheim||||헬하임 타락자||
+e_valhallaWraith_3|Soulfeaster||Come-almas||||영혼포식자||
+|||||||||
+e_bogMushroom_1|Shroomer||Cogumelinho||||슈루머||
+e_bogMushroom_2|Big Cap||Touca Grande||||||
+e_bogMushroom_3|Colossal Shroom||Cogumelo Colossal||||거대한 버섯||
+e_cursedElf_1|Cursed Elf||Elfo Amaldiçoado||||저주받은 엘프||
+e_cursedElf_2|Possessed Elf||Elfo Possuído||||사로잡힌 엘프||
+e_cursedElf_3|Damned Elf||Elfo Maldito||||저주받은 엘프||
+e_bogNagaWarrior_1|Forest Naga||Naga da Floresta||||숲의 나가||
+e_bogNagaWarrior_2|Bogplain Reptile||Réptil do Pantanal||||늪지대 파충류||
+e_bogNagaWarrior_3|Molding Slither||Cobra Descamada||||변형된 슬리더||
+e_bogParasect_1|Shrub Parasite||Parasita de Arbustos||||덤불 기생충||
+e_bogParasect_2|Toxicating Anomaly||Anomalia Tóxica||||독성 이상 현상||
+e_bogParasect_3|Leeching Monstrosity||Monstruosidade Sanguessuga||||흡혈 괴물||
+e_bellCrawler_1|Bell Crawler||Rastejador de Sinos||||벨 크롤러||
+e_bellCrawler_2|Timefueled Crab||Caranguejo Temporal||||시간의 힘을 받은 게||
+e_bellCrawler_3|Timelost Lobster||Lagosta do Tempo Perdido||||잃어버린 시간의 바닷가재||
+e_fallenLegion_1|Fallen Legion||Legião Caída||||몰락 군단||
+e_fallenLegion_2|Commander of Time||Comandante do Tempo||||시간의 지휘관||
+e_fallenLegion_3|Void General||General do Vazio||||공허의 장군||
+e_fallenMage_1|Tickering Magi||Mago Tique-taque||||||
+e_fallenMage_2|Timeless Mystic||Místico Atemporal||||시간을 초월한 신비주의자||
+e_fallenMage_3|Horizon Seeker||Buscador do Horizonte||||지평선 탐색자||
+|||||||||
+e_abyssalHatredCultist_1|Abyssal Hatred Cultist||Cultista do Ódio Abissal||||심연의 증오 광신도||
+e_abyssalHatredCultist_2|Malevolent Zealot||Fanático Malevolente||||||
+e_abyssalHatredCultist_3|High Cultist of the Abyss||Grande Cultista do Abismo||||심연의 고위 제사장||
+|||||||||
+e_hatredcladRattlebone_1|Hatredclad Rattlebone Warrior||Guerreiro Hatredclad Rattlebone||||증오로 뒤덮인 래틀본 전사||
+e_hatredcladRattlebone_2|Dreadforged Warrior of Malice||Guerreiro da Malícia Terrorforjado||||악의의 공포대장||
+e_hatredcladRattlebone_3|Vengeance Legionnaire||Legionário da Vingança||||복수의 군단병||
+|||||||||
+e_shadowborneWraith_1|Shadowborne Wraith of Hatred||Espectral Sombrio do Ódio||||증오의 그림자 망령||
+e_shadowborneWraith_2|Umbral Specter||Espectro Umbral||||어둠의 유령||
+e_shadowborneWraith_3|Harbringer of Wrath||Mensageiro da Ira||||||
+|||||||||
+e_vengefulSentinel_1|Vengeful Sentinel||Sentinela Vingativo||||복수심에 불타는 파수병||
+e_vengefulSentinel_2|Horned Guardian||Guardião Chifrudo||||뿔 달린 수호자||
+e_vengefulSentinel_3|Hateforged Colossus||Colosso Forjado do Ódio||||증오로 벼려진 거대 골렘||
+|||||||||
+e_wrathshotBoneMarksman_1|Wrathshot Bone Marksman||Atirador Esqueleto||||분노의 뼈 저격수||
+e_wrathshotBoneMarksman_2|Cursed Spine Archer||Arqueiro da Espinha Maldita||||||
+e_wrathshotBoneMarksman_3|Necrostorm Arbalest||Arbalete da Tempestade Necrótica||||네크로스톰 석궁||
+|||||||||
+e_demonZealot_1|Demon Zealot||Fanático Demoníaco|Демон - Фанатик|||악마 광신자||Zélote démoniaque
+spell_demonZealot_0|Demonic Charge||Carga Demoníaca|Демоническая Атака|||악마의 돌진||Charge démoniaque
+spell_demonZealot_1|Wandering Soul||Alma Errante|Блуждающая Душа|||방황하는 영혼||Âme errante
+spell_demonZealot_2|Soul Harvest||Colheita das Almas|Сбор урожая Души|||영혼 수확||Moisson d'âmes
+|||||||||
+e_akora_1|Akora||Akora|Акора|||||Akora
+spell_akora_0|Demonic Wrappings||Invólucros Demoníacos|Демонические Оболочки|||악마의 포장지||Enveloppements démoniaques
+spell_akora_1|Grasp of Horror||Garra do Horror|Объятие ужаса|||공포의 손아귀||Emprise de l'horreur
+spell_akora_2|Siphon Essence||Sifão da Essência|Сифонная Эссенция|||정수 흡수||Siphon d'essence
+|||||||||
+e_akoraWrapping_3|Demonic Wrapping||Invólucro Demoníaco|Демоническая Оболочка|||악마의 포장||Enveloppe démoniaque
+e_agonyOfAkora_3|Agony of Akora||Agonia de Akora|Агония Акоры|||아코라의 고통||Agonie d'Akora
+|||||||||
+e_jadeStoneGazer_1|Jadestone Gazer||Observador de Pedra de Jade|Пристальный Взгляд на Нефритовый камень|||비취석 응시자||Chercheur de jade
+spell_jadeStoneGazer_0|Jadestone Roots||Raízes de Pedra de Jade|Корни из Нефритового камня|||비취석 뿌리||Racines de pierre de jade
+spell_jadeStoneGazer_1|Stone Guards||Guardiões de Pedra|Каменные Стражи|||석상 수호자||Garde de pierre
+spell_jadeStoneGazer_2|Deadly Gaze||Olhar Mortal|Смертоносный Взгляд|||치명적인 시선||Regard mortel
+|||||||||
+e_blackStoneDefender_1|Blackstone Defender||Defensor de Pedra Negra|Защитник Блэкстоуна|||블랙스톤 수호자||Défenseur de la pierre noire
+|||||||||
+e_redBeard_1|Red Beard||Barba Vermelha|Рыжая Борода|||빨간 수염||Barbe rouge
+spell_redBeard_0|Anchor Strike||Acerto de Âncora|Якорный удар|||앵커 스트라이크||Frappe d'ancre
+spell_redBeard_1|Bomb Barrage||Barragem de Bombas|Шквал бомб|||폭탄 소나기||Barrage de bombes
+spell_redBeard_2|Shiver Me Timbers||Me Arrepia as Pernas|Сотрясите Мои Бревна|||나를 놀라게 해||Frissons
+|||||||||
+e_grimbone_1|Grimbone|Grimbone|Grimbone|Гримбон|Grimbone|Grimbone|Grimbone|Grimbone|Grimbone
+|||||||||
+e_puppetQueen_1|Puppet Queen||Rainha das Marionetes||||인형 여왕||
+spell_puppetQueen_0|Rain of Judgement||Chuva do Julgamento||||심판의 비||
+spell_puppetQueen_1|Time of Reckoning||Hora do Ajuste de Contas||||심판의 시간||
+spell_puppetQueen_2|Showtime||Hora do Show||||쇼타임||
+|||||||||
+e_sirUngar_3|Sir Ungar||Sr Ungar||||운가 경||
+e_archBishopSimon_3|Arch Bishop Simon||Arcebispo Simon||||대주교 사이먼||
+e_manCrusher_3|MANCRUSHER||ESMAGAHOMEM||||||
+e_gardenColossus_3|Garden Colossus||Colosso do Jardim||||정원의 거상||
+e_helgromBrute_3|Helgrom Brute||Bruto de Helgrom||||헬그롬의 난폭자||
+e_helgromChieftain_3|Helgrom Chieftain||Cacique de Helgrom||||헬그롬 족장||
+e_soulPillar_3|Soul Pillar||||||소울 필러||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+e_satan_left_hand_2|Satan’s Left Hand||Mão Esquerda de Satã|Левая Рука Сатаны|||사탄의 왼손||Main gauche de Satan
+e_satan_right_hand_2|Satan’s Right Hand||Mão Direita de Satã|Правая рука сатаны|||사탄의 오른손||Main gauche de Satan
+|||||||||
+e_meviusBall_3|Chain of Mevius||Correntes de Mevius|Цепь Мевиуса|||메비우스의 사슬||Chaîne de Mevius
+e_wanderingSoul_3|Wandering Soul||Alma Errante|Блуждающая Душа|||방황하는 영혼||Âme errante
+|||||||||
+|||||||||
+[special_enemies]|||||||||
+e_commander_albert_3|Commander Albert||Comandante Albert|Коммандер Альберт|||사령관 알버트||Commandant Albert
+e_forgemaster_3|Forge Master||Mestre da Forja|Мастер Кузницы|||대장장이 장인||Maître de forge
+e_archWizardAntero_3|Arch Wizard Antero||Arquimago Antero|Верховный Волшебник Антеро|||대마법사 안테로||Sorcier suprême Antero
+e_huginn_3|Huginn||Huginn|Обнимаю|||||Hugin
+e_muninn_3|Muninn||Muninn|Мунинн|||||Munin
+e_forsakenHarvester_3|Forsaken Harvester||Colhedor Caído||||버려진 수확자||
+e_colossalPumpkin_3|Colossal Pumpkin||Abóbora Colossal||||거대한 호박||
+e_undeadMiner_3|Undead Miner||Mineiro Morto-vivo||||언데드 광부||
+e_nugget_3|Nugget||Nugget||||||
+e_amShaegar_3|Amshaegar||Amshaegar||||||
+e_damienChain_3|Soul Chain||Corrente da Alma||||영혼 사슬||
+e_yoshiMiyamoto_3|Yoshi Miyamoto||Yoshi Miyamoto||||Yoshi Miyamoto||
+|||||||||
+[quest enemies]|||||||||
+e_scorchwood_3|Scorchwood||Madeira Chamuscada|Выжженное Дерево|||불타는 나무||Bois brûlé
+e_fragrat_3|Fragrat||Fragrat|Ароматизатор|||||Fragrat
+e_evil_pumpkin_1|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||||Citrouille difforme
+e_evil_pumpkin_2|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||||Citrouille difforme
+e_evil_pumpkin_3|Malformed Pumpkin||Abóbora Malformada|Уродливая Тыква|||||Citrouille difforme
+e_collector_of_bones_3|Collector of Bones||Colecionador de Ossos|Собиратель костей|||뼈 수집가||Collectionneur d'os
+e_crusher_3|Crusher||Esmagador|Дробилка|||분쇄기||Écraseur
+e_trasher_3|Trasher||Debulhador|Трэшер|||트래셔||Broyeur
+e_kingTuna_3|King Tuna||Rei Atum|Королевский Тунец|||킹 튜나||Roi Thon
+e_carnage_3|Carnage||Carnificina|Кровавая бойня|||대학살||Carnage
+e_questSquishy_3|Squishy the Delicious||Squishy, o Delicioso||||맛있는 스퀴시||
+e_questXor_3|Xor||Xor||||||
+e_questNjal_3|Njal||Njal||||||
+|||||||||
+[unique_enemies]|||||||||
+lord_cliffer|Lord Cliffer|Lordi Cliffer|Senhor Cliffer|Лорд Клиффер|克利夫勋爵|クリファー卿|로드 클리퍼|Lord Klipper|Seigneur Cliffer
+mega_rat|Mega Rat|Megarotta|Mega Rato|Мега-Крыса|巨型鼠|メガドブネズミ|거대 쥐|Megaratte|Méga rat
+shadow_lantern|Shadow Lantern|Varjolyhty|Lanterna das Sombras|Теневой Фонарь|影子灯笼|シャドーランタン|그림자 등불|Schattenlaterne|Lanterne d'ombre
+valkyrie|Corrupted Valkyrie|Korruptoitunut Valkyrie|Valquíria Corrompida|Испорченная Валькирия|Corrupted Valkyrie|Corrupted Valkyrie|타락한 발키리|Corrupted Valkyrie|Valkyrie corrompue
+e_krampus_1|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus||Satan Klaus|Pire Noël
+unique_odinhuginn|Huginn|Huginn|Huginn|Обнимаю|Huginn|Huginn|Huginn|Huginn|Hugin
+unique_odinMuninn|Muninn|Muninn|Muninn|Мунинн|Muninn|Muninn|Muninn|Muninn|Munin
+odin_pillar_enemy|Corrupted Beacon|Corrupted Beacon|Sinalizador Corrompido|Поврежденный Маяк|Corrupted Beacon|Corrupted Beacon||Corrupted Beacon|Balise corrompue
+enraged_odin|Enraged Odin|Enraged Odin|Odin Enfurecido|Разгневанный Один|Enraged Odin|Enraged Odin|분노한 오딘|Enraged Odin|Odin enragé
+unique_squishyTheDelicious|Squishy the Delicious|Squishy the Delicious|Squishy, o Delicioso|Мягкий и Вкусный|Squishy the Delicious|Squishy the Delicious|맛있는 스퀴시|Squishy the Delicious|Squishy le délicieux
+odin_skeleton|Skeleton Guardian|Skeleton Guardian|Guardião Esqueleto|Скелет - Страж|Skeleton Guardian|Skeleton Guardian|해골 수호자|Skeleton Guardian|Gardien Squelette
+|||||||||
+|||||||||
+[Common spells]|||||||||
+spell_arrow_volley|Arrow Volley|Nuolisarja|Voleio de Flechas|Залп Стрел|箭齐射|アローボレー|화살표 발리|Pfeilsalve|Volée de flèches
+spell_blood_surge|Blood Surge|Veriaalto|Surto de Sangue|Прилив крови|热血澎湃|ブラッドサージ|혈액 서지|Blutschwall|Vague de sang
+spell_bonerang|Bonerang|Luurangi|Ossorangue|Костяной язык|骨自食其果|骨ブーメラン|뼈 부메랑|Knochen Bumerang|Os'rang
+spell_bullet_hell|Bullet Hell|Luotihelvetti|Inferno de Balas|Адская пуля|子弹地狱|弾丸地獄|총알 지옥|Kugel Hölle|Enfer de balles
+spell_charge|Charge|Rynnäkkö|Arrancada|Заряжать|突击|暴行|폭행|Angriff|Charge
+spell_dash|Dash|Syöksy|Avanço|Тире|跳水|飛び込み|돌진|Stürzen|Renversement
+spell_death_coil|Death Coil|Kuolema Kela|Espiral da Morte|Смертельная Катушка|死亡缠绕|死コイル|죽음 코일|Tod Spule|Bobine de la mort
+spell_double_bonerang|Double Bonerang|Tuplaluurangi|Ossorangue Duplo|Двойной Костяной Стержень|双骨自食其果|ダブル骨ブーメラン|더블 뼈 부메랑|Doppel Knochen Bumerang|Double Os'rang
+spell_flames_of_agony|Flames of Agony|Tuskan Liekit|Chamas da Agonia|Пламя агонии|痛苦的火焰|苦しみの炎|고통의 불길|Flammen der Qual|Flammes de l'agonie
+spell_glacial_nova|Glacial Nova|Hyinen Nova|Nova Glacial|Ледниковая Нова|冰川新星|氷河の新星|빙하 노바|Gletscher Nova|Nova glaciale
+spell_hammer_smash|Hammer Smash|Vasarajysäys|Golpe de Martelo|Удар Молотка|粉碎锤|ハンマースマッシュ|망치 스매시|Hammer zerschlagen|Coup de marteau
+spell_haunting|Haunting|Kummittelu|Assombrar|Преследующий|令人难以忘怀|忘れられません|유령|Spuk|Hantise
+spell_judgement|Judgement|Tuomio|Juízo|Суждение|判断|判定|심판|Beurteilung|Jugement
+spell_meteor_strike|Meteor Strike|Meteori-isku|Chuva de Meteoros|Удар метеорита|流星罢工|流星のストライキ|유성 파업|Meteoriteneinschlag|Frappe du météore
+spell_nether_bolts|Nether Bolts|Manalan Nuolet|Disparos Inferiores|Нижние Болты|幽冥螺栓|地獄のボルト|지옥 볼트|Nether Bolzen|Traits du Néant
+spell_pounce|Pounce|Syöksy|Atacar|Наброситься|猛扑|急襲|급습|Zuschlagen|Rebond
+spell_shockwave|Shockwave|Paineaalto|Onda de Choque|Ударная волна|激波|衝撃波|충격파|Druckwelle|Onde de choc
+spell_shoot|Shoot|Laukaus|Disparo|Стрелять|射击|ショット|사격|Schuss|Tir
+spell_spider_webs|Spider Webs|Hämähäkin verkot|Teias de Aranha|Паутина|蜘蛛网|クモの巣|거미줄|Spinnennetze|Toiles d'araignée
+spell_spike_balls|Spike Balls|Piikkipallot|Bolas Espinhentas|Шипастые Шарики|秒杀球|スパイクボール|스파이크 공|Spike Bälle|Boules d'épines
+spell_spit|Spit|Sylkäisy|Cuspir|Плюнуть|吐|串|침|Spucke|Cracher
+spell_stomp|Stomp|Tallonta|Pisar|Топать|重踏|ストンプ|스톰프|Stampfen|Pilonnage
+spell_molten_explosion|Molten Explosion|Sula Räjähdys|Explosão Fundida|Взрыв расплавленного вещества|熔融爆炸|溶融爆発|용융 폭발|Geschmolzene Explosion|Explosion en fusion
+spell_soul_eruption|Soul Eruption|Sielupurkaus|Erupção da Alma|Извержение души|灵魂爆发|魂の噴火|영혼의 분화|Seele Eruption|Éruption de l'âme
+spell_soul_pillar|Soul Pillar||||||||
+spell_decay|Decay|Lahoaminen|Decair|Распад|腐烂|腐る|부패|Zerfallen|Décrépitude
+[Unique spells]|||||||||
+spell_abomination_1|Burp|Röyhtäisy|Arrotar|Отрыжка|饱嗝儿|げっぷ|트림하다|Rülpsen|Blurp
+spell_akrea_0|Lightning Scissors|Salamasakset|Tesoura Relâmpago|Ножницы -Молнии|闪电剪刀|雷はさみ|번개 가위|Blitz Schere|Ciseaux fulgurants
+spell_akrea_1|Lightning Twister|Salamapyörremyrsky|Tornado Relâmpago|Молниеносный Смерч|快速旋流分离器|フラッシュサイクロン|플래시 사이클론|Blitz twister|Tornade de foudre
+spell_akrea_2|Lightning Ambush|Salamaväijytys|Emboscada Relâmpago|Молниеносная Засада|闪电伏击|雷待ち伏せ|번개 매복|Blitzüberfall|Embuscade foudroyante
+spell_ball_0|Grasp|Kouraisu|Aperto|Схватывание|把握|把握|파악|Griff|Saisie
+spell_beketamun_0|Sand Tornado|Hiekkatornado|Tornado de Areia|Песчаный Торнадо|沙龙卷风|砂の竜巻|모래 토네이도|Sandtornado|Tornade de sable
+spell_beketamun_1|Sandstorm|Hiekkamyrsky|Tempestade de Areia|Песчаная Буря|沙暴|砂嵐|모래 폭풍|Sandsturm|Tempête de sable
+spell_beketamun_2|Tombstone|Hautakivi|Lápide|Надгробная плита|墓碑|墓石|묘비|Grabstein|Pierre tombale
+spell_beketamun_3|Ra's Wrath|Ran Raivo|Ira de Ra|Гнев Ра|镭的愤怒|ラーの怒り|라스 분노|Ra Zorn|Colère de Râ
+spell_bride_1|Haunt|Kummittelu|Assombrar|Преследовать|出没|たまり場|나타나다|Verfolgen|Chasse
+spell_burning_legion_0|Fire Volley|Liekkisarja|Voleio de Fogo|Огневой залп|火齐射|火ボレー|화재 발리|Feuersalve|Volée de feu
+spell_casket_horror_0|Subconscious Screams|Alitajuiset Huudot|Gritos Subconscientes|Подсознательные Крики|潜意识里的尖叫声|潜在意識悲鳴|잠재 의식 비명|Unbewussten Schreit|Cris inconscients
+spell_cave_slime_0|Dig|Kaivautuminen|Cavar|Копать|挖|掘る|파기|Graben|Creuser
+spell_colossal_anomaly_0|Siblings|Sisarukset|Irmãos|Братья и сестры|兄弟姐妹|兄弟|형제 자매|Geschwister|Frères et sœurs
+spell_colossal_anomaly_1|Laser Grid|Laaseriverkko|Grade de Laser|Лазерная решетка|激光网|レーザーグリッド|레이저 그리드|Lasergitter|Grille laser
+spell_cube_0|Chomp|Ahminta|Mastigar|Чавкать|暴食|飽食|대식|Völlerei|Gloutonnerie
+spell_dahzul_0|Spiky Ball|Piikikäs Pallo|Bola de Espinhos|Колючий Шар|刺球|先端のとがったボール|뾰족한 볼|Stacheligen Kugel|Boule à pointes
+spell_dahzul_1|Explosive Balls|Räjähtävät Pallot|Bolas Explosivas|Взрывоопасные Шарики|爆炸球|爆発的なボール|폭발 공|Explosive Kugeln|Boules explosives
+spell_dahzul_2|Flies|Kärpäset|Moscas|Мухи|苍蝇|ハエ|파리|Fliegen|Mouches
+spell_dahzul_3|Spiky Spin|Piikikäs Pyörähdys|Giro Espinhento|Колючий Спин|高低不平旋|先端のとがったスピン|뾰족한 스핀|Stachelig Spin|Rotation épineuse
+spell_damien_1|Detach Head|Pää Irti|Desanexar Cabeça|Отсоединить головку|分离头|デタッチヘッド|분리 헤드|Kopf Abnehmen|Décapitation
+spell_damien_head_1|Blink|Välähdys|Avanço|Моргнуть|眨|点滅|못 본 체하다|Blinken|Clignotement
+spell_damien_head_2|Black Hole|Musta Aukko|Buraco Negro|Черная Дыра|黑洞|ブラックホール|블랙홀|Schwarzes Loch|Trou noir
+spell_demon_god_0|Pure Destruction|Puhdas Tuho|Destruição Pura|Чистое Разрушение|纯粹的破坏|純粋な破壊|순수한 파괴|Reine Zerstörung|Destruction pure
+spell_demon_god_1|Pool of Filth|Saastan Allas|Piscina de Sujeira|Лужа грязи|污物池|汚物のプール|오물의 풀|Pool von Unrat|Bassin d'immondices
+spell_desert_beast_0|Stone Fall|Kiviputous|Caída de Pedra|Падение камня|秋石|石の秋|돌 가을|Steinschlag|Chute de pierres
+spell_desert_skeleton_0|Hook|Koukku|Gancho|Крюк|钩|針|훅|Haken|Crochet
+spell_dragon_whelp_0|Fireball|Tulipallo|Bola de Fogo|Огненный Шар|火球|火の玉|화구|Feuerkugel|Boule de feu
+spell_dust_feeder_0|Tentacle|Lonkero|Tentáculo|Щупальце|触手|触手|촉수|Tentakel|Tentacule
+spell_earth_elemental_0|Earth's Wrath|Maan Raivo|Ira da Terra|Гнев Земли|地球的愤怒|地球の怒り|지구 분노|Zorn der Erde|Colère de la terre
+spell_ent_boss_0|Entangling Roots|Sotkeutuvat Juuret|Raízes Emaranhantes|Запутывающие Корни|纠缠根须|交絡ルーツ|휘감는 뿌리|Wurzeln Verwickeln|Racines enchevêtrées
+spell_ent_boss_1|Bee Swarm|Ampiaisparvi|Enxame de Abelhas|Пчелиный Рой|蜂群|蜂の群れ|꿀벌 떼|Bienenschwarm|Essaim d'abeilles
+spell_ent_boss_2|Poison Shrooms|Myrkkysienet|Cogumelos Venenosos|Ядовитые Грибы|毒蘑菇|毒キノコ|독 버섯|Giftpilze|Champignons vénéneux
+spell_ent_boss_3|Roots|Juuret|Raízes|Корни|根|ルーツ|뿌리|Wurzeln|Racines
+spell_eye_1|Laser Beams|Lasersäteet|Raios Laser|Лазерные лучи|激光束|レーザービーム|레이저 빔|Laserstrahlen|Faisceaux laser
+spell_eye_2|Spiral|Spiraali|Espiral|Спираль|螺旋|螺旋|나선|Spiral|Spirale
+spell_flesh_plant_0|Slingshot|Ritsa|Estilingue|Рогатка|弹弓|パチンコ|고무총|Schleuder|Fronde
+spell_flesh_plant_add_0|Homing Shot|Itseohjautuva Laukaus|Tiro Teleguiado|Самонаводящийся Выстрел|归巢拍|ホーミングショット|유도 샷|Homing Schuss|Tir de précision
+spell_flesh_plant_add_1|Flesh Sprout|Lihaverso|Broto de Carne|Ростки Мякоти|肉芽|肉の芽|육체의 새싹|Fleisch Sprießen|Germe de chair
+spell_frost_dragon_0|Frostbolts|Pakkasnuolet|Tiros Gelados|Ледяные молнии|霜螺栓|霜ボルト|서리 볼트|Frostbolzen|Eclats de givre
+spell_frost_skeleton_0|Whirlwind|Pyörremyrsky|Redemoinho|Вихрь|旋风|旋風|선풍|Wirbelwind|Tourbillon
+spell_fungus_monster_0|Toxic Spread|Myrkyn Levitys|Propagação Tóxica|Токсичное Распространение|毒性蔓延|毒性スプレッド|독성 확산|Toxische Verbreitung|Propagation toxique
+spell_gaben_0|Steam Sale|Steam-ale|Promoção da Steam|Продажа Steam|蒸汽销售|スチーム販売|스팀 판매|Dampf-Verkauf|Promo Steam
+spell_gabriel_0|Swift Death|Äkkikuolema|Morte Rápida|Быстрая Смерть|速死|迅速な死|신속한 죽음|Schneller Tod|Mort rapide
+spell_gabriel_1|Total Annihilation|Totaalinen Tuho|Total Aniquilação|Полное Уничтожение|横扫千军|合計消滅|총 소멸|Totale Vernichtung|Anéantissement total
+spell_gabriel_2|Soul Prison||Prisão das Almas|Тюрьма для Души|||영혼의 감옥||Prison d'âme
+spell_gargorath_1|Flame Split|Liekkilohkaisu|Chama Dividida|Раскол Пламени|火焰分裂|難スプリット|화염 분할|Flammenspaltung|Division de la flamme
+spell_gargorath_2|Fire Trap|Liekkiansa|Armadilha de Fogo|Огненная Ловушка|火焰陷阱|フレームトラップ|화염 함정|Flammenfalle|Piège de feu
+spell_gargorath_3|Flamescythe|Liekkiviikate|Foice de Fogo|Огненный Шар|火焰镰刀|炎の鎌|불꽃 낫|Flammensense|Faux de flamme
+spell_garguth_0|Acid Apocalypse|Hapokas Maailmanloppu|Apocalipse Ácido|Кислотный Апокалипсис|酸启示|酸黙示録|산 종말|Saure Apokalypse|Apocalypse acide
+spell_garguth_1|Crisscross|Ristiin Rastiin|Cruzado|Крест - накрест|交错|十文字|십자|Kreuz und Quer|Sillonner
+spell_gnarler_0|Carve|Veisto|Esculpir|Вырезать|雕刻|彫ります|새기다|Schnitzen|Sculpter
+spell_goblin_0|Poison Mushroom|Myrkkysieni|Cogumelo Venenoso|Ядовитый Гриб|毒蘑菇|毒キノコ|독 버섯|Giftpilz|Champignon vénéneux
+spell_goblin_bomber_0|Bomb Throw|Pomminheitto|Arremesso de Bomba|Бросок бомбы|投掷炸弹|爆弾投げ|폭탄 던져|Bombenwurf|Lancer de bombe
+spell_goblin_bomber_1|Bombardment|Pommitus|Bombardeio|Бомбардировка|轰击|砲撃|충격|Bombardierung|Bombardement
+spell_green_slime_0|Acid Spit|Happosylkäisy|Cuspe Ácido|Кислотный Плевок|吐酸|酸串|산 침|Säure Spucken|Crachat acide
+spell_gurag_0|Earthen Fury|Maan Raivo|Fúria Terrestre|Земная Ярость|土愤怒|土の怒り|흙 분노|Irdene Wut|Fureur terrestre
+spell_gurag_1|Avalanche|Lumivyöry|Avalanche|Лавина|雪崩|雪崩|눈사태|Lawine|Avalanche
+spell_gurag_2|Totems|Toteemit|Totens|Тотемы|图腾|トーテム|토템|Totems|Totems
+spell_gurag_3|Grow|Kasvu|Crescer|Расти|增长|育ちます|성장|Wachsen|Croissance
+spell_gurag_minion_0|Seek Master|Hakeudu Mestariin|Procurar Mestre|Ищи Мастера|求高手|マスターを求めます|마스터를 추구|Suchen Meister|Maître chercheur
+spell_hayro_0|Fire Pulse|Liekkipulssi|Pulso de Fogo|Огненный Импульс|火脉冲|発射パルス|화재 펄스|Feuerpuls|Impulsion de feu
+spell_hayro_1|Flame Pillars|Liekkipilarit|Pilares de Fogo|Столбы Пламени|火焰支柱|炎の柱|화염 기둥|Flammen Pfeilern|Piliers de flammes
+spell_hayro_2|Flame Charge|Liekkirynnäkkö|Arrancada de Fogo|Огненный заряд|火焰充|炎料|불꽃 충전|Flammenladung|Charge de flammes
+spell_hayro_3|Soar|Liito|Planar|Парить|翱翔|舞い上がります|날기|Steigen|Montée
+spell_headless_butler_0|Cursed Hand|Kirottu Käsi|Mão Maldita|Проклятая Рука|被诅咒的手|呪われた手|저주받은 손|Verfluchte Hand|Main maudite
+spell_hell_beast_0|Brimstone|Tulikivi|Enxofre|Серный камень|硫磺|ブリムストーン|유황|Schwefel|Soufre
+spell_hollow_stump_0|Forest Wrath|Metsän Raivo|Ira da Floresta|Лесной Гнев|森林之怒|森林怒り|숲의 분노|Wald Zorn|Colère de la forêt
+spell_hololo_0|Suck|Imu|Sucção|Сосать|吸力|サクション|흡입관|Saugwirkung|Aspiration
+spell_horror_0|Spirit Circle|Henkikehä|Círculo Espiritual|Круг Духов|精神圈|精神円|영 원|Geist Kreis|Cercle des esprits
+spell_ice_elemental_0|Tundra Spikes|Tundrapiikit|Espetos da Tundra|Шипы Тундры|苔原尖峰|ツンドラスパイク|툰드라 스파이크|Tundra-Spikes|Pointes de toundra
+spell_ice_elemental_1|Ice Ball|Jääpallo|Bola de Gelo|Ледяной Шар|冰球|アイスボール|얼음 공|Eiskugel|Boule de glace
+spell_igor_2|Ice Shards|Jääsirpaleet|Fragmentos de Gelo|Осколки льда|冰碎片|氷の破片|얼음 파편|Eissplitter|Éclats de glace
+spell_igor_3|Freeze Power|Pakkasmahti|Poder de Congelamento|Мощность замораживания|冻结动力|凍結パワー|동결 전원|Gefrierleistung|Pouvoir de gel
+spell_illuminated_stone_0|Arcane Orbs|Mystiset Ympyrät|Orbes Arcanos|Тайные Сферы|神秘宝珠|難解なオーブ|비밀의 오브|Arkanen Kugeln|Orbes arcaniques
+spell_james_0|Cursed Hands|Kirotut Kädet|Mãos Malditas|Проклятые Руки|被诅咒的手|呪われた手|저주받은 손|Verfluchte Hände|Mains maudites
+spell_jormungar_0|Impaling Spikes|Seivästävät Piikit|Espetos|Пронзающие Шипы|尖刺刺穿|スパイクを突き刺します|스파이크를 찌르는|Spieße Aufspießen|Pointes d'empalement
+spell_kalcifer_1|Nether Rain|Manalan Sade|Chuva Inferior|Подземный Дождь|幽冥的雨|地獄の雨|지옥의 비|Regen von Nether|Pluie du Néant
+spell_kalcifer_2|Pentagrams|Pentagrammit|Pentagramas|Пентаграммы|五角星|五芒星|망성|Pentagramme|Pentagrammes
+spell_kalcifer_3|Portals|Portaalit|Portais|Порталы|门户|ポータル|포털|Portale|Portails
+spell_karp_king_0|Balls of Doom|Tuhopallero|Bolas da Ruína|Шары судьбы|厄运的球|運命のボール|운명의 공|Kugeln des Schicksals|Boules de la destinée
+spell_karp_king_1|Mega Beam|Megasäde|Mega Feixe|Мега-Луч|巨型梁|メガビーム|메가 빔|Mega Strahl|Méga-faisceau
+spell_karp_king_2|Zen Pools|Zen-lammet|Piscinas Zen|Дзен - бассейны|禅宗池|禅プール|선 수영장|Zen-Pools|Bassin zen
+spell_kaw_0|Splash|Roiske|Respingo|Всплеск|溅|スプラッシュ|튀김|Spritzen|Éclaboussures
+spell_kaw_2|Fish Swarm|Kalaparvi|Enxame de Peixes|Рыбий Рой|鱼群|魚の群れ|물고기 떼|Fischschwarm|Essaim de poissons
+spell_kayako_0|Spin|Pyörähdys|Rodopiar|Вращение|纺|スピン|회전|Rotieren|Rotation
+spell_kayako_1|Copy|Kopio|Copiar|Копировать|复制|コピー|부|Kopieren|Copie
+spell_kayako_2|Explosion|Räjähdys|Explosão|Взрыв|爆炸|爆発|폭발|Explosion|Explosion
+spell_kayo_1|Skull Trap|Kalloansa|Armadilha de Crânios|Ловушка для Черепа|骷髅陷阱|頭蓋骨トラップ|두개골 트랩|Schädel Falle|Piège à crâne
+spell_kayo_2|Skull Ambush|Kalloväijytys|Emboscada de Crânios|Засада с Черепом|骷髅伏击|頭蓋骨の待ち伏せ|두개골 매복|Schädel Hinterhalt|Embuscade de crâne
+spell_khorga_0|Meat Hook|Lihakoukku|Gancho de Carne|Мясной Крючок|肉钩|肉用フック|고기 후크|Fleischhaken|Crochet à viande
+spell_khorga_2|Horn|Sarvi|Chifre|Рог|喇叭|ホーン|뿔|Horn|Corne
+spell_king_steve_0|Stick Hook|Tikkukoukku|Gancho de Pau|Палочный Крючок|粘钩|スティックフック|스틱 후크|Stockhaken|Crochet-bâton
+spell_king_steve_1|Super Horny|Superkiima|Super Excitado|Супер Возбужденный|超级角质|スーパー角質|슈퍼 흥분|Saugeilen|Super excité
+spell_king_steve_2|Big Fart|Iso Pieru|Grande Peido|Большой Пердун|大屁|大きなおなら|큰 방귀|Großer Furz|Gros pet
+spell_kungo_0|Earthquake|Maanjäristys|Terremoto|Землетрясение|地震|地震|지진|Erdbeben|Tremblement de terre
+spell_kungo_1|Ball Form|Pallomuoto|Forma de Bola|Форма шара|球形式|ボール形|볼 형태|Kugelform|Forme de balle
+spell_kungo_2|Earth Spikes|Maapiikit|Espetos de Terra|Шипы Земли|接地钉|地球スパイク|지구 스파이크|Erdspießen|Pointes de terre
+spell_levitating_horror_0|Soul Bolt|Sielunuoli|Disparo de Almas|Болт Души|灵魂螺栓|魂のボルト|영혼 볼트|Seele Schraube|L'éclair d'âme
+spell_levitating_horror_1|Soul Storm|Sielumyrsky|Tempestade de Almas|Буря в Душе|灵魂风暴|魂の嵐|영혼의 폭풍|Seele Sturm|Tempête d'âme
+spell_mask_0|Devouring Charge|Ahmaisurynnäkkö|Carga Devoradora|Всепожирающий Заряд|吞食费|電荷をむさぼり食います|요금을 삼키려는 듯|Verschlingt Ladung|Charge dévorante
+spell_mevius_0|Nightmare Dimension||Dimensão do Pesadelo||||||
+spell_mevius_1|Forces of Void||Forças do Vazio||||공허의 세력||
+spell_mevius_2|Wall of Agony||Parede de Agonia||||고통의 벽||
+spell_mevius_3|Unimmune|Epäimmuuni|Imune|Неиммунный|非免疫|非免疫|비 면역|Nicht-Immun|Non immunisé
+spell_monk_0|Jump Kick|Hyppypotku|Voadora|Прыжок Ударом ноги|跳踢|ジャンプキック|점프 킥|Sprungtritt|Coup de pied sauté
+spell_mummy_0|Grave Digger|Haudankaivaja|Coveiro|Могильщик|掘墓人|グレイヴ・ディガー|무덤 파는 인부|Grabräuber|Fossoyeur
+spell_mummy_anubis_0|Chain Lightning|Ketjusalama|Cadeia de Raios|Цепная Молния|闪电链|チェインライトニング|연쇄 번개|Kettenblitz|Chaîne d'éclairs
+spell_nightmare_ooze_0|Transform|Muuntautuminen|Transformar|Трансформировать|转变|変換|변환|Verwandeln|Transformation
+spell_nightmare_priest_0|Blood Ritual|Verirituaali|Ritual de Sangue|Ритуал Крови|血仪式|血の儀式|혈액 의식|Blutritual|Rituel de sang
+spell_parasectoid_1|Red Ball of Doom|Punainen Tuhopallero|Bola Vermelha da Ruína|Красный шар судьбы|厄运的红球|運命の赤いボール|운명의 빨간 공|Rote Kugel des Schicksals|Boule rouge du destin
+spell_parasectoid_2|Spawn|Kutsuminen|Convocar|Порождение|召唤|召喚|소환|Beschwörung|Incantation
+spell_parasectoid_3|Blobs|Pallerot|Bolhas|Капли|斑点|しみ|모양|Klecks|Blobs
+spell_parasectoid_4|Remember Remember|Muista Muista|Lembrar Lembrar|Помни , помни|切记切记|覚えて覚えています|기억 기억|Denken Sie Daran Erinnern|Souvenez-vous de ça
+spell_piranha_0|Shadow Step|Varjoaskel|Passo das Sombras|Шаг Тени|暗影步|シャドウステップ|그림자 단계|Schattenschritt|Pas de l'ombre
+spell_pogocho_0|Ricochet|Kimmoke|Ricochetear|Рикошет|跳弹|はねます|스쳐 날다|Abprallen|Rebond
+spell_pogocho_1|Split|Jakautuminen|Divisão|Расколотый|师|除算|분할|Abteilung|Fente
+spell_pogocho_2|Hunger|Nälänhimo|Fome|Голод|饥饿|飢え|굶주림|Hunger|Faim
+spell_pontus_0|Acid Spray|Happoroiske|Spray Ácido|Кислотный Спрей|酸喷|酸スプレー|산 스프레이|Säurespray|Vaporisation acide
+spell_prison_guard_0|Pull|Kiskaisu|Puxar|Тянуть|拉|引く|손잡이|Ziehen|Tirer
+spell_propeller_0|Time Out|Aikalisä|Sem Tempo|Тайм-аут|超时|タイムアウト|타임 아웃|Auszeit|Temps mort
+spell_rift_skeleton_0|Illusion|Illuusio|Ilusão|Иллюзия|错觉|幻想|환각|Illusion|Illusion
+spell_sand_wasp_0|Sting|Pisto|Picada|Жало|刺|刺します|찌르기|Stachel|Piqûre
+spell_satan_0|Spawn Minions|Kätyreiden Kutsu|Convocar Lacaios|Порождать Миньонов|召唤爪牙|召喚手下|소환 부하|Beschwörung Günstlinge|Invocation de minions
+spell_satan_1|Lava Storm|Laavamyrsky|Tempestade de Lava|Лавовый Шторм|熔岩风暴|溶岩の嵐|용암 폭풍|Lava Sturm|Tempête de lave
+spell_satan_2|Wall of Agony|Tuskan muuri|Parede de Agonia|Стена Агонии|痛苦之墙|苦悶の壁|고통의 벽|Mauer der Qual|Mur d'agonie
+spell_satan_hand_0|Rise|Kohoaminen|Ascender|Вставать|上升|上がり|오르기|Erhebt Euch|Levez-vous
+spell_shade_0|Nightmare Head|Painajaispää|Cabeça do Pesadelo|Кошмарная Голова|噩梦团长|悪夢の頭|악몽의 머리|Kopf des Alptraums|Tête de cauchemar
+spell_shadow_anomaly_0|Bat Swarm|Lepakkoparvi|Enxame de Morcegos|Рой летучих мышей|蝙蝠群|コウモリの群れ|박쥐 떼|Schlägerschwarm|Essaim de chauve-souris
+spell_shadow_lantern_0|Heal|Parannus|Curar|Исцелять|愈合|癒します|고치다|Heilen|Guérison
+spell_sir_jonathan_0|Arrow Rampage|Nuolirieha|Alvoroço de Flechas|Неистовство Стрел|箭头横冲直撞|矢印大暴れ|화살표 미쳐|Pfeil Amoklauf|Barrage de flèches
+spell_sir_jonathan_1|Darkness|Pimeys|Escuridão|Тьма|黑暗|闇|어둠|Dunkelheit|Ténèbres
+spell_sir_jonathan_2|Split Arrow|Jakonuoli|Flecha Dividida|Разделенная Стрелка|分裂箭|分割矢印|분할 화살표|Pfeil teilen|Flèche de séparation
+spell_sir_jonathan_3|Bomb Arrows|Pomminuolet|Flechas Explosivas|Бомбовые Стрелы|弹箭|爆弾矢|폭탄 화살표|Bombenpfeile|Flèches de bombardement
+spell_skeleton_mage_0|Skull Circle|Pääkallorinki|Círculo de Caveiras|Круг Черепа|头骨圈|頭蓋骨の輪|두개골의 원|Schädelkreis|Cercle de crânes
+spell_skeleton_mage_1|Glacial Spike|Jääpiikki|Espeto Glacial|Ледниковый Шип|冰川尖刺|氷河のスパイク|빙하 스파이크|Gletscherspitze|Pointes glaciales
+spell_skeleton_mage_2|Charged Bolts|Jännitenuolet|Disparos Carregados|Заряженные Болты|带电螺栓|充電ボルト|충전 볼트|Geladenes Bolzen|Traits chargés
+spell_skeleton_mage_3|Unholy Fire|Epäpyhä Tuli|Fogo Profano|Нечестивый Огонь|邪恶之火|不気味な火|부정한 불|Unheiliges Feuer|Feu impie
+spell_skull_crawler_0|Corrupted Skulls|Korruptiokallot|Caveiras Corrompidas|Испорченные Черепа|损坏的头骨|破損した頭蓋骨|손상된 두개골|Verdorbener Schädel|Crânes corrompus
+spell_spider_0|Jump|Hyppy|Salto|Прыжок|跳|ジャンプ|점프|Sprung|Sauter
+spell_treasure_goblin_0|Vorpal Escape|Hätäpako|Fuga Vorpal|Побег Ворпала|仓促逃生|性急なエスケープ|성급한 탈출|Hastige Flucht|Fuite hâtive
+spell_triangle_0|Pillar|Pilari|Pilar|Столб|柱|柱|기둥|Säule|Pilier
+spell_uber_reaper_1|Pentagram Slam|Pentagrammiläimäys|Golpe Pentagrama|Удар Пентаграммой|五角星满贯|五芒星スラム|오각형 슬램|Pentagramm Zuschlagen|Déchaînement du pentagramme
+spell_uber_reaper_2|Scythe Strike|Viikateisku|Ataque com Foice|Удар Косой|镰刀罢工|鎌ストライキ|낫 파업|Sense Streik|Frappe de la faux
+spell_uber_reaper_3|Shadow Skull|Varjokallo|Caveira das Sombras|Теневой Череп|影子头骨|影の頭蓋骨|그림자 두개골|Schatten Schädel|Crâne d'ombre
+spell_uber_reaper_4|Execution|Teloitus|Execução|Исполнение|执行|実行|실행|Ausführung|Exécution
+spell_uber_reaper_5|Shadow Lantern|Varjolyhty|Lanterna das Sombras|Теневой Фонарь|阴影灯笼|影のランタン|그림자 랜턴|Schatten Laterne|Lanterne d'ombre
+spell_undead_priest_0|Raise the Dead|Kuolleiden Herätys|Levantar dos Mortos|Воскрешать мертвых|使死人复活|死者を生き返らせます|죽은 인상|Weckt Tote|Ressusciter les morts
+spell_wendigo_0|Steel Skin|Teräsnahka|Pele de Ferro|Стальная Обшивка|钢皮|スチールスキン|강철 피부|Stahlhaut|Peau d'acier
+spell_zombie_0|Spike Ball|Piikkipallo|Bola de Espetos|Мяч с Шипом|秒杀球|スパイクボール|스파이크 볼|Spike-Ball|Boule à pics
+spell_zombie_crawler_0|Frenzy|Kiihko|Frenesi|Безумие|热情|情熱|열정|Glut|Frénésie
+spell_claw_attack|Claw Strike|Kynsi-isku|Golpe com Garra|Удар когтем|爪击|クローストライク|클로 스트라이크|Klauenschlag|Coup de griffe
+spell_minions|Reinforcements|Lisäjoukot|Reforços|Подкрепления|钢筋|増援|증원|Verstärkung|Renforts
+spell_raging_charge|Raging Charge|Raivoisa Rynnäkkö|Carga Violenta|Яростный Заряд|狂暴收费|荒れ狂うチャージ|성난 돌격|Rasende Ladung|Charge furieuse
+spell_ground_fissures|Arena Traps|Areenan ansat|Armadilhas de Arena|Ловушки на Арене|竞技场陷阱|アリーナトラップ|아레나 트랩|Arena-Fallen|Pièges d'arène
+spell_ground_slam|Colossal Slam|Valtava Läimäys|Batida Colossal|Колоссальный Удар|大满贯|巨大なスラム|어마 어마한 슬램|Kolossaler Slam|Coup de poing colossal
+spell_end_game|End Game|End Game|Fim de Jogo|Окончание игры|End Game|ゲーム終了|최종 단계|Spiel beenden|Assez jouer
+spell_sung_lee_0|Lethal Smash|Lethal Smash|Choque Letal|Смертельный Удар|Lethal Smash|Lethal Smash|치명적인 강타|Lethal Smash|Fracas mortel
+spell_sung_lee_1|Earthquake|Earthquake|Terremoto|Землетрясение|Earthquake|Earthquake|지진|Earthquake|Tremblement de terre
+spell_sung_lee_2|Rain of Doom|Rain of Doom|Chuva de Ruína|Роковой дождь|Rain of Doom|Rain of Doom|파멸의 비|Rain of Doom|Pluie de malheur
+spell_sung_lee_3|Summon Weapon|Summon Weapon|Convocar Arma|Оружие Призыва|Summon Weapon|Summon Weapon|소환 무기|Summon Weapon|Invocation d'arme
+spell_anubis_0|Meteor Shower|Meteor Shower|Chuva de Meteoros|Метеоритный дождь|Meteor Shower|Meteor Shower|유성우|Meteor Shower|Pluie de météores
+spell_anubis_1|Wall of Thunder|Wall of Thunder|Parede do Trovão|Стена грома|Wall of Thunder|Wall of Thunder|천둥의 벽|Wall of Thunder|Mur de tonnerre
+spell_anubis_2|Wrath of Anubis|Wrath of Anubis|Fúria de Anúbis|Гнев Анубиса|Wrath of Anubis|Wrath of Anubis||Wrath of Anubis|Colère d'Anubis
+spell_corrupted_viking_0|Axe Throw||Arremesso de Machado|Бросок топора|||도끼 던지기||Lancer de hache
+spell_naga_warrior_0|Explosive Charge||Carga Explosiva|Заряд взрывчатого вещества|||폭발물 장치||Charge explosive
+spell_naga_archer_0|Scatter Bombs||Bombas Espalhadas|Разбрасывать бомбы|||||Dispersion des bombes
+spell_orc_warrior_0|Battle Rage||Fúria de Batalha|Боевая Ярость|||전투 격노||Rage de la bataille
+spell_orc_hunter_0|Bouncing Stones||Pedras Saltitantes|Прыгающие Камни|||튕기는 돌||Pierres rebondissantes
+spell_sheep_king_0|Balls of Wool||Bolas de Lã|Клубки шерсти|||||Boules de laine
+spell_sheep_king_1|Sweet Death||Doce Morte|Сладкая Смерть|||||Mort douce
+spell_sheep_king_2|Baaaaaa||Baaaaaaa|Бааааааа|||||Bééééééé !
+spell_unholy_monstrosity_0|Blood Gush||Esguicho de Sangue|Хлынувшая кровь|||피가 솟구침||Jaillissement de sang
+spell_amazon_spear_0|Javelin Throw||Arremesso de Dardo|Метание копья|||창 던지기||Lancer de javelot
+spell_alien_melee_0|Alienation||Alienação|Отчуждение|||소외||Aliénation
+spell_alien_ranged_0|Barrage||Barragem|Шквал|||탄막||Barrage
+spell_samurai_skeleton_0|Katanoshi||Katanoshi|Катаноши|||||Katanoshi
+spell_samurai_archer_0|Storm Arrows||Flechas da Tempestade|Штормовые Стрелы|||||Flèches d'orage
+spell_ghost_skeleton_0|Spectral Army||Exército Espectral|Призрачная Армия|||유령 군대||Armée spectrale
+spell_ghost_skeleton_archer_0|Crippling Chains||Correntes Deformadas|Калечащие Цепи|||절단의 사슬||Chaînes incapacitantes
+spell_skeletal_trooper_0|Ambush||Emboscada|Засада|||매복||Embuscade
+spell_skeletal_trooper_1|Giant Slash||Corte Gigante|Гигантский Разрез|||||Tranche géante
+spell_skeletal_marksman_0|Empowered Shot||Tiro Fortalecido|Мощный Выстрел|||강화된 사격||Tir puissant
+spell_chilling_marksman_0|Marked for Frost||Marcado para Congelar|Помечен для Заморозков|||냉기로 표시됨||Marqué par le gel
+spell_forest_troll_0|Ground Pound||Batida no Chão|Измельченный Фунт|||그라운드 파운드||Martelage
+spell_bear_0|Maul||Malho|Молот|||||Massacre
+spell_link_blood|Link of Blood||Ligação de Sangue|Кровная связь|||혈연의 연결||Lien de sang
+|||||||||
+[valhalla bosses]|||||||||
+spell_odin_phase_1_0|Lightning Burn||Queimadura Elétrica|Молния Горит|||번개 화상||Brûlure de foudre
+spell_odin_phase_1_1|Shadow Orb||Orbe das Sombras|Теневой Шар|||그림자 구슬||Orbe d'ombre
+spell_odin_phase_1_2|Storm Break||Tempestade|Штормовой Перерыв|||폭풍 돌파||Brise-tempête
+spell_odin_phase_1_3|Summon Raven||Invocar Corvo|Призови Ворона|||레이번 소환||Invocation du corbeau
+spell_muninn_0|Corrupted Memories||Memórias Corrompidas|Искаженные Воспоминания|||손상된 기억||Souvenirs troublés
+spell_huginn_0|Fearful Thoughts||Pensamentos de Medo|Страшные Мысли|||두려운 생각들||Pensées effrayantes
+|||||||||
+spell_odin_phase_2_0|Ground Smash||Esmagamento|Удар о землю|||||Impact
+spell_odin_phase_2_1|Meteor Shower||Chuva de Meteoros|Метеоритный дождь|||유성우||Pluie de météorites
+spell_odin_phase_2_2|Shove||Empurrão|Толкать|||||Poussée
+spell_odin_phase_2_3|Engulfing Flames||Engolir em Chamas|Всепоглощающее Пламя|||모든 것을 삼키는 불길||Flammes dévorantes
+spell_odin_phase_2_4|Last Stand||Última Posição|Последняя битва|||||Dernier combat
+spell_odin_phase_2_pillar_0|Repel Wave||Onda Repelente|Отталкивающая Волна|||||Vague de répulsion
+|||||||||
+spell_grimbone_0|Summon Undead||Invocar Mortos|Призывать Нежить|||언데드 소환||Invocation de morts-vivants
+spell_grimbone_1|Pincer Charge||Avanço de Pinça|Заряд клещей|||협공 돌격||Charge tenaille
+spell_grimbone_2|Shadow Cleave||Cutilação das Sombras|Расщепление Тени|||||Purge de l'ombre
+spell_grimbone_3|Grim Fissure||Fissura Sombria|Мрачная Трещина|||어두운 균열||Fissure sinistre
+|||||||||
+spell_valkyrie_0|Impale||Empalar|Пронзить|||||Empaler
+spell_valkyrie_1|Unholy Blast||Explosão Profana|Нечестивый Взрыв|||불경한 폭발||Souffle impie
+spell_valkyrie_2|Call of the Valkyrie||Chamado das Valquírias|Зов валькирии|||발키리의 부름||Appel de la Valkyrie
+spell_valkyrie_3|Rain of Spears||Chuva de Lanças|Дождь из Копий|||창의 비||Pluie de lances
+|||||||||
+spell_jormungandr_0|Serpent's Surge|Käärmeen Syöksy|||||뱀의 돌진||
+spell_jormungandr_1|Shadow Barrage|Varjovuodatus|||||그림자 연발||
+spell_jormungandr_2|Seismic Screech|Seisminen Kirskahdus|||||지진의 비명||
+spell_jormungandr_3|Call of the World Serpent|Käärmeen Kutsu|||||세계 뱀의 부름||
+spell_jormungandr_4|Final Breath|Viimeinen Henkäys|||||최후의 숨결||
+|||||||||
+[Affixes]|||||||||
+champion|Champion||Campeão ||||챔피언||
+championFractal|Fractal||Fractal||||프랙탈||
+championRaging|Raging||Furioso||||분노||
+championEnraged|Enraged||Enfurecido||||격노한||
+championHaunted|Haunted||Assombrado||||유령이 나오는||
+championVampiric|Vampiric||Vampírico||||흡혈||
+championFallenAngel|Fallen Angel||Anjo Caído||||타락한 천사||
+championBurstShot|Burst Shot||Tiro em Rajada||||||
+championColossus|Colossus||Colosso ||||거대괴수||
+ancientPossessed|Possessed||Possuído||||빙의됨||
+ancientExtraFast|Extra Fast||Extra-rápido||||초고속||
+ancientExtraStrong|Extra Strong||Extra-forte||||강화된||
+ancientStoneSkin|Stoneskin||Pele de Pedra||||돌가죽||
+ancientColdEnchanted|Cold Enchanted||Encantado pelo Gelo||||냉기의 마법||
+ancientFireEnchanted|Fire Enchanted||Encantado pelo Fogo||||불의 마법||
+ancientLightningEnchanted|Lightning Enchanted||Encantado pelo Raio||||번개 마법 부여||
+ancientMagicResistant|Magic Resistant||Resistente a Magia||||마법 저항||
+ancientManaBurn|Manaburn||Queima-mana||||마나번||
+ancientMultishot|Multishot||Tiro Múltiplo||||다중 사격||
+ancientTreasureGobbler|Treasure Gobbler||Gobbler do Tesouro||||보물 고블러||
+ancientArcanasCurse|Arcana’s Curse||Maldição Arcana||||아르카나의 저주||
+ancientVenomous|Venomous||Venenoso||||독성의||
+ancientPunisher|Punisher||Castigador||||처벌자||
+ancientFallenAngel|Fallen Angel||Anjo Caído||||타락한 천사||
+ancientCommander|Commander||Comandante||||사령관||
+ancientGuardianOfHell|Guardian of Hell||Guardião do Inferno||||지옥의 수호자||
+ancientBloating|Bloating||||||팽창||
+ancientSharpShooter|Sharpshooter||||||명사수||
+ancientPyromaniac|Pyromaniac||||||방화광||
+ancientBerserker|Berserker||||||||
+ancientProximityTangible|Proximity Tangible||||||근접 가시화||
