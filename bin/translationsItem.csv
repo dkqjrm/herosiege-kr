@@ -2406,7 +2406,7 @@ prefix_killing|Killing||Morto||||처치||
 prefix_chilling|Chilling||Esfriado||||서늘한||
 prefix_frozen|Frozen||Congelado||||얼어붙음||
 prefix_coldsnap|Coldsnap||Resfriado||||한파||
-prefix_frostburning|Frostburning||Queima-frio||||서리불꽃||
+prefix_frostburning|Frostburning||Queima-frio||||냉기불꽃||
 prefix_glacial|Glacial||Glacial||||빙하의||
 prefix_melting|Melting||Derretido||||녹는 중||
 prefix_flaming|Flaming||Flamejante||||||
@@ -2754,8 +2754,8 @@ suffix_lavagod|Lava God||Deus da Lava||||용암 신||
 suffix_infernogod|Inferno God||Deus do Inferno||||지옥의 신||
 suffix_hellfiregod|Hellfire God||Deus do Fogo Infernal||||지옥불 신||
 suffix_icegod|Ice God||Deus do Gelo||||얼음 신||
-suffix_frostgod|Frost God||Deus do Congelamento||||서리 신||
-suffix_rimegod|Rime God||Deus da Geada||||서리의 신||
+suffix_frostgod|Frost God||Deus do Congelamento||||냉기 신||
+suffix_rimegod|Rime God||Deus da Geada||||냉기의 신||
 suffix_tundragod|Tundra God||Deus da Tundra||||툰드라 신||
 suffix_glacialgod|Glacial God||Deus Glacial||||빙하의 신||
 suffix_arcanegod|Arcane God||Deus Arcano||||비전의 신||
@@ -2794,9 +2794,9 @@ suffix_brain|Brain||Cérebro||||||
 suffix_illusion|Illusion||Ilusão||||환상||
 suffix_mind|Mind||Mente||||||
 suffix_ice|Ice||Gelo||||얼음||
-suffix_frost|Frost||Congelado||||서리||
+suffix_frost|Frost||Congelado||||냉기||
 suffix_chill|Chill||Resfriado||||냉각||
-suffix_rime|Rime||Geada||||서리||
+suffix_rime|Rime||Geada||||냉기||
 suffix_glacier|Glacier||Geleira||||빙하||
 suffix_fire|Fire||Fogo||||불||
 suffix_flames|Flames||Chamas||||불꽃||
@@ -2893,11 +2893,11 @@ suffix_flamehunger02|Flame Hunger||Fome da Chama||||불꽃의 굶주림||
 suffix_flamehunger03|Flame Hunger||Fome da Chama||||화염의 굶주림||
 suffix_flamehunger04|Flame Hunger||Fome da Chama||||불꽃의 굶주림||
 suffix_flamehunger05|Flame Hunger||Fome da Chama||||불꽃의 갈망||
-suffix_frosthunger01|Frost Hunger||Fome Congelada||||서리의 굶주림||
-suffix_frosthunger02|Frost Hunger||Fome Congelada||||서리의 굶주림||
-suffix_frosthunger03|Frost Hunger||Fome Congelada||||서리의 굶주림||
-suffix_frosthunger04|Frost Hunger||Fome Congelada||||서리의 갈증||
-suffix_frosthunger05|Frost Hunger||Fome Congelada||||서리의 굶주림||
+suffix_frosthunger01|Frost Hunger||Fome Congelada||||냉기의 굶주림||
+suffix_frosthunger02|Frost Hunger||Fome Congelada||||냉기의 굶주림||
+suffix_frosthunger03|Frost Hunger||Fome Congelada||||냉기의 굶주림||
+suffix_frosthunger04|Frost Hunger||Fome Congelada||||냉기의 갈증||
+suffix_frosthunger05|Frost Hunger||Fome Congelada||||냉기의 굶주림||
 suffix_stormhunger01|Storm Hunger||Fome da Tempestade||||폭풍의 갈망||
 suffix_stormhunger02|Storm Hunger||Fome da Tempestade||||폭풍의 굶주림||
 suffix_stormhunger03|Storm Hunger||Fome da Tempestade||||폭풍의 굶주림||

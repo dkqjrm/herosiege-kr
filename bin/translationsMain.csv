@@ -510,7 +510,7 @@ quest_objective|Quest objective|Tehtävä|Objetivo da Missão|Цель квес�
 easter_egg|Shh... It's a secret.|Shh... Se on salaisuus.|Shh... É um segredo.|Тсс... Это секрет.|嘘...它是个秘密。|シーっ...これは秘密です。|쉿... 이건 비밀이야.|Shh... Es ist ein Geheimnis.|Chut... C'est un secret.
 featured|Featured|Esittelyssä|Em destaque|Рекомендуемые|特征|注目の|추천|Vorgestellt|En vedette
 featured_cosmetics|Featured Cosmetics|Esitellyt kosmetiikat|Cosméticos em destaque |Рекомендуемая косметика |特色化妆品 |注目のコスメ |주요 화장품 |Ausgewählte Kosmetika |Cosmétiques en vedette 
-accessories|Accessories|Lisävarusteet|Acessórios|Аксессуары|配件|アクセサリー|액세서리|Zubehör|Accessoires
+accessories|Accessories|Lisävarusteet|Acessórios|Аксессуары|配件|アクセサリー|액세냉기|Zubehör|Accessoires
 items|Items|Esineet|Itens|Предметы|项目|アイテム|아이템|Gegenstände|Objets
 gems|Gems|Jalokivet|Gemas|Драгоценные камни|宝石|宝石|보석|Edelsteine|Pierres précieuses
 locked|Locked|Lukittu|Trancado|Заблокировано|锁着的|ロック済み|잠김|Gesperrt|Verrouillé
@@ -533,7 +533,7 @@ show_locked|Show locked|Näytä lukitut|Mostrar bloqueados|Показать за
 show_all|Show all|Näytä kaikki|Mostrar todos|Показать все|显示全部|すべて表示|모두 표시|Alle anzeigen|Afficher tout
 show_all_skins|Show all skins|Näytä kaikki ulkonäöt|Mostrar todas as skins|Показать все скины|显示所有皮肤|すべてのスキンを表示|모든 스킨 표시|Alle Skins anzeigen|Afficher tous les skins
 wings|Wings|Siivet|Asas|Крылья|翅膀|翼|날개|Flügel|Ailes
-back_accessories|Back Accessories|Selkätarvikkeet|Acessórios Traseiros|Аксессуары для спины|背部配饰|バック アクセサリ|등 액세서리|Rückenzubehör|Accessoires de dos
+back_accessories|Back Accessories|Selkätarvikkeet|Acessórios Traseiros|Аксессуары для спины|背部配饰|バック アクセサリ|등 액세냉기|Rückenzubehör|Accessoires de dos
 buy_gold_token|Buy Gold Token|Osta kultapoletti|Comprar Token de Ouro|Купить золотой жетон|购买金币|ゴールド トークンを購入|골드 토큰 구매|Goldtoken kaufen|Acheter un jeton d'or
 buy_gold_token_long|Would you like to buy a Gold Token for|Haluaisitko ostaa kultapoletin|Você gostaria de comprar um Token de Ouro por|Хотите купить золотой жетон за|您想购买金币吗|ゴールド トークンを購入しますか?|골드 토큰을 다음 가격으로 구매하시겠습니까?|Möchten Sie einen Goldtoken für|Souhaitez-vous acheter un jeton d'or pour
 gold_token|Gold Token|Kultapoletti|Token de Ouro|Золотой жетон|金币|ゴールド トークン|골드 토큰|Goldtoken kaufen?|Jeton d'or
@@ -541,10 +541,10 @@ season_reward_portrait|Portrait|Kuvake|Retrato|Портрет|肖像|ポート�
 season_reward_effect|Player Effect|Pelaajaefekti|Efeito de Jogador|Эффект игрока|玩家效果|プレイヤー エフェクト|플레이어 효과|Spielereffekt|Effet du joueur
 season_reward_wings|Wings|Siivet|Asas|Крылья|翅膀|翼|날개|Flügel|Ailes
 season_reward_portal|Portal Skin|Portaaliulkonäkö|Skin de Portal|Облик портала|传送门皮肤|ポータル スキン|포털 스킨|Portal-Skin|Skin de portail
-season_reward_back|Back Accessory|Selkävaruste|Acessório Traseiro|Аксессуар для спины|背部配饰|バック アクセサリ|등 액세서리|Rückenzubehör|Accessoire de dos
+season_reward_back|Back Accessory|Selkävaruste|Acessório Traseiro|Аксессуар для спины|背部配饰|バック アクセサリ|등 액세냉기|Rückenzubehör|Accessoire de dos
 cursor|Cursor|Kursori|Cursor|Курсор|光标|カーソル|커서|Cursor|Curseur
 subscribe|Subscribe|Tilaa|Inscrever-se|Подписаться|订阅|購読|구독|Abonnieren|S'abonner
-accessory|Accessory|Lisävaruste|Acessório|Аксессуар|配饰|アクセサリ|액세서리|Zubehör|Accessoire
+accessory|Accessory|Lisävaruste|Acessório|Аксессуар|配饰|アクセサリ|액세냉기|Zubehör|Accessoire
 effect|Effect|Efekti|Efeito|Эффект|效果|エフェクト|효과|Effekt|Effet
 trail|Trail|Jälki||След |轨迹 |トレイル |트레일 |Spur |Trail 
 buy_multiple|Buy Multiple||||||여러 개 구매||

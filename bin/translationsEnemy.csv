@@ -32,7 +32,7 @@ e_skeleton_mage_fire_2|Flame Wizard|Liekin Velho|Feiticeiro de Chamas|Волше
 e_skeleton_mage_fire_3|Infernal Mystic|Helvetin Mystikko|Místico Infernal|Адский Мистик|地狱的神秘主义者|地獄の神秘家|지옥 불 신비 주의자|Höllenmystiker|Mystique infernal
 |||||||||
 |||||||||
-e_skeleton_mage_frost_1|Frost Mage|Jää Maagi|Mago de Gelo|Ледяной Маг|冰霜法师|フロストメイジ|서리 마법사|Frostmagier|Mage givré
+e_skeleton_mage_frost_1|Frost Mage|Jää Maagi|Mago de Gelo|Ледяной Маг|冰霜法师|フロストメイジ|냉기 마법사|Frostmagier|Mage givré
 e_skeleton_mage_frost_2|Chilling Occultist|Jäätynyt Okkultisti|Ocultista Arrepiante|Леденящий Душу Оккультист|寒冷的神秘学家|身も凍るオカルティスト|오싹한 오컬 티스트|Chillender Okkultist|Occultiste glaçant
 e_skeleton_mage_frost_3|Permafrozen Pagan|Syväjäätynyt Pakana|Pagão Gélido|Вечнозамороженный Язычник|永久冻土异教徒|永久凍土異教|영구 동결 이교도|Permafrozen Heidnisch|Païen permagelé
 |||||||||
@@ -252,7 +252,7 @@ e_frost_dragon_3|Awoken Frostburn||Queima-Frio Despertado|Разбуженный
 |||||||||
 e_frost_goblin_1|Tundra Goblin|Tundrapeikko|Goblin da Tundra|Тундровый Гоблин|苔原妖精|ツンドラ・ゴブリン|툰드라 고블린|Tundra-Goblin|Gobelin de la toundra
 e_frost_goblin_2|Chilling Tinker|Hyinen näpertelijä|Funileiro Congelado|Леденящий Душу Тинкер|冰霜妖精|チリング・ティンカー|혹한의 땜장이|Eisiger Tüftler|Penseur glacial
-e_frost_goblin_3|Da Frozen Bling|Jäätynyt Blingi|Da Bling Congelado|Замороженные Побрякушки Da|冰霜妖精王|ダ・フローズン・ブリング|서리의 다 블링|Der gefrorene Bling|Bling-bling gelé
+e_frost_goblin_3|Da Frozen Bling|Jäätynyt Blingi|Da Bling Congelado|Замороженные Побрякушки Da|冰霜妖精王|ダ・フローズン・ブリング|냉기의 다 블링|Der gefrorene Bling|Bling-bling gelé
 |||||||||
 |||||||||
 e_ice_elemental_1|Ice Elemental|Jääelementaali|Elemental de Gelo|Элементаль Льда|冰元素|アイス・エレメンタル|결빙 원소|Eis-Elementar|Élémentaire de glace
@@ -267,7 +267,7 @@ e_pyramid_guardian_3|Anubis Worshipper|Anubiksen palvoja|Adorador de Anúbis|П�
 |||||||||
 e_frost_skeleton_1|Frost Legion|Jäätynyt legioonalainen|Legião Congelada|Ледяной Легион|冰霜军团|フロスト軍団|혹한 군단병|Frost-Legion|Légionnaire du givre
 e_frost_skeleton_2|Dark Commander|Tumma komentaja|Comandante Sombrio|Темный Командир|黑暗指挥官|ダーク・コマンダー|암흑 지휘관|Dunkler Kommandant|Commandant des ténèbres
-e_frost_skeleton_3|Frozen Champion|Jäämestari|Campeão Congelado|Замороженный Чемпион|冰霜冠军|凍結のチャンピオン|서리 챔피언|Gefrorener Champion|Champion de glace
+e_frost_skeleton_3|Frozen Champion|Jäämestari|Campeão Congelado|Замороженный Чемпион|冰霜冠军|凍結のチャンピオン|냉기 챔피언|Gefrorener Champion|Champion de glace
 |||||||||
 |||||||||
 e_goblin_devilkin_1|Devilkin|Piru-Peikko|Devilkin|Дьяволкин|小恶魔|小悪魔|악귀|Teufelchen|Diablotin
@@ -509,7 +509,7 @@ e_jonathan_3|Sir Jonathan Lacy|Sir Jonathan Lacy|Sir Jonathan Lacy|Сэр Джо
 |||||||||
 |||||||||
 e_igor_1|Igor|Iigor|Igor|Игорь|伊戈尔|イゴール|이고르|Igor|Igor
-e_igor_2|Igor the Frozen Shaman|Jäätynyt shamaani Iigor|Igor, o Xamã Congelado|Игорь Замороженный Шаман|冰霜巫师伊戈尔|凍結シャーマン・イゴール|서리 주술사 이고르|Igor der gefrorene Schamane|Igor le chaman gelé
+e_igor_2|Igor the Frozen Shaman|Jäätynyt shamaani Iigor|Igor, o Xamã Congelado|Игорь Замороженный Шаман|冰霜巫师伊戈尔|凍結シャーマン・イゴール|냉기 주술사 이고르|Igor der gefrorene Schamane|Igor le chaman gelé
 e_igor_3|Shadow Shaman Igor|Varjoshamaani Iigor|Igor, Xamã das Sombras|Теневой Шаман Игорь|影子巫师伊戈尔|シャドーシャーマン・イゴール|환영 주술사 이고르|Schattenschamane Igor|Igor le chaman de l'ombre
 |||||||||
 |||||||||
@@ -853,7 +853,7 @@ e_disturbed_spirit_3|Fractured Ego||Ego Fraturado|Раздробленное Э�
 |||||||||
 |||||||||
 e_chilling_marksman_1|Chilling Marksman||Atirador Gelado|Пугающий Стрелок|||냉혹한 저격수||Tireur d'élite glacé
-e_chilling_marksman_2|Frosted Sharpshooter||Atirador da Geada|Матовый Снайпер|||서리 저격수||Tireur d'élite givré
+e_chilling_marksman_2|Frosted Sharpshooter||Atirador da Geada|Матовый Снайпер|||냉기 저격수||Tireur d'élite givré
 e_chilling_marksman_3|White Death||Morte Branca|Белая Смерть|||백색 죽음||Mort blanche
 |||||||||
 |||||||||
@@ -1225,7 +1225,7 @@ spell_eye_2|Spiral|Spiraali|Espiral|Спираль|螺旋|螺旋|나선|Spiral|S
 spell_flesh_plant_0|Slingshot|Ritsa|Estilingue|Рогатка|弹弓|パチンコ|고무총|Schleuder|Fronde
 spell_flesh_plant_add_0|Homing Shot|Itseohjautuva Laukaus|Tiro Teleguiado|Самонаводящийся Выстрел|归巢拍|ホーミングショット|유도 샷|Homing Schuss|Tir de précision
 spell_flesh_plant_add_1|Flesh Sprout|Lihaverso|Broto de Carne|Ростки Мякоти|肉芽|肉の芽|육체의 새싹|Fleisch Sprießen|Germe de chair
-spell_frost_dragon_0|Frostbolts|Pakkasnuolet|Tiros Gelados|Ледяные молнии|霜螺栓|霜ボルト|서리 볼트|Frostbolzen|Eclats de givre
+spell_frost_dragon_0|Frostbolts|Pakkasnuolet|Tiros Gelados|Ледяные молнии|霜螺栓|霜ボルト|냉기 볼트|Frostbolzen|Eclats de givre
 spell_frost_skeleton_0|Whirlwind|Pyörremyrsky|Redemoinho|Вихрь|旋风|旋風|선풍|Wirbelwind|Tourbillon
 spell_fungus_monster_0|Toxic Spread|Myrkyn Levitys|Propagação Tóxica|Токсичное Распространение|毒性蔓延|毒性スプレッド|독성 확산|Toxische Verbreitung|Propagation toxique
 spell_gaben_0|Steam Sale|Steam-ale|Promoção da Steam|Продажа Steam|蒸汽销售|スチーム販売|스팀 판매|Dampf-Verkauf|Promo Steam

@@ -148,11 +148,11 @@ subDescVikingZeal14|Your last zeal strike deals increased damage stunning the ta
 subVikingYmirsChampion01|Viking´s Carnage||||||바이킹의 학살||
 subVikingYmirsChampion02|Raging Sustain||||||분노의 지속||
 subVikingYmirsChampion03|Slashing Cleavers||||||도끼 휘두르기||
-subVikingYmirsChampion04|Rimeforged Hatchet||||||서리로 벼려진 손도끼||
+subVikingYmirsChampion04|Rimeforged Hatchet||||||냉기로 벼려진 손도끼||
 subVikingYmirsChampion05|Ymir´s Focus||||||이미르의 집중||
 subVikingYmirsChampion06|Expanding Territory||||||영토 확장||
 subVikingYmirsChampion07|Rapid Spinning||||||빠른 회전||
-subVikingYmirsChampion08|Frosted Blow||||||서리 바람||
+subVikingYmirsChampion08|Frosted Blow||||||냉기 바람||
 subVikingYmirsChampion09|Rending Hatchet||||||난도질 도끼||
 subVikingYmirsChampion10|Power of Multitude||||||다수의 힘||
 subVikingYmirsChampion11|Collateral Damage||||||부수적 피해||
@@ -850,7 +850,7 @@ subMarksmanCannonTurret06|Weakened Blast||||||약화된 폭발||
 subMarksmanCannonTurret07|Landing Spot||||||착륙 지점||
 subMarksmanCannonTurret08|Line of Sight||||||시야||
 subMarksmanCannonTurret09|Multishred||||||멀티슈레드||
-subMarksmanCannonTurret10|Frostbitten Fodder||||||서리 물린 먹잇감||
+subMarksmanCannonTurret10|Frostbitten Fodder||||||냉기 물린 먹잇감||
 subMarksmanCannonTurret11|Megacannon||||||||
 subMarksmanCannonTurret12|Mid Air Crisis||||||공중 위기||
 subMarksmanCannonTurret13|Burst Artillery||||||폭발 포격||
@@ -2146,7 +2146,7 @@ subDescSamuraiBattleGlance12|Gain stacks of blood harvest when killing monsters.
 subDescSamuraiBattleGlance13|Battle Glance now deals increased cleave damage to all monsters within your blade’s reach.||||||전투의 눈빛이 이제 당신의 칼날 범위 내 모든 몬스터에게 증가된 범위 피해를 입힙니다.||
 subDescSamuraiBattleGlance14|Dodging or blocking an attack causes your next battle glance to unleash bouncing katanas in an arc infront of you dealing increased damage.||||||공격을 회피하거나 막으면 다음 전투에서 당신의 시선이 앞쪽으로 아크 형태로 튕기는 카타나를 발사하여 더 높은 피해를 입힙니다.||
 |||||||||
-subSamuraiShurikenThrow01|Pointy Edges||||||뾰족한 모서리||
+subSamuraiShurikenThrow01|Pointy Edges||||||뾰족한 모냉기||
 subSamuraiShurikenThrow02|Quickthrow||||||빠른 던지기||
 subSamuraiShurikenThrow03|Forceful Flight||||||강력한 비행||
 subSamuraiShurikenThrow04|Twin Shurikens||||||||
@@ -3168,7 +3168,7 @@ subDemonSlayerSliceOfShadows04|Mist of Darkness||||||어둠의 안개||
 subDemonSlayerSliceOfShadows05|Stacking Shadow||||||나나||
 subDemonSlayerSliceOfShadows06|Crushing Veil||||||분쇄의 장막||
 subDemonSlayerSliceOfShadows07|Cold Shadow||||||차가운 그림자||
-subDemonSlayerSliceOfShadows08|Frostbitten Mist||||||서리내린 안개||
+subDemonSlayerSliceOfShadows08|Frostbitten Mist||||||냉기내린 안개||
 subDemonSlayerSliceOfShadows09|Bitter Smoke||||||쓴 연기||
 subDemonSlayerSliceOfShadows10|Looming Mist||||||다가오는 안개||
 subDemonSlayerSliceOfShadows11|Shadow Extraction||||||그림자 추출||
@@ -3400,8 +3400,8 @@ subShamanTectonicBoulder04|Stone Density||||||||
 subShamanTectonicBoulder05|Fractured Balance||||||균형 파괴||
 subShamanTectonicBoulder06|Crushing Boulder||||||분쇄 바위||
 subShamanTectonicBoulder07|Chunky Stone||||||||
-subShamanTectonicBoulder08|Frosted Pebble||||||서리 덮인 조약돌||
-subShamanTectonicBoulder09|Frostbiting Boulder||||||서리 물어뜯는 바위||
+subShamanTectonicBoulder08|Frosted Pebble||||||냉기 덮인 조약돌||
+subShamanTectonicBoulder09|Frostbiting Boulder||||||냉기 물어뜯는 바위||
 subShamanTectonicBoulder10|Fragmentation||||||||
 subShamanTectonicBoulder11|Tiny Stones||||||작은 돌||
 subShamanTectonicBoulder12|Colossal Boulder||||||거대한 바위||
@@ -4960,9 +4960,9 @@ subDescIllusionistTemporalHeroes13|Summon a temporal demonspawn with increased s
 subDescIllusionistTemporalHeroes14|Temporal heroes cast buffs when summoned. Viking casts combat orders, pyromancer casts fire shield and marksman casts agility.||||||시간의 영웅들은 소환될 때 버프를 시전합니다. 바이킹은 전투 명령을, 파이로맨서는 화염 방패를, 사수는 민첩성을 시전합니다.||
 |||||||||
 subJotunnFrozenBoulder01|Boulder Lob||||||바위 던지기||
-subJotunnFrozenBoulder02|Petrifying Frost||||||석화의 서리||
+subJotunnFrozenBoulder02|Petrifying Frost||||||석화의 냉기||
 subJotunnFrozenBoulder03|Bouncing Slab||||||바운싱 슬랩||
-subJotunnFrozenBoulder04|Shattering Frost||||||파괴의 서리||
+subJotunnFrozenBoulder04|Shattering Frost||||||파괴의 냉기||
 subJotunnFrozenBoulder05|Expanding Stonefrost||||||스톤프로스트 확장||
 subJotunnFrozenBoulder06|Subzero Temp||||||섭제로 온도||
 subJotunnFrozenBoulder07|Frozen Throbbing||||||얼어붙은 고동||
@@ -4991,17 +4991,17 @@ subDescJotunnFrozenBoulder14|Unleash a barrage of smaller frozen boulders in an 
 subJotunnBreathOfIce01|Fresh Mint||||||신선한 민트||
 subJotunnBreathOfIce02|Crumbling Winds||||||무너지는 바람||
 subJotunnBreathOfIce03|Expansive Gasp||||||광활한 숨결||
-subJotunnBreathOfIce04|Ironfrost Lungs||||||철서리 폐||
+subJotunnBreathOfIce04|Ironfrost Lungs||||||철냉기 폐||
 subJotunnBreathOfIce05|Frozen Exhale||||||얼어붙은 숨결||
 subJotunnBreathOfIce06|Freezing Point||||||||
 subJotunnBreathOfIce07|Ice Skating||||||아이스 스케이팅||
-subJotunnBreathOfIce08|Frostbourne Winds||||||서리바람||
+subJotunnBreathOfIce08|Frostbourne Winds||||||냉기바람||
 subJotunnBreathOfIce09|Cascading Exhale||||||연쇄적인 날숨||
 subJotunnBreathOfIce10|Vacuuming Inhale||||||흡입 흡입||
 subJotunnBreathOfIce11|Frostbitten Lungs||||||동상에 걸린 폐||
-subJotunnBreathOfIce12|Frost Charged Breath||||||서리 충전 숨결||
+subJotunnBreathOfIce12|Frost Charged Breath||||||냉기 충전 숨결||
 subJotunnBreathOfIce13|Absolute Control||||||절대 통제||
-subJotunnBreathOfIce14|Frosted Throat||||||서리 목구멍||
+subJotunnBreathOfIce14|Frosted Throat||||||냉기 목구멍||
 subDescJotunnBreathOfIce01|Increases the damage dealt by breath of ice.||||||얼음 숨결의 피해량이 증가합니다.||
 subDescJotunnBreathOfIce02|Chance to inflict cold break on hit.||||||적중 시 냉기 파괴를 일으킬 확률.||
 subDescJotunnBreathOfIce03|Increases the area of effect of breath of ice.||||||얼음 숨결의 효과 범위가 증가합니다.||
@@ -5013,12 +5013,12 @@ subDescJotunnBreathOfIce08|Chance to inflict frostbite on hit.||||||적중 시 �
 subDescJotunnBreathOfIce09|Chance to unleash additional breath of ice from target location on hit.||||||명중 시 대상 위치에서 추가 얼음 숨결을 발사할 확률.||
 subDescJotunnBreathOfIce10|Chance to pull monsters towards you on hit.||||||공격 시 몬스터를 끌어당길 확률.||
 subDescJotunnBreathOfIce11|Increases breath of ice duration dealing damage over time.||||||얼음 숨결 지속 시간이 증가하여 지속 피해를 줍니다.||
-subDescJotunnBreathOfIce12|Inflict targets with a stack of frost charged on hit unleashing an avalance at maximum stacks dealing area of effect damage.||||||적중 시 목표에게 서리 스택을 부여하고 최대 스택에서 눈사태를 일으켜 범위 피해를 입힙니다.||
+subDescJotunnBreathOfIce12|Inflict targets with a stack of frost charged on hit unleashing an avalance at maximum stacks dealing area of effect damage.||||||적중 시 목표에게 냉기 스택을 부여하고 최대 스택에서 눈사태를 일으켜 범위 피해를 입힙니다.||
 subDescJotunnBreathOfIce13|Increases the length of breath of ice significantly inflicting strong slow and freeze on hit. ||||||얼음 숨결의 길이가 크게 증가하여 적중 시 강력한 둔화 및 얼리기를 가합니다.||
 subDescJotunnBreathOfIce14|Unleash multiple breaths of ice with chance to critically hit dealing increased critical strike damage.||||||여러 번의 얼음 숨결을 내뿜으며, 치명타 확률이 증가하고 치명타 피해가 증가합니다.||
 |||||||||
 subJotunnOrbOfFrost01|Festering Cold||||||부패하는 냉기||
-subJotunnOrbOfFrost02|Frost Icicles||||||서리 고드름||
+subJotunnOrbOfFrost02|Frost Icicles||||||냉기 고드름||
 subJotunnOrbOfFrost03|Frozen Mass||||||얼어붙은 덩어리||
 subJotunnOrbOfFrost04|Icy Winds||||||얼음 바람||
 subJotunnOrbOfFrost05|Cold Singularity||||||콜드 싱귤래리티||
@@ -5028,23 +5028,23 @@ subJotunnOrbOfFrost08|Timeless Tundra||||||영원한 툰드라||
 subJotunnOrbOfFrost09|Multicicles||||||멀티사이클||
 subJotunnOrbOfFrost10|Howling Ricochet||||||울부짖는 리코쳇||
 subJotunnOrbOfFrost11|Glacial Shredder||||||빙하 파쇄기||
-subJotunnOrbOfFrost12|Enlargening Frost Orb||||||커지는 서리 구슬||
+subJotunnOrbOfFrost12|Enlargening Frost Orb||||||커지는 냉기 구슬||
 subJotunnOrbOfFrost13|Chaining Frost||||||연쇄 동결||
 subJotunnOrbOfFrost14|Orb of Duality||||||이중성의 구슬||
-subDescJotunnOrbOfFrost01|Increases the damage dealt by orb of frost.||||||서리 구체의 피해량이 증가합니다.||
+subDescJotunnOrbOfFrost01|Increases the damage dealt by orb of frost.||||||냉기 구체의 피해량이 증가합니다.||
 subDescJotunnOrbOfFrost02|Increases the amount of orb of frost icicles.||||||얼음 구슬의 고드름 수를 증가시킵니다.||
-subDescJotunnOrbOfFrost03|Increases the size of orb of frost.||||||서리 구체의 크기가 증가합니다.||
+subDescJotunnOrbOfFrost03|Increases the size of orb of frost.||||||냉기 구체의 크기가 증가합니다.||
 subDescJotunnOrbOfFrost04|Increases the projectile speed of icicles.||||||고드름의 발사체 속도가 증가합니다.||
 subDescJotunnOrbOfFrost05|Decreases the orbiting radius of icicles.||||||고드름의 궤도 반경을 감소시킵니다.||
 subDescJotunnOrbOfFrost06|Chance to inflict cold break on hit.||||||공격 시 냉기 파열을 일으킬 확률.||
 subDescJotunnOrbOfFrost07|Increases damage dealt to frozen targets.||||||얼어붙은 대상에게 가하는 피해 증가.||
-subDescJotunnOrbOfFrost08|Decreases the cooldown of orb of frost.||||||서리 구슬의 재사용 대기시간이 감소합니다.||
+subDescJotunnOrbOfFrost08|Decreases the cooldown of orb of frost.||||||냉기 구슬의 재사용 대기시간이 감소합니다.||
 subDescJotunnOrbOfFrost09|Chance on pulse to unleash additional icicles.||||||펄스 시 추가 얼음 조각 발사 확률.||
-subDescJotunnOrbOfFrost10|Orb of frost bounces off of terrain dealing increased damage.||||||서리의 구슬이 지형에 튕겨 나가며 더 많은 피해를 줍니다.||
+subDescJotunnOrbOfFrost10|Orb of frost bounces off of terrain dealing increased damage.||||||냉기의 구슬이 지형에 튕겨 나가며 더 많은 피해를 줍니다.||
 subDescJotunnOrbOfFrost11|Unleash a glacial shredder with increased size and damage. Icicles are now attached around the orb.||||||크기와 피해량이 증가한 빙하 분쇄기를 발동하세요. 이제 오브 주위에 고드름이 붙습니다.||
-subDescJotunnOrbOfFrost12|Orb of frost increases its size and damage over time while traveling.||||||서리의 구슬은 이동하는 동안 크기와 피해가 시간이 지남에 따라 증가합니다.||
-subDescJotunnOrbOfFrost13|Icicles from orb of frost chain from targets unleashing frozen pulses on hit dealing a portion of the damage.||||||서리 구슬에서 발사된 고드름은 목표물에 연결되어 맞을 때마다 냉기의 파동을 방출하며 일부 피해를 입힙니다.||
-subDescJotunnOrbOfFrost14|Unleash multiple smaller orbs of frost in an arc.||||||작은 서리 구체를 여러 개 발사하여 호를 그립니다.||
+subDescJotunnOrbOfFrost12|Orb of frost increases its size and damage over time while traveling.||||||냉기의 구슬은 이동하는 동안 크기와 피해가 시간이 지남에 따라 증가합니다.||
+subDescJotunnOrbOfFrost13|Icicles from orb of frost chain from targets unleashing frozen pulses on hit dealing a portion of the damage.||||||냉기 구슬에서 발사된 고드름은 목표물에 연결되어 맞을 때마다 냉기의 파동을 방출하며 일부 피해를 입힙니다.||
+subDescJotunnOrbOfFrost14|Unleash multiple smaller orbs of frost in an arc.||||||작은 냉기 구체를 여러 개 발사하여 호를 그립니다.||
 |||||||||
 subJotunnPortalOfIce01|Ice Travel||||||얼음 여행||
 subJotunnPortalOfIce02|Cold-enhanced Warp ||||||냉기 강화 워프||
@@ -5070,14 +5070,14 @@ subDescJotunnPortalOfIce07|Gain a stack of shredding chillstep on cast increasin
 subDescJotunnPortalOfIce08|Reduces the mana cost of portal of ice.||||||얼음 포탈의 마나 소모를 줄입니다.||
 subDescJotunnPortalOfIce09|Increases your all resistances on cast for a short duration.||||||스킬 사용 시 모든 저항력이 잠시 동안 증가합니다.||
 subDescJotunnPortalOfIce10|Chance to critically hit dealing increased critical strike damage.||||||치명타 확률이 증가하여 치명타 피해량이 증가합니다.||
-subDescJotunnPortalOfIce11|Conjure a static orb of frost at target location for a short duration.||||||목표 지점에 짧은 시간 동안 정적인 서리 오브를 소환합니다.||
+subDescJotunnPortalOfIce11|Conjure a static orb of frost at target location for a short duration.||||||목표 지점에 짧은 시간 동안 정적인 냉기 오브를 소환합니다.||
 subDescJotunnPortalOfIce12|Chance to summon a small blizzard on hit for a short duration.||||||적중 시 짧은 시간 동안 작은 눈보라를 소환할 확률이 있습니다.||
 subDescJotunnPortalOfIce13|Increases damage and area of effect radius pulling monsters towards you on hit.||||||적중 시 피해량과 범위가 증가하여 몬스터를 당신에게 끌어옵니다.||
-subDescJotunnPortalOfIce14|Chance to unleash small frost novas on hit inflicting frostbite.||||||적중 시 작은 서리 폭발을 일으켜 동상 피해를 입힐 확률.||
+subDescJotunnPortalOfIce14|Chance to unleash small frost novas on hit inflicting frostbite.||||||적중 시 작은 냉기 폭발을 일으켜 동상 피해를 입힐 확률.||
 |||||||||
 subJotunnBlizzard01|Intensified Snowfall||||||강화된 눈 내림||
 subJotunnBlizzard02|Eternal Winter||||||영원한 겨울||
-subJotunnBlizzard03|Frost Domain||||||서리 영역||
+subJotunnBlizzard03|Frost Domain||||||냉기 영역||
 subJotunnBlizzard04|Crackling Ice||||||갈라지는 얼음||
 subJotunnBlizzard05|Tracking Snowinds||||||눈바람 추적||
 subJotunnBlizzard06|Corrosive Ice||||||부식성 얼음||
@@ -5086,7 +5086,7 @@ subJotunnBlizzard08|Winter Echoes||||||겨울의 메아리||
 subJotunnBlizzard09|Cold Necrosis||||||냉기 괴사||
 subJotunnBlizzard10|Chilling Coldsnap||||||서늘한 냉한파||
 subJotunnBlizzard11|Snowstorm Maelstrom||||||눈보라 소용돌이||
-subJotunnBlizzard12|Frost Flurries||||||서리 소용돌이||
+subJotunnBlizzard12|Frost Flurries||||||냉기 소용돌이||
 subJotunnBlizzard13|Frigid Eruption||||||얼어붙은 분출||
 subJotunnBlizzard14|Snowmageddon||||||스노우마게돈||
 subDescJotunnBlizzard01|Increases the damage dealt by blizzard.||||||눈보라로 인한 피해량이 증가합니다.||
@@ -5097,7 +5097,7 @@ subDescJotunnBlizzard05|Blizzard slowly moves towards the nearest monster.||||||
 subDescJotunnBlizzard06|Chance to inflict frostbite on hit.||||||적중 시 동상 입힐 확률.||
 subDescJotunnBlizzard07|Chance to inflict cold break on hit.||||||적중 시 냉기 파열을 일으킬 확률.||
 subDescJotunnBlizzard08|Chance on cast to summon an additional blizzard.||||||시전 시 추가 블리자드를 소환할 확률.||
-subDescJotunnBlizzard09|Increases damage dealt to frostbitten targets.||||||서리 피해를 입은 대상에게 가하는 피해가 증가합니다.||
+subDescJotunnBlizzard09|Increases damage dealt to frostbitten targets.||||||냉기 피해를 입은 대상에게 가하는 피해가 증가합니다.||
 subDescJotunnBlizzard10|Monsters killed by blizzard explode into icicles dealing additional damage to nearby monsters.||||||눈보라에 의해 처치된 몬스터는 고드름으로 폭발하여 주변 몬스터에게 추가 피해를 입힙니다.||
 subDescJotunnBlizzard11|Increases the area of effect radius of blizzard inflicting frostbite and a strong slow on hit.||||||눈보라의 효과 범위를 증가시켜 적중 시 동상과 강한 둔화를 입힙니다.||
 subDescJotunnBlizzard12|Ice chunks explode into frozen novas when hitting the ground dealing area of effect damage.||||||얼음 조각이 땅에 닿으면 얼어붙은 노바로 폭발하여 범위 피해를 줍니다.||
@@ -5113,24 +5113,24 @@ subJotunnFlashFreeze06|Boreal Reach||||||북부 경계||
 subJotunnFlashFreeze07|Freezing Rage||||||얼어붙는 분노||
 subJotunnFlashFreeze08|Gelid Sequence||||||냉동 연속||
 subJotunnFlashFreeze09|Eternal Cascade||||||영원한 폭포||
-subJotunnFlashFreeze10|Froststep||||||서리 발걸음||
+subJotunnFlashFreeze10|Froststep||||||냉기 발걸음||
 subJotunnFlashFreeze11|Icicle Bombardment||||||얼음 폭격||
 subJotunnFlashFreeze12|Recurving Stalactites||||||굴곡진 종유석||
 subJotunnFlashFreeze13|Swirling Wintershard ||||||소용돌이치는 겨울의 조각||
 subJotunnFlashFreeze14|Coldflash Volley||||||콜드플래시 발리||
 subDescJotunnFlashFreeze01|Increases the damage dealt by flash freeze.||||||섬광 동결로 인한 피해가 증가합니다.||
-subDescJotunnFlashFreeze02|Increases the amount of icicles unleashed by frost orb.||||||서리 구체에서 방출되는 고드름의 양이 증가합니다.||
+subDescJotunnFlashFreeze02|Increases the amount of icicles unleashed by frost orb.||||||냉기 구체에서 방출되는 고드름의 양이 증가합니다.||
 subDescJotunnFlashFreeze03|Increases attack rating when using flash freeze.||||||플래시 프리즈 사용 시 명중률 증가.||
 subDescJotunnFlashFreeze04|Chance for icicles to fork on hit.||||||타격 시 고드름이 갈라질 확률.||
 subDescJotunnFlashFreeze05|Increases damage dealt to frozen targets.||||||얼어붙은 대상에게 가하는 피해가 증가합니다.||
 subDescJotunnFlashFreeze06|Increases the area of effect radius of flash freeze.||||||섬광 얼음의 효과 반경을 증가시킵니다.||
 subDescJotunnFlashFreeze07|Gain a stack of freezing rage on hit increasing your damage and attack speed.||||||적중 시 얼어붙는 분노를 하나 얻어 피해량과 공격 속도가 증가합니다.||
 subDescJotunnFlashFreeze08|Increases the amount of bounces for flash freeze.||||||플래시 프리즈의 튕김 횟수가 증가합니다.||
-subDescJotunnFlashFreeze09|Chance to unleash another frost orb when it expires.||||||만료될 때 또 다른 서리 구슬을 발동할 확률.||
+subDescJotunnFlashFreeze09|Chance to unleash another frost orb when it expires.||||||만료될 때 또 다른 냉기 구슬을 발동할 확률.||
 subDescJotunnFlashFreeze10|Decreases movement diminish when using flash freeze.||||||플래시 프리즈 사용 시 이동 감소가 줄어듭니다.||
-subDescJotunnFlashFreeze11|Frost orb now unleashes icicles with every hit.||||||서리 구체가 이제 타격마다 고드름을 발사합니다.||
-subDescJotunnFlashFreeze12|Icicles from frost orb return to target location after a short duration dealing additional damage.||||||서리 오브에서 생성된 고드름이 짧은 시간이 지나면 목표 위치로 돌아가 추가 피해를 입힙니다.||
-subDescJotunnFlashFreeze13|Frost orb now orbits you for a short duration frequently unleashing icicles.||||||서리 오브가 짧은 시간 동안 당신 주위를 돌며 자주 얼음 파편을 발사합니다.||
+subDescJotunnFlashFreeze11|Frost orb now unleashes icicles with every hit.||||||냉기 구체가 이제 타격마다 고드름을 발사합니다.||
+subDescJotunnFlashFreeze12|Icicles from frost orb return to target location after a short duration dealing additional damage.||||||냉기 오브에서 생성된 고드름이 짧은 시간이 지나면 목표 위치로 돌아가 추가 피해를 입힙니다.||
+subDescJotunnFlashFreeze13|Frost orb now orbits you for a short duration frequently unleashing icicles.||||||냉기 오브가 짧은 시간 동안 당신 주위를 돌며 자주 얼음 파편을 발사합니다.||
 subDescJotunnFlashFreeze14|Unleash multiple icicles in an arc dealing increased damage and inflicting cold break. Does not require hitting a monster.||||||여러 개의 고드름을 아치형으로 발사하여 피해를 증가시키고 냉기 파괴를 일으킵니다. 몬스터를 맞출 필요는 없습니다.||
 |||||||||
 subJotunnFreezingLeap01|Leap Force||||||도약 부대||
@@ -5138,15 +5138,15 @@ subJotunnFreezingLeap02|Extended Field||||||확장된 필드||
 subJotunnFreezingLeap03|Dazing Impact||||||현기증을 일으키는 충격||
 subJotunnFreezingLeap04|Grand Impact||||||그랜드 임팩트||
 subJotunnFreezingLeap05|Concentrated Detonation||||||집중 폭발||
-subJotunnFreezingLeap06|Echoing Frostquake ||||||메아리치는 서리 지진||
+subJotunnFreezingLeap06|Echoing Frostquake ||||||메아리치는 냉기 지진||
 subJotunnFreezingLeap07|Hare Spirit||||||토끼 정령||
 subJotunnFreezingLeap08|Artic Vulnerability ||||||북극 취약성||
 subJotunnFreezingLeap09|Overwhelming Impacts||||||압도적인 충격||
-subJotunnFreezingLeap10|Frosted Territory||||||서리 덮인 영토||
+subJotunnFreezingLeap10|Frosted Territory||||||냉기 덮인 영토||
 subJotunnFreezingLeap11|Superhero Landing||||||슈퍼히어로 착지||
 subJotunnFreezingLeap12|Seismic Icequake||||||지진 얼음파동||
 subJotunnFreezingLeap13|Tectonic Stampede||||||지각의 돌진||
-subJotunnFreezingLeap14|Frostbending Leap||||||서리 굽히기 도약||
+subJotunnFreezingLeap14|Frostbending Leap||||||냉기 굽히기 도약||
 subDescJotunnFreezingLeap01|Increases the damage dealt by freezing leap.||||||얼음 도약으로 인한 피해량 증가.||
 subDescJotunnFreezingLeap02|Increases the maximum range of freezing leap.||||||얼음 도약의 최대 범위를 증가시킵니다.||
 subDescJotunnFreezingLeap03|Chance to stun targets on hit.||||||타격 시 대상 기절 확률.||
@@ -5156,7 +5156,7 @@ subDescJotunnFreezingLeap06|Chance to unleash an additional shockwave when landi
 subDescJotunnFreezingLeap07|Increases landing recovery when using freezing leap.||||||빙결 도약 사용 시 착지 회복 증가||
 subDescJotunnFreezingLeap08|Chance to inflict cold break on hit.||||||적중 시 냉기 파괴를 가할 확률.||
 subDescJotunnFreezingLeap09|Increases damage dealt to stunned targets.||||||기절한 대상에게 가하는 피해가 증가합니다.||
-subDescJotunnFreezingLeap10|Ground below landing location is left frosted dealing damage over time and slowing monsters.||||||착륙 지점 아래의 땅이 서리로 덮여 지속적인 피해를 주고 몬스터의 속도를 늦춥니다.||
+subDescJotunnFreezingLeap10|Ground below landing location is left frosted dealing damage over time and slowing monsters.||||||착륙 지점 아래의 땅이 냉기로 덮여 지속적인 피해를 주고 몬스터의 속도를 늦춥니다.||
 subDescJotunnFreezingLeap11|Unleash an arc of shockwaves towards target location when landing.||||||착지 시 목표 위치로 충격파를 발사합니다.||
 subDescJotunnFreezingLeap12|Leave the ground trembling after landing causing additional echos.||||||착지 후 지면을 떨게 하여 추가적인 메아리를 발생시킵니다.||
 subDescJotunnFreezingLeap13|Charge towards target location followed by a shockwave of ice.||||||목표 위치로 돌진한 후 얼음 충격파를 발사합니다.||
@@ -5166,7 +5166,7 @@ subJotunnAvalanche01|Devastating Snowslide||||||파괴적인 눈사태||
 subJotunnAvalanche02|Devouring Snowpour||||||눈보라의 포식자||
 subJotunnAvalanche03|Timeless Cold||||||시간을 초월한 냉기||
 subJotunnAvalanche04|Colossus of Yggdrasil||||||이그드라실의 거상||
-subJotunnAvalanche05|Acute Hoarfrost||||||날카로운 서리||
+subJotunnAvalanche05|Acute Hoarfrost||||||날카로운 냉기||
 subJotunnAvalanche06|Frigid Safeguard||||||차가운 수호||
 subJotunnAvalanche07|Snow Cataclysm ||||||눈 재앙||
 subJotunnAvalanche08|Ephemeral Flurry||||||덧없는 소나기||
@@ -5201,7 +5201,7 @@ subJotunnSweepFreeze07|Lingering Fissure||||||잔류 균열||
 subJotunnSweepFreeze08|Double Sweep ||||||더블 스윕||
 subJotunnSweepFreeze09|Frozen Death||||||얼어붙은 죽음||
 subJotunnSweepFreeze10|Cold Vacuum||||||차가운 진공||
-subJotunnSweepFreeze11|Frost Sunder Onslaught||||||서리 파괴 맹공||
+subJotunnSweepFreeze11|Frost Sunder Onslaught||||||냉기 파괴 맹공||
 subJotunnSweepFreeze12|Dissecting Vortex||||||해부하는 소용돌이||
 subJotunnSweepFreeze13|Gelid Riptide||||||차가운 급류||
 subJotunnSweepFreeze14|Unstoppable Assault||||||막을 수 없는 공격||
@@ -5356,7 +5356,7 @@ subDescExoTsunami03|Gain increased movement speed for a short duration when usin
 subDescExoTsunami04|Increases the damage dealt by tsunami over time.||||||쓰나미가 시간에 따라 가하는 피해를 증가시킵니다.||
 subDescExoTsunami05|Chance to unleash a burst of water on hit dealing a portion of the damage.||||||적중 시 일정 확률로 물 폭발을 일으켜 일부 피해를 입힙니다.||
 subDescExoTsunami06|Increases cast rate when using tsunami.||||||쓰나미 사용 시 시전 속도가 증가합니다.||
-subDescExoTsunami07|Increases damage dealt to frostbitten targets.||||||서리 피해를 입은 대상에게 가하는 피해 증가.||
+subDescExoTsunami07|Increases damage dealt to frostbitten targets.||||||냉기 피해를 입은 대상에게 가하는 피해 증가.||
 subDescExoTsunami08|Increases the size of tsunami.||||||쓰나미의 크기를 증가시킵니다.||
 subDescExoTsunami09|Chance to critically hit dealing increased critical strike damage.||||||치명타 확률이 증가하여 치명타 피해량이 증가합니다.||
 subDescExoTsunami10|Increases the duration of tsunami decreasing its projectile speed.||||||쓰나미의 지속 시간을 늘리고 발사체 속도를 감소시킵니다.||
@@ -5387,7 +5387,7 @@ subDescExoAsteroid05|Chance to critically hit dealing increased critical strike 
 subDescExoAsteroid06|Reduces the mana cost of asteroid.||||||운석의 마나 소모를 줄입니다.||
 subDescExoAsteroid07|Chance to inflict frostbite on hit.||||||적중 시 동상 상태 이상을 일으킬 확률.||
 subDescExoAsteroid08|Chance to inflict cold break on hit.||||||적중 시 냉기 파열을 발생시킬 확률.||
-subDescExoAsteroid09|Increases damage dealt to frostbitten targets.||||||서리 피해를 입은 적에게 가하는 피해 증가.||
+subDescExoAsteroid09|Increases damage dealt to frostbitten targets.||||||냉기 피해를 입은 적에게 가하는 피해 증가.||
 subDescExoAsteroid10|Chance to drop smaller asteroids at target location on hit.||||||명중 시 목표 지점에 작은 소행성을 떨어뜨릴 확률.||
 subDescExoAsteroid11|Unleash multiple asteroids in a shockwave from the point of impact.||||||충돌 지점에서 다수의 소행성을 충격파로 방출합니다.||
 subDescExoAsteroid12|Asteroid unleashes multiple tsunami waves in an arc towards target direction.||||||소행성이 목표 방향으로 여러 개의 쓰나미 파도를 아치형으로 방출합니다.||
@@ -5445,7 +5445,7 @@ subDescExoBlackHole05|Chance to unleash cosmic flares from the center of the bla
 subDescExoBlackHole06|Chance to inflict frostbite on hit.||||||타격 시 동상 효과를 입힐 확률.||
 subDescExoBlackHole07|Reduces the cooldown of black hole.||||||블랙홀의 재사용 대기시간을 줄입니다.||
 subDescExoBlackHole08|Gain increased movement speed and phasing for a short duration when inside the black hole.||||||블랙홀 안에 있을 때 일정 시간 동안 이동 속도가 증가하고 위상 이동이 가능합니다.||
-subDescExoBlackHole09|Increases damage dealt to frostbitten targets.||||||서리 피해를 입은 대상에게 가하는 피해가 증가합니다.||
+subDescExoBlackHole09|Increases damage dealt to frostbitten targets.||||||냉기 피해를 입은 대상에게 가하는 피해가 증가합니다.||
 subDescExoBlackHole10|Chance to rapidly pull monsters towards the singularity on hit dealing additional damage.||||||공격 시 몬스터를 특이점으로 빠르게 끌어들이고 추가 피해를 입힐 확률이 있습니다.||
 subDescExoBlackHole11|Chance to frequently grow larger over time gaining increased damage. Black hole duration is decreased.||||||시간이 지남에 따라 자주 커질 기회가 있으며, 피해량이 증가합니다. 블랙홀 지속 시간이 감소합니다.||
 subDescExoBlackHole12|Summon multiple smaller orbiting black holes dealing a portion of the damage.||||||여러 개의 작은 궤도를 도는 블랙홀을 소환하여 일부 피해를 입힙니다.||

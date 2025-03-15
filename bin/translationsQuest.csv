@@ -551,9 +551,9 @@ quest_objective_1023_1|Gurag slain|Gurag surmattu|Gurag morto|Гураг уби�
 |||||||||
 quest_name_1024|Provide your aid||Forneça sua ajuda|Окажите свою помощь|||||Apportez votre aide
 quest_description_1024|Kill monsters in the lands of Danethorpe. Meet Halstein at the Chilling Lake to claim your reward.||Mate monstros nas terras de Danethorpe, encontre-se com Meet Halstein no Lago Gelado para receber sua recompensa.|Убивайте монстров на землях Дейнторпа. Встретьтесь с Халстейном у Леденящего озера, чтобы получить свою награду.|||다네소프 땅에서 몬스터를 처치하세요. 보상을 받기 위해 차가운 호수에서 할스테인을 만나세요.||Tuez des monstres dans les environs de Danethorpe. Retrouvez Halstein au lac gelé pour réclamer votre récompense.
-quest_objective_1024_1|Frost Goblins slain||Goblins de Gelo derrotados|Ледяные Гоблины убиты|||서리 고블린 처치||Gobelins de givre tués
-quest_objective_1024_2|Frost Skeletons slain||Esqueletos de Gelo derrotados|Убитые Ледяные Скелеты|||서리 해골 처치||Squelettes de givre tués
-quest_objective_1024_3|Frost Dragons slain||Dragões de Gelo derrotados|Ледяные Драконы убиты|||서리 드래곤 처치||Dragons de givre tués
+quest_objective_1024_1|Frost Goblins slain||Goblins de Gelo derrotados|Ледяные Гоблины убиты|||냉기 고블린 처치||Gobelins de givre tués
+quest_objective_1024_2|Frost Skeletons slain||Esqueletos de Gelo derrotados|Убитые Ледяные Скелеты|||냉기 해골 처치||Squelettes de givre tués
+quest_objective_1024_3|Frost Dragons slain||Dragões de Gelo derrotados|Ледяные Драконы убиты|||냉기 드래곤 처치||Dragons de givre tués
 quest_objective_1024_4|Ice Elementals slain||Elementais de Gelo derrotados||||얼음 원소 처치||
 |||||||||
 quest_name_1025|Icy Enchanters|Jäiset lumoajat|Encantadores Gelados|Ледяные Чародеи|寒冰咏唱者|アイシーエンチャンター|냉기를 부르는 자|Eisige Zauberer|Enchanteurs de glace
@@ -798,7 +798,7 @@ quest_cook_maggot_stew|Boil the ingredients||Ferva os ingredientes|Отвари�
 quest_cooking_maggot_stew|Making Maggot stew||Fazendo Ensopado de larva|Приготовление тушеного мяса из личинок|||구더기 스튜 만들기||Faire un ragoût d'asticots
 quest_gathering_herb|Gathering herbs...||Colhendo ervas…|Сбор трав...|||약초 채집 중...||Cueillir des herbes...
 quest_gather_ginseng|Collect ginseng plant||Coletar planta de Ginseng|Соберите растение женьшеня|||인삼 식물 수집||Récolter la racine de ginseng
-quest_gather_frost_dill|Collect Frost Dill||Coletar Dill|Соберите Морозный Укроп|||서리 딜 수집||Cueillir l'aneth givré
+quest_gather_frost_dill|Collect Frost Dill||Coletar Dill|Соберите Морозный Укроп|||냉기 딜 수집||Cueillir l'aneth givré
 quest_gather_loska|Collect Loska||Coletar Loska|Собери Лоску|||로스카 수집||Ramasser la loska
 quest_gather_vermroot|Collect Vermroot||Coletar Vermroot|Соберите Вермут|||버므루트 수집||Récolter la racine de Verm
 quest_gather_fanglen|Collect Fanglen||Coletar Fanglen|Собирать Фанглен|||팡글렌 수집||Ramasser la fanglen
