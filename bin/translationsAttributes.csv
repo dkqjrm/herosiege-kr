@@ -3,7 +3,7 @@ stat_base_damage|Attack Damage||Dano de Ataque|Урон от атаки|||공격
 stat_defense|Defense|Puolustus|Defesa|Защита|防御|防御力|방어력|Verteidigung|Défense
 stat_defense_p|Increased Defense|Lisäpuolustus|Aumento de Defesa|Повышенная защита|增加防御|防御力増加|방어력 증가|Erhöhte Verteidigung|Défense accrue
 stat_block_chance|Block Chance|Torjumistodennäköisyys|Chance de Bloqueio|Шанс блока|格挡几率|ブロックの確率|방어 확률|Blockchance|Chance de bloquer
-stat_all_skills|to All Skills|kaikkiin taitoihin|para Todas as Habilidades|ко всем навыкам|对所有技能|全てのスキルに対して|모든 스킬에 대해|auf alle Fertigkeiten|à toutes les compétences
+stat_all_skills|to All Skills|kaikkiin taitoihin|para Todas as Habilidades|ко всем навыкам|对所有技能|全てのスキルに対して|모든 스킬|auf alle Fertigkeiten|à toutes les compétences
 stat_increased_speed|Increased Movement Speed|Lisäliikkumisnopeus|Aumento de Velocidade de Movimento|Увеличение скорости движения|增加移动速度|移動速度増加|이동 속도 증가|Erhöhte Bewegungsgeschwindigkeit|à la vitesse de marche/course 
 stat_summon_movement_speed|Increased Summon Movement Speed|Lisääntynyt kutsuliikkeen nopeus|Aumento da Velocidade de Movimento de Invocações|Увеличенная скорость движения призыва |增加召唤物移动速度 |召喚移動速度の向上 |소환 이동 속도 증가 |Erhöhte Beschwörungsbewegungsgeschwindigkeit |Augmentation de la vitesse de déplacement d'invocation 
 stat_faster_cast_rate|Faster Cast Rate|Nopeampi lähetysnopeus|Taxa de Conjuração Mais Rápida|Скорость каста|释放速度更快|キャスト速度増加|시전 속도 증가|Schnellere Wirkungsgeschwindigkeit|à la vitesse des sorts
@@ -30,7 +30,7 @@ stat_attack_rating_p|Increased Attack Rating|Lisääntynyt hyökkäysluokitus|Au
 stat_attack_rating|to Attack Rating|hyökkäysluokitukseen|para Taxa de Ataque|к рейтингу атаки|对攻击评级|攻撃評価へ|명중률|auf Angriffswertung|au niveau d'attaque
 stat_life_per_hit|Life stolen per Hit|Henki varastettu osumaa kohti|Vida roubada por Golpe|Кража жизни за удар|每击生命偷取|ヒットごとに吸収されるライフ|공격 당 생명력 흡수|Leben pro Treffer gestohlen|de vie volée par coup
 stat_mana_per_hit|Mana stolen per Hit|Mana varastettu hittiä kohden|Mana roubada por Golpe|Кража маны за удар|每击法力偷取|ヒットごとに吸収されるマナ|공격 당 마나 흡수|Mana pro Treffer gestohlen|de mana volé par coup
-stat_life_per_second|Life per second|Elämä sekunnissa|Vida por segundo|Жизнь в секунду |每秒生命 |1秒あたりの寿命 |초당 수명 |Leben pro Sekunde |Vie par seconde 
+stat_life_per_second|Life per second|Elämä sekunnissa|Vida por segundo|Жизнь в секунду |每秒生命 |1秒あたりの寿命 |초당 생명 |Leben pro Sekunde |Vie par seconde 
 stat_mana_per_second|Mana per second|Mana sekunnissa|Mana por segundo|Мана в секунду |每秒法力 |1秒あたりのマナ |초당 마나 |Mana pro Sekunde |Mana par seconde 
 stat_critical_damage|Increased Critical Strike Damage|Lisääntynyt kriittisten iskujen vahinko|Aumento do Dano de Acerto Crítico|Увеличение урона от критического удара|增加暴击伤害|クリティカルストライクダメージ増加|치명타 데미지 증가|Erhöhter kritischer Trefferschaden|de dégâts critique
 stat_target_defense|of target Defense ignored|kohteen puolustus huomioimatta|da Defesa do alvo ignorada|игнорирования защиты цели|忽略目标防御|対象の防御力を無視|대상 방어력 무시|von Zielverteidigung ignoriert|de la défense de la cible ignorée
@@ -38,20 +38,20 @@ stat_open_wounds|Chance to Open Wounds|Mahdollisuus avata haavat|Chance de Abrir
 stat_piercing|Piercing Attack|Lävistyshyökkäys|Ataque Perfurante|Пронзающая атака|穿透攻击|貫通攻撃|관통 공격|Durchdringender Angriff|Attaque perçante
 stat_slow_target|Slows target by|Hidastaa tavoitetta|Desacelera o alvo em |Замедляет цель на|减缓目标|対象を減速|대상 감속|Verlangsamt das Ziel um|Ralentit la cible de
 stat_prevent_monster_heal|Prevent Monster Heal|Estä Monster Heal |Impede a Cura de Monstros|Предотвратить исцеление монстров|阻止怪物回复生命|モンスターヒールを防ぐ|몬스터 회복 방지|Verhindert Monsterheilung|Empêche les monstres de guérir
-stat_strength|to Strength|vahvuuteen|para Força|к силе|对力量|力へ|힘에 대해|auf Stärke|en force
-stat_dexterity|to Dexterity|Kevyydelle|para Destreza|к ловкости|对敏捷|器用さへ|민첩성에 대해|auf Geschicklichkeit|en dextérité
-stat_intelligence|to Intelligence|älykkyyteen|para Inteligência|к интелекту|走向情报 |インテリジェンスへ |지능으로 |auf Intelligenz |en intelligence
-stat_energy|to Energy|Energialle|para Energia|к энергии|对能量|エネルギーへ|에너지에 대해|auf Energie|en énergie
-stat_armor|to Armor|panssariin|para Armadura|к броне|对护甲|アーマーへ|방어력에 대해|auf Rüstung|d'armure
-stat_vitality|to Vitality|elinvoimaisuuteen|para Vitalidade|к живучести|对体力|体力へ|활력에 대해|auf Vitalität|en vitalité
+stat_strength|to Strength|vahvuuteen|para Força|к силе|对力量|力へ|힘|auf Stärke|en force
+stat_dexterity|to Dexterity|Kevyydelle|para Destreza|к ловкости|对敏捷|器用さへ|민첩성|auf Geschicklichkeit|en dextérité
+stat_intelligence|to Intelligence|älykkyyteen|para Inteligência|к интелекту|走向情报 |インテリジェンスへ |지능 |auf Intelligenz |en intelligence
+stat_energy|to Energy|Energialle|para Energia|к энергии|对能量|エネルギーへ|에너지|auf Energie|en énergie
+stat_armor|to Armor|panssariin|para Armadura|к броне|对护甲|アーマーへ|방어력|auf Rüstung|d'armure
+stat_vitality|to Vitality|elinvoimaisuuteen|para Vitalidade|к живучести|对体力|体力へ|활력|auf Vitalität|en vitalité
 stat_pointsLeft|Points Left|Pisteitä jäljellä|Pontos Restantes|Осталось очков|剩余点数|残されたポイント|남은 포인트|Verbleibende Punkte|Point(s) restant(s)
-stat_all_stats|to All Attributes|kaikkiin määritteisiin|para Todos os Atributos|ко всем атрибутам|对所有属性|全ての属性へ|모든 속성에 대해|auf alle Attribute|à toutes les statistiques
+stat_all_stats|to All Attributes|kaikkiin määritteisiin|para Todos os Atributos|ко всем атрибутам|对所有属性|全ての属性へ|모든 속성|auf alle Attribute|à toutes les statistiques
 stat_physical_damage|to Physical Damage|fyysiselle vahingolle|para Dano Físico Aditivo|к дополнительному физическому урону|附加物理伤害|付加的な物理的ダメージへの影響|추가 물리적 손상|auf zusätzlichem physischen Schaden|aux dégâts physique infusés
 stat_magic_damage|to Additive Arcane Damage|Additive Arcane Damage|para Dano Arcano Aditivo|к дополнительному урону от тайной магии|附加奥术伤害 |追加の秘術ダメージ |부가적인 비전 피해에 |zu additivem Arkanschaden |aux dégâts d'arcane infusés
-stat_lightning_damage|to Additive Lightning Damage|lisäaineisiin salamavaurioihin|para Dano de Raios Aditivo|к дополнительному урону от молнии|对附加闪电伤害|加算雷撃ダメージへ|추가 번개 데미지에 대해|auf zusätzlichen Blitzschaden|aux dégâts de foudre infusés
-stat_fire_damage|to Additive Fire Damage|lisäainepalovaurioille|para Dano de Fogo Aditivo|к дополнительному урону от огня|对附加火焰伤害|加算火災ダメージへ|추가 화염 데미지에 대해|auf zusätzlichen Feuerschaden|aux dégâts de feu infusés
-stat_cold_damage|to Additive Cold Damage|lisäainekylmävaurioille|para Dano de Gelo Aditivo|к дополнительному урону от холода|对附加寒冷伤害|加算冷気ダメージへ|추가 냉기 데미지에 대해|auf zusätzlichen Kälteschaden|aux dégâts de froid infusés
-stat_poison_damage|to Additive Poison Damage|lisäainemyrkkyvaurioille|para Dano de Veneno Aditivo|к дополнительному урону ядом|对附加毒素伤害|加算毒ダメージへ|추가 독 데미지에 대해|auf zusätzlichen Giftschaden|aux dégâts de poison infusés
+stat_lightning_damage|to Additive Lightning Damage|lisäaineisiin salamavaurioihin|para Dano de Raios Aditivo|к дополнительному урону от молнии|对附加闪电伤害|加算雷撃ダメージへ|추가 번개 데미지|auf zusätzlichen Blitzschaden|aux dégâts de foudre infusés
+stat_fire_damage|to Additive Fire Damage|lisäainepalovaurioille|para Dano de Fogo Aditivo|к дополнительному урону от огня|对附加火焰伤害|加算火災ダメージへ|추가 화염 데미지|auf zusätzlichen Feuerschaden|aux dégâts de feu infusés
+stat_cold_damage|to Additive Cold Damage|lisäainekylmävaurioille|para Dano de Gelo Aditivo|к дополнительному урону от холода|对附加寒冷伤害|加算冷気ダメージへ|추가 냉기 데미지|auf zusätzlichen Kälteschaden|aux dégâts de froid infusés
+stat_poison_damage|to Additive Poison Damage|lisäainemyrkkyvaurioille|para Dano de Veneno Aditivo|к дополнительному урону ядом|对附加毒素伤害|加算毒ダメージへ|추가 독 데미지|auf zusätzlichen Giftschaden|aux dégâts de poison infusés
 stat_spell_magic_damage|to Arcane Skill Damage|Arcane Skill Damageen|para Dano de Habilidade Mágica|к урону от навыка Тайная магия|奥术技能伤害|秘術スキルのダメージ|비전 스킬 피해|zu arkanem Fertigkeitsschaden|aux dégâts des compétences arcaniques
 stat_spell_lightning_damage|to Lightning Skill Damage|salaman taitovaurioon|para Dano de Habilidade de Raios|к урону от навыка Молния|闪电技能伤害|雷スキルのダメージ|번개 스킬 피해|zu Blitz-Fertigkeitsschaden|aux dégâts des compétences de foudre
 stat_spell_fire_damage|to Fire Skill Damage|palotaitojen vaurioihin|para Dano de Habilidade de Fogo|к урону от навыка Огонь|火焰技能伤害|火スキルのダメージ|화염 스킬 피해|zu Feuer-Fertigkeitsschaden|aux dégâts des compétences de feu
@@ -67,31 +67,31 @@ stat_ranged_damage_p|Ranged Attack Damage increased by|Kantaman hyökkäysvahink
 stat_melee_damage_p|Melee Attack Damage increased by|Lähitaistelu Attack Damage kasvoi|Dano de Ataque Corpo a Corpo aumentado em|Урон от ближних атак увеличен на|近战攻击伤害增加|近接攻撃ダメージが増加|근접 공격 피해가|Nahkampfangriffsschaden erhöht um|Les dégâts des attaques au corps à corps ont augmenté de
 stat_explosion_damage|Explosion Damage increased by|Räjähdysvauriot lisääntyivät|Dano de Explosão aumentado em|Урон от взрывов увеличен на|爆炸伤害增加|爆発ダメージが増加|폭발 피해가|Explosionsschaden erhöht um|Les dégâts des explosions ont augmenté de
 stat_explosion_skills|to Explosion Skills|räjähdystaitoon|para Habilidades de Explosão|навыки взрывов |爆炸技能 |爆発スキル |폭발 기술로 증가 |für Explosionsfertigkeiten |aux compétences d'explosion 
-stat_cold_skills|to Cold Skills|Cold Skillsiin|para Habilidades de Gelo|к навыкам холода|对冰霜技能|冷気スキルへ|냉기 스킬에 대해|auf Kältefertigkeiten|aux compétences de froid
-stat_lightning_skills|to Lightning Skills|Lightning Skillsiin|para Habilidades de Raios|к навыкам молнии|对闪电技能|雷撃スキルへ|번개 스킬에 대해|auf Blitzfertigkeiten|aux compétences de foudre
-stat_fire_skills|to Fire Skills|tulitaitoihin|para Habilidades de Fogo|к навыкам стрельбы|对火焰技能|火焔スキルへ|불 스킬에 대해|auf Feuerfertigkeiten|aux compétences de feu
-stat_poison_skills|to Poison Skills|Poison Skillsiin|para Habilidades de Veneno|к навыкам отравления|对毒素技能|毒スキルへ|독 스킬에 대해|auf Giftfertigkeiten|aux compétences de poison
+stat_cold_skills|to Cold Skills|Cold Skillsiin|para Habilidades de Gelo|к навыкам холода|对冰霜技能|冷気スキルへ|냉기 스킬|auf Kältefertigkeiten|aux compétences de froid
+stat_lightning_skills|to Lightning Skills|Lightning Skillsiin|para Habilidades de Raios|к навыкам молнии|对闪电技能|雷撃スキルへ|번개 스킬|auf Blitzfertigkeiten|aux compétences de foudre
+stat_fire_skills|to Fire Skills|tulitaitoihin|para Habilidades de Fogo|к навыкам стрельбы|对火焰技能|火焔スキルへ|불 스킬|auf Feuerfertigkeiten|aux compétences de feu
+stat_poison_skills|to Poison Skills|Poison Skillsiin|para Habilidades de Veneno|к навыкам отравления|对毒素技能|毒スキルへ|독 스킬|auf Giftfertigkeiten|aux compétences de poison
 stat_magic_skills|to Arcane Skills|Arcane Skillsiin|para Habilidades Arcanas|к навыкам тайной магии|奥术技能 |秘術スキル |비전 기술로 |auf arkanen Fertigkeiten |aux compétences d'arcane
-stat_physical_skills|to Physical Skills|Fyysisiin taitoihin|para Habilidades Físicas|к физическим навыкам|对物理技能|物理スキルへ|물리 스킬에 대해|auf physische Fertigkeiten|aux compétences physique
+stat_physical_skills|to Physical Skills|Fyysisiin taitoihin|para Habilidades Físicas|к физическим навыкам|对物理技能|物理スキルへ|물리 스킬|auf physische Fertigkeiten|aux compétences physique
 stat_elemental_skills|to Magic Skills|Magic Skillsiin|para Habilidades Mágicas|к магическим навыкам |魔法技能 |魔法のスキルへ |마법 스킬까지 |auf magischen Fähigkeiten |aux compétences magiques 
-stat_ignore_cold_resist|to Enemy Cold Resistance|vihollisen kylmävastustukseen|para Resistência ao Gelo do Inimigo|к пробитию вражеского сопр. холоду|对敌人冰霜抗性|敵の冷気抵抗へ|적의 냉기 저항에 대해|auf Kälteresistenz des Gegners|à la résistance au froid de l'ennemi
-stat_ignore_fire_resist|to Enemy Fire Resistance|vihollisen tulenvastustukseen|para Resistência ao Fogo do Inimigo|к пробитию вражеского сопр. огня|对敌人火焰抗性|敵の火焔抵抗へ|적의 화염 저항에 대해|auf Feuerresistenz des Gegners|à la résistance au feu de l'ennemi
-stat_ignore_poison_resist|to Enemy Poison Resistance|vihollisen myrkytysresistanssiin|para Resistência ao Veneno do Inimigo|к пробитию вражеского сопр. яда|对敌人毒素抗性|敵の毒抵抗へ|적의 독 저항에 대해|auf Giftresistenz des Gegners|à la résistance au poison de l'ennemi
-stat_ignore_lightning_resist|to Enemy Lightning Resistance|vihollisen salaman vastustuskykyyn|para Resistência a Raios do Inimigo|к пробитию вражеского сопр. молнии|对敌人闪电抗性|敵の雷撃抵抗へ|적의 번개 저항에 대해|auf Blitzresistenz des Gegners|à la résistance à la foudre de l'ennemi
+stat_ignore_cold_resist|to Enemy Cold Resistance|vihollisen kylmävastustukseen|para Resistência ao Gelo do Inimigo|к пробитию вражеского сопр. холоду|对敌人冰霜抗性|敵の冷気抵抗へ|적의 냉기 저항|auf Kälteresistenz des Gegners|à la résistance au froid de l'ennemi
+stat_ignore_fire_resist|to Enemy Fire Resistance|vihollisen tulenvastustukseen|para Resistência ao Fogo do Inimigo|к пробитию вражеского сопр. огня|对敌人火焰抗性|敵の火焔抵抗へ|적의 화염 저항|auf Feuerresistenz des Gegners|à la résistance au feu de l'ennemi
+stat_ignore_poison_resist|to Enemy Poison Resistance|vihollisen myrkytysresistanssiin|para Resistência ao Veneno do Inimigo|к пробитию вражеского сопр. яда|对敌人毒素抗性|敵の毒抵抗へ|적의 독 저항|auf Giftresistenz des Gegners|à la résistance au poison de l'ennemi
+stat_ignore_lightning_resist|to Enemy Lightning Resistance|vihollisen salaman vastustuskykyyn|para Resistência a Raios do Inimigo|к пробитию вражеского сопр. молнии|对敌人闪电抗性|敵の雷撃抵抗へ|적의 번개 저항|auf Blitzresistenz des Gegners|à la résistance à la foudre de l'ennemi
 stat_ignore_magic_resist|to Enemy Arcane Resistance|Enemy Arcane Resistancelle|para Resistência Arcana do Inimigo|к пробитию вражеского сопр. тайной магии|敌人奥术抗性|敵のアーケイン耐性|적의 비전 저항|gegen arkanen Widerstand des Feindes|à la résistance à l'arcane de l'ennemi
 stat_ignore_all_resist|to All Enemy Resistances|Kaikille vihollisen vastarintamaille|para Todas as Resistências do Inimigo|всем вражеским сопротивлениям |所有敌人抗性 |すべての敵の耐性 |모든 적의 저항 |gegen alle Widerstände des Feindes |à toutes les résistances ennemies 
 stat_jump_power|Increased Jumping Power|Lisääntynyt hyppyvoima|Aumento do Poder de Salto|Увеличение силы прыжка|跳跃能力增加|ジャンプ力増加|점프 파워 증가|Erhöhte Sprungkraft|Augmentation de la puissance du saut
 stat_hp_rep|Replenish Life|Täydennä elämää |Regeneração de Vida|Восполнение жизни|恢复生命|生命力の回復|생명력 회복|Leben wiederhergestellt|Régénération de vie 
 stat_mana_rep|Replenish Mana|Täydennä Manaa|Regeneração de Mana|Восполнение маны|恢复法力|マナの回復|마나 회복|Mana wiederhergestellt|Régénération du mana 
-stat_life|to Life|Elämään|para Vida|к макс. жизни|对生命|生命力へ|생명력에 대해|auf Leben|à la vie
-stat_mana|to Mana|Manalle|para Mana|к макс. мане|对法力|マナへ|마나에 대해|auf Mana|au mana
+stat_life|to Life|Elämään|para Vida|к макс. жизни|对生命|生命力へ|생명력|auf Leben|à la vie
+stat_mana|to Mana|Manalle|para Mana|к макс. мане|对法力|マナへ|마나|auf Mana|au mana
 stat_faster_hit_recovery|Faster Hit Recovery|Nopeampi osumien palautus|Recuperação Após Golpe Mais Rápida|Восстановление после удара|更快的击中恢复|より速い回復力|빠른 피격 회복|Schnellere Erholung nach Treffern|de récupération rapide après un coup
 stat_defense_vs_missile|Defense vs Missiles|Puolustus vs ohjukset|Defesa contra Projéteis|Защита против ракет|对抗导弹的防御|ミサイルに対する防御|미사일에 대한 방어|Verteidigung gegen Geschosse|de défense contre les missiles
 stat_hp_kill|Life After each Kill|Elämä jokaisen murhan jälkeen|Vida Após cada Eliminação|Здоровья за убийство|击杀后生命恢复|キル後の生命回復|죽인 후 생명력 회복|Leben nach jedem Kill|de vie après chaque mort
 stat_mana_kill|Mana After each Kill|Mana jokaisen tappamisen jälkeen|Mana Após cada Eliminação|Маны за убийство|击杀后法力恢复|キル後のマナ回復|죽인 후 마나 회복|Mana nach jedem Kill|de mana après chaque mort
 stat_max_hp|Life Increased by|Elinikä lisääntynyt|Vida Aumentada em|Жизнь увеличена на|生命增加|生命力増加|생명력 증가|Leben erhöht um|Vie augmenté de 
 stat_max_mana|Mana Increased by|Mana lisääntynyt|Mana Aumentada em|Мана увеличена на|法力增加|マナ増加|마나 증가|Mana erhöht um|Mana augmenté de 
-stat_light_radius|to Light Radius|valonsäteeseen|para Raio de Luz|к Радиусу света|对光照半径|光の半径へ|빛 반경에 대해|auf Lichtradius|au cercle de lumière
+stat_light_radius|to Light Radius|valonsäteeseen|para Raio de Luz|к Радиусу света|对光照半径|光の半径へ|빛 반경|auf Lichtradius|au cercle de lumière
 stat_damage_return|of Damage Returned to the Attacker|Hyökkääjälle palautetuista vahingoista|do Dano Retornado para o Agressor|отражение урона|伤害返回给攻击者|攻撃者に返されるダメージの割合|공격자에게 반환되는 피해|von zurückgeworfenem Schaden|de dégâts d'épine
 stat_damage_taken_mana|of Damage Taken Recouped as Mana|vahingoista, jotka on korvattu manana|do Dano Sofrido vai para Mana|полученного урона, возмещенного как Мана|受到的伤害以法力形式恢复|受けたダメージのマナとして回復|받은 피해의 마나로 회복|des erlittenen Schadens als Mana zurückgewonnen|des dégâts subis récupérés sous forme de mana
 stat_damage_taken_life|of Damage Taken Recouped as Life|vahingonkorvaus henkinä|do Dano Sofrido vai para Vida|полученного урона, возмещенного как Жизнь |受到的伤害以生命形式恢复 |受けたダメージのライフとして回復 |받은 피해의 생명력으로 회복 |des erlittenen Schadens als Leben zurückgewonnen |des dégâts subis récupérés sous forme de vie 
@@ -113,18 +113,18 @@ stat_energy_per_level|to Energy (Based on Level)|energiaan (tason perusteella)|p
 stat_intelligence_per_level|to Intelligence (Based on Level)|älykkyyteen (tason perusteella)|para Inteligência (Baseado no Nível)|к интеллекту (на основе уровня) |智力（基于级别） |知能（レベルに基づく） |지능(레벨에 따라) |zur Intelligenz (basierend auf dem Level) |à l'intelligence (en fonction du niveau) 
 stat_armor_per_level|to Armor (Based on Level)|panssariin (tason perusteella)|para Armadura (Baseado no Nível)|к броне (в зависимости от уровня)|对护甲（基于等级）|アーマーへ（レベルに基づく）|레벨에 따른 방어력|auf Rüstung (basierend auf Stufe)|d'armure (basé sur le niv.)
 stat_vitality_per_level|to Vitality (Based on Level)|elinvoimaisuuteen (tason perusteella)|para Vitalidade (Baseado no Nível)|к живучести (в зависимости от уровня)|对体力（基于等级）|体力へ（レベルに基づく）|레벨에 따른 활력|auf Vitalität (basierend auf Stufe)|en vitalité (basé sur le niv.)
-stat_all_resistance|to All Resistances|Kaikille vastustuksille|para Todas as Resistências|ко всем сопротивлениям|对所有抗性|全抵抗力へ|모든 저항에 대해|auf alle Widerstände|à toutes les résistances
-stat_magic_resistance|to Arcane Resistance|Arcane Resistancelle|para Resistência Arcana|к сопротивлению тайной магии|对魔法抗性|魔法抵抗力へ|마법 저항에 대해|auf Magiewiderstand|à la résistance à l'arcane 
-stat_cold_resistance|to Cold Resistance|kylmänkestävyyteen|para Resistência ao Gelo|к сопротивлению холоду|对寒冷抗性|冷気抵抗力へ|냉기 저항에 대해|auf Kälteresistenz|à la résistance au froid
-stat_fire_resistance|to Fire Resistance|tulenkestävyyteen|para Resistência ao Fogo|к сопротивлению огню|对火焰抗性|火焔抵抗力へ|화염 저항에 대해|auf Feuerresistenz|à la résistance au feu
-stat_poison_resistance|to Poison Resistance|myrkkynkestävyyteen|para Resistência ao Veneno|к сопротивлению яду|对毒素抗性|毒抵抗力へ|독 저항에 대해|auf Giftresistenz|à la résistance au poison
-stat_lightning_resistance|to Lightning Resistance|salamankestävyyteen|para Resistência a Raios|к сопротивлению молнии|对闪电抗性|雷撃抵抗力へ|번개 저항에 대해|auf Blitzresistenz|à la résistance à la foudre
+stat_all_resistance|to All Resistances|Kaikille vastustuksille|para Todas as Resistências|ко всем сопротивлениям|对所有抗性|全抵抗力へ|모든 저항|auf alle Widerstände|à toutes les résistances
+stat_magic_resistance|to Arcane Resistance|Arcane Resistancelle|para Resistência Arcana|к сопротивлению тайной магии|对魔法抗性|魔法抵抗力へ|마법 저항|auf Magiewiderstand|à la résistance à l'arcane 
+stat_cold_resistance|to Cold Resistance|kylmänkestävyyteen|para Resistência ao Gelo|к сопротивлению холоду|对寒冷抗性|冷気抵抗力へ|냉기 저항|auf Kälteresistenz|à la résistance au froid
+stat_fire_resistance|to Fire Resistance|tulenkestävyyteen|para Resistência ao Fogo|к сопротивлению огню|对火焰抗性|火焔抵抗力へ|화염 저항|auf Feuerresistenz|à la résistance au feu
+stat_poison_resistance|to Poison Resistance|myrkkynkestävyyteen|para Resistência ao Veneno|к сопротивлению яду|对毒素抗性|毒抵抗力へ|독 저항|auf Giftresistenz|à la résistance au poison
+stat_lightning_resistance|to Lightning Resistance|salamankestävyyteen|para Resistência a Raios|к сопротивлению молнии|对闪电抗性|雷撃抵抗力へ|번개 저항|auf Blitzresistenz|à la résistance à la foudre
 stat_max_all_resistance|to Maximum All Resists|Maximum All Resistille|para Todas as Resistências Máximas|к максимальным всем сопротивлениям |最大程度提高所有抵抗力 |すべての耐性を最大にする |모든 저항을 최대로 |bis zum Maximum aller Resists |pour maximiser toutes les résistances 
-stat_max_magic_resistance|to Maximum Arcane Resist|Maximum Arcane Resistiin|para Resistência Arcana Máxima|к максимальному сопр. тайной магии|对最大魔法抗性|最大魔法抵抗力へ|최대 마법 저항에 대해|auf maximalen Magiewiderstand|à la résistance max à l'arcane 
-stat_max_fire_resistance|to Maximum Fire Resist|maksimaaliseen palonkestävyyteen|para Resistência Máxima a Fogo|к максимальному сопротивленюогню|对最大火焰抗性|最大火焔抵抗力へ|최대 화염 저항에 대해|auf maximalen Feuerwiderstand|à la résistance max au feu
-stat_max_cold_resistance|to Maximum Cold Resist|maksimaaliseen kylmänkestoon|para Resistência Máxima ao Gelo|к максимальному сопротивлению холоду|对最大寒冷抗性|最大冷気抵抗力へ|최대 냉기 저항에 대해|auf maximalen Kältewiderstand|à la résistance max au froid
-stat_max_poison_resistance|to Maximum Poison Resist|maksimaaliseen myrkkynkestävyyteen|para Resistência Máxima ao Veneno|к максимальному сопротивлению яду|对最大毒素抗性|最大毒抵抗力へ|최대 독 저항에 대해|auf maximalen Giftwiderstand|à la résistance max au poison
-stat_max_lightning_resistance|to Maximum Lightning Resist|maksimaaliseen salamankestävyyteen|para Resistência Máxima a Raios|к максимальному сопротивлению молнии|对最大闪电抗性|最大雷撃抵抗力へ|최대 번개 저항에 대해|auf maximalen Blitzwiderstand|à la résistance max à la foudre
+stat_max_magic_resistance|to Maximum Arcane Resist|Maximum Arcane Resistiin|para Resistência Arcana Máxima|к максимальному сопр. тайной магии|对最大魔法抗性|最大魔法抵抗力へ|최대 마법 저항|auf maximalen Magiewiderstand|à la résistance max à l'arcane 
+stat_max_fire_resistance|to Maximum Fire Resist|maksimaaliseen palonkestävyyteen|para Resistência Máxima a Fogo|к максимальному сопротивленюогню|对最大火焰抗性|最大火焔抵抗力へ|최대 화염 저항|auf maximalen Feuerwiderstand|à la résistance max au feu
+stat_max_cold_resistance|to Maximum Cold Resist|maksimaaliseen kylmänkestoon|para Resistência Máxima ao Gelo|к максимальному сопротивлению холоду|对最大寒冷抗性|最大冷気抵抗力へ|최대 냉기 저항|auf maximalen Kältewiderstand|à la résistance max au froid
+stat_max_poison_resistance|to Maximum Poison Resist|maksimaaliseen myrkkynkestävyyteen|para Resistência Máxima ao Veneno|к максимальному сопротивлению яду|对最大毒素抗性|最大毒抵抗力へ|최대 독 저항|auf maximalen Giftwiderstand|à la résistance max au poison
+stat_max_lightning_resistance|to Maximum Lightning Resist|maksimaaliseen salamankestävyyteen|para Resistência Máxima a Raios|к максимальному сопротивлению молнии|对最大闪电抗性|最大雷撃抵抗力へ|최대 번개 저항|auf maximalen Blitzwiderstand|à la résistance max à la foudre
 stat_extra_ruby|Extra Rubies Dropped From Kills|Ylimääräisiä rubiineja pudotettiin tappajista|Rubis Extra Dropado de Eliminações|Дополнительные рубины выпадают за убийства|额外红宝石掉落|キルから追加のルビーをドロップ|킬로부터 추가 루비 드롭|Zusätzliche Rubine von getöteten Gegnern|Rubis supplémentaires par mort
 stat_extra_gold|Extra Gold Dropped From Kills|Ylimääräistä kultaa pudonnut tappajista|Ouro Extra Dropado de Eliminações|Дополнительное золото, выпадающее за убийства|额外金币掉落|キルから追加のゴールドをドロップ|킬로부터 추가 골드 드롭|Zusätzliches Gold von getöteten Gegnern|Or en plus sur les monstres
 stat_magic_find|Increased Magic Find|Lisääntynyt Magic Find|Magic Find Aumentado|Увеличение удачи|增加魔法发现|マジックファインド増加|마법 찾기 증가|Erhöhte Magiefundrate|de découverte d'objets magiques
