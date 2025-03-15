@@ -4,7 +4,7 @@ subVikingCharge01|Power Charge||||||파워 차지||
 subVikingCharge02|Hyperfocus||||||초집중||
 subVikingCharge03|Bodyslam||||||바디슬램||
 subVikingCharge04|Resilience||||||탄력성||
-subVikingCharge05|Overconfidence||||||||
+subVikingCharge05|Overconfidence||||||자신 과잉||
 subVikingCharge06|Spirit Breaker||||||정령 파괴자||
 subVikingCharge07|Violent Momentum||||||폭력의 기세||
 subVikingCharge08|Berserking Ram||||||광전사의 양||
@@ -64,7 +64,7 @@ subVikingSeismicSlam03|Lethal Crush||||||치명적인 분쇄||
 subVikingSeismicSlam04|Cheap Slam||||||저렴한 슬램||
 subVikingSeismicSlam05|Seismic Aftershock||||||지진 여파||
 subVikingSeismicSlam06|Power Slam||||||파워 슬램||
-subVikingSeismicSlam07|Earth Root||||||||
+subVikingSeismicSlam07|Earth Root||||||지구 뿌리||
 subVikingSeismicSlam08|Slamming Flurry||||||맹렬한 돌진||
 subVikingSeismicSlam09|Defiling Carcass||||||더럽혀진 시체||
 subVikingSeismicSlam10|Shattered Earth||||||파괴된 지구||
@@ -97,7 +97,7 @@ subVikingThrow07|Breaking Fall||||||낙하 방지||
 subVikingThrow08|Bouncing Around||||||튀어다니기||
 subVikingThrow09|Bulls Eye||||||명중||
 subVikingThrow10|Dive Bomb||||||급강하 폭격||
-subVikingThrow11|Ragesling||||||Ragesling||
+subVikingThrow11|Ragesling||||||||
 subVikingThrow12|Vacuum Pitch||||||진공 피치||
 subVikingThrow13|Dimensional Pitch||||||차원의 구장||
 subVikingThrow14|Echoing Throw||||||메아리 던지기||
@@ -262,14 +262,14 @@ subDescVikingBerserk13|Every time you reach full stacks unleash a trembling puls
 subDescVikingBerserk14|Increases the power of attack damage from berserk stacks lowering attack speed scaling.||||||광폭화 스택으로 인해 공격 속도 증가율이 감소하면서 공격력 피해가 증가합니다.||
 |||||||||
 subPyromancerBlazingTrail01|Timed Fire||||||타임드 파이어||
-subPyromancerBlazingTrail02|Scorch||||||||
+subPyromancerBlazingTrail02|Scorch||||||불타다||
 subPyromancerBlazingTrail03|Expanded Flames||||||확장된 불꽃||
 subPyromancerBlazingTrail04|Flaming Steps||||||불타는 발자국||
 subPyromancerBlazingTrail05|Agonizing Heat||||||고통스러운 열기||
 subPyromancerBlazingTrail06|Combusting Flames||||||타오르는 불꽃||
 subPyromancerBlazingTrail07|Burning Veins||||||불타는 혈관||
 subPyromancerBlazingTrail08|Paralyzing Fire||||||마비의 불꽃||
-subPyromancerBlazingTrail09|Crackling Heat||||||||
+subPyromancerBlazingTrail09|Crackling Heat||||||타오르는 열기||
 subPyromancerBlazingTrail10|Fueled Flames||||||불타는 불꽃||
 subPyromancerBlazingTrail11|Forking Flames||||||분기하는 불꽃||
 subPyromancerBlazingTrail12|Circle of Fire||||||화염의 원||
@@ -407,7 +407,7 @@ subDescPyromancerFireball13|Fireball casts now orbit around you for a short peri
 subDescPyromancerFireball14|Chance on spellhit to spawn a firefly around you that seek out nearby targets exploding into a fireball.||||||주문 적중 시 불파리가 소환되어 주변 목표를 찾아 폭발하는 파이어볼을 생성합니다.||
 |||||||||
 subPyromancerHydra01|Lasting Fire||||||지속적인 불꽃||
-subPyromancerHydra02|Fiery Snakebite||||||||
+subPyromancerHydra02|Fiery Snakebite||||||불타는 뱀의 이빨||
 subPyromancerHydra03|Flaming Reach||||||불꽃의 도달||
 subPyromancerHydra04|Scorching Blast||||||맹렬한 폭발||
 subPyromancerHydra05|More Heads More Fire!||||||더 많은 머리, 더 많은 불!||
@@ -446,7 +446,7 @@ subPyromancerScorchingAura08|Ground Blaze||||||그라운드 블레이즈||
 subPyromancerScorchingAura09|Scorching Agony||||||타오르는 고통||
 subPyromancerScorchingAura10|Burn Them All!||||||모두 불태워라!||
 subPyromancerScorchingAura11|Searing Burst||||||타오르는 폭발||
-subPyromancerScorchingAura12|Burning Soul||||||||
+subPyromancerScorchingAura12|Burning Soul||||||불타는 영혼||
 subPyromancerScorchingAura13|Scorching Harvester||||||타오르는 수확자||
 subPyromancerScorchingAura14|RELEASE THE CHAOS!||||||혼돈을 풀어라!||
 subDescPyromancerScorchingAura01|Increases the area of effect radius of scorching aura.||||||불타는 오라의 효과 범위 반경을 증가시킵니다.||
@@ -464,7 +464,7 @@ subDescPyromancerScorchingAura12|Increases the damage of scorching aura based on
 subDescPyromancerScorchingAura13|Frequently send out fiery souls dealing damage replenishing a portion of your maximum life.||||||자주 불타는 영혼을 보내어 피해를 주고 최대 생명력의 일부를 회복합니다.||
 subDescPyromancerScorchingAura14|Ignite the flames now additionally unleashes piercing fireballs spiraling outwards dealing additional damage.||||||불꽃을 점화하면 이제 추가로 나선형으로 퍼져 나가는 관통 화염구를 발사하여 추가 피해를 입힙니다.||
 |||||||||
-subPyromancerVolcano01|Eruption||||||||
+subPyromancerVolcano01|Eruption||||||분출||
 subPyromancerVolcano02|Extended Lava||||||확장된 용암||
 subPyromancerVolcano03|Danger Zone||||||위험 구역||
 subPyromancerVolcano04|Searing Mountain||||||타오르는 산||
@@ -624,7 +624,7 @@ subMarksmanVault12|Leaping Cyclone||||||도약하는 사이클론||
 subMarksmanVault13|Safespace||||||안전 구역||
 subMarksmanVault14|iArrow||||||||
 subDescMarksmanVault01|Increases vault length.||||||금고 길이를 증가시킵니다.||
-subDescMarksmanVault02|Increases the damage dealt by vault.||||||||
+subDescMarksmanVault02|Increases the damage dealt by vault.||||||볼트로 가하는 피해가 증가합니다.||
 subDescMarksmanVault03|Increases attack rating when vaulting.||||||도약 시 명중률 증가.||
 subDescMarksmanVault04|Increases the amount of projectiles fired when vaulting.||||||도약 시 발사되는 투사체의 수를 증가시킵니다.||
 subDescMarksmanVault05|Increases air time when vaulting. Vault can now go over hard terrain.||||||도약 시 공중 체류 시간이 증가합니다. 이제 도약으로 험한 지형을 넘을 수 있습니다.||
@@ -640,7 +640,7 @@ subDescMarksmanVault14|Turn into a big arrow dealing damage to monsters on your 
 |||||||||
 subMarksmanMultishot01|Bow & String||||||활과 활시위||
 subMarksmanMultishot02|Clear Mind||||||맑은 정신||
-subMarksmanMultishot03|Steady Aim||||||||
+subMarksmanMultishot03|Steady Aim||||||정확한 조준||
 subMarksmanMultishot04|Stacked Quiver||||||화살통 중첩||
 subMarksmanMultishot05|Agile Marksman||||||민첩한 명사수||
 subMarksmanMultishot06|Wounding Impact||||||상처를 입히는 충격||
@@ -697,7 +697,7 @@ subDescMarksmanVolatileShot13|On monster or terrain impact launch multiple pierc
 subDescMarksmanVolatileShot14|Fire multiple additional arrows raining from the sky covering a wide area. Volatile shot now has a short cooldown.||||||하늘에서 여러 개의 추가 화살이 넓은 지역을 덮으며 쏟아집니다. 불안정한 사격은 이제 짧은 재사용 대기시간이 있습니다.||
 |||||||||
 subMarksmanArrowRain01|Spot On||||||정확해||
-subMarksmanArrowRain02|Long Reach||||||||
+subMarksmanArrowRain02|Long Reach||||||긴 사정거리||
 subMarksmanArrowRain03|Rain Of Pain||||||고통의 비||
 subMarksmanArrowRain04|Coverage||||||커버리지||
 subMarksmanArrowRain05|Sharper Tips||||||날카로운 팁||
@@ -754,7 +754,7 @@ subDescMarksmanArrowRampage12|Arrow rampage projectiles have a chance to cast tr
 subDescMarksmanArrowRampage13|Arrow rampage projectiles have a chance to shatter into a spread of arrows when hitting a target.||||||화살 난사 발사체가 목표를 맞출 때 화살이 퍼져서 산산조각 날 확률이 있습니다.||
 subDescMarksmanArrowRampage14|Arrow rampage area becomes much wider and deals a portion of its damage as fire causing burning on monsters hit based on fire damage dealt.||||||화살 광란 구역이 훨씬 넓어지며, 입힌 피해의 일부를 화염 피해로 전환하여 맞은 몬스터를 불타게 합니다.||
 |||||||||
-subMarksmanFragGrenade01|Shrapnel||||||||
+subMarksmanFragGrenade01|Shrapnel||||||파편||
 subMarksmanFragGrenade02|Fatal Range||||||||
 subMarksmanFragGrenade03|Detonating||||||||
 subMarksmanFragGrenade04|Fragging Penetration||||||나노||
@@ -851,7 +851,7 @@ subMarksmanCannonTurret07|Landing Spot||||||착륙 지점||
 subMarksmanCannonTurret08|Line of Sight||||||시야||
 subMarksmanCannonTurret09|Multishred||||||멀티슈레드||
 subMarksmanCannonTurret10|Frostbitten Fodder||||||냉기 물린 먹잇감||
-subMarksmanCannonTurret11|Megacannon||||||||
+subMarksmanCannonTurret11|Megacannon||||||메가캐논||
 subMarksmanCannonTurret12|Mid Air Crisis||||||공중 위기||
 subMarksmanCannonTurret13|Burst Artillery||||||폭발 포격||
 subMarksmanCannonTurret14|Weakening Blast||||||약화 폭발||
@@ -906,7 +906,7 @@ subMarksmanRocketTurret04|Mininuke||||||||
 subMarksmanRocketTurret05|Multiblast||||||멀티블라스트||
 subMarksmanRocketTurret06|Fragmenting Blast||||||파편 폭발||
 subMarksmanRocketTurret07|Field Scanner||||||필드 스캐너||
-subMarksmanRocketTurret08|Blastwave||||||||
+subMarksmanRocketTurret08|Blastwave||||||블래스트웨이브||
 subMarksmanRocketTurret09|Quick Silo||||||빠른 사일로||
 subMarksmanRocketTurret10|Stun Blast||||||기절 폭발||
 subMarksmanRocketTurret11|Locked On||||||조준 완료||
@@ -1051,7 +1051,7 @@ subPiratePowderTrail04|Colliding Barrel||||||충돌하는 통||
 subPiratePowderTrail05|Heated Powder||||||가열된 가루||
 subPiratePowderTrail06|Stacked Fumes||||||겹쳐진 연기||
 subPiratePowderTrail07|Powder Detonation||||||폭약 폭발||
-subPiratePowderTrail08|Dual Barrel||||||||
+subPiratePowderTrail08|Dual Barrel||||||이중 배럴||
 subPiratePowderTrail09|Mage of the Trails||||||길의 마법사||
 subPiratePowderTrail10|Shortened Fuse||||||짧아진 도화선||
 subPiratePowderTrail11|Barrel of Barrels||||||통의 통||
@@ -1080,8 +1080,8 @@ subPirateBombBarrage04|Explosive Barrage||||||폭발성 포화||
 subPirateBombBarrage05|Piercing Blastwave||||||관통 폭발파||
 subPirateBombBarrage06|Scaled Blastradius||||||스케일드 블라스트라디우스||
 subPirateBombBarrage07|Molten Heat Bombs||||||용암 열 폭탄||
-subPirateBombBarrage08|Sharp Scatter||||||||
-subPirateBombBarrage09|Quick Barrage||||||||
+subPirateBombBarrage08|Sharp Scatter||||||날카로운 산탄||
+subPirateBombBarrage09|Quick Barrage||||||신속한 연속 공격||
 subPirateBombBarrage10|Critical Explosion||||||치명적인 폭발||
 subPirateBombBarrage11|Crossed Spot||||||교차 지점||
 subPirateBombBarrage12|Bomb Shower||||||폭탄 비||
@@ -1105,7 +1105,7 @@ subDescPirateBombBarrage14|Now throw a single bomb marking the target location a
 subPirateTorrent01|Splash Impact||||||스플래시 임팩트||
 subPirateTorrent02|Watery Fissure||||||물의 균열||
 subPirateTorrent03|Subzero Liquid||||||서브제로 액체||
-subPirateTorrent04|Torrenting Current||||||||
+subPirateTorrent04|Torrenting Current||||||토렌트 흐름||
 subPirateTorrent05|Waterwalk||||||물 위를 걷기||
 subPirateTorrent06|Collateral Splash||||||부수적 폭발||
 subPirateTorrent07|Water Mass||||||수질량||
@@ -1219,7 +1219,7 @@ subDescPirateAnchorSwing13|Unleash a massive anchor covering a wide radius with 
 subDescPirateAnchorSwing14|Send the anchor forward unleashing a shockwave of torrents to all directions when hitting terrain.||||||닻을 앞으로 보내 지형에 부딪힐 때 모든 방향으로 급류의 충격파를 방출합니다.||
 |||||||||
 subPirateLandAhoy01|Armada||||||||
-subPirateLandAhoy02|Fire All!||||||||
+subPirateLandAhoy02|Fire All!||||||모두 발사!||
 subPirateLandAhoy03|Rum Infused Ammo||||||럼 주입 탄약||
 subPirateLandAhoy04|Blunder Bombs||||||실수 폭탄||
 subPirateLandAhoy05|Warheads||||||탄두||
@@ -1257,7 +1257,7 @@ subNomadSandCarver07|Swift Strikes||||||신속한 공격||
 subNomadSandCarver08|Raw Power||||||원초적인 힘||
 subNomadSandCarver09|Headwind||||||||
 subNomadSandCarver10|Sand Infusion||||||모래 주입||
-subNomadSandCarver11|Eviscerate||||||||
+subNomadSandCarver11|Eviscerate||||||도륙||
 subNomadSandCarver12|Parasitical Sand||||||기생 모래||
 subNomadSandCarver13|Piercing Sands||||||관통하는 모래||
 subNomadSandCarver14|Desert´s Blade||||||사막의 검||
@@ -1278,7 +1278,7 @@ subDescNomadSandCarver14|Chance on attack to summon a big tornado pulling in and
 |||||||||
 subNomadCloudOfSand01|Breeze||||||||
 subNomadCloudOfSand02|Desert's Spirit||||||사막의 영혼||
-subNomadCloudOfSand03|Sand Twisters||||||||
+subNomadCloudOfSand03|Sand Twisters||||||모래 회오리||
 subNomadCloudOfSand04|Desert's Will||||||사막의 의지||
 subNomadCloudOfSand05|Desert's Endurance||||||사막의 인내||
 subNomadCloudOfSand06|Sandbender||||||모래술사||
@@ -1336,7 +1336,7 @@ subDescNomadSandTremors14|Striking monsters adds a stack of dune warrior sending
 |||||||||
 subNomadSandGush01|Desert´s Sand||||||사막의 모래||
 subNomadSandGush02|Gushing Winds||||||거센 바람||
-subNomadSandGush03|Piercing Sand||||||||
+subNomadSandGush03|Piercing Sand||||||관통하는 모래||
 subNomadSandGush04|Stranded Impact||||||좌초 충격||
 subNomadSandGush05|Armor Piercing Flow||||||장갑 관통 흐름||
 subNomadSandGush06|Gusting Winds||||||강풍||
@@ -1363,7 +1363,7 @@ subDescNomadSandGush12|Cast continuous gushes around you for a short period with
 subDescNomadSandGush13|Send out a sand tornado casting sand gush continuously.||||||모래 토네이도를 보내어 계속해서 모래를 뿜어냅니다.||
 subDescNomadSandGush14|Unleash small dust devils bouncing off of walls and unleashing a pulse of sand on hit.||||||벽에 튕기며 작은 먼지 악마를 풀어놓고, 맞으면 모래 파동을 방출합니다.||
 |||||||||
-subNomadSandVortex01|Desert Mass||||||||
+subNomadSandVortex01|Desert Mass||||||사막 덩어리||
 subNomadSandVortex02|Quicksand||||||유사||
 subNomadSandVortex03|Shredding Sand||||||모래 갈기||
 subNomadSandVortex04|Locust Whirlpool||||||메뚜기 소용돌이||
@@ -1398,7 +1398,7 @@ subNomadBladeStrike03|Lethal Swing||||||치명적인 휘두름||
 subNomadBladeStrike04|Blade Master||||||블레이드 마스터||
 subNomadBladeStrike05|Gut Slicer||||||창자 절단기||
 subNomadBladeStrike06|Catch Up Blade||||||추적의 검||
-subNomadBladeStrike07|Cleaving Slash||||||||
+subNomadBladeStrike07|Cleaving Slash||||||가르는 베기||
 subNomadBladeStrike08|Agile Striker||||||민첩한 공격수||
 subNomadBladeStrike09|Bounty Hunting||||||현상 수배||
 subNomadBladeStrike10|Tribal Commander||||||부족 사령관||
@@ -1661,12 +1661,12 @@ subRedneckPickupRaid05|V12 Engine||||||V12 엔진||
 subRedneckPickupRaid06|Moonshine Miles||||||문샤인 마일즈||
 subRedneckPickupRaid07|Napalm Filling||||||네이팜 충전||
 subRedneckPickupRaid08|Crackling Fire||||||타오르는 불||
-subRedneckPickupRaid09|Speed Dial||||||||
+subRedneckPickupRaid09|Speed Dial||||||단축 번호||
 subRedneckPickupRaid10|Double Barrel||||||더블 배럴||
 subRedneckPickupRaid11|Suicide Squad||||||수어사이드 스쿼드||
 subRedneckPickupRaid12|Freedom Convoy||||||자유 호송대||
 subRedneckPickupRaid13|Drunken Air Raid||||||취한 공습||
-subRedneckPickupRaid14|Tarethiel MC||||||||
+subRedneckPickupRaid14|Tarethiel MC||||||타레시엘 MC||
 subDescRedneckPickupRaid01|Increases the damage dealt by pickup raid.||||||픽업 레이드로 인한 피해량 증가||
 subDescRedneckPickupRaid02|All raid participants leak oil on the ground.||||||모든 공격대 참가자가 바닥에 기름을 흘립니다.||
 subDescRedneckPickupRaid03|Adds a motorcycle rider to the pickup raid firing buckshots.||||||픽업 습격에 산탄총을 발사하는 오토바이 라이더를 추가합니다.||
@@ -1769,7 +1769,7 @@ subDescRedneckRogueChainsaw12|Launch multiple rogue chainsaws in an arc instead 
 subDescRedneckRogueChainsaw13|Rogue chainsaws now home towards the closest monster.||||||이제 도망가는 전기톱이 가장 가까운 몬스터를 향해 이동합니다.||
 subDescRedneckRogueChainsaw14|Throw multiple rogue chainsaws in a circle around you, traveling back to you upon landing.||||||여러 개의 무법자 전기톱을 원형으로 던져 착지 후 다시 돌아오게 합니다.||
 |||||||||
-subRedneckTreeTrunkTriumph01|Splinters||||||||
+subRedneckTreeTrunkTriumph01|Splinters||||||파편||
 subRedneckTreeTrunkTriumph02|Treefall||||||나무낙하||
 subRedneckTreeTrunkTriumph03|Heavy Trunk||||||무거운 트렁크||
 subRedneckTreeTrunkTriumph04|Sequoia||||||세쿼이아||
@@ -1777,11 +1777,11 @@ subRedneckTreeTrunkTriumph05|Sticking Splinters||||||쪼개진 나무조각||
 subRedneckTreeTrunkTriumph06|Skillfull Fall||||||숙련된 낙하||
 subRedneckTreeTrunkTriumph07|Sudden Treefall||||||갑작스러운 나무 쓰러짐||
 subRedneckTreeTrunkTriumph08|Maiming Collision||||||절단 충돌||
-subRedneckTreeTrunkTriumph09|Heavy Fall||||||||
+subRedneckTreeTrunkTriumph09|Heavy Fall||||||강한 낙하||
 subRedneckTreeTrunkTriumph10|Clear The Way||||||길을 비켜라||
 subRedneckTreeTrunkTriumph11|Stack of Trunks||||||나무 더미||
 subRedneckTreeTrunkTriumph12|Giant Red Tree||||||거대한 붉은 나무||
-subRedneckTreeTrunkTriumph13|Splitting Fall||||||||
+subRedneckTreeTrunkTriumph13|Splitting Fall||||||분열 낙하||
 subRedneckTreeTrunkTriumph14|Falling Forest||||||떨어지는 숲||
 subDescRedneckTreeTrunkTriumph01|Trunks have a chance to explode into multiple splinters inflicting monsters hit with bleeding for a portion of the damage.||||||나무 줄기는 터져서 여러 조각으로 갈라질 수 있으며, 맞은 몬스터에게 피해의 일부를 출혈로 입힐 수 있습니다.||
 subDescRedneckTreeTrunkTriumph02|Chance to stun on hit.||||||적중 시 기절 확률 증가||
@@ -1811,7 +1811,7 @@ subNecromancerBoneShred10|Bone Spurs||||||뼈 돌기||
 subNecromancerBoneShred11|Bomb of Bones||||||뼈의 폭탄||
 subNecromancerBoneShred12|Shattering Carcass||||||파괴된 시체||
 subNecromancerBoneShred13|Orbiting Remains||||||궤도를 도는 잔해||
-subNecromancerBoneShred14|Skeletal Split||||||||
+subNecromancerBoneShred14|Skeletal Split||||||해골 분리||
 subDescNecromancerBoneShred01|Increases the amount of bone shreds.||||||뼛조각의 양을 증가시킵니다.||
 subDescNecromancerBoneShred02|Increases the damage dealt by bone shred.||||||뼈 분쇄의 피해량이 증가합니다.||
 subDescNecromancerBoneShred03|Decreases mana cost when using bone shred.||||||본 슈레드를 사용할 때 마나 소모 감소.||
@@ -1837,7 +1837,7 @@ subNecromancerMeatBomb07|Tossing The Meat||||||고기를 던지기||
 subNecromancerMeatBomb08|Double The Meat||||||고기 두 배||
 subNecromancerMeatBomb09|Heavy Lump of Meat||||||무거운 고기 덩어리||
 subNecromancerMeatBomb10|Fleshy Leftovers||||||살덩이 잔해||
-subNecromancerMeatBomb11|Strong Bones||||||||
+subNecromancerMeatBomb11|Strong Bones||||||튼튼한 뼈||
 subNecromancerMeatBomb12|Rotten Corpses||||||썩은 시체들||
 subNecromancerMeatBomb13|Multi Lumps||||||멀티 덩어리||
 subNecromancerMeatBomb14|Colossal Carcass||||||거대한 시체||
@@ -1943,7 +1943,7 @@ subDescNecromancerCorpseExplosion12|Corpse explosion deals poison damage inflict
 subDescNecromancerCorpseExplosion13|Activate an aura around you consuming nearby corpses per second casting corpse explosion for a short period. Corpse explosion now has a cooldown.||||||주변의 시체를 초당 소모하여 오라를 활성화하고 짧은 시간 동안 시체 폭발을 시전합니다. 이제 시체 폭발에는 재사용 대기시간이 있습니다.||
 subDescNecromancerCorpseExplosion14|Corpses are now lit on fire with increased size, dealing increased damage and inflicting burning on hit.||||||시체가 불타오르며 크기가 커지고, 더 많은 피해를 입히고 타격 시 화상을 입힙니다.||
 |||||||||
-subNecromancerBoneSpirit01|Divide Soul||||||||
+subNecromancerBoneSpirit01|Divide Soul||||||영혼 분할||
 subNecromancerBoneSpirit02|Purifying Essence||||||정화의 정수||
 subNecromancerBoneSpirit03|Life Infusion||||||생명 주입||
 subNecromancerBoneSpirit04|Ancient Possession||||||고대의 소유||
@@ -2149,7 +2149,7 @@ subDescSamuraiBattleGlance14|Dodging or blocking an attack causes your next batt
 subSamuraiShurikenThrow01|Pointy Edges||||||뾰족한 모냉기||
 subSamuraiShurikenThrow02|Quickthrow||||||빠른 던지기||
 subSamuraiShurikenThrow03|Forceful Flight||||||강력한 비행||
-subSamuraiShurikenThrow04|Twin Shurikens||||||||
+subSamuraiShurikenThrow04|Twin Shurikens||||||쌍수리검||
 subSamuraiShurikenThrow05|Shady Trickster||||||음흉한 사기꾼||
 subSamuraiShurikenThrow06|Starstruck||||||스타스트럭||
 subSamuraiShurikenThrow07|Empowering Shurikens||||||강화 수리검||
@@ -2158,7 +2158,7 @@ subSamuraiShurikenThrow09|Throwing Profiency||||||투척 숙련도||
 subSamuraiShurikenThrow10|Manainfused Shurikens||||||마나 주입 수리검||
 subSamuraiShurikenThrow11|Shadow Shuriken||||||그림자 수리검||
 subSamuraiShurikenThrow12|Cutting Field||||||절단 필드||
-subSamuraiShurikenThrow13|Ripping Flesh||||||||
+subSamuraiShurikenThrow13|Ripping Flesh||||||살점을 찢기||
 subSamuraiShurikenThrow14|Slicing Ricochet||||||슬라이싱 리코쳇||
 subDescSamuraiShurikenThrow01|Increases critical strike chance.||||||치명타 확률 증가.||
 subDescSamuraiShurikenThrow02|Increases projectile speed.||||||발사체 속도 증가||
@@ -2177,7 +2177,7 @@ subDescSamuraiShurikenThrow14|Shurikens now ricochet from monster hits and terra
 |||||||||
 subSamuraiQuickslash01|Lightspeed||||||광속||
 subSamuraiQuickslash02|Greater Slash||||||대절단||
-subSamuraiQuickslash03|Dual Hit||||||||
+subSamuraiQuickslash03|Dual Hit||||||이중 타격||
 subSamuraiQuickslash04|Exposed Weakness||||||약점 노출||
 subSamuraiQuickslash05|Top to Bottom||||||위에서 아래로||
 subSamuraiQuickslash06|Exploitation||||||착취||
@@ -2381,7 +2381,7 @@ subDescSamuraiShadowStep14|Shadow step now pulsates additional times inflicting 
 subSamuraiEmpiresSlash01|Steel Cutter||||||강철 절단기||
 subSamuraiEmpiresSlash02|Destructive Force||||||파괴력||
 subSamuraiEmpiresSlash03|Mastering The Sword||||||검의 숙련||
-subSamuraiEmpiresSlash04|On The Mark||||||||
+subSamuraiEmpiresSlash04|On The Mark||||||표적에||
 subSamuraiEmpiresSlash05|Emperor's Command||||||황제의 명령||
 subSamuraiEmpiresSlash06|Piercing Backslash||||||관통 백슬래시||
 subSamuraiEmpiresSlash07|Slithering Blade||||||교활한 칼날||
@@ -2475,7 +2475,7 @@ subPaladinHolyShockAura07|Charge Mark||||||충전 마크||
 subPaladinHolyShockAura08|Conduit||||||도관||
 subPaladinHolyShockAura09|Friendly Electron Flow||||||친구 같은 전자 흐름||
 subPaladinHolyShockAura10|Defensive Charge||||||방어 돌진||
-subPaladinHolyShockAura11|Surging Wrath||||||||
+subPaladinHolyShockAura11|Surging Wrath||||||분노의 폭발||
 subPaladinHolyShockAura12|Lightning Tether||||||번개 연결||
 subPaladinHolyShockAura13|Chain Thunder||||||체인 썬더||
 subPaladinHolyShockAura14|Gathering Storm||||||모이는 폭풍||
@@ -2497,7 +2497,7 @@ subDescPaladinHolyShockAura14|Stack up static energy from monsters inside the au
 subPaladinBallLightning01|Outbursting Charge||||||폭발적인 돌진||
 subPaladinBallLightning02|Thicker Coil||||||두꺼운 코일||
 subPaladinBallLightning03|Flash from the Sky||||||하늘에서 내리는 섬광||
-subPaladinBallLightning04|Overcharge||||||||
+subPaladinBallLightning04|Overcharge||||||과충전||
 subPaladinBallLightning05|Rapid Retreat||||||신속한 후퇴||
 subPaladinBallLightning06|Charged Bolts||||||충전된 볼트||
 subPaladinBallLightning07|Phantom Ball||||||팬텀 볼||
@@ -2562,7 +2562,7 @@ subPaladinHolyBolt07|Strengthened Will||||||강화된 의지||
 subPaladinHolyBolt08|Spoils of Holy War||||||성전의 전리품||
 subPaladinHolyBolt09|Illumination||||||조명||
 subPaladinHolyBolt10|Reveal the Sinners||||||죄인을 드러내라||
-subPaladinHolyBolt11|Rolling Judgement||||||||
+subPaladinHolyBolt11|Rolling Judgement||||||구르기 심판||
 subPaladinHolyBolt12|Touch of Righteousness||||||의로운 손길||
 subPaladinHolyBolt13|Righteous Path||||||정의로운 길||
 subPaladinHolyBolt14|Divine Assbeating||||||||
@@ -2672,7 +2672,7 @@ subAmazonNoxiousStrike01|Corrosive Force||||||부식의 힘||
 subAmazonNoxiousStrike02|Touch of Noxus||||||녹서스의 손길||
 subAmazonNoxiousStrike03|Empowered Toxins||||||강화된 독소||
 subAmazonNoxiousStrike04|Noxious Bolts||||||유독성 볼트||
-subAmazonNoxiousStrike05|Noxian Slash||||||||
+subAmazonNoxiousStrike05|Noxian Slash||||||녹시안 슬래시||
 subAmazonNoxiousStrike06|Corrosive Reach||||||부식성 도달||
 subAmazonNoxiousStrike07|Envenoming Empowerment||||||독에 걸린 강화||
 subAmazonNoxiousStrike08|Glimmering Venom||||||반짝이는 독||
@@ -2702,7 +2702,7 @@ subAmazonLeapingAmbush02|Heavyweight Slam||||||헤비웨이트 슬램||
 subAmazonLeapingAmbush03|Tribal Spearnage||||||부족의 창술||
 subAmazonLeapingAmbush04|Landing Blast||||||착륙 폭발||
 subAmazonLeapingAmbush05|Stunning Smash||||||기절 타격||
-subAmazonLeapingAmbush06|Crippling the Weak||||||||
+subAmazonLeapingAmbush06|Crippling the Weak||||||약자를 무력화||
 subAmazonLeapingAmbush07|Venomous Blastwave||||||맹독 폭발파||
 subAmazonLeapingAmbush08|Adrenaline Rush||||||아드레날린 러시||
 subAmazonLeapingAmbush09|Anti-Antidote||||||해독제 반대||
@@ -2761,7 +2761,7 @@ subAmazonDeathFromAbove03|Icebreaking Spearshower||||||얼음 파쇄 창세례||
 subAmazonDeathFromAbove04|Spearhandler's Intellect||||||창병의 지력||
 subAmazonDeathFromAbove05|Need for Speed||||||니드 포 스피드||
 subAmazonDeathFromAbove06|Beast Slayer||||||야수 학살자||
-subAmazonDeathFromAbove07|Safeheaven||||||||
+subAmazonDeathFromAbove07|Safeheaven||||||안전한 피난처||
 subAmazonDeathFromAbove08|Critical Arrowfall||||||치명적인 화살비||
 subAmazonDeathFromAbove09|Stacking Life||||||생명 쌓기||
 subAmazonDeathFromAbove10|Dual Spearshower||||||이중 창비||
@@ -2796,7 +2796,7 @@ subAmazonEnvenom09|Added Venom||||||독 추가됨||
 subAmazonEnvenom10|Venom Overflow||||||독소 범람||
 subAmazonEnvenom11|Stacked Weakness||||||중첩된 약점||
 subAmazonEnvenom12|Rapid End||||||||
-subAmazonEnvenom13|Envenova||||||||
+subAmazonEnvenom13|Envenova||||||Envenova||
 subAmazonEnvenom14|Venomwave||||||베놈웨이브||
 subDescAmazonEnvenom01|Increases envenom proc chance.||||||독 공격 발동 확률 증가.||
 subDescAmazonEnvenom02|Increases poisoned damage inflicted by envenom.||||||독에 의한 피해량 증가||
@@ -2819,7 +2819,7 @@ subAmazonAstropesGift03|Astrope's Curse||||||아스트로프의 저주||
 subAmazonAstropesGift04|Astrope's Revenge||||||아스트로프의 복수||
 subAmazonAstropesGift05|Rapid Momentum||||||빠른 모멘텀||
 subAmazonAstropesGift06|Powerstasis||||||파워스테이시스||
-subAmazonAstropesGift07|Ending Fate||||||||
+subAmazonAstropesGift07|Ending Fate||||||운명의 결말||
 subAmazonAstropesGift08|Astrope's Agility||||||아스트로프의 민첩성||
 subAmazonAstropesGift09|Astrope's Dexterity||||||아스트로프의 민첩성||
 subAmazonAstropesGift10|Zapping Voltage||||||전압 충격||
@@ -2851,7 +2851,7 @@ subAmazonRebound06|Accurate Spearshot||||||정확한 창 던지기||
 subAmazonRebound07|Increasing Odds||||||확률 증가||
 subAmazonRebound08|Penetrating Rebound||||||관통 리바운드||
 subAmazonRebound09|Marksmanship||||||명사수||
-subAmazonRebound10|Rapidfly||||||||
+subAmazonRebound10|Rapidfly||||||래피드플라이||
 subAmazonRebound11|Electrocharged Rebound||||||전자 충격 반동||
 subAmazonRebound12|Rebomb||||||||
 subAmazonRebound13|Orbital Rebound||||||궤도 반동||
@@ -2987,14 +2987,14 @@ subDescDemonSlayerTriggerFinger12|Fire a single projectile with significantly in
 subDescDemonSlayerTriggerFinger13|Fire a burst of projectiles traveling through air and landing on the target location dealing area of effect damage.||||||공중을 통해 목표 지점에 착탄하는 발사체를 연속으로 발사하여 범위 피해를 입힙니다.||
 subDescDemonSlayerTriggerFinger14|Fire small shredders dealing damage over time and inflicting bleeding. The shredders projectile speed slows down on impact.||||||작은 파쇄기를 발사하여 지속 피해를 주고 출혈 상태를 유발합니다. 파쇄기의 투사체 속도는 충돌 시 느려집니다.||
 |||||||||
-subDemonSlayerBulletHell01|Hellflame Bullets||||||||
+subDemonSlayerBulletHell01|Hellflame Bullets||||||지옥불 탄환||
 subDemonSlayerBulletHell02|More Bullets!||||||더 많은 총알!||
 subDemonSlayerBulletHell03|Slipping Triggerfinger||||||미끄러지는 방아쇠손가락||
 subDemonSlayerBulletHell04|Steady Gunhold||||||안정적인 총기 고정||
 subDemonSlayerBulletHell05|Heavy Bullet Impact||||||강력한 총알 충격||
 subDemonSlayerBulletHell06|Barrel Maintenance||||||배럴 유지보수||
 subDemonSlayerBulletHell07|Higher Caliber||||||고급 탄약||
-subDemonSlayerBulletHell08|Blasting Gunshot||||||||
+subDemonSlayerBulletHell08|Blasting Gunshot||||||폭발 총격||
 subDemonSlayerBulletHell09|Fragging Rounds||||||프래깅 라운드||
 subDemonSlayerBulletHell10|Abusive Tactics||||||||
 subDemonSlayerBulletHell11|Bullet Storm||||||탄환 폭풍||
@@ -3079,7 +3079,7 @@ subDemonSlayerAbsoluteMayhem02|Absolute Carnage||||||절대 학살||
 subDemonSlayerAbsoluteMayhem03|Colossal Barrel||||||거대한 통||
 subDemonSlayerAbsoluteMayhem04|Stocked Capacity||||||재고 용량||
 subDemonSlayerAbsoluteMayhem05|Hypothermic Rounds||||||저체온증 탄환||
-subDemonSlayerAbsoluteMayhem06|Bonehit||||||Bonehit||
+subDemonSlayerAbsoluteMayhem06|Bonehit||||||본히트||
 subDemonSlayerAbsoluteMayhem07|Explosive Empowered Rounds||||||폭발 강화 탄환||
 subDemonSlayerAbsoluteMayhem08|Fear the Gun||||||총을 두려워하라||
 subDemonSlayerAbsoluteMayhem09|Bicep Curls||||||이두근 컬||
@@ -3191,7 +3191,7 @@ subDescDemonSlayerSliceOfShadows13|Gain stacks of lingering shadows on hit. At m
 subDescDemonSlayerSliceOfShadows14|Unleash a shadow ball of fire bouncing from terrain and inflicting burning on hit.||||||지형을 튕기며 맞은 적에게 화상을 입히는 그림자 불꽃을 발사합니다.||
 |||||||||
 subDemonSpawnBoneFragments01|Heterotopic Ossification||||||이소성 골화||
-subDemonSpawnBoneFragments02|High Demon||||||||
+subDemonSpawnBoneFragments02|High Demon||||||상급 악마||
 subDemonSpawnBoneFragments03|Bone Frenzy||||||본 프렌지||
 subDemonSpawnBoneFragments04|Bone Cannonade||||||본 캐논네이드||
 subDemonSpawnBoneFragments05|Demon's Fury||||||악마의 분노||
@@ -3365,7 +3365,7 @@ subDescDemonSpawnBloodBolts13|Conjure a pool of blood on target location. Unleas
 subDescDemonSpawnBloodBolts14|Unleash a wave of blood leaving a trail of blood behind it. Any player touching the trail gains increased movement speed, faster cast rate and increased arcane skill damage.||||||피의 물결을 방출하여 피의 흔적을 남깁니다. 흔적을 밟은 플레이어는 이동 속도가 증가하고, 시전 속도가 빨라지며, 비전 스킬 피해가 증가합니다.||
 |||||||||
 subDemonSpawnBloodSurge01|Corrosive Blood||||||부식성 피||
-subDemonSpawnBloodSurge02|Wide Veins||||||||
+subDemonSpawnBloodSurge02|Wide Veins||||||넓은 정맥||
 subDemonSpawnBloodSurge03|White Blood Cells||||||백혈구||
 subDemonSpawnBloodSurge04|Increased Plasma||||||증가된 플라즈마||
 subDemonSpawnBloodSurge05|Blood Fervor||||||피의 열정||
@@ -3399,10 +3399,10 @@ subShamanTectonicBoulder03|Boulder Momentum||||||바위의 모멘텀||
 subShamanTectonicBoulder04|Stone Density||||||||
 subShamanTectonicBoulder05|Fractured Balance||||||균형 파괴||
 subShamanTectonicBoulder06|Crushing Boulder||||||분쇄 바위||
-subShamanTectonicBoulder07|Chunky Stone||||||||
+subShamanTectonicBoulder07|Chunky Stone||||||Chunky Stone||
 subShamanTectonicBoulder08|Frosted Pebble||||||냉기 덮인 조약돌||
 subShamanTectonicBoulder09|Frostbiting Boulder||||||냉기 물어뜯는 바위||
-subShamanTectonicBoulder10|Fragmentation||||||||
+subShamanTectonicBoulder10|Fragmentation||||||파편화||
 subShamanTectonicBoulder11|Tiny Stones||||||작은 돌||
 subShamanTectonicBoulder12|Colossal Boulder||||||거대한 바위||
 subShamanTectonicBoulder13|Molten Boulder||||||용암 바위||
@@ -3452,7 +3452,7 @@ subDescShamanTwisters13|Conjure a single twister with increased damage and size 
 subDescShamanTwisters14|Increases damage dealt inflicting bleeding on hit.||||||적중 시 출혈 피해 증가||
 |||||||||
 subShamanRockFragments01|Multistone Fragments||||||다중석 조각||
-subShamanRockFragments02|Stonegrowth||||||||
+subShamanRockFragments02|Stonegrowth||||||석재 성장||
 subShamanRockFragments03|Reinforced Stone||||||강화된 돌||
 subShamanRockFragments04|Swift Fragments||||||신속한 조각||
 subShamanRockFragments05|Arcanastone||||||아르카나스톤||
@@ -3480,7 +3480,7 @@ subDescShamanRockFragments12|Arcanastone proc chance is doubled and additionally
 subDescShamanRockFragments13|Throw a giant rock onto the target location that explodes into multiple rock fragments that explode into smaller fragments.||||||거대한 바위를 목표 지점에 던져 여러 조각으로 폭발한 후 더 작은 조각들로 폭발합니다.||
 subDescShamanRockFragments14|Throw increased amount of rocks in random directions.||||||무작위 방향으로 돌을 더 많이 던집니다.||
 |||||||||
-subShamanEarthBind01|Lasting Roots||||||||
+subShamanEarthBind01|Lasting Roots||||||지속되는 뿌리||
 subShamanEarthBind02|Sharp Oaks||||||||
 subShamanEarthBind03|Nature's Intellect||||||||
 subShamanEarthBind04|Increased Pressure||||||압력 증가||
@@ -3554,7 +3554,7 @@ subShamanTornado13|Splitting Cyclone||||||분열하는 회오리||
 subShamanTornado14|Absolute Tempest||||||절대 폭풍||
 subDescShamanTornado01|Increases damage dealt by tornado.||||||토네이도의 피해량 증가||
 subDescShamanTornado02|Chance to increase the amount of tornados.||||||토네이도의 수를 증가시킬 기회.||
-subDescShamanTornado03|Increases the size of tornado.||||||||
+subDescShamanTornado03|Increases the size of tornado.||||||토네이도의 크기가 증가합니다.||
 subDescShamanTornado04|Decreases the mana cost of tornado.||||||토네이도의 마나 소모를 감소시킵니다.||
 subDescShamanTornado05|Chance to deal a critical strike with increased critical strike damage.||||||치명타 피해가 증가된 치명타 공격 기회.||
 subDescShamanTornado06|Chance to inflict arcane break on hit.||||||타격 시 비전 파괴를 일으킬 확률.||
@@ -3606,7 +3606,7 @@ subShamanEarthTotem07|Stunning Earth||||||경이로운 대지||
 subShamanEarthTotem08|Ravaging Earth||||||대지가 황폐해지다||
 subShamanEarthTotem09|Double Boulder||||||더블 볼더||
 subShamanEarthTotem10|Earth Caller||||||지구 소환사||
-subShamanEarthTotem11|Entangling Roots||||||||
+subShamanEarthTotem11|Entangling Roots||||||얽히는 뿌리||
 subShamanEarthTotem12|Fragmented Volley||||||분열된 연발||
 subShamanEarthTotem13|The Rolling Stones||||||롤링 스톤즈||
 subShamanEarthTotem14|Wind Totem||||||바람 토템||
@@ -3633,7 +3633,7 @@ subShamanSpiritWolves05|Wolf´s Claw||||||늑대의 발톱||
 subShamanSpiritWolves06|Ravaging Strike||||||파괴의 일격||
 subShamanSpiritWolves07|Pack Leader||||||무리의 지도자||
 subShamanSpiritWolves08|Pummeling Rage||||||격노의 강타||
-subShamanSpiritWolves09|Rupturing Slice||||||||
+subShamanSpiritWolves09|Rupturing Slice||||||파열의 베기||
 subShamanSpiritWolves10|Wounding Trail||||||부상 흔적||
 subShamanSpiritWolves11|Spiritual Rabies||||||영혼의 광견병||
 subShamanSpiritWolves12|Alpha||||||알파||
@@ -3664,7 +3664,7 @@ subShamanStormTotem07|Static Electroshock||||||정전기 충격||
 subShamanStormTotem08|Storming Bolt||||||폭풍의 번개||
 subShamanStormTotem09|Struck by Thunder||||||천둥에 맞음||
 subShamanStormTotem10|Collapsing Thunder||||||붕괴하는 천둥||
-subShamanStormTotem11|Lightning Rods||||||||
+subShamanStormTotem11|Lightning Rods||||||번개 막대||
 subShamanStormTotem12|Surging Sentry||||||급류 보초||
 subShamanStormTotem13|Swiftstorm Totem||||||질풍의 토템||
 subShamanStormTotem14|Charged Totem||||||충전된 토템||
@@ -3696,7 +3696,7 @@ subShamanFireTotem10|Flamescarred Sentry||||||불꽃에 손상된 경비병||
 subShamanFireTotem11|Firestorm Totems||||||화염 폭풍 토템||
 subShamanFireTotem12|Homing Flames||||||유도 화염||
 subShamanFireTotem13|Multiplying Fire||||||번식하는 불꽃||
-subShamanFireTotem14|Paralyzing Napalm||||||Paralyzing Napalm||
+subShamanFireTotem14|Paralyzing Napalm||||||마비성 네이팜||
 subDescShamanFireTotem01|Increases the maximum amount of fire totems.||||||화염 토템 최대 수량 증가||
 subDescShamanFireTotem02|Chance to inflict burning on hit.||||||적중 시 화상 상태를 입힐 확률||
 subDescShamanFireTotem03|Chance to inflict fire break on hit.||||||공격 시 화염 파괴를 입힐 확률.||
@@ -3722,7 +3722,7 @@ subShamanChaosTotem07|Split Chaos||||||혼돈 분열||
 subShamanChaosTotem08|Uncontrollable Reaction||||||제어 불가능한 반응||
 subShamanChaosTotem09|Reach of Chaos||||||혼돈의 손길||
 subShamanChaosTotem10|Chaos Pulse||||||카오스 펄스||
-subShamanChaosTotem11|Manafunneled Chaos||||||||
+subShamanChaosTotem11|Manafunneled Chaos||||||마나에 의해 조종된 혼돈||
 subShamanChaosTotem12|Chaos Embodied||||||혼돈의 화신||
 subShamanChaosTotem13|Arcing Destruction||||||파괴의 아크||
 subShamanChaosTotem14|Colossal Chaos||||||거대한 혼돈||
@@ -3746,7 +3746,7 @@ subWhiteMageShadowBolt02|Arcane Surge||||||비전 쇄도||
 subWhiteMageShadowBolt03|Power of the Dark Side||||||어둠의 힘||
 subWhiteMageShadowBolt04|Dark Conjurer||||||어둠의 소환사||
 subWhiteMageShadowBolt05|Taunting Shadows||||||그림자 도발||
-subWhiteMageShadowBolt06|Inner Corruption||||||||
+subWhiteMageShadowBolt06|Inner Corruption||||||내면의 부패||
 subWhiteMageShadowBolt07|Shadows Dispair||||||어둠의 절망||
 subWhiteMageShadowBolt08|Flames of Corruption||||||타락의 불꽃||
 subWhiteMageShadowBolt09|Warlock from the Shadows||||||그림자에서 온 흑마법사||
@@ -3771,7 +3771,7 @@ subDescWhiteMageShadowBolt13|Unleash a grasping shadow hand pulling monsters tow
 subDescWhiteMageShadowBolt14|Shadow bolt has a chance to burst into smaller shadow bolts on hit. This effect can occur infinitely.||||||어둠의 화살이 적중 시 작은 어둠의 화살로 분열될 확률이 있습니다. 이 효과는 무한히 발생할 수 있습니다.||
 |||||||||
 subWhiteMageSoulSpurn01|Last Mortal Act||||||마지막 인간의 행위||
-subWhiteMageSoulSpurn02|Solidify||||||||
+subWhiteMageSoulSpurn02|Solidify||||||굳히기||
 subWhiteMageSoulSpurn03|Repeating Reaping||||||반복 수확||
 subWhiteMageSoulSpurn04|Consume||||||소비||
 subWhiteMageSoulSpurn05|Highway to Purgatory||||||연옥으로 가는 고속도로||
@@ -4043,7 +4043,7 @@ subMarauderBouncingGrenade09|Sharp Shrapnels||||||날카로운 파편들||
 subMarauderBouncingGrenade10|Flammable Charge||||||인화성 충전물||
 subMarauderBouncingGrenade11|Resetting Fuse||||||퓨즈 재설정 중||
 subMarauderBouncingGrenade12|Blazing Rebound||||||불타는 반격||
-subMarauderBouncingGrenade13|Fiery Charge||||||||
+subMarauderBouncingGrenade13|Fiery Charge||||||화염 돌진||
 subMarauderBouncingGrenade14|Coast to Coast||||||해안에서 해안까지||
 subDescMarauderBouncingGrenade01|Increases area of effect radius of bouncing grenade.||||||탄환 수류탄의 폭발 반경 증가||
 subDescMarauderBouncingGrenade02|Increased the projecile speed of bouncing grenade.||||||튕기는 수류탄의 투사체 속도가 증가했습니다.||
@@ -4101,7 +4101,7 @@ subMarauderTheBigBoom09|More Heat!||||||더 뜨겁게!||
 subMarauderTheBigBoom10|Rollin' Rollin' Rollin'||||||롤린 롤린 롤린||
 subMarauderTheBigBoom11|Bouncing Boom||||||탄력 폭탄||
 subMarauderTheBigBoom12|Crashboom||||||크래시붐||
-subMarauderTheBigBoom13|Scattering Boom||||||||
+subMarauderTheBigBoom13|Scattering Boom||||||산산이 부서지는 폭발||
 subMarauderTheBigBoom14|Molten Boom||||||용암 폭발||
 subDescMarauderTheBigBoom01|Increases the damage dealt by big bo-om.||||||큰 폭탄의 피해량이 증가합니다.||
 subDescMarauderTheBigBoom02|Increases the area of effect radius of big bo-om.||||||빅 붐의 효과 범위를 증가시킵니다.||
@@ -4121,7 +4121,7 @@ subDescMarauderTheBigBoom14|Unleashes multiple burning trails of fire in random 
 subMarauderCrazyGrapple01|High RPM Reel||||||고속 회전 릴||
 subMarauderCrazyGrapple02|Thornspikes||||||가시뾰족||
 subMarauderCrazyGrapple03|Efficient Grappling||||||효율적인 그랩링||
-subMarauderCrazyGrapple04|The Most the Best||||||||
+subMarauderCrazyGrapple04|The Most the Best||||||최고 중의 최고||
 subMarauderCrazyGrapple05|Heatdash||||||히트대시||
 subMarauderCrazyGrapple06|In Flames||||||불길 속에서||
 subMarauderCrazyGrapple07|Burning Spikeball||||||불타는 스파이크볼||
@@ -4157,7 +4157,7 @@ subMarauderBombardment07|Factory Upgrade||||||공장 업그레이드||
 subMarauderBombardment08|Efficient Production||||||효율적인 생산||
 subMarauderBombardment09|Solid Explosive Fuel||||||고체 폭발 연료||
 subMarauderBombardment10|Casual Bombing||||||캐주얼 폭격||
-subMarauderBombardment11|All Around Annihilation||||||||
+subMarauderBombardment11|All Around Annihilation||||||전면 소멸||
 subMarauderBombardment12|Clusterbombing||||||클러스터 폭격||
 subMarauderBombardment13|Big Bo-Ombing||||||대폭탄||
 subMarauderBombardment14|ICBM||||||ICBM||
@@ -4363,7 +4363,7 @@ subPlagueDoctorSurgicalBloodLetting10|Lifeblood Harvest||||||생명수 수확||
 subPlagueDoctorSurgicalBloodLetting11|Surgeon´s Vortex||||||외과 의사의 소용돌이||
 subPlagueDoctorSurgicalBloodLetting12|Blood Thaumaturgist||||||피의 연금술사||
 subPlagueDoctorSurgicalBloodLetting13|Fracturing Knifestack||||||파열의 칼더미||
-subPlagueDoctorSurgicalBloodLetting14|Cutting Storm||||||||
+subPlagueDoctorSurgicalBloodLetting14|Cutting Storm||||||절단 폭풍||
 subDescPlagueDoctorSurgicalBloodLetting01|Increases the damage dealt by surgical blood letting.||||||외과적 혈액 방출로 인한 피해량 증가.||
 subDescPlagueDoctorSurgicalBloodLetting02|Inflict bleeding to targets on hit.||||||적중 시 대상에게 출혈을 입힙니다.||
 subDescPlagueDoctorSurgicalBloodLetting03|Increases the projectile speed of surgical blood letting.||||||외과적 사혈의 투사체 속도가 증가합니다.||
@@ -4419,7 +4419,7 @@ subPlagueDoctorCrematus08|Tachypnea||||||빈호흡||
 subPlagueDoctorCrematus09|Engulfing Pyre ||||||불타는 화염||
 subPlagueDoctorCrematus10|Bursting Pustules||||||터지는 고름||
 subPlagueDoctorCrematus11|Spiraling Cremation||||||소용돌이 화장||
-subPlagueDoctorCrematus12|Farflames||||||||
+subPlagueDoctorCrematus12|Farflames||||||파플레임스||
 subPlagueDoctorCrematus13|Unstable Contamination||||||불안정한 오염||
 subPlagueDoctorCrematus14|Toxin Container||||||독소 용기||
 subDescPlagueDoctorCrematus01|Increases the duration of crematus.||||||크레마투스의 지속 시간을 증가시킵니다.||
@@ -4438,7 +4438,7 @@ subDescPlagueDoctorCrematus13|Activate/Deactivate to leave behind a trail of poi
 subDescPlagueDoctorCrematus14|Throw a plague container at target location unleashing crematus into all directions for a short duration. The plague container eventually explodes dealing area of effect damage and stunning nearby monsters.||||||목표 지점에 전염병 용기를 던져 짧은 시간 동안 모든 방향으로 크레마투스를 방출합니다. 전염병 용기는 결국 폭발하여 범위 피해를 입히고 주변 몬스터를 기절시킵니다.||
 |||||||||
 subPlagueDoctorPlagueOfRats01|Horde of Rats||||||쥐 떼||
-subPlagueDoctorPlagueOfRats02|Gnawing Rodents||||||||
+subPlagueDoctorPlagueOfRats02|Gnawing Rodents||||||갉아먹는 설치류||
 subPlagueDoctorPlagueOfRats03|Lab Grown Rats||||||실험실에서 자란 쥐||
 subPlagueDoctorPlagueOfRats04|Bite Tethering||||||물기 연결||
 subPlagueDoctorPlagueOfRats05|Plague Carriers||||||역병 운반자||
@@ -4535,7 +4535,7 @@ subPlagueDoctorRandyTheRancidRat08|Armored Fur||||||갑옷을 입은 모피||
 subPlagueDoctorRandyTheRancidRat09|Rage Sequence||||||분노 연속||
 subPlagueDoctorRandyTheRancidRat10|Vital Division||||||중요 부서||
 subPlagueDoctorRandyTheRancidRat11|Randy Rider||||||랜디 라이더||
-subPlagueDoctorRandyTheRancidRat12|Dragorat||||||||
+subPlagueDoctorRandyTheRancidRat12|Dragorat||||||드라고라트||
 subPlagueDoctorRandyTheRancidRat13|QA3-Modified Specimen||||||QA3-수정된 표본||
 subPlagueDoctorRandyTheRancidRat14|Gluttony||||||대식||
 subDescPlagueDoctorRandyTheRancidRat01|Increases the life of randy the rancid rat.||||||랜디 더 랭시드 쥐의 생명을 증가시킵니다.||
@@ -4703,7 +4703,7 @@ subShieldLancerHonedDefenses02|Lucky Defense||||||행운의 방어||
 subShieldLancerHonedDefenses03|Engulfing Wave||||||집어삼키는 파도||
 subShieldLancerHonedDefenses04|Thorn Surge||||||가시 돌풍||
 subShieldLancerHonedDefenses05|Deadly Resistance||||||치명적인 저항||
-subShieldLancerHonedDefenses06|Hold!||||||||
+subShieldLancerHonedDefenses06|Hold!||||||멈춰!||
 subShieldLancerHonedDefenses07|Optimized Safeguard||||||최적화된 보호장치||
 subShieldLancerHonedDefenses08|Weakening Counter||||||약화 반격||
 subShieldLancerHonedDefenses09|Oppresive Countermeasure||||||억압적인 대응책||
@@ -4878,8 +4878,8 @@ subIllusionistAgeProliferation03|Bridge Between Reality||||||현실과의 다리
 subIllusionistAgeProliferation04|Restoring Proliferation||||||증식 복구||
 subIllusionistAgeProliferation05|Breaking The Cycle||||||순환을 깨다||
 subIllusionistAgeProliferation06|Effortless Path||||||손쉬운 길||
-subIllusionistAgeProliferation07|Additional Faith||||||||
-subIllusionistAgeProliferation08|Rapid Aging||||||||
+subIllusionistAgeProliferation07|Additional Faith||||||추가 신앙||
+subIllusionistAgeProliferation08|Rapid Aging||||||급속 노화||
 subIllusionistAgeProliferation09|Burning Aging||||||불타는 노화||
 subIllusionistAgeProliferation10|Centuries Within Seconds||||||순식간에 세기||
 subIllusionistAgeProliferation11|Growing Old||||||나이 들어감||
@@ -4942,7 +4942,7 @@ subIllusionistTemporalHeroes09|Fractured Reality||||||부서진 현실||
 subIllusionistTemporalHeroes10|Evasive Strategy||||||회피 전략||
 subIllusionistTemporalHeroes11|Augmented Heroics||||||강화된 영웅적 행위||
 subIllusionistTemporalHeroes12|The Four Horsemen||||||네 명의 기사||
-subIllusionistTemporalHeroes13|The Singularity||||||||
+subIllusionistTemporalHeroes13|The Singularity||||||싱귤래리티||
 subIllusionistTemporalHeroes14|Summon Support||||||지원 소환||
 subDescIllusionistTemporalHeroes01|Increases the damage dealt by temporal heroes.||||||시간 영웅이 입히는 피해가 증가합니다.||
 subDescIllusionistTemporalHeroes02|Increases the attack speed of temporal heroes.||||||시간 영웅의 공격 속도를 증가시킵니다.||
@@ -4993,7 +4993,7 @@ subJotunnBreathOfIce02|Crumbling Winds||||||무너지는 바람||
 subJotunnBreathOfIce03|Expansive Gasp||||||광활한 숨결||
 subJotunnBreathOfIce04|Ironfrost Lungs||||||철냉기 폐||
 subJotunnBreathOfIce05|Frozen Exhale||||||얼어붙은 숨결||
-subJotunnBreathOfIce06|Freezing Point||||||||
+subJotunnBreathOfIce06|Freezing Point||||||어는 점||
 subJotunnBreathOfIce07|Ice Skating||||||아이스 스케이팅||
 subJotunnBreathOfIce08|Frostbourne Winds||||||냉기바람||
 subJotunnBreathOfIce09|Cascading Exhale||||||연쇄적인 날숨||
@@ -5233,7 +5233,7 @@ subExoScorchingWhip10|Celestial Aid||||||천상의 원조||
 subExoScorchingWhip11|Solar Harvester||||||태양 수확기||
 subExoScorchingWhip12|Blasting Whiplash||||||폭발적인 채찍질||
 subExoScorchingWhip13|Flaming Whip||||||불타는 채찍||
-subExoScorchingWhip14|Whirlwhipper||||||Whirlwhipper||
+subExoScorchingWhip14|Whirlwhipper||||||회오리 채찍||
 subDescExoScorchingWhip01|Chance on attack to unleash an additional scorching whip.||||||공격 시 추가로 불타는 채찍을 휘두를 확률이 있습니다.||
 subDescExoScorchingWhip02|Increases the damage dealt by scorching whip.||||||불타는 채찍으로 입히는 피해 증가.||
 subDescExoScorchingWhip03|Decreases the mana cost of scorching whip.||||||화염 채찍의 마나 소모를 줄입니다.||
@@ -5260,7 +5260,7 @@ subExoSolarFlare08|Flaming Hands||||||불타는 손||
 subExoSolarFlare09|Celestial Step||||||천계의 발걸음||
 subExoSolarFlare10|Burst of Power||||||파워 폭발||
 subExoSolarFlare11|Grand Flare||||||대형 섬광||
-subExoSolarFlare12|Sun´s Orbit||||||||
+subExoSolarFlare12|Sun´s Orbit||||||태양의 궤도||
 subExoSolarFlare13|Searing Flares||||||타오르는 섬광||
 subExoSolarFlare14|Solar Orbs||||||태양 구슬||
 subDescExoSolarFlare01|Increases the projectile amount of solar flare.||||||태양 플레어의 발사체 수를 증가시킵니다.||
@@ -5315,7 +5315,7 @@ subExoSuperNova05|Fight the Gravity||||||중력에 맞서 싸워라||
 subExoSuperNova06|Weakening Nova||||||약화의 노바||
 subExoSuperNova07|Chain Reactions||||||연쇄 반응||
 subExoSuperNova08|Fiery Frenzy||||||불타는 광란||
-subExoSuperNova09|Blast Right Trough||||||||
+subExoSuperNova09|Blast Right Trough||||||직진 돌파||
 subExoSuperNova10|Targeted Cosmic Event||||||표적 우주 이벤트||
 subExoSuperNova11|Particle Outflux||||||입자 유출||
 subExoSuperNova12|Solar Shockwave||||||태양 충격파||
@@ -5602,7 +5602,7 @@ subButcherChainSwing02|Immobilizing Hit||||||속박 타격||
 subButcherChainSwing03|No Quarter||||||자비 없음||
 subButcherChainSwing04|Demonic Chains||||||악마의 사슬||
 subButcherChainSwing05|Introduce Fear||||||공포 도입||
-subButcherChainSwing06|Physical Torture||||||||
+subButcherChainSwing06|Physical Torture||||||신체 고문||
 subButcherChainSwing07|Killing Spree||||||킬링 스프리||
 subButcherChainSwing08|Scent of Prey||||||먹이의 향기||
 subButcherChainSwing09|Entry Frenzy||||||진입 광란||
@@ -5634,7 +5634,7 @@ subButcherSubmergedKnives05|Jugular Cut||||||경동맥 절단||
 subButcherSubmergedKnives06|The Bigger They Are||||||거대할수록||
 subButcherSubmergedKnives07|Blunt Cleaver||||||무딘 식칼||
 subButcherSubmergedKnives08|Extended Gutting||||||내장 제거 연장||
-subButcherSubmergedKnives09|Nimble Handcraft||||||||
+subButcherSubmergedKnives09|Nimble Handcraft||||||날렵한 수공예||
 subButcherSubmergedKnives10|Meat Skewer||||||고기 꼬치||
 subButcherSubmergedKnives11|Tidal Knives||||||조수 나이프||
 subButcherSubmergedKnives12|Sudden Chaining||||||갑작스러운 연쇄||
@@ -5658,7 +5658,7 @@ subDescButcherSubmergedKnives14|Consume corpses hit by submerged knives unleashi
 subButcherBlender01|Sharpened Cleavers||||||날카로운 식칼||
 subButcherBlender02|Industrial Sized||||||산업용 크기||
 subButcherBlender03|No Bits Nor Pieces||||||조각도 없음||
-subButcherBlender04|Ragefueled Energy||||||||
+subButcherBlender04|Ragefueled Energy||||||분노의 에너지||
 subButcherBlender05|Extra Cleaver Addon||||||추가 도끼 애드온||
 subButcherBlender06|Obsidian Blades||||||흑요석 검||
 subButcherBlender07|Attachment Malfunction||||||부착물 오작동||
@@ -5684,7 +5684,7 @@ subDescButcherBlender12|Throw a traveling blender towards target location return
 subDescButcherBlender13|Chance to conjure a small blender at target location on hit dealing additional damage for a short duration.||||||타격 시 일정 시간 동안 추가 피해를 주는 작은 블렌더를 대상 위치에 소환할 확률이 있습니다.||
 subDescButcherBlender14|Blender gains increased damage but killing monsters drains a portion of your maximum life. This effect is non-lethal and will de-activate blender if you cannot sacrifice your life anymore.||||||블렌더는 피해량이 증가하지만, 몬스터를 처치할 때 최대 생명력의 일부가 소모됩니다. 이 효과는 치명적이지 않으며, 더 이상 생명력을 희생할 수 없을 경우 블렌더가 비활성화됩니다.||
 |||||||||
-subStormweaverChargedBolts01|Bigger Outlet ||||||||
+subStormweaverChargedBolts01|Bigger Outlet ||||||더 큰 출구||
 subStormweaverChargedBolts02|Electric Vains ||||||전기 정맥||
 subStormweaverChargedBolts03|Flash Bolt ||||||섬광 볼트||
 subStormweaverChargedBolts04|Halting Storm ||||||폭풍 중지||
@@ -5804,7 +5804,7 @@ subStormweaverStormBolt01|Bolts of Devastation||||||파괴의 번개||
 subStormweaverStormBolt02|Beaming Cast||||||빛나는 시전||
 subStormweaverStormBolt03|Expanding Storm||||||확장되는 폭풍||
 subStormweaverStormBolt04|Static Explosion||||||정지 폭발||
-subStormweaverStormBolt05|Tiny Storms||||||||
+subStormweaverStormBolt05|Tiny Storms||||||작은 폭풍||
 subStormweaverStormBolt06|Shocked Steps||||||충격적인 발걸음||
 subStormweaverStormBolt07|Quantity of Power||||||파워 수량||
 subStormweaverStormBolt08|Unleash Discharge||||||방출 해제||

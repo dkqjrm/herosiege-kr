@@ -819,7 +819,7 @@ e_alien_melee_3|Glitch Demon||Falha Demoníaca|Демон - Глюк|||글리치
 |||||||||
 e_alien_ranged_1|Alien Trooper||Soldado Alienígena|Инопланетный Солдат|||에일리언 병사||Soldat extraterrestre
 e_alien_ranged_2|Vector Marksman||Atirador de Vetor|Векторный Стрелок|||벡터 저격수||Vecteur tireur d'élite
-e_alien_ranged_3|Triggershot||Gatilho|Спусковой крючок|||||Coup de gâchette
+e_alien_ranged_3|Triggershot||Gatilho|Спусковой крючок|||트리거샷||Coup de gâchette
 |||||||||
 |||||||||
 e_alien_devourer_1|Unknown Beast||Besta Desconhecida|Неизвестный Зверь|||알 수 없는 야수||Bête inconnue
@@ -1093,7 +1093,7 @@ spell_puppetQueen_2|Showtime||Hora do Show||||쇼타임||
 |||||||||
 e_sirUngar_3|Sir Ungar||Sr Ungar||||운가 경||
 e_archBishopSimon_3|Arch Bishop Simon||Arcebispo Simon||||대주교 사이먼||
-e_manCrusher_3|MANCRUSHER||ESMAGAHOMEM||||||
+e_manCrusher_3|MANCRUSHER||ESMAGAHOMEM||||MANCRUSHER||
 e_gardenColossus_3|Garden Colossus||Colosso do Jardim||||정원의 거상||
 e_helgromBrute_3|Helgrom Brute||Bruto de Helgrom||||헬그롬의 난폭자||
 e_helgromChieftain_3|Helgrom Chieftain||Cacique de Helgrom||||헬그롬 족장||
@@ -1149,9 +1149,9 @@ lord_cliffer|Lord Cliffer|Lordi Cliffer|Senhor Cliffer|Лорд Клиффер|�
 mega_rat|Mega Rat|Megarotta|Mega Rato|Мега-Крыса|巨型鼠|メガドブネズミ|거대 쥐|Megaratte|Méga rat
 shadow_lantern|Shadow Lantern|Varjolyhty|Lanterna das Sombras|Теневой Фонарь|影子灯笼|シャドーランタン|그림자 등불|Schattenlaterne|Lanterne d'ombre
 valkyrie|Corrupted Valkyrie|Korruptoitunut Valkyrie|Valquíria Corrompida|Испорченная Валькирия|Corrupted Valkyrie|Corrupted Valkyrie|타락한 발키리|Corrupted Valkyrie|Valkyrie corrompue
-e_krampus_1|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus||Satan Klaus|Pire Noël
+e_krampus_1|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|Satan Klaus|사탄 클라우스|Satan Klaus|Pire Noël
 unique_odinhuginn|Huginn|Huginn|Huginn|Обнимаю|Huginn|Huginn||Huginn|Hugin
-unique_odinMuninn|Muninn|Muninn|Muninn|Мунинн|Muninn|Muninn|Muninn|Muninn|Munin
+unique_odinMuninn|Muninn|Muninn|Muninn|Мунинн|Muninn|Muninn||Muninn|Munin
 odin_pillar_enemy|Corrupted Beacon|Corrupted Beacon|Sinalizador Corrompido|Поврежденный Маяк|Corrupted Beacon|Corrupted Beacon|손상된 신호기|Corrupted Beacon|Balise corrompue
 enraged_odin|Enraged Odin|Enraged Odin|Odin Enfurecido|Разгневанный Один|Enraged Odin|Enraged Odin|분노한 오딘|Enraged Odin|Odin enragé
 unique_squishyTheDelicious|Squishy the Delicious|Squishy the Delicious|Squishy, o Delicioso|Мягкий и Вкусный|Squishy the Delicious|Squishy the Delicious|맛있는 스퀴시|Squishy the Delicious|Squishy le délicieux

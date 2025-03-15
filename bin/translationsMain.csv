@@ -21,7 +21,7 @@ ns_store_error|Error loading Nintendo eShop.|Virhe ladattaessa Nintendo eShop:ii
 ns_store_account_error|The current user account cannot access this feature.|Nykyinen käyttäjä ei voi käyttää tätä ominaisuutta.|A atual conta de usuário não pode acessar esse recurso.|Текущая учетная запись пользователя не имеет доступа к этой функции.|当前用户账号无法访问此功能。|現在 の ユーザーアカウントで は この 機能 にアクセスできません。|현재 사용자 계정은 이 기능을 이용할 수 없습니다.|Das aktuelle Benutzerkonto kann auf diese Funktion nicht zugreifen.|Le compte utilisateur actuel ne peut pas accéder à cette fonction.
 ns_store_timeout|Connecting to the Nintendo eShop took too long.|Nintendo eShop:iin yhdistäminen kesti liian kauan.|A conexão com o Nintendo eShop demorou muito.|Подключение к Nintendo eShop заняло слишком много времени.|连接到 Nintendo eShop 花费的时间太长。|ニンテンドーeショップ への接続に時間がかかりすぎました。|Nintendo eShop 에 연결하는 데 시간이 오래 걸렸습니다.|Die Verbindung zum Nintendo eShop hat zu lange gedauert.|La connexion au Nintendo eShop prend trop de temps.
 ns_store_warning|Connecting to the Nintendo eShop will disconnect you from the current game.|Yhdistäminen Nintendo eShop:iin katkaisee yhteytesi nykyisestä pelistä.|Conectar-se ao Nintendo eShop o desconectará do jogo atual.|Подключение к Nintendo eShop отключит вас от текущей игры.|连接到Nintendo eShop会使您与当前游戏断开连接。|Nintendo eShop に接続すると、現在のゲームから切断されます。|Nintendo eShop에 연결하면 현재 게임에서 연결이 끊어집니다.|Wenn Sie eine Verbindung zum Nintendo eShop herstellen, werden Sie vom aktuellen Spiel getrennt.|La connexion au Nintendo eShop vous déconnectera du jeu en cours.
-ns_eshop|Nintendo eShop|Nintendo eShop|Nintendo eShop|Интернет-магазин Nintendo|Nintendo eShop|Nintendo eShop||Nintendo eShop|Nintendo eShop
+ns_eshop|Nintendo eShop|Nintendo eShop|Nintendo eShop|Интернет-магазин Nintendo|Nintendo eShop|Nintendo eShop|닌텐도 e샵|Nintendo eShop|Nintendo eShop
 try_again_later|Try again later.|Yritä myöhemmin uudelleen.|Tente novamente mais tarde.|Попробуйте позже.|稍后再试。|後で もう一度 試して みて ください。|나중에 다시 시도하세요.|Versuche es später erneut.|Réessayez plus tard.
 try_again_account|Try again with another account.|Yritä uudelleen toisella käyttäjällä.|Tente novamente com outra conta.|Попробуйте еще раз с другой учетной записью.|请使用其他账号再试一次。|別 の アカウント で もう一度 試して みて ください。|다른 계정으로 다시 시도하세요.|Versuche es mit einem anderen Konto erneut.|Réessayez avec un autre compte.
 connection_lost|Connection to the network was lost.|Verkkoyhteys katkesi.|A conexão com a rede foi perdida.|Соединение с сетью было потеряно.|网络连接已中断。|ネットワーク 接続 が 遮断 さ れました。|네트워크 연결이 끊어졌습니다.|Die Verbindung zum Netzwerk wurde unterbrochen.|La connexion au réseau a été perdue.
@@ -33,7 +33,7 @@ controller_disconnected|Disconnected|Irroitettu|Desconectado|Отключено|
 controller_press|Press|Paina|Pressione|Нажимать|按|押し|프레스|Drücke|Appuyer sur
 controller_quit|to quit.|lopettaaksesi.|para sair.|бросить.|退出。|終了します。|종료합니다.|zu beenden.|pour quitter.
 controllers|Controllers|Ohjaimet|Controles|Контроллеры|控制器|コントローラ|컨트롤러|Controller|Manettes
-steam_cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud|STEAM Облако|STEAM Cloud|STEAM Cloud||STEAM Cloud|Steam Cloud
+steam_cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud|STEAM Облако|STEAM Cloud|STEAM Cloud|STEAM 클라우드|STEAM Cloud|Steam Cloud
 steam_cloud_data|Current Cloud data|Nykyiset pilvitiedot|Dados atuais da nuvem|Текущие данные облака|当前云数据|現在のクラウドデータ|현재 클라우드 데이터|Aktuelle Cloud-Daten|Données actuelles du Cloud
 save|Save|Tallenna|Salvar|Сохранять|保存|保存する|저장|Speichern|Sauvegarder
 load|Load|Lataa|Carregar|Нагрузка|加载|負荷|하중|Laden|Charger
@@ -119,7 +119,7 @@ inventory_tab_buy_prompt|Would you like to purchase an extra inventory tab?|Halu
 get_more_character_slots|Get More Slots|Hanki lisää kolikkopelejä|Obtenha Mais Espaços|Получить больше слотов|获取更多插槽|スロットを増やす|더 많은 슬롯을 얻으세요|Mehr Slots erhalten|Obtenez plus d'emplacements
 manage_subscription|Manage Subscription|Hallinnoi tilausta|Gerenciar Assinatura|Управление подпиской|管理订阅|サブスクリプションの管理|구독 관리|Abonnement verwalten|Gérer l'abonnement
 clear_active_sessions|Clear active sessions|Tyhjennä aktiiviset istunnot|Limpar sessões ativas |Очистить активные сеансы|清除活动会话|アクティブセッションをクリア|활성 세션 지우기|Aktive Sitzungen löschen|Effacer les sessions actives
-charms|Charms|Charms|Talismãs|Чары|魅力|チャーム|매력|Charms|Charmes
+charms|Charms|Charms|Talismãs|Чары|魅力|チャーム|차암|Charms|Charmes
 iap_max_amount|You already have the maximum amount of this product.|Sinulla on jo tämän tuotteen enimmäismäärä.|Você já tem a quantidade máxima deste produto.|У вас уже есть максимальное количество этого продукта.|您已经拥有该产品的最大数量。|この製品の最大数量がすでにあります。|이미 이 제품의 최대 한도를 가지고 있습니다.|Sie haben bereits die maximale Menge dieses Produkts.|Vous possédez déjà la quantité maximale de ce produit.
 iap_disabled|In Application Purchases have been disabled.|Sovelluksessa ostot on poistettu käytöstä. |As compras no aplicativo foram desabilitadas. |Покупки в приложении отключены. |应用程序中的购买已被禁用。 |アプリケーション内での購入は無効になっています。 |애플리케이션에서 구매가 비활성화되었습니다. |In der Anwendung wurden Käufe deaktiviert. |Les achats dans l'application ont été désactivés. 
 |||||||||
@@ -735,7 +735,7 @@ craft_reroll_token|Craft Re-roll Token|Valmista Uusiopoletti|Token de Re-roll|С
 craft_satanic_amulet|Craft Satanic Amulet|Valmista Saatanallinen Amuletti|Criar Amuleto Satânico|Изготовить сатанинский амулет|工艺撒旦护身符|クラフト悪魔のお守り|사탄 부적 제작|Satanisches Amulett|Amulette satanique
 craft_satanic_armor|Craft Satanic Body Armor|Valmista Saatanallinen Panssari|Criar Armadura Satânica|Изготовить Сатанинский нательный доспех|工艺撒旦防弹衣|悪魔のボディアーマーを作る|사탄 갑옷 제작|Satanischer Körperschutz|Armure satanique
 craft_satanic_boots|Craft Satanic Boots|Valmista Saatanalliset Saappaat|Criar Botas Satânicas|Изготовить Сатанинские Сапоги|工艺撒旦靴|クラフト悪魔のブーツ|공예 사탄 부츠|Satanische Stiefel|Bottes satanique
-craft_satanic_charm|Craft Satanic Charm|Valmista Saatanallinen Taikakalu|Criar Talismã Satânico|Изготовить сатанинский талисман|工艺撒旦魅力|クラフト悪魔の魅力|사탄의 매력을 만들어라|Satanischer Charm|Charme satanique
+craft_satanic_charm|Craft Satanic Charm|Valmista Saatanallinen Taikakalu|Criar Talismã Satânico|Изготовить сатанинский талисман|工艺撒旦魅力|クラフト悪魔の魅力|사탄의 차암을 만들어라|Satanischer Charm|Charme satanique
 craft_satanic_dice|Craft Satanic Dice|Valmista Saatanallinen noppa|Criar Dado Satânico|Изготовить сатанинские кости|工艺撒旦骰子|悪魔のサイコロを作る|사탄 주사위 제작|Satanischer Würfel|Dé Satanique
 craft_satanic_gloves|Craft Satanic Gloves|Valmista Saatanalliset Hanskat|Criar Luvas Satânicas|Изготовить Сатанинские перчатки|工艺撒旦手套|悪魔の手袋を作る|공예 사탄 장갑|Satanische Handschuhe|Gants satanique
 craft_satanic_helmet|Craft Satanic Helmet|Valmista Saatanallinen Kypärä|Criar Elmo Satânico|Изготовить Сатанинский шлем|工艺撒旦头盔|クラフト悪魔のヘルメット|공예 사탄 헬멧|Satanischer Helm|Casque satanique

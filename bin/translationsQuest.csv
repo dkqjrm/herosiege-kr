@@ -183,11 +183,11 @@ quest_objective_399_1|Memory of mevius entered||Memória de Mevius entrou||||메
 |||||||||
 quest_name_400|Welcome to Valhalla|Tervetuloa Valhallaan|Bem vindo a Valhalla|Добро пожаловать в Валгаллу|Welcome to Valhalla|Welcome to Valhalla|발할라에 오신 것을 환영합니다|Welcome to Valhalla|Bienvenue au Valhalla
 quest_description_400|Reach Plain of Ida in Act 8 Zone 2.|Etsi pääsy Idan tasangolle taso 8 alueella 2.|Chegue na Planície de Ida no ATO 8 Zona 2.|Достигните равнины Ида в Зоне 2 Акта 8.|Reach Plain of Ida in Act 8 Zone 2.|Reach Plain of Ida in Act 8 Zone 2.|8막 2구역의 이다 평원에 도달하세요.|Reach Plain of Ida in Act 8 Zone 2.|Atteignez la Plaine d'Ida dans l'Acte 8 Zone 2.
-quest_objective_400_1|Plain of Ida reached|Idan tasanko löydetty.|Planície de Ida alcançada|Равнина Иды достигла|Plain of Ida reached|Plain of Ida reached||Plain of Ida reached|Plaine d'Ida atteint
+quest_objective_400_1|Plain of Ida reached|Idan tasanko löydetty.|Planície de Ida alcançada|Равнина Иды достигла|Plain of Ida reached|Plain of Ida reached|이다 평원 도착|Plain of Ida reached|Plaine d'Ida atteint
 |||||||||
 quest_name_401|Valkyrie Hunting|Valkyrien metsästys|Caça às Valquírias|Охота на Валькирий|Valkyrie Hunting|Valkyrie Hunting|발키리 사냥|Valkyrie Hunting|Chasse à la Valkyrie
 quest_description_401|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Pegue a chave para Valhalla da Valquíria|Получи ключ от Валгаллы у Валькирии.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|발키리에게서 발할라의 열쇠를 얻으세요.|Get the key to Valhalla from the Valkyrie.|Obtenez la clé pour Valhalla auprès de la Valkyrie.
-quest_objective_401_1|Valkyrie found|Valkyrie löydetty|Valquíria encontrada|Найденная Валькирия|Valkyrie found|Valkyrie found||Valkyrie found|Valkyrie trouvée
+quest_objective_401_1|Valkyrie found|Valkyrie löydetty|Valquíria encontrada|Найденная Валькирия|Valkyrie found|Valkyrie found|발키리 발견|Valkyrie found|Valkyrie trouvée
 quest_objective_401_2|Key obtained|Avain saatu|Chave obtida|Полученный ключ|Key obtained|Key obtained|열쇠 획득|Key obtained|Clé obtenue
 |||||||||
 quest_name_402|Gates of Valhalla|Valhallan portit|Portões de Valhalla|Врата Валгаллы|Gates of Valhalla|Gates of Valhalla|발할라의 문|Gates of Valhalla|Les portes du Valhalla
@@ -247,7 +247,7 @@ quest_objective_431_2|Wheels attached||Rodas encaixadas|Колеса прикр�
 |||||||||
 quest_name_432|Balldur Muspelheim||Balldur Muspelheim|Балдур Муспельхейм|||발두르 무스펠하임||Baldur Muspelheim
 quest_description_432|Do the thing||Faz a coisa|Сделай это дело|||||Faire la chose
-quest_objective_432_1|Thing done||Coisa feita|Дело сделано|||||Chose faite
+quest_objective_432_1|Thing done||Coisa feita|Дело сделано|||작업 완료||Chose faite
 |||||||||
 quest_name_433|Frøya’s Scale Armor||Armadura de Escamas de Frøya|Чешуйчатая Броня Фреи|||프레이야의 비늘 갑옷||L'armure d'écailles de Freya
 quest_description_433|Collect Naga scales and return them to Frøya in Act 8 Zone 2.||Colete escamas de Naga e retorne elas a Frøya no ATO 8 Zona 2.|Соберите чешуйки нага и верните их Фрее в Действии 8, Зона 2.|||나가 비늘을 모아서 Act 8 Zone 2에 있는 프레이야에게 돌아가세요.||Récupérez les écailles de naga et rendez-les à Freya dans l'Acte 8 Zone 2.
@@ -415,7 +415,7 @@ quest_objective_502_2|Commander Albert's Head||Cabeça do Comandante Albert||||�
 |||||||||
 quest_name_503|Help Anita||Ajude Anita|Помоги Аните|||Anita 돕기||Aidez Anita
 quest_description_503|Collect ginseng plants||Colete plantas de Ginseng|Соберите растения женьшеня|||인삼 식물 수집||Récolter des racines de ginseng
-quest_objective_503_1|Ginseng collected||Ginseng coletado|Собранный женьшень|||||Ginseng collecté
+quest_objective_503_1|Ginseng collected||Ginseng coletado|Собранный женьшень|||인삼을 수집했습니다||Ginseng collecté
 |||||||||
 quest_name_504|Lost Belongins||Pertences Perdidos|Потерянные Вещи|||잃어버린 소지품||Affaires égarées
 quest_description_504|Find Anita's Herbs||Encontre as ervas de Anita|Найди Травы Аниты|||아니타의 허브를 찾아라||Trouver les herbes d'Anita
@@ -465,7 +465,7 @@ quest_objective_512_2|Rod crafted||Vara criada|Изготовленный сте
 quest_name_513|Hook on the Line||Anzol na Linha|Крючок на леске|||낚시줄에 걸린 갈고리||Hameçon sur la ligne
 quest_description_513|Find spiderwebs and a viable hook||Encontre teias de aranha e um gancho viável|Найдите паутину и надежный крючок|||거미줄과 사용할 수 있는 갈고리를 찾아라||Trouvez des toiles d'araignée et un hameçon viable
 quest_objective_513_1|Spiderwebs||Teias de aranha|Паутина|||거미줄||Toiles d'araignée
-quest_objective_513_2|Hook||Gancho|Крюк|||||L'hameçon
+quest_objective_513_2|Hook||Gancho|Крюк|||갈고리||L'hameçon
 |||||||||
 quest_name_514|Fish for the Greedy||Peixe para os Gananciosos|Рыба для жадных|||탐욕스러운 자를 위한 물고기||Pêche pour les gourmands
 quest_description_514|Find Aki in Temple of Zamjo and rescue him||Encontre Aki no Templo de Zamjo e salve-o|Найди Аки в Храме Замджо и спаси его|||잔조 사원에서 아키를 찾아 구출하라||Trouvez Aki dans le Temple de Zamjo et sauvez-le.
@@ -483,7 +483,7 @@ quest_objective_516_2|Souls purified||Almas purificadas|Очищенные ду�
 |||||||||
 |||||||||
 quest_name_517|Lilith||Lilith|Лилит|||릴리트||Lilith
-quest_description_517|...||…|...|||...||...
+quest_description_517|...||…|...|||||...
 quest_objective_517_1|Kill Lilith||Mate Lilith|Убить Лилит|||릴리스를 죽여라||Tuer Lilith
 quest_objective_517_2|Lilith's Black Heart taken||Coração Negro de Lilith tomado|Черное Сердце Лилит забрано|||릴리스의 검은 심장 획득||Coeur noir de Lilith récupéré
 |||||||||
@@ -650,7 +650,7 @@ quest_objective_1044_1|Enemies captured|Vihollista kaapattu|Inimigos capturados|
 quest_name_1045|Purge your demons!||Expurgue seus Demônios|Изгони своих демонов!|||당신의 악마를 정화하라!||Dégagez la zone !
 quest_description_1045|Slay enemies within the Parallel Dimension… ||Mate inimigos dentro da Dimensão Paralela…|Убивайте врагов в Параллельном измерении… |||평행 차원 안에서 적을 처치하세요…||Tuez les ennemis dans les zones IV et V de l'acte VII.
 quest_objective_1045_1|Casket Horror||Horror do caixão|Ужас в Гробу|||관 속의 공포||Squelette fantôme
-quest_objective_1045_2|Nightmare Priest||Sacerdote do Pesadelo|Кошмарный Священник|||||Archer fantôme
+quest_objective_1045_2|Nightmare Priest||Sacerdote do Pesadelo|Кошмарный Священник|||악몽 사제||Archer fantôme
 quest_objective_1045_3|Gnarler||Deformado|Корявый|||||Chevalier en armure
 quest_objective_1045_4|Headless butler||Mordomo sem cabeça|Безголовый дворецкий|||머리 없는 집사||Majordome sans tête
 |||||||||
@@ -761,7 +761,7 @@ community_quest_title_5|Gold Farm||Farm de Ouro||||골드 농장||
 community_quest_desc_5|The economy is tanking! The monsters are rampaging through the lands, murdering innocents and robbing our resources, including gold! We have seen an increase of scams and cheated currency ruining our already unstable economy. Please slay monsters and collect [c_yellow]our gold[c_reset] back from their cold dead hands. More gold in circulation is better for everyone!||A economia está afundando! Os monstros estão se alastrando pelas terras, assassinando inocentes e roubando nossos recursos, inclusive o ouro! Temos visto um aumento de fraudes e moeda fraudada arruinando nossa economia já instável. Por favor, mate os monstros e recupere [c_yellow]nosso ouro[c_reset] de suas mãos mortas e frias. Mais ouro em circulação é melhor para todos!||||경제가 붕괴하고 있어요! 몬스터들이 땅을 휩쓸며 무고한 사람들을 살해하고 우리의 자원, 특히 금을 약탈하고 있어요! 사기와 부정 통화가 증가하여 이미 불안정한 경제를 망치고 있습니다. 몬스터를 처치하고 그들의 차가운 시체에서 [c_yellow]우리의 금[c_reset]을 되찾아 주세요. 더 많은 금이 유통되면 모두에게 좋습니다!||
 community_quest_objective_5|Pick up gold. A lot of gold.||Pegue ouro. Muito ouro.||||황금을 주워라. 많은 황금을.||
 |||||||||
-community_quest_title_6|Uber-Grind||Uber-Grind||||||
+community_quest_title_6|Uber-Grind||Uber-Grind||||우버 그라인드||
 community_quest_desc_6|The dark forces are getting stronger and danger looms near every domain. Show them that we are not afraid! [shake_letter][c_red]Slaughter them![c_reset][shake_reset] Destroy the biggest evil creatures you can find.||As forças das trevas estão ficando mais fortes e o perigo se aproxima de cada domínio. Mostre a eles que não temos medo! [letter_shake][c_red]Abata-os![c_reset][shake_reset] Destrua as maiores criaturas malignas que você puder encontrar.||||어둠의 세력이 강해지고 있으며, 위험이 모든 영역에 다가오고 있습니다. 그들에게 우리가 두려워하지 않는다는 것을 보여줍시다! [shake_letter][c_red]그들을 도륙하라![c_reset][shake_reset] 찾을 수 있는 가장 큰 악의 생물들을 파괴하십시오.||
 community_quest_objective_6|Slay Uber bosses||Elimine Chefes Uber||||우버 보스 처치||
 |||||||||
@@ -813,7 +813,7 @@ quest_mending_hurrdurr|Trying to save Hurrdurr||Tentar salvar Hurrdurr|Пыта�
 quest_collect_bamboo|Rip Bamboo Sticks||Arrancar Vara de Bambu|Срывайте Бамбуковые Палочки|||대나무 막대기 뽑기||Collecter des tiges de bambou
 quest_collecting_bamboo|Taking sturdy bamboo||Pegando Bambu Robusto|Берем крепкий бамбук|||튼튼한 대나무 가져가기||Prendre du bambou robuste
 quest_craft_rod|Craft Sturdy Fishing Rod||Criar Vara de Pesca Robusta|Изготовьте Прочную Удочку для Ловли Рыбы|||튼튼한 낚싯대 제작||Fabrication d'une canne à pêche robuste
-quest_using_workbench|Crafting...||Criando…|Крафт...|||||Assemblage...
+quest_using_workbench|Crafting...||Criando…|Крафт...|||제작 중...||Assemblage...
 quest_collect_spiderweb|Collect Spiderweb||Coletar Teia de Aranha|Собирайте Паутину|||거미줄 수집||Collecte de toiles d'araignée
 quest_collecting|Collecting...||Coletando…|Сбор...|||수집 중...||Collecte...
 quest_inspect_metal_hook|Inspect Metal Hook||Inspecionar Gancho de Metal|Осмотрите Металлический Крючок|||금속 갈고리 검사||Inspecter le crochet en métal

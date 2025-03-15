@@ -165,7 +165,7 @@ stat_extraDamageStasis|Extra Damage to Monsters inflicted with Stasis||||||정�
 stat_copy_slot|Mirrors your other ring|Peilaa toisen sormuksenne|Espelha seu outro anel|Отражает ваше другое кольцо|镜像你的另一枚戒指|他の指輪を反映|다른 반지와 동일|Spiegelt Ihren anderen Ring wider|Reflète votre autre anneau
 stat_movement_diminish|Skill Movement Diminish decreased by|Skill Movement Diminish väheni|Redução de Movimento de Habilidade diminuída em|Снижение движения навыка уменьшено на|技能移动减少|スキル移動減少が減少|스킬 이동 감소가 감소|Bewegungsminderung der Fertigkeit verringert um|La diminution du mouvement de la compétence est diminuée de
 stat_unbreakable|Unbreakable|Murtumaton|Inquebrável|Неуязвимый|牢不可破|壊れない|깨지지 않음|Unzerbrechlich|Incassable
-stat_charmslot|Unlocked Charmslot|Avattu Charmslot |Espaço de Talismã Desbloqueado|Открытый слот для амулетов|解锁符文槽|チャームスロットのロックを解除|잠금 해제된 매력 슬롯|Freigeschalteter Charmslot|Emplacement de charme déverrouillé
+stat_charmslot|Unlocked Charmslot|Avattu Charmslot |Espaço de Talismã Desbloqueado|Открытый слот для амулетов|解锁符文槽|チャームスロットのロックを解除|잠금 해제된 차암 슬롯|Freigeschalteter Charmslot|Emplacement de charme déverrouillé
 ||||Фазирование движения|移动相位|移動フェージング|이동 페이징|Bewegungsphasen|Phasing de mouvement
 stat_phasing|Movement Phasing|Liikkeen vaiheistus|Movement Phasing|Случайный навык|随机技能|ランダムスキル|무작위 스킬|Zufällige Fertigkeit|Compétence aléatoire
 stat_random_skill|Random Skill Element|Satunnainen taitoelementti|Elemento de Habilidade Aleatório|Элемент |元素 |エレメント |요소 |Element |Élément 
@@ -464,7 +464,7 @@ tal_gold|Gold Amount|Kullan määrä|Quantidade de Ouro|Количество з�
 tal_recall|Recall Summons|Muista kutsut|Convocar Invocações|Призывы к ответу|召回召唤|召喚の呼び出し|소환 소환|Beschwörungen zurückrufen|Invocations de rappel
 tal_distance|Distance|Etäisyys|Distância|Расстояние|距离|距離|거리|Entfernung|Distance
 tal_seconds|s|s|s|с|秒|s|초|s|s
-tal_minutes|m|m|m|м|米|m|m|m|m
+tal_minutes|m|m|m|м|米|m||m|m
 tal_size|Size|Koko|Tamanho|Размер|大小|サイズ|크기|Größe|Taille
 tal_targets|Targets|Tavoitteet|Alvos|Цели|目标|ターゲット|대상|Ziele|Cibles
 tal_range|Range|Alue|Alcance|Диапазон|范围|範囲|사거리|Reichweite|Portée
@@ -1140,7 +1140,7 @@ ct_manaRegeneration|Manalicious|Manalistinen|Manalicioso|Манальный|邪�
 ct_increasedLife|Vigor|Vigor|Vigor|Энергия|活力|活力|활기찬|Vigor|Vigueur
 ct_increasedCrit|Destroyer|Hävittäjä|Destruidor|Разрушитель|毁灭者|破壊者|파괴자|Zerstörer|Destructeur
 ct_increasedGoldFind|Greedy Lizard|Ahne lisko|Lagarto Ganancioso|Жадная ящерица|贪婪的蜥蜴|貪欲なトカゲ|탐욕스러운 도마뱀|Gierige Echse|Lézard gourmand
-ct_dropCommonCharm|Charms, So Many Charms|Hurmaa, niin monta hurmaa|Encantos, Muitos Encantos|Амулеты, так много амулетов|符文，如此多的符文|チャーム、たくさんのチャーム|매력, 너무나 많은 매력|Zauber, so viele Zauber|Charmes, tant de charmes
+ct_dropCommonCharm|Charms, So Many Charms|Hurmaa, niin monta hurmaa|Encantos, Muitos Encantos|Амулеты, так много амулетов|符文，如此多的符文|チャーム、たくさんのチャーム|차암, 너무나 많은 차암|Zauber, so viele Zauber|Charmes, tant de charmes
 ct_dropCommonSocketed|Lots of Potential|Paljon potentiaalia|Muito Potencial|Много потенциала|潜力无限|多くの可能性|많은 잠재력|Viel Potenzial|Beaucoup de potentiel
 ct_dropMidRunes|Runic Grace|Runic Grace|Graça Rúnica|Руническая благодать|符文的恩赐|ルーンの恵み|룬의 은총|Runengnade|Grâce runique
 ct_dropRune|Runic Feast|Riimujuhla|Banquete Rúnico|Рунический пир|符文盛宴|ルーンの饗宴|룬의 향연|Runenfest|Festin runique

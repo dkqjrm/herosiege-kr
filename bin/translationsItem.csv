@@ -148,7 +148,7 @@ lore_w_melee_blood_moon_crescent|An ancient sword used to rule the masses by sum
 lore_w_melee_stofflix_cooking_cleaver|Sian-San once tried to lift this epic cooking cleaver but by not being worthy of wielding it burned his hands.. ||||||시안-산은 한때 이 전설적인 요리 칼을 들어보려고 했지만, 자격이 없어서 손을 데었다.||
 |||||||||
 [weapon_throwing]|||||||||
-normal_throwing_throwing_axe|Throwing Axe||Machado de Arremesso|Метательный Топор|||||Hache de jet
+normal_throwing_throwing_axe|Throwing Axe||Machado de Arremesso|Метательный Топор|||Throwing Axe||Hache de jet
 normal_throwing_battle_darts|Battle Darts||Dardos de Batalha|Боевые Дротики|||배틀 다트||Lot de fléchettes
 normal_throwing_throwing_disc|Throwing Disc||Disco de Arremesso|Метательный Диск|||투척 디스크||Disque-lame
 normal_throwing_harpoon|Harpoon|Harppuuna|Arpão|Гарпун|鱼叉|ハープーン|작살|Harpune|Harpon
@@ -336,7 +336,7 @@ normal_gun_gatling_gun|Gatling Gun|Sarjatuliase|Metralhadora|Пистолет Г
 normal_gun_battle_blaster|Battle Blaster|Taistelu Blaster|Rifle de Batalha|Боевой Бластер|战斗爆破器|バトルブラスター|배틀 블래스터|Kampf Blaster|Blaster de combat
 |||||||||
 [weapon_gun_unique]|||||||||
-w_gun_rtx_xqc_4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910||RT XQC-4910|RT XQC-4910
+w_gun_rtx_xqc_4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910
 w_gun_vampire_hunter|Vampire Hunter|Vampyyrin metsästäjä|Caçadora de Vampiros|Охотник на Вампиров|吸血鬼猎人|ヴァンパイア・ハンター|뱀파이어 헌터|Vampirjäger|Chasseur de vampires
 w_gun_flamecannon|Flamecannon|Liekkikanuuna|Canhão de Chamas|Огнеметная Пушка|火焰炮|フレームキャノン|불타는 대포|Flammenkanone|Canon flamboyant
 w_gun_warbringer|Warbringer|Sodantuoja|Portadora da Guerra|Несущий Войну|战神|ウォーブリンガー|전쟁을 불러오는 자|Kriegsbringer|Porte-guerre
@@ -466,7 +466,7 @@ armors_molten_steel_cataphract|Molten Steel Cataphract|Sulan teräksen katafrakt
 armors_tropical_storm|Tropical Storm|Trooppinen myrsky|Tempestade Tropical|Тропический шторм|热带风暴|熱帯雨林|열대 폭풍|Tropensturm|Tempête tropicale
 armors_magic_imbued_frozen_plate|Magic-Imbued Frozen Plate|Taikuudella varustettu jäädytetty platemail|Placa Congelada Imbuída de Magia|Замороженная Тарелка, Пропитанная Магией|充满魔力的冰冻桔梗|魔法をかけられたフローズンプラテメール|마법이 깃든 얼어붙은 플레이트|Gefrorene Platemail mit Magie-Imprägnierung|Armure de plate gelée imprégnée
 armors_zephys_gown|Zephy's Gown|Zephyn puku|Vestido de Zephy|Платье Зефи|Zephy's Gown|Zephyのガウン|제피의 가운|Zephys Kleid|Robe de Zephy
-armors_mystique_allure|Mystique Allure |Mystiikka Allure|Fascínio Místico|Таинственное Очарование |神秘主义的魅力|ミスティーク・アリュール|신비한 매력|Mystik Allure|Attrait mystique
+armors_mystique_allure|Mystique Allure |Mystiikka Allure|Fascínio Místico|Таинственное Очарование |神秘主义的魅力|ミスティーク・アリュール|신비한 차암|Mystik Allure|Attrait mystique
 armors_cocoon_of_berserker|Cocoon of the Berserker|Berserkerin kotelo|Casulo do Berserker|Кокон Берсеркера|狂热者之茧|バーサーカーの繭|광전사의 고치|Kokon des Berserkers|Cocon de berserker
 armors_giant_thorned_lizard_skin|Giant Thorned Lizard Skin|Giant Thorned Lizard Skin|Pele Gigante de Lagarto Espinhoso|Шкура Гигантской Шипастой Ящерицы|巨型带刺蜥蜴皮|巨大なトゲトカゲの皮|거대한 가시 도마뱀 가죽|Haut der Rieseneidechse mit Dornen|Peau de lézard épineux géant
 armors_noxious_hunters_reward|Noxious Hunter's Reward|Noxious Hunter's Reward|Recompensa do Caçador Nocivo|Награда Вредного охотника|Noxious Hunter's Reward|Noxious Hunter's Reward|유독한 사냥꾼의 보상|Noxious Hunter's Reward|Récompense d'éradicateur
@@ -809,7 +809,7 @@ boots_arcs_walkers|Arc's Walkers||Caminhantes de Arc||||아크의 워커들||
 boots_marchers_of_hatred|Marcher's of Hatred||Manifestantes do Ódio||||증오의 행진자들||
 boots_thunder_callers_treads|Thunder Caller's Treads||Passos do Invocador de Trovões||||천둥 소환사의 덧신||
 boots_steampowered_flamewalkers|Steampowered Flamewalkers||Andadores de Vapor Flamejantes||||증기 동력 화염 워커||
-boots_developer_boots|DEVELOPRE BOOT||DEVELOPRE BOOT||||||
+boots_developer_boots|DEVELOPRE BOOT||DEVELOPRE BOOT||||개발자 부트||
 boots_lost_at_sea|Stranded Boot||Bota Arrojada||||버려진 부츠||
 boots_rocket_boots|Rocket Boots||Botas Foguete||||로켓 부츠||
 boots_fumas_favela_flipflop|Fumacinha´s Favela Flipflop||||||푸마시냐의 파벨라 플립플롭||
@@ -911,8 +911,8 @@ lore_amulets_thoths_agony|The core of suffering worn by the arch mystic Thoth..|
 |||||||||
 [charms]|||||||||
 charms_normal_small_charm|Small Charm||Talismã Pequeno|Маленькое Очарование|||||Petit charme
-charms_normal_large_charm|Large Charm||Talismã Grande|Большое Очарование|||큰 매력||Large charme
-charms_normal_grand_charm|Grand Charm||Talismã Grandioso|Великое Очарование|||대형 매력||Grand charme
+charms_normal_large_charm|Large Charm||Talismã Grande|Большое Очарование|||큰 차암||Large charme
+charms_normal_grand_charm|Grand Charm||Talismã Grandioso|Великое Очарование|||대형 차암||Grand charme
 |||||||||
 |||||||||
 [charms_unique]|||||||||
@@ -925,7 +925,7 @@ charms_aztec_coin|Aztec Coin|Azteekkikolikko|Moeda Asteca|Ацтекская м�
 charms_beetle_of_life|Beetle of Life|Elämän torakka|Besouro da Vida|Жук жизни|生命甲壳虫|生命の甲虫|삶의 딱정벌레|Käfer des Lichts|Scarabée de vie
 charms_tals_deathskull|Tal's Deathskull|Talin kuolonkallo|Caveira da Morte de Tal|Череп Смерти Тала|塔尔的死亡骷髅|タルのデススカル|탈의 죽음의 해골|Tals Todesschädel|Crâne de Tal
 charms_gurags_heart_charm|Gurag's Heart Charm|Guragin sydän taikakalu|Talismã do Coração de Gurag|Сердечный амулет Гурага|古拉格的心咒|グラグのハートチャーム|구라 그의 심장 부적|Gurags Herzzauber|Charme du coeur de Gurag
-charms_anubis_ankh_charm|Anubis' Ankh Charm|Anubisin ankhi taikakalu|Ankh de Anúbis|Очарование Анх Анубиса|阿努比斯的安赫魅力|アヌビスのアンクチャーム|아누비스의 앙크 매력|Anubis 'Ankh-Charme|Charme de l'ankh d'Anubis
+charms_anubis_ankh_charm|Anubis' Ankh Charm|Anubisin ankhi taikakalu|Ankh de Anúbis|Очарование Анх Анубиса|阿努比斯的安赫魅力|アヌビスのアンクチャーム|아누비스의 앙크 차암|Anubis 'Ankh-Charme|Charme de l'ankh d'Anubis
 charms_damiens_cage|Damien's Cage|Damienin häkki|Jaula de Damien|Клетка Дэмиена|达米恩的笼子|デイミアンの檻|데미안의 철장|Damiens Käfig|Cage de Damien
 charms_satans_chalice|Satan's Chalice|Saatanan pikari|Cálice de Satã|Чаша сатаны|撒旦的酒杯|サタンの杯|사탄의 성배|Satans Kelch|Le Calice de Satan
 charms_steve|Hello its me, Steve!|Hei se ois Teemu!|Olá, sou eu, Steve!|Привет, это я, Стив!|你好，史蒂夫，是我!|こんにちは。僕だよ、スティーブ！|저예요, 스티브!|Hallo ich bin's, Steve!|Bonjour c'est moi, Steve !
@@ -952,7 +952,7 @@ charms_annihilus|Annihilator||Aniquiladora|Уничтожитель|||||Annihilu
 charms_bag_of_unknown_riches|Bag of Unknown Riches |Bag of Unknown Riches |Bolsa de Riquezas Desconhecidas|Мешок с Неведомыми Богатствами |Bag of Unknown Riches |Bag of Unknown Riches |알 수 없는 부의 가방|Bag of Unknown Riches |Sac de richesses inconnues 
 charms_spine_trophy|Spine Trophy|Spine Trophy|Troféu de Coluna|Трофей для Позвоночника|Spine Trophy|Spine Trophy|척추 트로피|Spine Trophy|Trophée spinal
 charms_angelic_key|Angelic Key|Angelic Key|Chave Angelical|Ангельский Ключ|Angelic Key|Angelic Key|천사의 열쇠|Angelic Key|Clé angélique
-charms_cold_giants_charm|Cold Giant's Charm|Kylmän jättiläisen viehätysvoima|Talismã do Gigante Gelado|Очарование Холодного великана|寒冷巨人的魅力|冷たい巨人の魅力|차가운 거인의 매력|Der Charme des kalten Riesen|Charme du géant froid
+charms_cold_giants_charm|Cold Giant's Charm|Kylmän jättiläisen viehätysvoima|Talismã do Gigante Gelado|Очарование Холодного великана|寒冷巨人的魅力|冷たい巨人の魅力|차가운 거인의 차암|Der Charme des kalten Riesen|Charme du géant froid
 charms_jacks_pumpkin_spice|Jack's Pumpkin Spice|Jackin kurpitsamauste|Tempero de Abóbora de Jack|Тыквенная приправа Джека|杰克的南瓜香精|ジャックのパンプキンスパイス|잭의 호박 향신료|Jacks Kürbisgewürz|Épice de citrouille de Jack
 charms_shrunken_head|Shrunken Head|Kutistunut pää|Cabeça Encolhida|Сморщенная Голова|缩头乌龟|シュランケンヘッド|축소된 머리|Schrumpfkopf|Tête tranchée
 charms_tarethiels_ancient_wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Conhecimento Antigo de Tarethiel|Древняя мудрость Таретиэля|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|타레티엘의 고대 지혜|Tarethiel's Ancient Wisdom|Sagesse ancestrale de Tarethiel
@@ -989,16 +989,16 @@ charms_tablet_of_awakening|Tablet of Awakening||Tábua do Despertar||||각성의
 charms_crows_feather|Crow's Feather||Pena do Corvo||||까마귀의 깃털||
 charms_sassys_dislocated_foot|Sassy´s Dislocated Foot||Pé Deslocado do Sassy||||Sassy의 탈구된 발||
 charms_chaos_gemstone|Chaos Gemstone||Gema do Caos||||혼돈의 보석||
-charms_fingerOfDespair|Finger of Despair||||||||
+charms_fingerOfDespair|Finger of Despair||||||절망의 손가락||
 charms_sobeks_fall|Sobek´s Fall||||||소벡의 몰락||
 charms_graxys_mom_lure|Graxy´s Mom Lure||||||||
 charms_almighty_nugget|The Almighty Nugget||||||전능한 너겟||
 charms_orange_grayon|Orange Grayon||||||오렌지 크레용||
 charms_aimbot_exe|Aimbot.exe||||||Aimbot.exe||
 charms_storm_in_vial|Storm In A Vial||||||병 속의 폭풍||
-charms_dev_charm_small|Dev Charm Small||||||개발자 매력 소형||
-charms_dev_charm_large|Dev Charm Large||||||개발자 매력 대형||
-charms_dev_charm_grand|Dev Charm Grand||||||개발자 매력 대형||
+charms_dev_charm_small|Dev Charm Small||||||개발자 차암 소형||
+charms_dev_charm_large|Dev Charm Large||||||개발자 차암 대형||
+charms_dev_charm_grand|Dev Charm Grand||||||개발자 차암 대형||
 |||||||||
 lore_charms_loaded_dice|In the shadowed corners of a mystical realm, where chance and fate entwined like threads in a cosmic tapestry, a legendary artifact was born.||Nos cantos sombrios de um reino místico, onde o acaso e o destino se entrelaçam como fios em uma tapeçaria cósmica, nasceu um artefato lendário.|В темных уголках мистического царства, где случай и судьба переплелись, как нити в космическом гобелене, родился легендарный артефакт.|||신비한 영역의 어두운 구석에서, 우연과 운명이 우주의 태피스트리처럼 얽혀 있는 곳에서 전설적인 유물이 탄생했다.||Un artefact légendaire est né dans les coins sombres d'un royaume mystique, où le hasard et le destin s'entremêlent comme les fils d'une tapisserie cosmique.
 lore_charms_tarethiels_ancient_wisdom|From the depths of the catacombs, Tarethiel's elder souls were combined into this singular point, granting knowledge and power to a hero in need.||Das profundezas das catacumbas, as almas mais velhas de Tarethiel foram combinadas nesse ponto singular, concedendo conhecimento e poder a um herói em necessidade.|Из глубин катакомб старшие души Таретиэля были объединены в эту единственную точку, даруя знания и силу нуждающемуся герою.|||지하 묘지의 깊은 곳에서 타레티엘의 오래된 영혼들이 이 단일 지점으로 결합되어, 필요한 영웅에게 지식과 힘을 부여합니다.||Depuis les profondeurs des catacombes, les âmes les plus anciennes de Tarethiel ont été réunies en ce point singulier, accordant savoir et pouvoir à un héros dans le besoin.
@@ -1157,7 +1157,7 @@ rings_destroyers_end|Destroyer’s End||Fim do Destruidor||||파괴자의 종말
 rings_signet_of_harbringer|Signet of Harbringer||Sinete do Prenúncio||||선구자의 인장||
 rings_hellfire_halo|Hellfire Halo||Auréola do Fogo Infernal||||지옥불 후광||
 rings_signet_of_corruption|Signet of Corruption||Sinete da Corrupção||||부패의 인장||
-rings_arcanis|Arcanis||Arcanis||||||
+rings_arcanis|Arcanis||Arcanis||||Arcanis||
 rings_azazels_despair|Azazel's Despair||Desespero de Azazel||||아자젤의 절망||
 rings_emblem_of_the_daemon|Emblem of the Daemon||Emblema de Daemon||||데몬의 엠블럼||
 rings_stormloop|Stormloop||Laço da Tempestade||||폭풍의 고리||
@@ -1441,7 +1441,7 @@ runeword_shadow|Shadow||Sombra||||그림자||
 lore_runeword_shadow|A runeword used by assassins around Tarethiel..||Uma runeword usada por assassinos em Tarethiel..||||타레티엘에서 암살자들이 사용하는 룬워드입니다.||
 runeword_delirium_tremens|Delirium Tremens||Delirium Tremens||||섬망 진전||
 lore_runeword_delirium_tremens|What.. Happened.. Last.. Night???||O que... Aconteceu... Na última.. noite???||||어제 밤에.. 무슨 일이.. 있었던 거지???||
-runeword_angul_auxana|Angul Auxana||Angul Auxana||||||
+runeword_angul_auxana|Angul Auxana||Angul Auxana||||앙굴 아우사나||
 lore_runeword_angul_auxana|Arcane imbued..||Imbuído de Arcano..||||비전이 주입됨..||
 runeword_toxicarcus|Toxicarcus||Toxicarcus||||톡시카르쿠스||
 lore_runeword_toxicarcus|Venom imbued..||Imbuída de Veneno..||||독이 주입됨..||
@@ -1971,7 +1971,7 @@ material_salvage_satanic_dust|Satanic Dust||Pó Satânico |Сатанинска�
 material_salvage_rich_satanic_dust|Rich Satanic Dust||Pó Satânico Rico|Богатая Сатанинская Пыль|||부유한 사탄의 먼지||Cendre satanique supérieure
 material_salvage_empowered_satanic_dust|Empowered Satanic Dust||Pó Satânico Poderoso|Наделенная Властью Сатанинская Пыль|||강화된 사탄의 먼지||Cendre satanique renforcée
 material_salvage_purified_satanic_dust|Purified Satanic Dust||Pó Satânico Purificado|Очищенная Сатанинская Пыль|||정화된 사탄의 먼지||Cendre satanique purifiée
-material_salvage_angelic_dust|Angelic Dust||Pó Angelical|Ангельская Пыль|||||Cendre angélique
+material_salvage_angelic_dust|Angelic Dust||Pó Angelical|Ангельская Пыль|||천사의 먼지||Cendre angélique
 material_ahtos_rat|Ahto's Rat||Rato do Ahto|Крыса Ахто|||아토의 쥐||Rat d'Ahto
 material_jussis_bong|Jussi's Bong||Bong do Jussi|Бонг Юсси|||유씨의 봉||Bang de Jussi
 material_sheep_pelt|Sheep Pelt||Pele de Ovelha|Овечья Шкура|||양 가죽||Peau d'agneau
@@ -2044,7 +2044,7 @@ item_type_gloves|Gloves|Käsineet|Luvas |Перчатки|手套|手袋|장갑|H
 item_type_shield|Shield|Kilpi|Escudo |Щит|盾牌|シールド|방패|Schild|Bouclier
 item_type_amulet|Amulet|Amuletti|Amuleto |Амулет|护身符|アミュレット|부적|Amulett|Amulette
 item_type_ring|Ring|Sormus|Anel |Кольцо|戒指|指輪|반지|Ring|Anneau
-item_type_charm|Charm|Talismaani|Talismã|Оберег|饰品|チャーム|매력|Anhänger|Charme
+item_type_charm|Charm|Talismaani|Talismã|Оберег|饰品|チャーム|차암|Anhänger|Charme
 item_type_consumable|Consumable|Kulutettava|Consumível|Расходный|消耗品|消耗品|소모품|Verbrauchsgegenstand|Consommable
 item_type_potion|Potion|Rohto|Poção |Зелье|药水|ポーション|물약|Trank|Potion
 item_type_key|Key|Avain|Chave|Ключ|钥匙|鍵|열쇠|Schlüssel|Clé
@@ -2153,7 +2153,7 @@ shrine_devil_affix04|of Damage||de Dano||||||
 shrine_devil_affix05|of Fortune||da Fortuna||||||
 shrine_devil_affix11|of Relic||da Relíquia||||유물의||
 |||||||||
-shrine_angel_affix01|of Experience||de Experiência||||||
+shrine_angel_affix01|of Experience||de Experiência||||경험치||
 shrine_angel_affix02|of Agility||da Agilidade||||민첩의||
 shrine_angel_affix03|of Haste||da Rapidez||||신속의||
 shrine_angel_affix04|of Damage||de Dano||||||
@@ -2315,7 +2315,7 @@ prefix_blinking|Blinking||Piscante||||||
 prefix_phasing|Phasing||Phasing||||위상 이동||
 prefix_scarface|Scarface||Scarface||||스카페이스||
 prefix_hitman|Hitman||Agressor||||암살자||
-prefix_assassin|Assassin||Assassino||||||
+prefix_assassin|Assassin||Assassino||||암살자||
 prefix_ninja|Ninja||Ninja||||닌자||
 prefix_deadeye|Deadeye||Olho-morto||||데드아이||
 prefix_wanderer|Wanderer||Errante||||방랑자||
@@ -2327,7 +2327,7 @@ prefix_pickpocket|Pickpocket||Carteirista||||소매치기||
 prefix_thieves|Thieve´s||do Ladrão||||||
 prefix_vultures|Vulture´s||do Abutre||||||
 prefix_greedy|Greedy||Ganancioso||||탐욕스러운||
-prefix_whitecollar|Whitecollar||Colarinho Branco||||||
+prefix_whitecollar|Whitecollar||Colarinho Branco||||화이트칼라||
 prefix_mangling|Mangling||Mutilação||||절단||
 prefix_trashing|Trashing||Destruido||||파기||
 prefix_breaking|Breaking||Quebrado||||||
@@ -2357,7 +2357,7 @@ prefix_earthworms|Earthworm´s||da Minhoca||||지렁이의||
 prefix_maggots|Maggot´s||da Larva||||||
 prefix_snakes|Snake´s||da Cobra||||뱀의||
 prefix_pythons|Python´s||da Píton||||파이썬의||
-prefix_anacondas|Anaconda´s||da Anaconda||||Anaconda´s||
+prefix_anacondas|Anaconda´s||da Anaconda||||아나콘다의||
 prefix_forests|Forest||Floresta||||숲||
 prefix_wilderness|Wilderness||Selvagem||||황야||
 prefix_oasis|Oasis||Oásis||||오아시스||
@@ -2419,7 +2419,7 @@ prefix_static|Static||Estático||||정적||
 prefix_thunder|Thunder||Trovão||||천둥||
 prefix_monsoon|Monsoon||Monção||||몬순||
 prefix_poisonous|Poisonous||Venenoso||||독성의||
-prefix_venomous|Venomous||Peçonhento||||||
+prefix_venomous|Venomous||Peçonhento||||독이 있는||
 prefix_toxic|Toxic||Tóxico||||독성||
 prefix_asphyxiating|Asphyxiating||Asfixiante||||질식||
 prefix_corroding|Corroding||Corroído||||부식 중||
@@ -2440,7 +2440,7 @@ prefix_warriors04|Warrior´s||do Guerreiro||||전사의||
 prefix_warriors05|Warrior´s||do Guerreiro||||전사의||
 prefix_brutes01|Brute´s||do Bruto||||||
 prefix_brutes02|Brute´s||do Bruto||||||
-prefix_brutes03|Brute´s||do Bruto||||Brute´s||
+prefix_brutes03|Brute´s||do Bruto||||브루트의||
 prefix_brutes04|Brute´s||do Bruto||||||
 prefix_brutes05|Brute´s||do Bruto||||||
 prefix_juggernauts01|Juggernaut´s||do Juggernaut||||||
@@ -2497,7 +2497,7 @@ prefix_lurking|Lurking||Espreitado||||잠복||
 prefix_watching|Watching||Observado||||관찰 중||
 prefix_monitoring|Monitoring||Monitorado||||모니터링||
 prefix_scanning|Scanning||Escaneado||||스캔 중||
-prefix_surveilling|Surveilling||Vigilante||||||
+prefix_surveilling|Surveilling||Vigilante||||감시 중||
 prefix_timing|Timing||Cronometrado||||||
 prefix_enduring|Enduring||Duradouro||||지속적인||
 prefix_lasting|Lasting||Prolongado||||지속||
@@ -2505,7 +2505,7 @@ prefix_weaving|Weaving||Tecido||||직조||
 prefix_everlasting|Everlasting||Eterno||||영원한||
 prefix_manaleak|Manaleak||Vaza-mana||||||
 prefix_manaspill|Manaspill||Derrama-mana||||마나 유출||
-prefix_manasplash|Manasplash||Respinga-mana||||||
+prefix_manasplash|Manasplash||Respinga-mana||||마나스플래시||
 prefix_manaflow|Manaflow||Manafluxo||||마나 흐름||
 prefix_manahunger|Manahunger||Fome-de-mana||||마나허기||
 prefix_mitigating|Mitigating||Mitigado||||경감||
@@ -2542,9 +2542,9 @@ prefix_astral_weapon1|Astral||||||천문||
 prefix_astral_weapon2|Astral||||||천체의||
 prefix_astral_weapon3|Astral||||||아스트랄||
 prefix_astral_weapon4|Astral||||||아스트랄||
-prefix_astral_weapon5|Astral||||||||
+prefix_astral_weapon5|Astral||||||천체의||
 prefix_astral_armor1|Astral||||||천체의||
-prefix_astral_armor2|Astral||||||||
+prefix_astral_armor2|Astral||||||아스트랄||
 prefix_astral_armor3|Astral||||||천체의||
 prefix_astral_armor4|Astral||||||아스트랄||
 prefix_astral_armor5|Astral||||||천체의||
@@ -2559,10 +2559,10 @@ prefix_quantum_armor3|Quantum||||||양자||
 prefix_quantum_armor4|Quantum||||||양자||
 prefix_quantum_armor5|Quantum||||||양자||
 prefix_glooming|Glooming||||||||
-prefix_sparkling|Sparkling||||||||
+prefix_sparkling|Sparkling||||||반짝이는||
 prefix_lumninated|Luminated||||||발광||
 prefix_luxified|Luxified||||||||
-prefix_lightburning|Lightburning||||||||
+prefix_lightburning|Lightburning||||||Lightburning||
 prefix_regenerating|Regenerating||||||||
 prefix_healing|Healing||||||치유||
 prefix_fulfilling|Fulfilling||||||||
@@ -2624,7 +2624,7 @@ suffix_bastion|Bastion||Bastião ||||바스티온||
 suffix_vitality|Vitality||Vitalidade||||활력||
 suffix_endurance|Endurance||Resistência||||지구력||
 suffix_stamina|Stamina||Estâmina||||스태미나||
-suffix_vigor|Vigor||Vigor||||||
+suffix_vigor|Vigor||Vigor||||활력||
 suffix_fortitude|Fortitude||Coragem||||인내||
 suffix_mitigation|Mitigation||Mitigação||||완화||
 suffix_absorption|Absorption||Absorção||||흡수||
@@ -2660,7 +2660,7 @@ suffix_luck|Luck||Sorte||||||
 suffix_fortune|Fortune||Fortuna||||||
 suffix_scavenger|Scavenger||Catador||||약탈자||
 suffix_tomb_raider|Tombraider||Invade-tumba||||툼 레이더||
-suffix_rngesus|RNGesus||RNGesus||||RNGesus||
+suffix_rngesus|RNGesus||RNGesus||||||
 suffix_leeching|Leeching||Sanguessuga||||흡혈||
 suffix_locust|Locust||Gafanhoto||||메뚜기||
 suffix_lifesurge|Lifesurge||Surto de Vida||||라이프서지||
@@ -2778,7 +2778,7 @@ suffix_drilling|Drilling||Perfurado||||드릴링||
 suffix_penetration|Penetration||Penetrado||||관통||
 suffix_piercing|Piercing||Perfurante||||관통||
 suffix_armorcrushing|Armorcrushing||Quebra-armadura||||갑옷 파괴||
-suffix_wholeness|Wholeness||Integridade||||||
+suffix_wholeness|Wholeness||Integridade||||온전함||
 suffix_totality|Totality||Totalidade||||전체||
 suffix_versatility|Versatility||Versatilidade||||다재다능||
 suffix_unity|Unity||Unidade||||통합||
@@ -2805,7 +2805,7 @@ suffix_volcano|Volcano||Vulcão||||화산||
 suffix_inferno|Inferno||Inferno||||인페르노||
 suffix_shock|Shock||Choque||||충격||
 suffix_stasis|Stasis||Estase||||정지||
-suffix_voltage|Voltage||Voltagem||||||
+suffix_voltage|Voltage||Voltagem||||전압||
 suffix_lightning|Lightning||Relâmpago||||번개||
 suffix_thunder|Thunder||Trovão||||천둥||
 suffix_poison|Poison||Veneno||||||

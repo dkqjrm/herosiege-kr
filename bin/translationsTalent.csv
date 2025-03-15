@@ -691,7 +691,7 @@ talent_desc_sandsOfTime|Temporarily increase your arcane skill damage and cast r
 talent_desc_timeDeceleration|Break time and space causing all nearby monsters to take arcane damage and Slowing them.||Quebra o tempo e o espaço, fazendo com que todos os inimigos próximos recebam Dano Arcano e Desacelerem.|Разрыв времени и пространства заставляет всех ближайших врагов получать урон от тайной магии и замедляет их.|||시간과 공간을 깨뜨려 모든 근처의 몬스터에게 비전 피해를 입히고 느리게 만듭니다.||Brise le temps et l'espace, ralentissant tous les ennemis proches et leur infligeant des dégâts d'arcane.
 talent_desc_dimensionalDisplacement|Warp a short distance towards target location temporarily gaining increased movement speed.||Transporta-se por uma corta distância em direção ao local-alvo, ganhando temporariamente maior Velocidade de Movimento..|Телепортируйтесь на небольшое расстояние к целевой точке, временно увеличивая скорость передвижения.|||목표 지점으로 짧은 거리를 순간 이동하며 일시적으로 이동 속도가 증가합니다.||Se déplace sur une courte distance vers la cible et gagne en vitesse de marche/course pendant une courte période.
 talent_desc_precognition|Increases your arcane skill damage.||Aumenta o seu Dano de Habilidade Arcana.|Увеличивает урон от вашего тайного навыка.|||당신의 비전 기술 피해를 증가시킵니다.||Augmente les dégâts infligés par les compétences d'arcane.
-talent_desc_expansiveMind|Increases your mana and mana replenish.||Aumenta a sua Mana e Regeneração de Mana.|Увеличивает вашу ману и восполнение маны.|||||Augmente le mana et la restauration du mana.
+talent_desc_expansiveMind|Increases your mana and mana replenish.||Aumenta a sua Mana e Regeneração de Mana.|Увеличивает вашу ману и восполнение маны.|||마나와 마나 회복이 증가합니다.||Augmente le mana et la restauration du mana.
 talent_desc_temporalHeroes|Summon a fractal Viking, Pyromancer and Marksman to fight on your side.||Convoque um Viking, um Piromante e um Atirador fractal para lutar ao seu lado.|Призовите фрактального викинга, пироманта и стрелка, чтобы они сражались на вашей стороне.|||프랙탈 바이킹, 파이로맨서, 그리고 명사수를 소환하여 당신의 편에서 싸우게 하세요.||Invoque un Viking, un Pyromancien et un Tireur d'élite pour se battre à vos côtés.
 |||||||||
 talent_name_frozenBoulder|Frozen Boulder||Pedregulho Congelado|Замороженный валун|冰冻巨石|凍った岩|얼어붙은 바위|Gefrorener Felsbrocken|Boule de glace
@@ -1367,7 +1367,7 @@ guild_perk_text_7|All Heroes of the guild receive an additional 5% experience fr
 talent_name_gutRippersSpikeball|Gut Ripper's Spikeball||||||거트 리퍼의 스파이크볼||
 talent_name_doubleSwing|Double Swing||||||더블 스윙||
 talent_name_weaponThrow|Weapon Throw||||||무기 던지기||
-talent_name_soulTap|Soul Tap||||||||
+talent_name_soulTap|Soul Tap||||||영혼의 탭||
 talent_name_vacuumingStrike|Vacuuming Strike||||||진공 타격||
 talent_name_sproutingIvy|Sprouting Ivy||||||새싹 아이비||
 talent_name_fleetFeet|Fleet Feet||||||빠른 발||
@@ -1382,7 +1382,7 @@ talent_name_homingMissiles|Homing Missiles||||||유도 미사일||
 talent_name_flurry|Flurry||||||눈보라||
 talent_name_doomCannon|Doomcannon||||||둠캐논||
 talent_name_superShot|Supershot||||||슈퍼샷||
-talent_name_impetus|Impetus||||||||
+talent_name_impetus|Impetus||||||추진력||
 talent_name_staticShot|Staticshot||||||스태틱샷||
 talent_name_spreadShot|Spreadshot||||||확산 사격||
 talent_name_awareness|Awareness||||||||

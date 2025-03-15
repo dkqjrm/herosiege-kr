@@ -1,6 +1,6 @@
 Unnamed: 0|en|[fi]|pt|ru|zh|ja|ko|de|fr
 |||||||||
-quest_bodyPart|Body Part||Parte de Corpo|Часть тела|||||Morceaux de corps
+quest_bodyPart|Body Part||Parte de Corpo|Часть тела|||신체 부위||Morceaux de corps
 quest_blackHole|Black Hole||Buraco Negro|Черная дыра|||블랙홀||Trou noir
 quest_coffeeBeans|Coffee Beans||Grãos de Café|Кофейные зерна|||커피콩||Grains de café
 quest_coffeeBrick|Brick||Tijolo|Кирпич|||벽돌||Brique
@@ -24,7 +24,7 @@ quest_deliciousHogMeat|Hog Meat||Carne de Porco|Свинина|||돼지고기||V
 quest_deliciousHogMeatCooked|Cooked Hog Meat||Carne de Porco Cozida|Приготовленное мясо свиньи|||조리된 돼지고기||Viande de porc cuite
 quest_gjollWater|Gjöll River Water||Água do Rio Gjöll|Вода реки Гьёлль|||갸울 강물||Eau de la rivière Gjöll
 quest_doomWeed|Doom Weed||Erva da Desgraça|Роковая трава|||파멸의 풀||Herbe du destin
-quest_corruptedDirt|Corrupted Dirt||Terra Corrompida|Испорченная грязь|||||Saleté corrompue
+quest_corruptedDirt|Corrupted Dirt||Terra Corrompida|Испорченная грязь|||오염된 흙||Saleté corrompue
 quest_corruptedDirtCollect|Corrupted Dirt Collected||Terra Corrompida Coletada|Собрана испорченная грязь|||오염된 흙 수집됨||Saleté corrompue collectée
 quest_corruptedDirtPotion|Corrupted Potion||Poção Corrompida|Испорченное зелье|||부패한 물약||
 quest_tiredVikingPotion|Viking’s Flask||Frasco do Viking|Настойка викинга|||바이킹의 플라스크||
@@ -33,7 +33,7 @@ quest_nagaTempleAmulet|Naga Amulet||Amuleto de Naga|Амулет Наги|||나�
 quest_niflhelSkull|Possessed Skull||Caveira Possuída|Одержимый череп|||빙의된 해골||Crâne possédé
 quest_rainbowFragment|Rainbow Fragment||Fragmento de Arco-íris|Радужный фрагмент|||레인보우 조각||Fragment d'arc-en-ciel
 quest_pumpkinIngredient|Crimson Pumpkin||Abóbora Carmesim|Багровая тыква|||진홍색 호박||Citrouille cramoisie
-quest_maggotStewCauldron|Maggot Stew Cauldron||Caldeirão de Ensopado de Larvas|Котел с рагу из личинок|||||Chaudron de ragoût d'asticots
+quest_maggotStewCauldron|Maggot Stew Cauldron||Caldeirão de Ensopado de Larvas|Котел с рагу из личинок|||구더기 스튜 가마솥||Chaudron de ragoût d'asticots
 quest_maggotCorpse|Maggot Carcass||Carcaça de Larva|Туша личинки|||구더기 시체||Carcasse d'asticot
 quest_spellbookAhriman|Murder of Crows||Murder of Crows|Убийство ворон|||까마귀의 살인||Meurtre de corbeaux
 quest_herbPouch|Herb Pouch||Bolsa de Ervas|Травяной мешочек|||약초 주머니||Pochette d'herbes
@@ -77,7 +77,7 @@ quest_workbench|Work Bench||Bancada de Trabalho||||작업대||
 quest_miningEquipment|Mining Equipment||Equipamento de Mineração||||채광 장비||
 quest_valhallaRiverBeacon|Gate Beacon||||||게이트 비콘||
 |||||||||
-quest_halloweenDustFeederTooth|Dust Feeder Tooth||Dente de Alimentador de Poeira|Зуб подачи пыли|||||
+quest_halloweenDustFeederTooth|Dust Feeder Tooth||Dente de Alimentador de Poeira|Зуб подачи пыли|||먼지 먹이 이빨||
 quest_halloweenGhostSkull|Ghost Skull||Caveira Fantasma|Призрачный череп|||유령 해골||
 quest_halloweenMaggotSlime|Maggot’s Slime||Lodo de Larva|Слизь личинки|||구더기의 점액||
 quest_halloweenMummyBandages|Mummy Wrappings||Embrulhos de Múmia|Обертывания для мумий|||미라의 붕대||
@@ -85,10 +85,10 @@ quest_halloweenPumpkinJuice|Pumpkin Juice||Suco de Abóbora|Тыквенный �
 quest_halloweenRatEar|Rat Ear||Orelha de Rato|Крысиное ухо|||쥐의 귀||
 quest_halloweenSpellBook|Spell Book||Livro de Feitiços|Книга заклинаний|||주문서||
 quest_halloweenSpiderLeg|Spider Leg||Perna de Aranha|Нога паука|||거미 다리||
-quest_halloweenChickenFeather|Chicken Feather||Pena de Galinha|Куриное Перо|||||
+quest_halloweenChickenFeather|Chicken Feather||Pena de Galinha|Куриное Перо|||닭의 깃털||
 quest_halloweenBone|Bone||Osso|Кость|||||Os
 quest_halloweenCandy|Candy||Doce|Конфеты|||사탕||Bonbons
-quest_halloweenApple|Candy Apple||Maçã do Amor|Карамельное яблоко|||||Pomme d'amour
+quest_halloweenApple|Candy Apple||Maçã do Amor|Карамельное яблоко|||사과 사탕||Pomme d'amour
 quest_halloweenChain1|Skeleton’s Skull||Crânio do Esqueleto|Череп скелета|||해골의 두개골||
 quest_halloweenChain2|Skeleton’s Spine||Espinha do Esqueleto|Позвоночник скелета|||해골의 척추||
 quest_halloweenChain3|Skeleton’s Right Hand||Mão Direita do Esqueleto|Правая рука скелета|||해골의 오른손||
