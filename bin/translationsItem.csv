@@ -34,7 +34,7 @@ normal_sword_katana|Katana||Katana |Катана|||나나||Katana
 normal_sword_war_sword|War Sword||Espada de Guerra|Боевой Меч|||전쟁의 검||Épée de guerre
 normal_sword_falchion|Falchion||Alfange|Фальшион|||팔치온||Falchion
 normal_sword_flamberge|Flamberge||Colubrina|Фламберге|||플람베르주||Flamberge
-normal_sword_zangetsu|Zangetsu||Zangetsu|Зангецу|||||Zangetsu
+normal_sword_zangetsu|Zangetsu||Zangetsu|Зангецу|||잔게츠||Zangetsu
 |||||||||
 [weapon_melee_unique]|||||||||
 w_melee_godfather|Godfather|Kummisetä|Padrinho|Крестный отец|教父|ゴッドファーザー|대부|Gevatter|Parrain
@@ -96,7 +96,7 @@ w_melee_sanguine_blade|Sanguine Blade|Sanguine Blade|Lâmina Sanguínea|Санг
 w_melee_pillar_of_niflheim|Pillar of Niflheim|Pillar of Niflheim|Pilar de Niflheim|Столп Нифльхейма|尼夫海姆之柱|ニヴルヘイムの柱|니플하임의 기둥|Säule von Niflheim|Pilier de Niflheim
 w_melee_grimbones_scythe|Grimbone's Scythe|Grimbone's Scythe|Foice de Grimbone|Коса Гримбона|格里伯恩的镰刀|グリムボーンの大鎌|그림본의 낫|Grimbones Sense|Faux de Grimbone
 w_melee_ceremonial_dagger|Ceremonial Dagger|Seremoniallinen Tikari|Adaga Cerimonial|Церемониальный Кинжал|仪式剑|儀式のダガー|의식 단검|Zeremoniendolch|Dague de cérémonie
-w_melee_spiritus|Spiritus||Spiritus|Spiritus|||||Esprit
+w_melee_spiritus|Spiritus||Spiritus|Spiritus|||정령||Esprit
 w_melee_guts_hfs|Gut's HFS||Espada Grande da Porra de Gut|HFS кишечника|||Gut의 HFS||BFS de Guts
 w_melee_sahkopuimuri|Sähköpuimuri||Sähköpuimuri||||전기 콤바인||
 w_melee_arch_angels_phase_blade|Arch Angel's Phase Blade||Lâmina Fásica do Arcanjo||||대천사의 페이즈 블레이드||
@@ -994,7 +994,7 @@ charms_sobeks_fall|Sobek´s Fall||||||소벡의 몰락||
 charms_graxys_mom_lure|Graxy´s Mom Lure||||||그락시의 엄마 미끼||
 charms_almighty_nugget|The Almighty Nugget||||||전능한 너겟||
 charms_orange_grayon|Orange Grayon||||||오렌지 크레용||
-charms_aimbot_exe|Aimbot.exe||||||Aimbot.exe||
+charms_aimbot_exe|Aimbot.exe||||||||
 charms_storm_in_vial|Storm In A Vial||||||병 속의 폭풍||
 charms_dev_charm_small|Dev Charm Small||||||개발자 차암 소형||
 charms_dev_charm_large|Dev Charm Large||||||개발자 차암 대형||
@@ -1025,7 +1025,7 @@ lore_charms_chaos_gemstone|Forged in the darkest depths of the ether..||Forjado 
 lore_charms_fingerOfDespair|Dislocated from Amun Ra´s hand by a noble warrior..||||||고귀한 전사에 의해 아문 라의 손에서 떨어졌습니다.||
 lore_charms_sobeks_fall|The decapitated head of a crocolisk enchanted with dark powers..||||||어두운 마법에 걸린 크로콜리스크의 잘린 머리.||
 lore_charms_graxys_mom_lure|Thrown to the bottom of the barrel..||||||바닥까지 내동댕이쳐졌다..||
-lore_charms_almighty_nugget|Elias already took a bite..||||||||
+lore_charms_almighty_nugget|Elias already took a bite..||||||엘리야스가 이미 한 입 먹었어..||
 lore_charms_orange_grayon|Emotional damage..||||||정신적 피해..||
 lore_charms_aimbot_exe|So far undetected by VAC..||||||VAC에 아직 탐지되지 않음..||
 lore_charms_storm_in_vial|A powerful storm locked into a vial.. ||||||강력한 폭풍이 병에 갇혔다.||
@@ -1157,7 +1157,7 @@ rings_destroyers_end|Destroyer’s End||Fim do Destruidor||||파괴자의 종말
 rings_signet_of_harbringer|Signet of Harbringer||Sinete do Prenúncio||||선구자의 인장||
 rings_hellfire_halo|Hellfire Halo||Auréola do Fogo Infernal||||지옥불 후광||
 rings_signet_of_corruption|Signet of Corruption||Sinete da Corrupção||||부패의 인장||
-rings_arcanis|Arcanis||Arcanis||||||
+rings_arcanis|Arcanis||Arcanis||||아카니스||
 rings_azazels_despair|Azazel's Despair||Desespero de Azazel||||아자젤의 절망||
 rings_emblem_of_the_daemon|Emblem of the Daemon||Emblema de Daemon||||데몬의 엠블럼||
 rings_stormloop|Stormloop||Laço da Tempestade||||폭풍의 고리||
@@ -1415,7 +1415,7 @@ runeword_fleshRipper|Flesh Ripper||Estripador de Carne|Потрошитель П
 lore_runeword_fleshRipper|With each stroke of their blade, they rend the flesh from their foes' bones, for in this land, there is no sanctuary for evil to take root.||A cada golpe de sua lâmina, eles arrancam a carne dos ossos de seus inimigos, pois nesta terra não há santuário para o mal criar raízes.|Каждым взмахом своего клинка они сдирают плоть с костей своих врагов, ибо на этой земле нет убежища, где зло могло бы пустить корни.|||그들의 칼날이 휘두를 때마다, 적의 뼈에서 살점을 떼어내니, 이 땅에는 악이 뿌리를 내릴 성소가 없다.||À chaque coup de lame, ils arrachent la chair des os de leurs victimes, car dans ce pays, il n'y a pas de sanctuaire où le mal puisse s'enraciner.
 runeword_aurorasMight|Aurora's Might||O Poder de Aurora|Мощь Авроры|||오로라의 힘||Puissance d'Aurora
 lore_runeword_aurorasMight|Aurora, of of the purest souls to ever walk on earth was brutally slain, but her soul was infused to this weapon so she can live on and avenge her death.||Aurora, uma das almas mais puras que já existiu na Terra, foi brutalmente assassinada, mas sua alma foi infundida nessa arma para que ela possa viver e vingar sua morte.|Аврора, одна из самых чистых душ, когда-либо ходивших по земле, была жестоко убита, но ее душа была вложена в это оружие, чтобы она могла жить дальше и отомстить за свою смерть.|||아우로라, 지상에서 가장 순수한 영혼 중 하나였던 그녀는 잔인하게 살해되었지만, 그녀의 영혼은 이 무기에 주입되어 그녀가 계속 살아가며 자신의 죽음을 복수할 수 있게 되었다.||Aurora, l'une des âmes les plus pures à avoir jamais marché sur terre, a été brutalement assassinée, mais son âme a été infusée dans cette arme pour qu'elle puisse subsister et venger sa mort.
-runeword_brilliance|Brilliance||Brilhantismo|Блеск|||||Éclat
+runeword_brilliance|Brilliance||Brilhantismo|Блеск|||광휘||Éclat
 lore_runeword_brilliance|Brilliance breeds success, success gives birth to wisdom and wisdom grows to be brilliance.||O brilhantismo gera sucesso, o sucesso dá origem à sabedoria e a sabedoria se transforma em brilhantismo.|Блеск порождает успех, успех рождает мудрость, а мудрость вырастает в блеск.|||빛나는 재능은 성공을 낳고, 성공은 지혜를 낳으며, 지혜는 다시 빛나는 재능으로 성장한다.||L'éclat engendre le succès, le succès donne naissance à la sagesse et la sagesse devient l'éclat, dans un perpétuel recommencement
 runeword_brutality|Brutality||Brutalidade|Жестокость|||잔혹성||Brutalité
 lore_runeword_brutality|On the rise to power, an ancient king forged this weapon to brutally murder anyone standing on his way.||Na ascensão do poder, um antigo rei forjou essa arma para assassinar brutalmente qualquer um que estivesse em seu caminho.|Придя к власти, древний король выковал это оружие, чтобы жестоко убивать любого, кто встанет у него на пути.|||권력을 쥐기 위해, 고대의 왕은 이 무기를 만들어 그의 길을 막는 자를 잔혹하게 살해했습니다.||En pleine ascension vers le pouvoir, un ancien roi a forgé cette arme pour éliminer brutalement tous ceux qui se trouvaient sur son chemin.
@@ -1676,7 +1676,7 @@ collectible_colosseum_fragment|Colosseum Fragment||||||콜로세움 조각||
 lore_collectible_soul_of_anguish|Soul fueled by anguish..||Alma alimentada pela angústia..||||고통에 의해 연료를 공급받는 영혼..||
 lore_collectible_soul_of_despair|Soul fueled by despair..||Alma alimentada pelo desespero..||||절망으로 채워진 영혼..||
 lore_collectible_soul_of_corruption|Soul fueled by corruption..||Alma alimentada pela corrupção..||||부패로 인해 힘을 얻은 영혼..||
-lore_collectible_scroll_of_ra|???||||||???||
+lore_collectible_scroll_of_ra|???||||||버서커의||
 lore_collectible_colosseum_fragment|Can you hear the sound drums and a crowd hungering for blood?||||||북소리와 피를 갈망하는 군중의 함성을 들을 수 있나요?||
 |||||||||
 [Consumables]|||||||||
@@ -1707,8 +1707,8 @@ consumable_codex_of_eternity|Eternity Codex||||||영원의 코덱스||
 lore_consumable_puzzle_box|We are the explorers in the further regions of experience. Demons to some, angels to others..||Nós somos os exploradores nas regiões mais distantes da experiência. Demônios para alguns, anjos para outros...||||우리는 경험의 더 먼 영역을 탐험하는 자들입니다. 어떤 이들에게는 악마이고, 다른 이들에게는 천사입니다...||
 lore_consumable_soul_of_hatred|Opens a gateway to the Circle of Hatred||Abre um portal para o Círculo do Ódio||||증오의 원으로 가는 관문을 엽니다||
 lore_consumable_essence_elixir|Consume to gain Essence of Incarnation.||Consuma para ganhar Essência da Incarnação.||||소비하여 화신의 정수를 얻으십시오.||
-lore_consumable_essence_elixir_devtest|Nimo scams your Essence||Nimo rouba a sua Essência||||||
-lore_consumable_exp_elixir_devtest|Nimo scams your Experience||Nimo rouba a sua Experiência||||||
+lore_consumable_essence_elixir_devtest|Nimo scams your Essence||Nimo rouba a sua Essência||||니모가 당신의 에센스를 속입니다||
+lore_consumable_exp_elixir_devtest|Nimo scams your Experience||Nimo rouba a sua Experiência||||니모가 당신의 경험치를 속입니다||
 lore_consumable_codex_of_eternity|A sacred codex granting its user the power to modify the essence of time and space..||||||사용자에게 시간과 공간의 본질을 수정할 수 있는 힘을 부여하는 신성한 코덱스.||
 |||||||||
 craft_consumable_codex_of_eternity|Eternity Codex can be used to turn a zone satanic. You can socket the codex to boost the satanic zone or even create a runeword granting a powerful buff. The satanic zone debuffs are randomized when the codex is consumed.||||||영원의 코덱스를 사용하여 구역을 사탄화할 수 있습니다. 코덱스를 소켓에 장착하여 사탄화 구역을 강화하거나 강력한 버프를 부여하는 룬워드를 생성할 수도 있습니다. 코덱스가 소모될 때 사탄화 구역의 디버프는 무작위로 결정됩니다.||
@@ -1773,14 +1773,14 @@ socketable_um_rune|Um||Um|Um|||||Um
 socketable_mal_rune|Mal||Mal|Mal|||||Mal
 socketable_ist_rune|Ist||Ist|Ist|||||Ist
 socketable_gul_rune|Gul||Gul|Гуль|||||Gul
-socketable_vex_rune|Vex||Vex|Досадовать|||||Vex
+socketable_vex_rune|Vex||Vex|Досадовать|||벡스||Vex
 socketable_ohm_rune|Qi||Qi|Ци|||||Qi
 socketable_lo_rune|Xo||Xo|Старпом|||||Xo
 socketable_sur_rune|Sur||Sur|Sur|||||Sur
 socketable_ber_rune|Ber||Ber|Бер|||||Ber
 socketable_jah_rune|Jah||Jah|Джа|||||Jah
-socketable_cham_rune|Drax||Drax|Дракс|||||Drax
-socketable_zod_rune|Zed||Zed|Зед|||||Zed
+socketable_cham_rune|Drax||Drax|Дракс|||드락스||Drax
+socketable_zod_rune|Zed||Zed|Зед|||Zed||Zed
 socketable_fawn_rune|Fawn||||||||
 socketable_flo_rune|Flo||||||||
 socketable_nju_rune|Nju||||||||
@@ -1947,7 +1947,7 @@ material_jewel_huge_spessarite|Huge Spessarite||Espessarita Enorme|Огромн�
 material_jewel_cardinal_ruby|Cardinal Ruby||Rubi Cardinal|Кардинал Рубин|||카디널 루비||Rubis cardinal
 material_jewel_flaming_core|Flaming Core||Núcleo Flamejante|Пылающее Ядро|||불타는 핵||Noyau flamboyant
 material_jewel_demon_tooth|Demon Tooth||Dente de Demônio|Зуб Демона|||악마의 이빨||Dent démoniaque
-material_jewel_ketamineral|Ketamineral||Ketamineral|Кетаминерал|||Ketamineral||Kétamineral
+material_jewel_ketamineral|Ketamineral||Ketamineral|Кетаминерал|||케타미네랄||Kétamineral
 material_jewel_jadenium_powder|Jadenium Powder||Pó de Jadenium|Порошок жадеита|||제이데늄 가루||Poudre de Jadenium
 material_jewel_satans_nail|Satans Nail||Unha de Satã|Сатанинский Гвоздь|||사탄의 손톱||Ongle de Satan
 material_jewel_inferno_stone|Inferno Stone||Pedra Infernal|Адский Камень|||지옥의 돌||Pierre infernale
@@ -2150,15 +2150,15 @@ shrine_devil_affix01|of Experience||de Experiência||||경험의||
 shrine_devil_affix02|of Agility||da Agilidade||||민첩의||
 shrine_devil_affix03|of Haste||da Rapidez||||신속의||
 shrine_devil_affix04|of Damage||de Dano||||||
-shrine_devil_affix05|of Fortune||da Fortuna||||||
+shrine_devil_affix05|of Fortune||da Fortuna||||운명의||
 shrine_devil_affix11|of Relic||da Relíquia||||유물의||
 |||||||||
 shrine_angel_affix01|of Experience||de Experiência||||경험치||
 shrine_angel_affix02|of Agility||da Agilidade||||민첩의||
 shrine_angel_affix03|of Haste||da Rapidez||||신속의||
 shrine_angel_affix04|of Damage||de Dano||||||
-shrine_angel_affix05|of Fortune||da Fortuna||||||
-shrine_angel_affix06|of Skill||da Habilidade||||||
+shrine_angel_affix05|of Fortune||da Fortuna||||포춘의||
+shrine_angel_affix06|of Skill||da Habilidade||||기술의||
 |||||||||
 shrine_chaos_affix01|of Satanism||do Satanismo||||||
 shrine_chaos_affix02|of Runic Embrace||do Abraço Rúnico||||룬의 포옹||
@@ -2182,7 +2182,7 @@ prefix_savage|Savage||Selvagem||||야만적인||
 prefix_brutal|Brutal||Brutalidade||||잔혹||
 prefix_feral|Feral||Feral||||||
 prefix_merciless|Merciless||Impiedoso||||무자비한||
-prefix_ferocious|Ferocious||Feroz||||||
+prefix_ferocious|Ferocious||Feroz||||사나운||
 prefix_owls|Owl||Coruja||||부엉이||
 prefix_crows|Crow||Corvo||||까마귀||
 prefix_hawks|Hawk||Gavião||||호크||
@@ -2192,16 +2192,16 @@ prefix_cobras|Cobra||Cobra||||코브라||
 prefix_basilisks|Basilisk||Basilisco||||바실리스크||
 prefix_serpents|Serpent||Serpente||||뱀||
 prefix_dragons|Dragon||Dragão||||드래곤||
-prefix_wyrms|Wyrm||Wyrm||||||
+prefix_wyrms|Wyrm||Wyrm||||용||
 prefix_kingcobras|King Cobra||Rei Cobra||||킹 코브라||
 prefix_kingbasilisks|King Basilisk||Rei Basilisco||||바실리스크 왕||
 prefix_kingserpents|King Serpent||Rei Serpente||||뱀 왕||
 prefix_kingdragons|King Dragon||Rei Dragão||||용왕||
 prefix_kingwyrms|King Wyrm||Rei Wyrm||||와이름 왕||
-prefix_armorers|Armorer´s||do Armeiro||||||
+prefix_armorers|Armorer´s||do Armeiro||||갑옷 제작자의||
 prefix_defenders|Defender´s||do Defensor||||수호자의||
 prefix_bastions|Bastion´s||do Bastião||||||
-prefix_sentinels|Sentinel´s||do Sentinela||||||
+prefix_sentinels|Sentinel´s||do Sentinela||||센티넬의||
 prefix_guardians|Guardian´s||do Guardião||||수호자의||
 prefix_bears|Bear||Urso||||곰||
 prefix_rhinos|Rhino||Rinoceronte||||코뿔소||
@@ -2232,7 +2232,7 @@ prefix_lightning_cloaking|Lightningcloaking||Raio Camuflado||||번개 은폐||
 prefix_lightning_proof|Lightningproof||Prova de Veneno||||번개 방지||
 prefix_lightning_resisting|Lightningresisting||Resistente a Veneno||||번개 저항||
 prefix_lightning_shielding|Lightningshielding||Blindado a Veneno||||번개 보호막||
-prefix_lightning_immune|Lightningimmune||Imune a Veneno||||||
+prefix_lightning_immune|Lightningimmune||Imune a Veneno||||번개 면역||
 prefix_arcane_cloaking|Arcanecloaking||Arcana Camuflado||||비전 은폐||
 prefix_arcane_proof|Arcaneproof||Prova de Arcana||||비전 방어||
 prefix_arcane_resisting|Arcaneresisting||Resistente a Arcana||||비전 저항||
@@ -2250,7 +2250,7 @@ prefix_colossal_bats|Colossalbat||Morcego-colossal||||거대한박쥐||
 prefix_citadel_bats|Citadelbat||Morcego-da-cidadela||||시타델박쥐||
 prefix_peasants|Peasant´s||do Camponês||||||
 prefix_archons|Archon´s||do Arconte||||나노||
-prefix_avengers|Avenger´s||do Vingador||||||
+prefix_avengers|Avenger´s||do Vingador||||어벤저의||
 prefix_keepers|Keeper´s||do Guardião||||수호자의||
 prefix_arch_angel|Archangel´s||do Arcanjo||||대천사||
 prefix_mysticpond|Mystic Pond||Lagoa Mística||||신비로운 연못||
@@ -2266,7 +2266,7 @@ prefix_kindred|Kindred||Parentesco||||킨드레드||
 prefix_ignited|Ignited||Inflamado||||점화됨||
 prefix_lit|Lit||Aceso||||||
 prefix_timed|Timed||Cronometrado||||시간 제한||
-prefix_fired|Fired||Disparado||||||
+prefix_fired|Fired||Disparado||||해고||
 prefix_doomed|Doomed||Condenado||||운명 지어진||
 prefix_ward|Ward||Guarda||||와드||
 prefix_eye|Eye||Olho||||||
@@ -2279,11 +2279,11 @@ prefix_risen|Risen||Ressuscitado||||부활한||
 prefix_undying|Undying||Imortal||||불사||
 prefix_reanimated|Reanimated||Reanimado||||되살아난||
 prefix_lingering|Lingering||Persistente||||지속됨||
-prefix_willowing|Willowing||Salgueiro||||Willowing||
+prefix_willowing|Willowing||Salgueiro||||||
 prefix_hallowing|Hallowing||Santificante||||||
 prefix_festering|Festering||Purulento||||곪는||
 prefix_slendering|Slendering||Esbelto||||슬렌더링||
-prefix_sinister|Sinister||Sinistro||||||
+prefix_sinister|Sinister||Sinistro||||불길한||
 prefix_malevolent|Malevolent||Malevolente||||악의적인||
 prefix_demonic|Demonic||Demoníaco||||악마의||
 prefix_diabolic|Diabolic||Diabólico||||디아볼릭||
@@ -2304,14 +2304,14 @@ prefix_corpsemaggot|Corpsemaggot||Larva-corpo||||시체구더기||
 prefix_corpsemuncher|Corpsemuncher||Come-corpos||||시체먹는 자||
 prefix_cannibal|Cannibal||Canibal||||식인종||
 prefix_disciple|Disciple||Discípulo||||제자||
-prefix_monk|Monk||Monge||||||
+prefix_monk|Monk||Monge||||몽크||
 prefix_priest|Priest||Padre||||사제||
 prefix_gypsy|Gypsy||Cigano||||집시||
 prefix_exorcist|Exorcist||Exorcista||||퇴마사||
-prefix_walking|Walking||Caminhante||||||
+prefix_walking|Walking||Caminhante||||걷는 중||
 prefix_traveling|Traveling||Viajante||||여행 중||
 prefix_sneaking|Sneaking||Sorrateiro||||잠입||
-prefix_blinking|Blinking||Piscante||||||
+prefix_blinking|Blinking||Piscante||||블링킹||
 prefix_phasing|Phasing||Phasing||||위상 이동||
 prefix_scarface|Scarface||Scarface||||스카페이스||
 prefix_hitman|Hitman||Agressor||||암살자||
@@ -2324,20 +2324,20 @@ prefix_packleader|Packleader||Líder||||무리의 리더||
 prefix_apex|Apex||Alfa||||에이펙스||
 prefix_predator|Predator||Predador||||포식자||
 prefix_pickpocket|Pickpocket||Carteirista||||소매치기||
-prefix_thieves|Thieve´s||do Ladrão||||||
-prefix_vultures|Vulture´s||do Abutre||||||
+prefix_thieves|Thieve´s||do Ladrão||||도적의||
+prefix_vultures|Vulture´s||do Abutre||||벌쳐의||
 prefix_greedy|Greedy||Ganancioso||||탐욕스러운||
 prefix_whitecollar|Whitecollar||Colarinho Branco||||화이트칼라||
 prefix_mangling|Mangling||Mutilação||||절단||
 prefix_trashing|Trashing||Destruido||||파기||
-prefix_breaking|Breaking||Quebrado||||||
+prefix_breaking|Breaking||Quebrado||||부수기||
 prefix_maiming|Maiming||Mutilado||||불구로 만들기||
 prefix_crushing|Crushing||Esmagado||||분쇄||
 prefix_crucial|Crucial||Crucial||||중요한||
-prefix_sharp|Sharp||Afiado||||||
+prefix_sharp|Sharp||Afiado||||날카로운||
 prefix_deadly|Deadly||Mortal||||치명적||
 prefix_fatal|Fatal||Fatal||||치명적||
-prefix_eliminating|Eliminating||Eliminado||||||
+prefix_eliminating|Eliminating||Eliminado||||처치 중||
 prefix_scarring|Scarring||Cicatrizando||||흉터||
 prefix_blistering|Blistering||Intenso||||맹렬한||
 prefix_ripping|Ripping||Rasgado||||||
@@ -2380,7 +2380,7 @@ prefix_poisonpiercing|Poisonpiercing||Perfura-veneno||||독침||
 prefix_poisonshattering|Poisonshattering||Estilhaça-veneno||||독파괴||
 prefix_lightningignoring|Lightiningignoring||Ignora-raio||||번개 무시||
 prefix_lightningpenetrating|Lightningpenetrating||Penetra-rio||||번개 관통||
-prefix_lightningbreaking|Lightningbreaking||Quebra-raio||||||
+prefix_lightningbreaking|Lightningbreaking||Quebra-raio||||번개파괴||
 prefix_lightningpiercing|Lightningpiercing||Perfura-raio||||번개 관통||
 prefix_lightningshattering|Lightningshattering||Estilhaça-raio||||번개파괴||
 prefix_arcaneignoring|Arcaneignoring||Ignora-arcano||||비전 무시||
@@ -2439,17 +2439,17 @@ prefix_warriors03|Warrior´s||do Guerreiro||||전사의||
 prefix_warriors04|Warrior´s||do Guerreiro||||전사의||
 prefix_warriors05|Warrior´s||do Guerreiro||||전사의||
 prefix_brutes01|Brute´s||do Bruto||||브루트의||
-prefix_brutes02|Brute´s||do Bruto||||||
+prefix_brutes02|Brute´s||do Bruto||||브루트의||
 prefix_brutes03|Brute´s||do Bruto||||브루트의||
 prefix_brutes04|Brute´s||do Bruto||||브루트의||
-prefix_brutes05|Brute´s||do Bruto||||||
+prefix_brutes05|Brute´s||do Bruto||||브루트의||
 prefix_juggernauts01|Juggernaut´s||do Juggernaut||||저거넛의||
 prefix_juggernauts02|Juggernaut´s||do Juggernaut||||저거넛의||
 prefix_juggernauts03|Juggernaut´s||do Juggernaut||||저거넛의||
 prefix_juggernauts04|Juggernaut´s||do Juggernaut||||저거넛의||
 prefix_juggernauts05|Juggernaut´s||do Juggernaut||||저거넛의||
 prefix_soldiers|Soldier´s||do Soldado||||병사의||
-prefix_berserkers|Berserker´s||버서커의||||||
+prefix_berserkers|Berserker´s||버서커의||||버서커의||
 prefix_crusaders|Crusader´s||do Cruzado||||성전사의||
 prefix_legionnaires|Legionnaire´s||do Legionário||||군단병의||
 prefix_warlords|Warlord´s||do Senhor da Guerra||||군주||
@@ -2457,8 +2457,8 @@ prefix_swift|Swift||Ligeiro||||신속||
 prefix_rapid|Rapid||Rápido||||빠른||
 prefix_quickened|Quickened||Acelerado||||신속||
 prefix_fleet|Fleet||Frota||||함대||
-prefix_zephyrs|Zephyr´s||do Zéfiro||||||
-prefix_fireinfusion01|Fireinfusion||Fogo-infusão||||불 주입||
+prefix_zephyrs|Zephyr´s||do Zéfiro||||제피르의||
+prefix_fireinfusion01|Fireinfusion||Fogo-infusão||||화염 주입||
 prefix_fireinfusion02|Fireinfusion||Fogo-infusão||||화염 주입||
 prefix_fireinfusion03|Fireinfusion||Fogo-infusão||||화염 주입||
 prefix_fireinfusion04|Fireinfusion||Fogo-infusão||||화염 주입||
@@ -2509,7 +2509,7 @@ prefix_manasplash|Manasplash||Respinga-mana||||마나스플래시||
 prefix_manaflow|Manaflow||Manafluxo||||마나 흐름||
 prefix_manahunger|Manahunger||Fome-de-mana||||마나허기||
 prefix_mitigating|Mitigating||Mitigado||||경감||
-prefix_deflecting|Deflecting||Defletido||||||
+prefix_deflecting|Deflecting||Defletido||||막기||
 prefix_defending|Defending||Defensivo||||방어 중||
 prefix_armored|Armored||Blindado ||||장갑||
 prefix_bulwark|Bulwark||Baluarte||||방벽||
@@ -2561,15 +2561,15 @@ prefix_quantum_armor5|Quantum||||||양자||
 prefix_glooming|Glooming||||||||
 prefix_sparkling|Sparkling||||||반짝이는||
 prefix_lumninated|Luminated||||||발광||
-prefix_luxified|Luxified||||||||
+prefix_luxified|Luxified||||||고급화||
 prefix_lightburning|Lightburning||||||라이트버닝||
 prefix_regenerating|Regenerating||||||재생 중||
 prefix_healing|Healing||||||치유||
-prefix_fulfilling|Fulfilling||||||||
+prefix_fulfilling|Fulfilling||||||충족||
 prefix_vitalizing|Vitalizing||||||활력 충전||
 prefix_consuming|Consuming||||||||
 prefix_shortlived|Shortlived||||||단명||
-prefix_fast|Fast||||||||
+prefix_fast|Fast||||||빠른||
 prefix_accelerated|Accelerated||||||가속된||
 prefix_hyperloop|Hyperloop||||||하이퍼루프||
 prefix_entangled|Entangled||||||얽힌||
@@ -2683,7 +2683,7 @@ suffix_lifespring|Lifespring||Nascente de Vida||||생명의 샘||
 suffix_lifebloom|Lifebloom||Florescer da Vida||||생명의 꽃||
 suffix_manaflux|Manaflux||Fluxo de Mana||||마나 플럭스||
 suffix_manawell|Manawell||Fonte de Mana||||마나의 샘||
-suffix_manaflow|Manaflow||Fluxo de Mana||||||
+suffix_manaflow|Manaflow||Fluxo de Mana||||마나 흐름||
 suffix_manaspring|Manaspring||Nascente de Mana||||마나의 샘||
 suffix_manabloom|Manabloom||Florescer de Mana||||마나블룸||
 suffix_blockade|Blockade||Bloqueio||||봉쇄||
@@ -2742,7 +2742,7 @@ suffix_lonewolf|Lonewolf||Lobo Solitário||||외로운 늑대||
 suffix_legend|Legend||Lenda||||전설||
 suffix_hero|Hero||Herói||||영웅||
 suffix_samurai|Samurai||Samurai||||사무라이||
-suffix_ronin|Ronin||Ronin||||||
+suffix_ronin|Ronin||Ronin||||나||
 suffix_battle_magus|Battlemagus||Mago de Batalha||||배틀메이지||
 suffix_spell_caster|Spellcaster||Feiticeiro||||마법사||
 suffix_high_sorcery|Highsorcery||Alta-feitiçaria||||고등 마법||
