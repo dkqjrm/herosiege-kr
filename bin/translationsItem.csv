@@ -20,7 +20,7 @@ normal_mace_devil_star|Devil Star||Chicote do Diabo|Дьявольская Зв�
 |||||||||
 [Normal Daggers]|||||||||
 normal_dagger_dagger|Dagger||Adaga |Кинжал|||단검||Poignard
-normal_dagger_dirge|Dirge||Dirge|Панихида|||||Dague
+normal_dagger_dirge|Dirge||Dirge|Панихида|||디르지||Dague
 normal_dagger_kris|Kris||Kris|Крис|||||Coutelas Cranté
 |||||||||
 [Normal Swords]|||||||||
@@ -125,7 +125,7 @@ lore_w_melee_riftmasters_dirge|The mysterious wizard at the edge of the universe
 lore_w_melee_sung_lees_destroyer_flail|Brutal weapon of the warlord Sung Lee to bring carnage and death to anyone on it's path.||Arma brutal do mestre de guerra Sung Lee para trazer carnificina e morte para qualquer um em seu caminho.|Жестокое оружие военачальника Сун Ли, несущее резню и смерть любому на своем пути.|||전쟁 군주 성 리의 잔혹한 무기, 그의 길을 가로막는 모든 이에게 학살과 죽음을 가져온다.||L'arme brutale du seigneur de guerre Sung Lee, qui provoque le carnage et la mort de tous ceux qui se trouvent sur son chemin.
 lore_w_melee_light_of_dawn|As the first light of dawn fills the vision of a hero after a night of terror, hope fills his heart as he presses on.||Enquanto a primeira luz do amanhecer preenche a visão de um herói após uma noite de terror, a esperança preenche seu coração enquanto ele segue em frente.|Когда первые лучи рассвета озаряют образ героя после ужасной ночи, надежда наполняет его сердце, когда он идет дальше.|||새벽의 첫 빛이 공포의 밤을 보낸 영웅의 시야를 채우면서, 희망이 그의 가슴을 채우고 그는 계속 나아간다.||Alors que les premières lueurs de l'aube éclairent la silhouette d'un héros après une nuit de terreur, l'espoir emplit son cœur et il poursuit sa route.
 lore_w_melee_st_gabriels_retribution|Beware those who follow the path of the wicked and sin, as the punishment is coming from above.||Cuidado com aqueles que seguem o caminho da maldade e pecado, pois a punição virá de cima.|Остерегайтесь тех, кто следует путем нечестивых и грешит, поскольку наказание приходит свыше.|||악의와 죄의 길을 따르는 자들을 조심하라, 위로부터 벌이 내려올 것이다.||Gare à ceux qui suivent le chemin des impies et des pécheurs, car le châtiment vient d'en haut.
-lore_w_melee_bonettis_rapier|Tarethiel's finest swordsman's arsenal is believed to be buried with them during the siege of Damien.||Acredita-se que o arsenal dos melhores espadachins de Tarethiel esteja enterrado com eles durante o cerco de Damien.|Считается, что арсенал лучшего фехтовальщика Таретиэля был похоронен вместе с ними во время осады Дамиена.|||타레티엘 최고의 검투사의 무기고는 다미엔 공성전 중에 그들과 함께 묻힌 것으로 믿어집니다.||On pense que le meilleur équipement des plus grands épéistes de Tarethiel a été enterré avec eux lors du siège de Damien.
+lore_w_melee_bonettis_rapier|Tarethiel's finest swordsman's arsenal is believed to be buried with them during the siege of Damien.||Acredita-se que o arsenal dos melhores espadachins de Tarethiel esteja enterrado com eles durante o cerco de Damien.|Считается, что арсенал лучшего фехтовальщика Таретиэля был похоронен вместе с ними во время осады Дамиена.|||타레시엘 최고의 검투사의 무기고는 다미엔 공성전 중에 그들과 함께 묻힌 것으로 믿어집니다.||On pense que le meilleur équipement des plus grands épéistes de Tarethiel a été enterré avec eux lors du siège de Damien.
 lore_w_melee_grimbones_scythe|A grim death awaits the victims of this scythe, as it reaps the soul from the corpse.||Uma morte sombria aguarda as vítimas desta foice, enquanto colhe a alma de seus cadáveres.|Жертв этой косы ждет суровая смерть, поскольку она извлекает душу из трупа.|||이 낫의 희생자들에게는 음울한 죽음이 기다리고 있으며, 시체에서 영혼을 수확합니다.||Un sombre destin attend les victimes de cette faux, car elle arrache l'âme du défunt.
 lore_w_melee_shadow_carver|The Scythe of death so vicious and sharp it is rumored to cut shadows in half.||A foice da morte é tão cruel e afiada que há rumores de que ela corta sombras ao meio.|Коса смерти настолько порочна и остра, что, по слухам, разрезает тени пополам.|||죽음의 낫은 너무나도 사악하고 날카로워서 그림자를 반으로 자른다는 소문이 있습니다.||La faux de la mort, si vicieuse et tranchante qu'on dit qu'elle coupe les ombres en deux.
 lore_w_melee_sahkopuimuri|Harvennustyökalu vailla vertaa.||Harvennustyökalu vailla vertaa.||||비할 데 없는 수확 도구.||
@@ -148,7 +148,7 @@ lore_w_melee_blood_moon_crescent|An ancient sword used to rule the masses by sum
 lore_w_melee_stofflix_cooking_cleaver|Sian-San once tried to lift this epic cooking cleaver but by not being worthy of wielding it burned his hands.. ||||||시안-산은 한때 이 전설적인 요리 칼을 들어보려고 했지만, 자격이 없어서 손을 데었다.||
 |||||||||
 [weapon_throwing]|||||||||
-normal_throwing_throwing_axe|Throwing Axe||Machado de Arremesso|Метательный Топор|||Throwing Axe||Hache de jet
+normal_throwing_throwing_axe|Throwing Axe||Machado de Arremesso|Метательный Топор|||투척 도끼||Hache de jet
 normal_throwing_battle_darts|Battle Darts||Dardos de Batalha|Боевые Дротики|||배틀 다트||Lot de fléchettes
 normal_throwing_throwing_disc|Throwing Disc||Disco de Arremesso|Метательный Диск|||투척 디스크||Disque-lame
 normal_throwing_harpoon|Harpoon|Harppuuna|Arpão|Гарпун|鱼叉|ハープーン|작살|Harpune|Harpon
@@ -306,7 +306,7 @@ normal_polearm_war_trident|War Trident||Tridente de Guerra|Боевой Трез
 normal_polearm_battle_lance|Battle Lance||Lança de Batalha|Боевое Копье|||전투 창||Lance de combat
 normal_polearm_hyperion_spear|Hyperion Spear||Lança Hyperion|Копье Гипериона|||하이페리온 창||Lance d'Hypérion
 normal_polearm_yari|Yari||Yari|Yari|||||Yari
-normal_polearm_fuscina|Fuscina||Fuscina|Fuscina|||||Fuscina
+normal_polearm_fuscina|Fuscina||Fuscina|Fuscina|||푸스키나||Fuscina
 normal_polearm_war_spear|War Spear||Lança de Guerra|Боевое Копье|||전쟁의 창||Lance de guerre
 |||||||||
 [weapon_spear_unique]|||||||||
@@ -324,7 +324,7 @@ w_polearm_dark_knights_lance|Dark Knight's Lance|Pimeän ritarin keihäs|Lança 
 w_polearm_brimskull_trident|Brimskull Trident||Tridente Brimskull||||브림스컬 삼지창||
 w_polearm_thorn_of_noxus|Thorn of Noxus||||||녹서스의 가시||
 |||||||||
-lore_w_polearm_dark_knights_lance|Tales tell a story of a knight with pitch-black armor, a noble nomad who roams Tarethiel, helping people in trouble. Her lance is crafted from the finest materials and plated with gold.||Os contos contam a história de um cavaleiro com uma armadura negra, um nobre nômade que percorre Tarethiel, ajudando as pessoas em apuros. Sua lança é forjada com os melhores materiais e banhada em ouro.|Сказки повествуют о рыцаре в черных как смоль доспехах, благородном кочевнике, который странствует по Таретиэлю, помогая людям в беде. Ее копье изготовлено из лучших материалов и покрыто золотом.|||전설은 검은 갑옷을 입은 기사, 타레티엘을 떠도는 고귀한 유목민의 이야기를 전합니다. 그녀는 곤경에 처한 사람들을 돕습니다. 그녀의 창은 최고급 재료로 만들어졌으며 금으로 도금되어 있습니다.||Les contes narrent l'histoire d'un chevalier en armure noire, un noble nomade qui parcourt Tarethiel, aidant les gens en difficulté. Sa lance est fabriquée à partir des matériaux les plus fins et plaquée d'or.
+lore_w_polearm_dark_knights_lance|Tales tell a story of a knight with pitch-black armor, a noble nomad who roams Tarethiel, helping people in trouble. Her lance is crafted from the finest materials and plated with gold.||Os contos contam a história de um cavaleiro com uma armadura negra, um nobre nômade que percorre Tarethiel, ajudando as pessoas em apuros. Sua lança é forjada com os melhores materiais e banhada em ouro.|Сказки повествуют о рыцаре в черных как смоль доспехах, благородном кочевнике, который странствует по Таретиэлю, помогая людям в беде. Ее копье изготовлено из лучших материалов и покрыто золотом.|||전설은 검은 갑옷을 입은 기사, 타레시엘을 떠도는 고귀한 유목민의 이야기를 전합니다. 그녀는 곤경에 처한 사람들을 돕습니다. 그녀의 창은 최고급 재료로 만들어졌으며 금으로 도금되어 있습니다.||Les contes narrent l'histoire d'un chevalier en armure noire, un noble nomade qui parcourt Tarethiel, aidant les gens en difficulté. Sa lance est fabriquée à partir des matériaux les plus fins et plaquée d'or.
 lore_w_polearm_st_draxis_pigstick|This polearm is unlike any other weapon in the world. Its name, seemingly whimsical, held a deeper meaning, symbolizing the avoidance of bloodshed even in the face of danger.||Esta arma de haste é diferente de qualquer outra arma no mundo. Seu nome, aparentemente caprichoso, carrega um significado mais profundo, simbolizando o fato de evitar derramamento de sangue mesmo diante do perigo.|Это древко не похоже ни на одно другое оружие в мире. Его название, кажущееся причудливым, имело более глубокий смысл, символизируя предотвращение кровопролития даже перед лицом опасности.|||이 장병기는 세상 그 어떤 무기와도 다릅니다. 이름은 겉보기엔 장난스럽지만, 위험 앞에서도 피를 흘리지 않겠다는 깊은 의미를 담고 있습니다.||Cette arme de poing ne ressemble à aucune autre arme au monde. Son nom, apparemment fantaisiste, a une signification plus profonde, symbolisant le non recours à l'effusion de sang, même en cas de danger.
 lore_w_polearm_brimskull_trident|Conjured into existence from the beyond, a place darker than your worst nightmare..||Conjurado do além para a existência, um lugar mais sombrio do que seu pior pesadelo...||||저 너머에서 불러내어진 존재, 당신의 최악의 악몽보다 더 어두운 곳...||
 lore_w_polearm_thorn_of_noxus|Wielded by a god of war.. A weapon able to penetrate any armor, living or dead..||||||전쟁의 신이 휘두르는 무기.. 살아있거나 죽은 어떤 갑옷도 꿰뚫을 수 있는 무기..||
@@ -528,11 +528,11 @@ lore_armors_grand_archwizards_mantle|Perfectly preserved through the test of tim
 [helms]|||||||||
 helmet_normal_cap|Cap||Gorro|Колпачок|||||Capuchon
 helmet_normal_casque|Casque||Casco|Casque|||헬멧||Heaume
-helmet_normal_basinet|Basinet||Basinet|Басинет|||||Bassinet
+helmet_normal_basinet|Basinet||Basinet|Басинет|||바시넷||Bassinet
 helmet_normal_war_hat|War Hat||Capacete de Guerra|Военная Шляпа|||전쟁 모자||Capuchon de guerre
 helmet_normal_great_helm|Great Helm||Elmo |Отличный Шлем|||대형 투구||Grand heaume
 helmet_normal_war_visage|War Visage||Viseira de Guerra|Облик Войны|||전쟁의 얼굴||Masque de guerre
-helmet_normal_shako|Shako||Barretina|Кивер|||||Shako
+helmet_normal_shako|Shako||Barretina|Кивер|||샤코||Shako
 helmet_normal_horned_helm|Horned Helm||Capacete com Chifre|Рогатый Шлем|||뿔 달린 투구||Heaume à cornes
 helmet_normal_basilisk_skull|Basilisk Skull||Capacete do Basilisco|Череп Василиска|||바실리스크 해골||Crâne de Basilic
 |||||||||
@@ -623,7 +623,7 @@ helmet_eternal_death|Eternal Death||||||영원한 죽음||
 |||||||||
 lore_helmet_crown_of_north|Forged from tarethium deep in the glacial caves of Danethorpe. The ancient Jötunn tribe used to make these..||Forjado em Tarethiel, nas profundezas das cavernas glaciais de Danethorpe. A antiga tribo Jötunn costumava fabricá-los..|Выкованы из таретия глубоко в ледниковых пещерах Данеторпа. Древнее племя йотунн делало эти..|||다네소프의 빙하 동굴 깊은 곳에서 타레티움으로 단련되었습니다. 고대 요툰 부족이 이것들을 만들곤 했습니다..||Forgé à partir de tarethium dans les grottes glaciaires de Danethorpe. L'ancienne tribu Jötunn fabriquait ces artefacts, mais la technique s'est perdue depuis bien des siècles.
 lore_helmet_tenebris_grievance|Tenebris was a legendary battlefield medic specialized in amputations. He used this weird kind of substance to relieve pain..||Tenebris era um lendário médico de campo de batalha especializado em amputações. Ele usava esse tipo estranho de substância para aliviar a dor..|Тенебрис был легендарным боевым медиком, специализировавшимся на ампутациях. Он использовал это странное вещество для облегчения боли..|||Tenebris는 전설적인 전장 의료병으로, 절단 수술을 전문으로 했습니다. 그는 통증을 완화하기 위해 이상한 종류의 물질을 사용했습니다.||Tenebris était un médecin légendaire spécialisé dans les amputations. Il utilisait une substance étrange pour soulager la douleur...
-lore_helmet_pit_lords_vanquisher|From the dark pits of Tarethiel, a legendary gladiator's visage carries the strength of ten warriors and memories of untold battles.||Dos poços escuros de Tarethiel, uma viseira de um lendário gladiador carrega a força de dez guerreiros e memórias incontáveis de batalhas.|Из темных ям Таретиэля облик легендарного гладиатора несет в себе силу десяти воинов и воспоминания о неисчислимых битвах.|||타레티엘의 어두운 구덩이에서, 전설적인 검투사의 얼굴은 열 명의 전사의 힘과 셀 수 없는 전투의 기억을 지니고 있다.||Depuis les sombres fosses de Tarethiel, le visage d'un gladiateur légendaire porte ce casque dans chacun de ses combats
+lore_helmet_pit_lords_vanquisher|From the dark pits of Tarethiel, a legendary gladiator's visage carries the strength of ten warriors and memories of untold battles.||Dos poços escuros de Tarethiel, uma viseira de um lendário gladiador carrega a força de dez guerreiros e memórias incontáveis de batalhas.|Из темных ям Таретиэля облик легендарного гладиатора несет в себе силу десяти воинов и воспоминания о неисчислимых битвах.|||타레시엘의 어두운 구덩이에서, 전설적인 검투사의 얼굴은 열 명의 전사의 힘과 셀 수 없는 전투의 기억을 지니고 있다.||Depuis les sombres fosses de Tarethiel, le visage d'un gladiateur légendaire porte ce casque dans chacun de ses combats
 lore_helmet_lava_kings_lost_mask|In the depths of Muspelheim, forged from the ever-flowing molten rock by an ancient being who seeks to be freed once more.||Nas profundezas de Muspelheim, forjado a partir da rocha sempre derretida por um ser que busca ser libertado mais uma vez.|В глубинах Муспельхейма, выкованный из вечно текущей расплавленной породы древним существом, которое стремится снова освободиться.|||무스펠하임의 깊은 곳에서, 영원히 흐르는 용암으로 고대 존재가 다시 자유를 찾기 위해 단련한 것이다.||Dans les profondeurs de Muspelheim, forgé à partir de la roche en fusion qui ne cesse de couler, par un être ancien qui cherche à être libéré une fois de plus.
 lore_helmet_nikitas_kj33_helmet|Let there be carnage or bloodshed, keep your head protected and vision clear.||Mesmo que haja carnificina ou derramamento de sangue, mantenha sua cabeça protegida e sua visão clara.|Пусть будет бойня или кровопролитие, держите голову защищенной, а зрение ясным.|||대학살이나 유혈 사태가 일어나더라도, 머리를 보호하고 시야를 명확하게 유지하세요.||Qu'il y ait carnage ou effusion de sang, gardez votre tête protégée et votre vision claire.
 lore_helmet_sight_of_gods|Eyes of judgment cast from above, see the world with their gaze once more.||Olhos do julgamento lançados do alto, vejam o mundo com o seu olhar mais uma vez.|Осуждающие глаза, низведенные свыше, еще раз смотрят на мир их взглядом.|||위에서 내려다보는 심판의 눈, 다시 한번 그들의 시선으로 세상을 본다.||Les yeux du jugement, depuis là-haut, voient à nouveau le monde avec leur regard.
@@ -892,7 +892,7 @@ amulets_coldsnap_insignia|Coldsnap Insignia||Insígnia Resfriada|Знак отл
 amulets_insignia_of_burning_legion|Insignia of the Burning Legion||Insígnia da Legião Ardente|Знаки отличия Пылающего легиона|||불타는 군단의 휘장||Insigne de la Légion ardente
 amulets_gamblers_demise|Gambler's Demise||Declínio do Apostador|Кончина игрока|||도박사의 종말||Leg du joueur
 amulets_stone_of_archaeology|Stone of Archaeology||Pedra Arqueológica|Камень археологии|||고고학의 돌||Pierre d'archéologie
-amulets_tarethiels_fall|Tarethiel's Fall||Queda de Tarethiel||||타레티엘의 몰락||
+amulets_tarethiels_fall|Tarethiel's Fall||Queda de Tarethiel||||타레시엘의 몰락||
 amulets_amulet_of_colosseum|Amulet of Colosseum||Amuleto do Coliseu||||콜로세움의 아뮬렛||
 amulets_liliths_scorn|Lilith's Scorn||Desprezo de Lilith||||릴리스의 멸시||
 amulets_arcs_sigil|Arc's Sigil||Símbolo de Arc||||Arc의 상징||
@@ -910,7 +910,7 @@ lore_amulets_eagles_claw|From miles high they spot their target. Then it’s tim
 lore_amulets_thoths_agony|The core of suffering worn by the arch mystic Thoth..||||||대현자 토트가 착용한 고통의 핵심..||
 |||||||||
 [charms]|||||||||
-charms_normal_small_charm|Small Charm||Talismã Pequeno|Маленькое Очарование|||||Petit charme
+charms_normal_small_charm|Small Charm||Talismã Pequeno|Маленькое Очарование|||작은 매력||Petit charme
 charms_normal_large_charm|Large Charm||Talismã Grande|Большое Очарование|||큰 차암||Large charme
 charms_normal_grand_charm|Grand Charm||Talismã Grandioso|Великое Очарование|||대형 차암||Grand charme
 |||||||||
@@ -948,14 +948,14 @@ charms_champions_signet|Champion's Signet|Sotamestarin Sinetti|Sinete do Campeã
 charms_plunderers_gunpowder_bag|Plunderer's Gunpowder Bag|Laivojenupottajan Ruutipussi|Saco de Pólvora do Saqueador|Мешок с порохом Расхитителя|掠夺者的火药袋|プランダラの火薬バッグ|약탈자의 화약 가방|Schießpulverbeutel des Plünderers|Sac de poudre de pilleur
 charms_fulgurite|Fulgurite|Fulgurite|Fulgurito|Фульгурит|Fulgurite|Fulgurite|풀구라이트|Fulgurite|Fulgurite
 charms_loaded_dice|Loaded Dice|Loaded Dice|Dado Carregado|Загруженные Игральные кости|Loaded Dice|Loaded Dice|로디드 다이스|Loaded Dice|Boîte de dés
-charms_annihilus|Annihilator||Aniquiladora|Уничтожитель|||||Annihilus
+charms_annihilus|Annihilator||Aniquiladora|Уничтожитель|||파괴자||Annihilus
 charms_bag_of_unknown_riches|Bag of Unknown Riches |Bag of Unknown Riches |Bolsa de Riquezas Desconhecidas|Мешок с Неведомыми Богатствами |Bag of Unknown Riches |Bag of Unknown Riches |알 수 없는 부의 가방|Bag of Unknown Riches |Sac de richesses inconnues 
 charms_spine_trophy|Spine Trophy|Spine Trophy|Troféu de Coluna|Трофей для Позвоночника|Spine Trophy|Spine Trophy|척추 트로피|Spine Trophy|Trophée spinal
 charms_angelic_key|Angelic Key|Angelic Key|Chave Angelical|Ангельский Ключ|Angelic Key|Angelic Key|천사의 열쇠|Angelic Key|Clé angélique
 charms_cold_giants_charm|Cold Giant's Charm|Kylmän jättiläisen viehätysvoima|Talismã do Gigante Gelado|Очарование Холодного великана|寒冷巨人的魅力|冷たい巨人の魅力|차가운 거인의 차암|Der Charme des kalten Riesen|Charme du géant froid
 charms_jacks_pumpkin_spice|Jack's Pumpkin Spice|Jackin kurpitsamauste|Tempero de Abóbora de Jack|Тыквенная приправа Джека|杰克的南瓜香精|ジャックのパンプキンスパイス|잭의 호박 향신료|Jacks Kürbisgewürz|Épice de citrouille de Jack
 charms_shrunken_head|Shrunken Head|Kutistunut pää|Cabeça Encolhida|Сморщенная Голова|缩头乌龟|シュランケンヘッド|축소된 머리|Schrumpfkopf|Tête tranchée
-charms_tarethiels_ancient_wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Conhecimento Antigo de Tarethiel|Древняя мудрость Таретиэля|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|타레티엘의 고대 지혜|Tarethiel's Ancient Wisdom|Sagesse ancestrale de Tarethiel
+charms_tarethiels_ancient_wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Conhecimento Antigo de Tarethiel|Древняя мудрость Таретиэля|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|타레시엘의 고대 지혜|Tarethiel's Ancient Wisdom|Sagesse ancestrale de Tarethiel
 charms_sheep_kings_wool|Sheep King's Wool|Sheep King's Wool|Lã do Rei das Ovelhas|Королевская шерсть овец|Sheep King's Wool|Sheep King's Wool|양 왕의 양모|Sheep King's Wool|Laine du roi des moutons
 charms_vikings_glyphed_rune|Viking's Glyphed Rune|Viking's Glyphed Rune|Runa Glifada do Viking|Глиф- руна викинга|Viking's Glyphed Rune|Viking's Glyphed Rune|바이킹의 글리프 룬|Viking's Glyphed Rune|Glyphe runique de viking
 charms_witches_claw|Witches Claw|Witches Claw|Garra de Bruxa|Коготь Ведьмы|Witches Claw|Witches Claw|마녀의 발톱|Witches Claw|Griffe de sorcière
@@ -991,7 +991,7 @@ charms_sassys_dislocated_foot|Sassy´s Dislocated Foot||Pé Deslocado do Sassy||
 charms_chaos_gemstone|Chaos Gemstone||Gema do Caos||||혼돈의 보석||
 charms_fingerOfDespair|Finger of Despair||||||절망의 손가락||
 charms_sobeks_fall|Sobek´s Fall||||||소벡의 몰락||
-charms_graxys_mom_lure|Graxy´s Mom Lure||||||||
+charms_graxys_mom_lure|Graxy´s Mom Lure||||||그락시의 엄마 미끼||
 charms_almighty_nugget|The Almighty Nugget||||||전능한 너겟||
 charms_orange_grayon|Orange Grayon||||||오렌지 크레용||
 charms_aimbot_exe|Aimbot.exe||||||Aimbot.exe||
@@ -1001,7 +1001,7 @@ charms_dev_charm_large|Dev Charm Large||||||개발자 차암 대형||
 charms_dev_charm_grand|Dev Charm Grand||||||개발자 차암 대형||
 |||||||||
 lore_charms_loaded_dice|In the shadowed corners of a mystical realm, where chance and fate entwined like threads in a cosmic tapestry, a legendary artifact was born.||Nos cantos sombrios de um reino místico, onde o acaso e o destino se entrelaçam como fios em uma tapeçaria cósmica, nasceu um artefato lendário.|В темных уголках мистического царства, где случай и судьба переплелись, как нити в космическом гобелене, родился легендарный артефакт.|||신비한 영역의 어두운 구석에서, 우연과 운명이 우주의 태피스트리처럼 얽혀 있는 곳에서 전설적인 유물이 탄생했다.||Un artefact légendaire est né dans les coins sombres d'un royaume mystique, où le hasard et le destin s'entremêlent comme les fils d'une tapisserie cosmique.
-lore_charms_tarethiels_ancient_wisdom|From the depths of the catacombs, Tarethiel's elder souls were combined into this singular point, granting knowledge and power to a hero in need.||Das profundezas das catacumbas, as almas mais velhas de Tarethiel foram combinadas nesse ponto singular, concedendo conhecimento e poder a um herói em necessidade.|Из глубин катакомб старшие души Таретиэля были объединены в эту единственную точку, даруя знания и силу нуждающемуся герою.|||지하 묘지의 깊은 곳에서 타레티엘의 오래된 영혼들이 이 단일 지점으로 결합되어, 필요한 영웅에게 지식과 힘을 부여합니다.||Depuis les profondeurs des catacombes, les âmes les plus anciennes de Tarethiel ont été réunies en ce point singulier, accordant savoir et pouvoir à un héros dans le besoin.
+lore_charms_tarethiels_ancient_wisdom|From the depths of the catacombs, Tarethiel's elder souls were combined into this singular point, granting knowledge and power to a hero in need.||Das profundezas das catacumbas, as almas mais velhas de Tarethiel foram combinadas nesse ponto singular, concedendo conhecimento e poder a um herói em necessidade.|Из глубин катакомб старшие души Таретиэля были объединены в эту единственную точку, даруя знания и силу нуждающемуся герою.|||지하 묘지의 깊은 곳에서 타레시엘의 오래된 영혼들이 이 단일 지점으로 결합되어, 필요한 영웅에게 지식과 힘을 부여합니다.||Depuis les profondeurs des catacombes, les âmes les plus anciennes de Tarethiel ont été réunies en ce point singulier, accordant savoir et pouvoir à un héros dans le besoin.
 lore_charms_torch_of_shadows|Torch forged and lighted in the Shadow Realms that has some odd properties, spreading darkness in the mortal world where there should be light.||Tocha forjada e acesa no Reino das Sombras que tem algumas propriedades estranhas, espalhando escuridão no mundo mortal onde deveria haver luz.|Факел, выкованный и зажженный в Царствах Теней, который обладает некоторыми странными свойствами, распространяя тьму в мире смертных там, где должен быть свет.|||어둠의 영역에서 만들어지고 밝혀진 횃불로, 이상한 특성을 지니고 있으며, 빛이 있어야 할 인간 세상에 어둠을 퍼뜨립니다.||Torche forgée et enflammée dans les royaumes de l'ombre qui possède d'étranges propriétés, répandant l'obscurité dans le monde des mortels là où il devrait y avoir de la lumière.
 lore_charms_fulgurite|The power of this charm is determined by the skill of its creator. You just never know if its worthy or not..||O poder desse talismã é determinado pela habilidade de seu criador. Você nunca sabe se ele vale a pena ou não.|Сила этого талисмана определяется мастерством его создателя. Вы просто никогда не знаете, достойно оно того или нет..|||이 부적의 힘은 제작자의 기술에 의해 결정됩니다. 그것이 가치 있는지 없는지는 알 수 없습니다..||Le pouvoir de ce charme est déterminé par l'habileté de son créateur. On ne sait jamais si elle en vaut la peine ou non...
 lore_charms_water_melon|One of the ancient Elemelons grown in the garden of Eden.||Uma das antigas Elemelancias cultivadas no jardim de Eden.||||에덴 동산에서 재배된 고대 엘레멜론 중 하나.||
@@ -1129,7 +1129,7 @@ rings_elven_grace|Elven Grace||Graça dos Elfos|Эльфийская Граци�
 rings_quickening_zephyr|Quickening Zephyr|Pikavauhtia Zephyr|Zéfiro Acelerado|Оживляющий Зефир|快捷的紫云英|クイックニングゼファー|질풍의 순풍|Zephir beschleunigen|Zéphyr vivifiant
 rings_mana_benders_will|Mana Bender's Will|Mana Benderin tahto|Vontade do Dobrador de Mana|Воля Маны Бендер|玛娜班德的意志|マナベンダーの意志|마나 벤더의 의지|Der Wille des Mana-Benders|Volonté du façonneur de mana
 rings_tectonic_frequency|Tectonic Frequency|Techtonic Frequency|Frequência Tectônica|Тектоническая Частота|科技频率|テクトニック周波数|지각 주파수|Techtonische Frequenz|Fréquence tectonique
-rings_fury_of_tarethiel|Fury of Tarethiel|Tarethielin raivo|Fúria de Tarethiel|Ярость Таретиэля|塔雷西尔之怒|フューリーオブタレシエル|타레티엘의 분노|Wut von Tarethiel|Courroux de Tarethiel
+rings_fury_of_tarethiel|Fury of Tarethiel|Tarethielin raivo|Fúria de Tarethiel|Ярость Таретиэля|塔雷西尔之怒|フューリーオブタレシエル|타레시엘의 분노|Wut von Tarethiel|Courroux de Tarethiel
 rings_absence_of_constraint|The Absence of Constraint|The Absence of Constraint|A Ausência de Restrições|Отсутствие ограничений|The Absence of Constraint|The Absence of Constraint|제한의 부재|The Absence of Constraint|Absence de contrainte
 rings_mark_of_ferocity|Mark of Ferocity|Mark of Ferocity|Marca da Ferocidade|Знак Свирепости|Mark of Ferocity|Mark of Ferocity|격렬함의 표식|Mark of Ferocity|Marque de férocité
 rings_sanguine_bloodstone|Sanguine Bloodstone|Sanguine Bloodstone|Pedra de Sangue|Сангвинический Кровавик|Sanguine Bloodstone|Sanguine Bloodstone|생귀니 블러드스톤|Sanguine Bloodstone|Pierre de sang
@@ -1157,7 +1157,7 @@ rings_destroyers_end|Destroyer’s End||Fim do Destruidor||||파괴자의 종말
 rings_signet_of_harbringer|Signet of Harbringer||Sinete do Prenúncio||||선구자의 인장||
 rings_hellfire_halo|Hellfire Halo||Auréola do Fogo Infernal||||지옥불 후광||
 rings_signet_of_corruption|Signet of Corruption||Sinete da Corrupção||||부패의 인장||
-rings_arcanis|Arcanis||Arcanis||||Arcanis||
+rings_arcanis|Arcanis||Arcanis||||||
 rings_azazels_despair|Azazel's Despair||Desespero de Azazel||||아자젤의 절망||
 rings_emblem_of_the_daemon|Emblem of the Daemon||Emblema de Daemon||||데몬의 엠블럼||
 rings_stormloop|Stormloop||Laço da Tempestade||||폭풍의 고리||
@@ -1165,7 +1165,7 @@ rings_stormloop|Stormloop||Laço da Tempestade||||폭풍의 고리||
 lore_rings_mana_benders_will|Those who master their resources are those who will ultimately triumph.||Aqueles que dominam seus recursos são os que acabarão triunfando.|Те, кто овладевает своими ресурсами, - это те, кто в конечном счете одержит победу.|||자원을 잘 다루는 자가 결국 승리할 것이다.||Ceux qui maîtrisent leurs capacités sont ceux qui finissent par triompher.
 lore_rings_quickening_zephyr|May the winds of the desert blow like a breeze from the wing of a dragon, guiding your path.||Que os ventos do deserto soprem como a brisa da asa de um dragão, guiando seu caminho.|Пусть ветры пустыни дуют, как бриз от крыла дракона, направляя ваш путь.|||사막의 바람이 용의 날개에서 불어오는 산들바람처럼 불어와 당신의 길을 인도하길.||Que les vents du désert soufflent comme le soulèvement provoqué par le battement des ailes d'un dragon, et guident votre chemin.
 lore_rings_devlins_eternal_grace|Saint Aaron unleashes his heavenly wrath from his fingertips, smiting down all evil and sinners.||St. Aaron libera sua ira celestial com a ponta dos dedos, golpeando todo o mal e os pecadores.|Святой Аарон выпускает свой небесный гнев из кончиков пальцев, поражая все зло и грешников.|||성 아론이 손끝에서 천상의 분노를 풀어 모든 악과 죄인을 처단합니다.||St. Aaron déchaîne sa rage céleste du bout des doigts, terrassant mal et pécheurs.
-lore_rings_fury_of_tarethiel|Damiens siege left a deep scar on the soul of Tarethiel, resulting in a energy that was infused into this ring.||O cerco de Damien deixou uma cicatriz profundo na alma de Tarethiel, resultando em uma energia que foi infundida nesse anel.|Осада Дамьена оставила глубокий шрам в душе Таретиэля, в результате чего в это кольцо была влита энергия.|||다미엔의 포위 공격은 타레티엘의 영혼에 깊은 상처를 남겼고, 그 결과 이 반지에 에너지가 주입되었습니다.||Le siège de Damien a laissé une profonde cicatrice dans l'âme de Tarethiel, ce qui a donné naissance à une énergie qui a été insufflée dans cet anneau.
+lore_rings_fury_of_tarethiel|Damiens siege left a deep scar on the soul of Tarethiel, resulting in a energy that was infused into this ring.||O cerco de Damien deixou uma cicatriz profundo na alma de Tarethiel, resultando em uma energia que foi infundida nesse anel.|Осада Дамьена оставила глубокий шрам в душе Таретиэля, в результате чего в это кольцо была влита энергия.|||다미엔의 포위 공격은 타레시엘의 영혼에 깊은 상처를 남겼고, 그 결과 이 반지에 에너지가 주입되었습니다.||Le siège de Damien a laissé une profonde cicatrice dans l'âme de Tarethiel, ce qui a donné naissance à une énergie qui a été insufflée dans cet anneau.
 lore_rings_stone_of_jordan|You start to feel the cold, and now you believe the tales you've been told.||Você começa a sentir o frio, e agora acredita nas histórias que lhe contaram.|Вы начинаете чувствовать холод, и теперь вы верите в сказки, которые вам рассказывали.|||냉기를 느끼기 시작했고, 이제 당신은 들었던 이야기들을 믿게 되었습니다.||Vous commencez à ressentir le froid, et maintenant vous croyez les histoires qu'on vous a racontées.
 lore_rings_sung_lees_unleashed_rage|As red as the blood of the victims who incurred Sung Lee's wrath, this ring's power is untamed, a raw manifestation of rage.||Tão vermelho quanto o sangue das vítimas que sofreram a ira de Sung Lee, o poder desse anel é indomável, uma manifestação crua de raiva.|Столь же красное, как кровь жертв, навлекших на себя гнев Сун Ли, это кольцо обладает неукротимой силой, грубым проявлением ярости.|||피해자들의 피처럼 붉은 이 반지의 힘은 길들여지지 않은, 분노의 원초적 발현이다.||Aussi rouge que le sang des victimes qui ont subi la colère de Sung Lee, le pouvoir de cet anneau est indompté, une manifestation brute de la rage.
 lore_rings_giants_band_of_strength|There once was a time when giants walked the earth, possessing immense strength to reign as the apex predators in the primal ages.||Houve um tempo em que os gigantes caminhavam pela Terra, possuindo uma força imensa para reinar como os maiores predadores nas eras primitivas.|Когда-то было время, когда по земле ходили гиганты, обладавшие огромной силой, чтобы править как высшие хищники в первобытные эпохи.|||한때 거인들이 땅을 걸으며 엄청난 힘을 가지고 원시 시대의 최강 포식자로 군림하던 시절이 있었다.||Il fut un temps où les géants marchaient sur la terre, dotés d'une force immense qui leur permettait de régner en tant que prédateurs suprêmes dans les âges primitifs.
@@ -1175,7 +1175,7 @@ lore_rings_azazels_despair|Insert a Soul Gem to awaken the demon||Insira uma Gem
 lore_rings_emblem_of_the_daemon|Marked by the beast, and be sure it will collect…||Marcado pela besta, e tenha certeza de que ela o recolherá...||||짐승에게 표시되었으니, 반드시 그 짐승이 찾아올 것이다...||
 |||||||||
 [belts]|||||||||
-belts_normal_sash|Sash||Faixa|Створка|||||Ceinturon
+belts_normal_sash|Sash||Faixa|Створка|||장식띠||Ceinturon
 belts_normal_leather_belt|Leather Belt||Cinto de Couro|Кожаный Ремень|||가죽 벨트||Ceinture de cuir
 belts_normal_heavy_belt|Heavy Belt||Cinto Pesado|Тяжелый Ремень|||무거운 벨트||Ceinture épaisse
 belts_normal_devilhide_sash|Devilhide Sash||Faixa de Couro Demoníaco|Пояс из Дьявольской кожи|||악마 가죽 허리띠||Écharpe de cuir de démon
@@ -1298,7 +1298,7 @@ lore_consumable_sung_lees_unleashed_rage|All Attacks now cause enemies to bleed.
 lore_consumable_surstromming|Gain Increased Life Replenish and Mana Replenish.||Ganhe Regeneração de Vida e Mana Aumentados.||||생명 회복과 마나 회복 증가||
 lore_consumable_witches_potion|Gain full Life & Mana and Increased Life & Mana Replenish.||Receba Vida e Mana cheias e Regeneração de Vida e Mana aumentados.||||생명력과 마나가 모두 회복되고 생명력 및 마나 회복 속도가 증가합니다.||
 lore_consumable_wizard_potion|Enhances your Cast Rate.||Aumenta a sua Taxa de Conjuração.||||시전 속도를 향상시킵니다.||
-lore_consumable_coffee_mug|Kahtellaa syssymmällä..||Kahtellaa syssymmällä..||||||
+lore_consumable_coffee_mug|Kahtellaa syssymmällä..||Kahtellaa syssymmällä..||||나중에 다시 오세요..||
 lore_consumable_dark_vial_corrosion|Consists of an ancient mystic plague infused in darkness..||Consiste em uma antiga praga mística infundida na escuridão..||||고대의 신비한 역병이 어둠에 물든 상태로 구성되어 있습니다..||
 lore_consumable_amun_ras_demise|From beyond afterlife Amun Ra reaps the souls of the living and undead..||||||사후 세계 너머에서 아문 라는 살아있는 자와 언데드의 영혼을 수확합니다.||
 |||||||||
@@ -1438,7 +1438,7 @@ lore_runeword_justice|In the name of the father, the son and the holy hammer..||
 runeword_celestus|Celestus||Celestus||||||
 lore_runeword_celestus|Something every mage craves for.. A weapon infused in arcane power!||Algo que todo mago deseja... Uma arma infundida com poder arcano!||||모든 마법사가 갈망하는 것... 비전의 힘이 깃든 무기!||
 runeword_shadow|Shadow||Sombra||||그림자||
-lore_runeword_shadow|A runeword used by assassins around Tarethiel..||Uma runeword usada por assassinos em Tarethiel..||||타레티엘에서 암살자들이 사용하는 룬워드입니다.||
+lore_runeword_shadow|A runeword used by assassins around Tarethiel..||Uma runeword usada por assassinos em Tarethiel..||||타레시엘에서 암살자들이 사용하는 룬워드입니다.||
 runeword_delirium_tremens|Delirium Tremens||Delirium Tremens||||섬망 진전||
 lore_runeword_delirium_tremens|What.. Happened.. Last.. Night???||O que... Aconteceu... Na última.. noite???||||어제 밤에.. 무슨 일이.. 있었던 거지???||
 runeword_angul_auxana|Angul Auxana||Angul Auxana||||앙굴 아우사나||
@@ -1449,7 +1449,7 @@ runeword_freljord|Freljord||Freljord||||프렐요드||
 lore_runeword_freljord|Cold imbued..||Imbuída de Gelo..||||냉기 부여됨..||
 runeword_moltening|Moltening||Moltening||||용융||
 lore_runeword_moltening|Fire imbued..||Imbuída de Fogo..||||불로 주입됨..||
-runeword_astropos|Astropos||Astropos||||Astropos||
+runeword_astropos|Astropos||Astropos||||||
 lore_runeword_astropos|Lightning imbued..||Imbuída de Raio..||||번개가 깃들다..||
 runeword_etherwalk|Etherwalk||Caminhantes do Ether||||에테르워크||
 lore_runeword_etherwalk|Opens a path to the Ether..||Abre um caminho para o Ether..||||에테르로 가는 길을 엽니다..||
@@ -1457,7 +1457,7 @@ runeword_crushfleet|Crushfleet||Crushfleet||||크러쉬플릿||
 lore_runeword_crushfleet|CARNAGEEEEEEE||CARNIFICINAAAAAA||||대학살이이이이이이이이||
 runeword_lostDimension|Lost Dimension||Dimensão Perdida||||잃어버린 차원||
 lore_runeword_lostDimension|Light a candle infront of a mirror and see who comes through..||Acenda uma vela em frente ao espelho e veja quem vem..||||거울 앞에 촛불을 켜고 누가 나타나는지 보세요..||
-runeword_sonicStep|Sonicstep||Sonicstep||||||
+runeword_sonicStep|Sonicstep||Sonicstep||||소닉스텝||
 lore_runeword_sonicStep|Rapid, Fast, Slick, Smooth.. Sonic.||Rápido, Veloz, Ligeiro, Sônico.||||빠르고, 신속하고, 깔끔하고, 매끄러운.. 소닉.||
 runeword_blitzkrieg|Blitzkrieg||Blitzkrieg||||블리츠크리크||
 lore_runeword_blitzkrieg|A flash of war!||Um flash de guerra!||||전쟁의 섬광!||
@@ -1749,7 +1749,7 @@ flask_colossal_flask_mana|Colossal Mana Flask||||||거대한 마나 플라스크
 [Socketables]|||||||||
 socketable_rune|Rune||Runa|Руна|||룬||Rune
 socketable_el_rune|Ol||Ol|Ол|||||Ol
-socketable_eld_rune|Old||Old|Старый|||Old||Old
+socketable_eld_rune|Old||Old|Старый|||||Old
 socketable_tir_rune|Tor||Tor|Тор|||||Tor
 socketable_nef_rune|Naf||Naf|Наф|||||Naf
 socketable_eth_rune|Eth||Eth|ETH|||||Eth
@@ -1947,7 +1947,7 @@ material_jewel_huge_spessarite|Huge Spessarite||Espessarita Enorme|Огромн�
 material_jewel_cardinal_ruby|Cardinal Ruby||Rubi Cardinal|Кардинал Рубин|||카디널 루비||Rubis cardinal
 material_jewel_flaming_core|Flaming Core||Núcleo Flamejante|Пылающее Ядро|||불타는 핵||Noyau flamboyant
 material_jewel_demon_tooth|Demon Tooth||Dente de Demônio|Зуб Демона|||악마의 이빨||Dent démoniaque
-material_jewel_ketamineral|Ketamineral||Ketamineral|Кетаминерал|||||Kétamineral
+material_jewel_ketamineral|Ketamineral||Ketamineral|Кетаминерал|||Ketamineral||Kétamineral
 material_jewel_jadenium_powder|Jadenium Powder||Pó de Jadenium|Порошок жадеита|||제이데늄 가루||Poudre de Jadenium
 material_jewel_satans_nail|Satans Nail||Unha de Satã|Сатанинский Гвоздь|||사탄의 손톱||Ongle de Satan
 material_jewel_inferno_stone|Inferno Stone||Pedra Infernal|Адский Камень|||지옥의 돌||Pierre infernale
@@ -1991,7 +1991,7 @@ material_salvage_mythic_dust|Mythic Dust||||||신화의 먼지||
 material_salvage_empowered_mythic_dust|Empowered Mythic Dust||||||강화된 신화의 먼지||
 material_salvage_rich_mythic_dust|Rich Mythic Dust||||||풍부한 신화의 먼지||
 material_satanic_crystal|Satanic Crystal||||||사탄의 수정||
-material_reflection_of_tarethiel|Reflection of Tarethiel||||||타레티엘의 반영||
+material_reflection_of_tarethiel|Reflection of Tarethiel||||||타레시엘의 반영||
 material_satanic_crystal_fragment|Satanic Crystal Fragment||||||사탄의 수정 조각||
 |||||||||
 lore_material_satanic_dice|Roll the dice in the crafting cube for a chance to upgrade or corrupt an item.||||||제작 큐브에서 주사위를 굴려 아이템을 업그레이드하거나 부패시킬 기회를 얻으세요.||
@@ -2222,7 +2222,7 @@ prefix_cold_cloaking|Coldcloaking||Gelo Camuflado||||냉각 은신||
 prefix_cold_proof|Coldproof||Prova de Gelo||||냉기 저항||
 prefix_cold_resisting|Coldresisting||Resistente a Gelo||||냉기 저항||
 prefix_cold_shielding|Coldshielding||Blindado a Gelo||||냉각 방어||
-prefix_cold_immune|Coldimmune||Imune a Gelo||||||
+prefix_cold_immune|Coldimmune||Imune a Gelo||||냉기 면역||
 prefix_poison_cloaking|Poisoncloaking||Veneno Camuflado||||독가림||
 prefix_poison_proof|Poisonproof||Prova de Veneno||||독 면역||
 prefix_poison_resisting|Poisonresisting||Resistente a Veneno||||독 저항||
@@ -2231,7 +2231,7 @@ prefix_poison_immune|Poisonimmune||Imune a Veneno||||독 면역||
 prefix_lightning_cloaking|Lightningcloaking||Raio Camuflado||||번개 은폐||
 prefix_lightning_proof|Lightningproof||Prova de Veneno||||번개 방지||
 prefix_lightning_resisting|Lightningresisting||Resistente a Veneno||||번개 저항||
-prefix_lightning_shielding|Lightningshielding||Blindado a Veneno||||||
+prefix_lightning_shielding|Lightningshielding||Blindado a Veneno||||번개 보호막||
 prefix_lightning_immune|Lightningimmune||Imune a Veneno||||||
 prefix_arcane_cloaking|Arcanecloaking||Arcana Camuflado||||비전 은폐||
 prefix_arcane_proof|Arcaneproof||Prova de Arcana||||비전 방어||
@@ -2252,7 +2252,7 @@ prefix_peasants|Peasant´s||do Camponês||||||
 prefix_archons|Archon´s||do Arconte||||나노||
 prefix_avengers|Avenger´s||do Vingador||||||
 prefix_keepers|Keeper´s||do Guardião||||수호자의||
-prefix_arch_angel|Archangel´s||do Arcanjo||||||
+prefix_arch_angel|Archangel´s||do Arcanjo||||대천사||
 prefix_mysticpond|Mystic Pond||Lagoa Mística||||신비로운 연못||
 prefix_mysticlake|Mystic Lake||Lago Místico||||신비한 호수||
 prefix_mysticocean|Mystic Ocean||Oceano Mísitco||||신비한 바다||
@@ -2279,9 +2279,9 @@ prefix_risen|Risen||Ressuscitado||||부활한||
 prefix_undying|Undying||Imortal||||불사||
 prefix_reanimated|Reanimated||Reanimado||||되살아난||
 prefix_lingering|Lingering||Persistente||||지속됨||
-prefix_willowing|Willowing||Salgueiro||||||
+prefix_willowing|Willowing||Salgueiro||||Willowing||
 prefix_hallowing|Hallowing||Santificante||||||
-prefix_festering|Festering||Purulento||||||
+prefix_festering|Festering||Purulento||||곪는||
 prefix_slendering|Slendering||Esbelto||||슬렌더링||
 prefix_sinister|Sinister||Sinistro||||||
 prefix_malevolent|Malevolent||Malevolente||||악의적인||
@@ -2289,7 +2289,7 @@ prefix_demonic|Demonic||Demoníaco||||악마의||
 prefix_diabolic|Diabolic||Diabólico||||디아볼릭||
 prefix_sacrilegious|Sacrilegious||Sacrílego||||신성 모독의||
 prefix_precise|Precise||Preciso||||정확한||
-prefix_accurate|Accurate||Correto||||||
+prefix_accurate|Accurate||Correto||||정확한||
 prefix_locked|Locked||Trancado||||잠김||
 prefix_bullseye|Bullseye||Exato||||명중||
 prefix_sniper|Sniper||Sniper||||저격수||
@@ -2306,7 +2306,7 @@ prefix_cannibal|Cannibal||Canibal||||식인종||
 prefix_disciple|Disciple||Discípulo||||제자||
 prefix_monk|Monk||Monge||||||
 prefix_priest|Priest||Padre||||사제||
-prefix_gypsy|Gypsy||Cigano||||||
+prefix_gypsy|Gypsy||Cigano||||집시||
 prefix_exorcist|Exorcist||Exorcista||||퇴마사||
 prefix_walking|Walking||Caminhante||||||
 prefix_traveling|Traveling||Viajante||||여행 중||
@@ -2345,16 +2345,16 @@ prefix_slashing|Slashing||Cortado||||베기||
 prefix_hemorrhaging|Hemorrhaging||Hemorrágico||||출혈||
 prefix_stuttering|Stuttering||Gaguejado||||||
 prefix_entangling|Entangling||Emaranhado||||엉킴||
-prefix_disrupting|Disrupting||Perturbador||||||
+prefix_disrupting|Disrupting||Perturbador||||방해||
 prefix_slowing|Slowing||Desacelerado||||감속||
 prefix_crippling|Crippling||Incapacitado||||치명적인||
-prefix_foxhearts|Foxheart´s||do Coração-de-raposa||||여우심장||
-prefix_wolfhearts|Wolfheart´s||do Coração-de-lobo||||||
-prefix_jaguarhearts|Jaguarheart´s||do Coração-de-jaguar||||재규어의 심장||
-prefix_tigerhearts|Tigerheart´s||do Coração-de-tigre||||타이거하트의||
-prefix_lionhearts|Lionheart´s||do Coração-de-leão||||||
+prefix_foxhearts|Foxheart´s||do Coração-de-raposa||||여우심장의||
+prefix_wolfhearts|Wolfheart´s||do Coração-de-lobo||||늑대심장의||
+prefix_jaguarhearts|Jaguarheart´s||do Coração-de-jaguar||||재규어 심장의||
+prefix_tigerhearts|Tigerheart´s||do Coração-de-tigre||||타이거 하트의||
+prefix_lionhearts|Lionheart´s||do Coração-de-leão||||라이언 하트의||
 prefix_earthworms|Earthworm´s||da Minhoca||||지렁이의||
-prefix_maggots|Maggot´s||da Larva||||||
+prefix_maggots|Maggot´s||da Larva||||매것의||
 prefix_snakes|Snake´s||da Cobra||||뱀의||
 prefix_pythons|Python´s||da Píton||||파이썬의||
 prefix_anacondas|Anaconda´s||da Anaconda||||아나콘다의||
@@ -2389,13 +2389,13 @@ prefix_arcanebreaking|Arcanebreaking||Quebra-arcano||||아케인 브레이킹||
 prefix_arcanepiercing|Arcanepiercing||Perfura-arcano||||비전 관통||
 prefix_arcaneshattering|Arcaneshattering||Estilhaça-arcano||||비전파괴||
 prefix_crafters|Crafter´s||do Artesão||||장인의||
-prefix_tinkers|Tinker´s||do Funileiro||||||
-prefix_forgers|Forger´s||do Forjador||||||
+prefix_tinkers|Tinker´s||do Funileiro||||팅커의||
+prefix_forgers|Forger´s||do Forjador||||포거의||
 prefix_blacksmiths|Blacksmith´s||do Ferreiro||||대장장이의||
 prefix_runesmiths|Runesmith´s||do Ferreiro Rúnico||||룬 대장장이의||
 prefix_vandals|Vandal´s||do Vandalo||||반달의||
 prefix_fools|Fool´s||do Tolo||||||
-prefix_jesters|Jester´s||do Bobo||||||
+prefix_jesters|Jester´s||do Bobo||||어릿광대의||
 prefix_tricksters|Trickster´s||do Enganador||||트릭스터의||
 prefix_royaljesters|Royal Jester´s||do Bobo da Corte||||왕실 어릿광대의||
 prefix_striking|Striking||Atacante||||타격||
@@ -2428,9 +2428,9 @@ prefix_arcanist|Arcanist||Arcanista||||비술사||
 prefix_conjured|Conjured||Conjurado||||마법으로 생성된||
 prefix_mystic|Mystic||Místico||||신비||
 prefix_rift|Rift||Fenda||||균열||
-prefix_magewrath01|Magewrath||Magofúria||||마법분노||
+prefix_magewrath01|Magewrath||Magofúria||||마법의 분노||
 prefix_magewrath02|Magewrath||Magofúria||||마법의 분노||
-prefix_magewrath03|Magewrath||Magofúria||||마도 분노||
+prefix_magewrath03|Magewrath||Magofúria||||마법의 분노||
 prefix_magewrath04|Magewrath||Magofúria||||마법의 분노||
 prefix_magewrath05|Magewrath||Magofúria||||마법의 분노||
 prefix_warriors01|Warrior´s||do Guerreiro||||전사의||
@@ -2438,18 +2438,18 @@ prefix_warriors02|Warrior´s||do Guerreiro||||전사의||
 prefix_warriors03|Warrior´s||do Guerreiro||||전사의||
 prefix_warriors04|Warrior´s||do Guerreiro||||전사의||
 prefix_warriors05|Warrior´s||do Guerreiro||||전사의||
-prefix_brutes01|Brute´s||do Bruto||||||
+prefix_brutes01|Brute´s||do Bruto||||브루트의||
 prefix_brutes02|Brute´s||do Bruto||||||
 prefix_brutes03|Brute´s||do Bruto||||브루트의||
-prefix_brutes04|Brute´s||do Bruto||||||
+prefix_brutes04|Brute´s||do Bruto||||브루트의||
 prefix_brutes05|Brute´s||do Bruto||||||
-prefix_juggernauts01|Juggernaut´s||do Juggernaut||||||
-prefix_juggernauts02|Juggernaut´s||do Juggernaut||||Juggernaut의||
-prefix_juggernauts03|Juggernaut´s||do Juggernaut||||||
-prefix_juggernauts04|Juggernaut´s||do Juggernaut||||저거너트의||
-prefix_juggernauts05|Juggernaut´s||do Juggernaut||||||
+prefix_juggernauts01|Juggernaut´s||do Juggernaut||||저거넛의||
+prefix_juggernauts02|Juggernaut´s||do Juggernaut||||저거넛의||
+prefix_juggernauts03|Juggernaut´s||do Juggernaut||||저거넛의||
+prefix_juggernauts04|Juggernaut´s||do Juggernaut||||저거넛의||
+prefix_juggernauts05|Juggernaut´s||do Juggernaut||||저거넛의||
 prefix_soldiers|Soldier´s||do Soldado||||병사의||
-prefix_berserkers|Berserker´s||do Berserker||||||
+prefix_berserkers|Berserker´s||버서커의||||||
 prefix_crusaders|Crusader´s||do Cruzado||||성전사의||
 prefix_legionnaires|Legionnaire´s||do Legionário||||군단병의||
 prefix_warlords|Warlord´s||do Senhor da Guerra||||군주||
@@ -2465,21 +2465,21 @@ prefix_fireinfusion04|Fireinfusion||Fogo-infusão||||화염 주입||
 prefix_fireinfusion05|Fireinfusion||Fogo-infusão||||화염 주입||
 prefix_coldinfusion01|Coldinfusion||Gelo-infusão||||냉기 주입||
 prefix_coldinfusion02|Coldinfusion||Gelo-infusão||||냉기 주입||
-prefix_coldinfusion03|Coldinfusion||Gelo-infusão||||냉각주입||
-prefix_coldinfusion04|Coldinfusion||Gelo-infusão||||냉각주입||
-prefix_coldinfusion05|Coldinfusion||Gelo-infusão||||콜드인퓨전||
+prefix_coldinfusion03|Coldinfusion||Gelo-infusão||||냉기 주입||
+prefix_coldinfusion04|Coldinfusion||Gelo-infusão||||냉기 주입||
+prefix_coldinfusion05|Coldinfusion||Gelo-infusão||||냉기 주입||
 prefix_lightninginfusion01|Lightninginfusion||Raio-infusão||||번개 주입||
 prefix_lightninginfusion02|Lightninginfusion||Raio-infusão||||번개 주입||
 prefix_lightninginfusion03|Lightninginfusion||Raio-infusão||||번개 주입||
 prefix_lightninginfusion04|Lightninginfusion||Raio-infusão||||번개 주입||
 prefix_lightninginfusion05|Lightninginfusion||Raio-infusão||||번개 주입||
 prefix_arcaneinfusion01|Arcaneinfusion||Arcana-infusão||||비전 주입||
-prefix_arcaneinfusion02|Arcaneinfusion||Arcana-infusão||||아케인 인퓨전||
+prefix_arcaneinfusion02|Arcaneinfusion||Arcana-infusão||||비전 주입||
 prefix_arcaneinfusion03|Arcaneinfusion||Arcana-infusão||||비전 주입||
 prefix_arcaneinfusion04|Arcaneinfusion||Arcana-infusão||||비전 주입||
 prefix_arcaneinfusion05|Arcaneinfusion||Arcana-infusão||||비전 주입||
 prefix_skeletons|Skeleton´s||do Esqueleto||||해골의||
-prefix_zombies|Zombie´s||do Zumbi||||||
+prefix_zombies|Zombie´s||do Zumbi||||좀비의||
 prefix_ghouls|Ghoul´s||do Ghoul||||구울의||
 prefix_lich|Lich||do Lich||||리치||
 prefix_blackknights|Black Knight´s||do Cavaleiro Negro||||흑기사의||
@@ -2487,23 +2487,23 @@ prefix_dark|Dark||Sombrio||||어둠||
 prefix_black|Black||Negro||||검정||
 prefix_pitchblack|Pitchblack||Completamente Escuro||||칠흑||
 prefix_eerie|Eerie||Sinistro||||기괴한||
-prefix_limbo|Limbo||Limbo||||||
+prefix_limbo|Limbo||Limbo||||림보||
 prefix_miner|Miner||Mineiro||||광부||
 prefix_detonator|Detonator||Detonador||||기폭 장치||
-prefix_fusing|Fusing||Fundido||||||
-prefix_ticking|Ticking||Tique||||||
+prefix_fusing|Fusing||Fundido||||융합||
+prefix_ticking|Ticking||Tique||||틱킹||
 prefix_exploding|Exploding||Explodido||||폭발||
 prefix_lurking|Lurking||Espreitado||||잠복||
 prefix_watching|Watching||Observado||||관찰 중||
 prefix_monitoring|Monitoring||Monitorado||||모니터링||
 prefix_scanning|Scanning||Escaneado||||스캔 중||
 prefix_surveilling|Surveilling||Vigilante||||감시 중||
-prefix_timing|Timing||Cronometrado||||||
+prefix_timing|Timing||Cronometrado||||타이밍||
 prefix_enduring|Enduring||Duradouro||||지속적인||
 prefix_lasting|Lasting||Prolongado||||지속||
 prefix_weaving|Weaving||Tecido||||직조||
 prefix_everlasting|Everlasting||Eterno||||영원한||
-prefix_manaleak|Manaleak||Vaza-mana||||||
+prefix_manaleak|Manaleak||Vaza-mana||||마나 빌려오기||
 prefix_manaspill|Manaspill||Derrama-mana||||마나 유출||
 prefix_manasplash|Manasplash||Respinga-mana||||마나스플래시||
 prefix_manaflow|Manaflow||Manafluxo||||마나 흐름||
@@ -2513,7 +2513,7 @@ prefix_deflecting|Deflecting||Defletido||||||
 prefix_defending|Defending||Defensivo||||방어 중||
 prefix_armored|Armored||Blindado ||||장갑||
 prefix_bulwark|Bulwark||Baluarte||||방벽||
-prefix_reanimator|Reanimator||Reanimador||||||
+prefix_reanimator|Reanimator||Reanimador||||부활자||
 prefix_deathcaller|Deathcaller||Traz-morte||||죽음의 부름||
 prefix_unholy|Unholy||Profano||||||
 prefix_summoner|Summoner||Invocador||||소환사||
@@ -2562,8 +2562,8 @@ prefix_glooming|Glooming||||||||
 prefix_sparkling|Sparkling||||||반짝이는||
 prefix_lumninated|Luminated||||||발광||
 prefix_luxified|Luxified||||||||
-prefix_lightburning|Lightburning||||||Lightburning||
-prefix_regenerating|Regenerating||||||||
+prefix_lightburning|Lightburning||||||라이트버닝||
+prefix_regenerating|Regenerating||||||재생 중||
 prefix_healing|Healing||||||치유||
 prefix_fulfilling|Fulfilling||||||||
 prefix_vitalizing|Vitalizing||||||활력 충전||
@@ -2647,7 +2647,7 @@ suffix_libra|Libra||Libra||||천칭자리||
 suffix_recovery|Recovery||Recuperação||||회복||
 suffix_equilibrium|Equilibrium||Equilíbrio||||평형||
 suffix_flash|Flash||Flash||||플래시||
-suffix_tempo|Tempo||Tempo||||||
+suffix_tempo|Tempo||Tempo||||템포||
 suffix_swiftness|Swiftness||Rapidez||||신속함||
 suffix_frenzy|Frenzy||Frenesi||||광기||
 suffix_blitzkrieg|Blitzkrieg||Blitzkrieg||||블리츠크리크||
@@ -2660,7 +2660,7 @@ suffix_luck|Luck||Sorte||||||
 suffix_fortune|Fortune||Fortuna||||||
 suffix_scavenger|Scavenger||Catador||||약탈자||
 suffix_tomb_raider|Tombraider||Invade-tumba||||툼 레이더||
-suffix_rngesus|RNGesus||RNGesus||||||
+suffix_rngesus|RNGesus||RNGesus||||알엔지수스||
 suffix_leeching|Leeching||Sanguessuga||||흡혈||
 suffix_locust|Locust||Gafanhoto||||메뚜기||
 suffix_lifesurge|Lifesurge||Surto de Vida||||라이프서지||
@@ -2817,7 +2817,7 @@ suffix_arcanum|Arcanum||Arcano||||비전||
 suffix_arcanist|Arcanist||Arcanista||||아카니스트||
 suffix_arcana|Arcana||Arcana||||아르카나||
 suffix_arcane_surge|Arcanesurge||Surto Arcano||||비전 폭발||
-suffix_arcane_wrath|Arcanewrath||Fúria Arcana||||||
+suffix_arcane_wrath|Arcanewrath||Fúria Arcana||||비전의 분노||
 suffix_shaking|Shaking||Tremido||||||
 suffix_trembling|Trembling||Trêmulo||||||
 suffix_fissure|Fissure||Fissura||||균열||
