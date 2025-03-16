@@ -904,19 +904,19 @@ weapon_axe|Axe|Kirves|Machado|Топор|斧头|斧|도끼|Axt|Hache
 weapon_claw|Claw|Koura|Garra|Коготь|爪子|爪|발톱|Klaue|Griffe
 weapon_polearm|Polearm|Varsiase|Arma de Haste|Древковое оружие|长柄武器|ポールアーム|장창|Stangenwaffe|Arme d'hast
 weapon_chainsaw|Chainsaw|Moottorisaha|Motosserra|Бензопила|链锯|チェーンソー|전기톱|Kettensäge|Tronçonneuse
-weapon_staff|Staff|Taistelukeppi|Cajado|Посох|法杖|杖|지팡이|Stab|Bâton
-weapon_cane|Cane|Kävelykeppi|Bastão|Трость|手杖|杖|지팡이|Spazierstock|Canne
-weapon_wand|Wand|Sauva|Varinha|Жезл|魔杖|ワンド|책|Zauberstab|Baguette
-weapon_book|Book|Kirja|Livro|Книга|书|本|마법칼|Buch|Livre
-weapon_spellblade|Spellblade|Taikamiekka|Espada Mágica|Магический клинок|法术之刃|スペルブレード|활|Zauberklinge|Magi'lame
-weapon_bow|Bow|Jousi|Arco|Лук|弓|弓|총|Bogen|Arme de lancer
-weapon_gun|Gun|Ampuma-ase|Arma|Пистолет|枪|銃|플라스크|Gewehr|Arme à feu
-weapon_flask|Flask|Pullo|Frasco|Колба|瓶子|フラスコ|던지기|Flasche|Flasque
-weapon_throwing|Throwing|Heittoase|Arremesso|Метательное|投掷|投擲|신제품|Werfen|Arme de jet
-weapon_universal|Novelty|Keräilyesine|Fantasia|Новинка|新奇玩意|ノベルティ|방탄복|Neuheit|Nouveauté
-item_bodyarmor|Body Armor|Haarniska|Armadura|Доспех|护身符|ボディアーマー|헬멧|Körperpanzerung|Armure
-item_helmet|Helmet|Kypärä|Elmo|Шлем|头盔|ヘルメット|방패|Helm|Casque
-item_shield|Shield|Kilpi|Escudo|Щит|盾牌|シールド|부츠 |Schild|Bouclier
+weapon_staff|Staff|Taistelukeppi|Cajado|Посох|法杖|杖|스태프|Stab|Bâton
+weapon_cane|Cane|Kävelykeppi|Bastão|Трость|手杖|杖|케인|Spazierstock|Canne
+weapon_wand|Wand|Sauva|Varinha|Жезл|魔杖|ワンド|완드|Zauberstab|Baguette
+weapon_book|Book|Kirja|Livro|Книга|书|本|책|Buch|Livre
+weapon_spellblade|Spellblade|Taikamiekka|Espada Mágica|Магический клинок|法术之刃|スペルブレード|스펠블레이드|Zauberklinge|Magi'lame
+weapon_bow|Bow|Jousi|Arco|Лук|弓|弓|활|Bogen|Arme de lancer
+weapon_gun|Gun|Ampuma-ase|Arma|Пистолет|枪|銃|총|Gewehr|Arme à feu
+weapon_flask|Flask|Pullo|Frasco|Колба|瓶子|フラスコ|플라스크|Flasche|Flasque
+weapon_throwing|Throwing|Heittoase|Arremesso|Метательное|投掷|投擲|던지는 무기|Werfen|Arme de jet
+weapon_universal|Novelty|Keräilyesine|Fantasia|Новинка|新奇玩意|ノベルティ|신제품|Neuheit|Nouveauté
+item_bodyarmor|Body Armor|Haarniska|Armadura|Доспех|护身符|ボディアーマー|갑옷|Körperpanzerung|Armure
+item_helmet|Helmet|Kypärä|Elmo|Шлем|头盔|ヘルメット|헬멧|Helm|Casque
+item_shield|Shield|Kilpi|Escudo|Щит|盾牌|シールド|방패|Schild|Bouclier
 item_boots|Boots|Kengät|Botas|Сапоги|靴子 |ブーツ |부츠|Stiefel |Bottes
 |||||||||
 [Achievements]|||||||||

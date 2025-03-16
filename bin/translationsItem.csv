@@ -180,10 +180,10 @@ lore_w_throwing_sidewinder|[9 / 5 / -3 / 1]||[9 / 5 / -3 / 1]||||||
 |||||||||
 [weapon_spell]|||||||||
 normal_spell_gnarled_staff|Gnarled Staff|Tyvitautinen henkilökunta|Cajado Rugoso|Сучковатый Посох|虬枝杖|グナールスタッフ|옹이진 지팡이|Knorriger Stab|Bâton noueux
-normal_spell_cane|Cane||Bastão Mágico|Трость|||지팡이||Canne
+normal_spell_cane|Cane||Bastão Mágico|Трость|||케인||Canne
 normal_spell_arcane_fork|Arcane Fork||Tridente Arcano|Тайная Вилка|||비전 포크||Fourche arcanique
 normal_spell_spellblade|Spellblade|Loitsumiekka|Lâmina Mágica|Магический Клинок|咒语片|スペルブレード|스펠블레이드|Fluchklinge|Magi'lame
-normal_spell_wand|Wand||Varinha |Волшебная палочка|||마법 지팡이||Baguette
+normal_spell_wand|Wand||Varinha |Волшебная палочка|||완드||Baguette
 normal_spell_magic_tome|Magic Tome||Tomo Mágico|Волшебный Том|||마법서||Tome magique
 normal_spell_yew_wand|Yew Wand||Varinha de Teixo|Тисовая Палочка|||티스 지팡이||Baguette en if
 |||||||||
@@ -1684,7 +1684,7 @@ consumable_minor_healing_potion|Minor Healing Potion||Poção de Cura Menor|Не
 consumable_light_healing_potion|Light Healing Potion||Poção de Cura Leve|Легкое Целебное Зелье|||가벼운 치유 물약||Potion de santé moyenne
 consumable_healing_potion|Healing Potion||Poção de Cura |Целебное Зелье|||치유 물약||Potion de santé
 consumable_greater_healing_potion|Greater Healing Potion||Poção de Cura Maior|Великое Целебное Зелье|||상급 치유 물약||Grande potion de santé
-consumable_superior_healing_potion|Superior Healing Potion||||||상급 치유 물약||
+consumable_superior_healing_potion|Superior Healing Potion||||||최상급 치유 물약||
 consumable_colossal_healing_potion|Colossal Healing Potion||||||거대한 치유 물약||
 consumable_minor_mana_potion|Minor Mana Potion||Poção de Mana Menor|Незначительное Зелье Маны|||소형 마나 물약||Petite potion de mana
 consumable_light_mana_potion|Light Mana Potion||Poção de Mana Leve|Зелье Легкой Маны|||라이트 마나 포션||Potion de mana moyenne
@@ -1702,7 +1702,7 @@ consumable_soul_of_hatred|Soul of Hatred||Alma do Ódio||||증오의 영혼||
 consumable_essence_elixir|Essence Elixir||Elixir de Essência||||정수의 엘릭서||
 consumable_essence_elixir_devtest|Essence Elixir (TEST)||Elixir de Essência (teste)||||정수의 엘릭서 (테스트)||
 consumable_exp_elixir_devtest|Experience Elixir (TEST)||Elixir de Experiência (teste)||||경험치 엘릭서 (테스트)||
-consumable_codex_of_eternity|Eternity Codex||||||영원의 코드||
+consumable_codex_of_eternity|Eternity Codex||||||영원의 코덱스||
 |||||||||
 lore_consumable_puzzle_box|We are the explorers in the further regions of experience. Demons to some, angels to others..||Nós somos os exploradores nas regiões mais distantes da experiência. Demônios para alguns, anjos para outros...||||우리는 경험의 더 먼 영역을 탐험하는 자들입니다. 어떤 이들에게는 악마이고, 다른 이들에게는 천사입니다...||
 lore_consumable_soul_of_hatred|Opens a gateway to the Circle of Hatred||Abre um portal para o Círculo do Ódio||||증오의 원으로 가는 관문을 엽니다||
@@ -1749,7 +1749,7 @@ flask_colossal_flask_mana|Colossal Mana Flask||||||거대한 마나 플라스크
 [Socketables]|||||||||
 socketable_rune|Rune||Runa|Руна|||룬||Rune
 socketable_el_rune|Ol||Ol|Ол|||||Ol
-socketable_eld_rune|Old||Old|Старый|||구식||Old
+socketable_eld_rune|Old||Old|Старый|||Old||Old
 socketable_tir_rune|Tor||Tor|Тор|||||Tor
 socketable_nef_rune|Naf||Naf|Наф|||||Naf
 socketable_eth_rune|Eth||Eth|ETH|||||Eth
@@ -1781,7 +1781,7 @@ socketable_ber_rune|Ber||Ber|Бер|||||Ber
 socketable_jah_rune|Jah||Jah|Джа|||||Jah
 socketable_cham_rune|Drax||Drax|Дракс|||||Drax
 socketable_zod_rune|Zed||Zed|Зед|||||Zed
-socketable_fawn_rune|Fawn||||||새끼 사슴||
+socketable_fawn_rune|Fawn||||||||
 socketable_flo_rune|Flo||||||||
 socketable_nju_rune|Nju||||||||
 socketable_jol_rune|Jol||||||||
@@ -2058,21 +2058,21 @@ item_type_jewel|Jewel|Korukivi|Joia|Драгоценность|珠宝|宝玉|보
 item_type_orb|Orb|Orb |Esfera |Сфера|宝珠|剣|구슬|Kugel|Orbe
 item_type_sword|Sword|Miekka|Espada |Меч|剑|短剣|검|Schwert|Épée
 item_type_dagger|Dagger|Tikari|Adaga |Кинжал|匕首|メイス|단검|Dolch|Dague
-item_type_mace|Mace|Nuija|Maça|Булава|钉头锤|斧|메스|Streitkolben|Masse
+item_type_mace|Mace|Nuija|Maça|Булава|钉头锤|斧|철퇴|Streitkolben|Masse
 item_type_axe|Axe|Kirves|Machado |Топор|斧头|ポールアーム|도끼|Axt|Hache
 item_type_polearm|Polearm|Pitkävartinen ase|Arma de Haste|Древковое оружие|长柄武器|爪|장창|Stangenwaffe|Arme d'hast
 item_type_claw|Claw|Kynnet|Garra|Коготь|爪子|チェーンソー|발톱|Klaue|Griffe
 item_type_chainsaw|Chainsaw|Moottorisaha|Motosserra|Бензопила|链锯|杖|전기톱|Kettensäge|Tronçonneuse
-item_type_staff|Staff|Sauva|Cajado |Посох|法杖|杖|지팡이|Stab|Bâton
-item_type_cane|Cane|Keppi|Bastão Mágico|Трость|手杖|杖|지팡이|Gehstock|Canne
-item_type_wand|Wand|Taikasauva|Varinha |Жезл|魔杖|本|마법봉|Zauberstab|Baguette
+item_type_staff|Staff|Sauva|Cajado |Посох|法杖|杖|스태프|Stab|Bâton
+item_type_cane|Cane|Keppi|Bastão Mágico|Трость|手杖|杖|케인|Gehstock|Canne
+item_type_wand|Wand|Taikasauva|Varinha |Жезл|魔杖|本|완드|Zauberstab|Baguette
 item_type_book|Book|Kirja|Livro|Книга|书|スペルブレード|책|Buch|Livre
-item_type_spellblade|Spellblade|Loitsuveitsi|Espada Mágica|Клинок заклинаний|法术之刃|弓|마법검|Zauberklinge|Lame magique
+item_type_spellblade|Spellblade|Loitsuveitsi|Espada Mágica|Клинок заклинаний|法术之刃|弓|스펠블레이드|Zauberklinge|Lame magique
 item_type_bow|Bow|Jousi|Arco|Лук|弓|銃|활|Bogen|Arc
 item_type_gun|Gun|Pyssy|Arma|Ружье|枪|小瓶|총|Gewehr|Fusil
 item_type_flask|Vial|Injektiopullo |Frasco |Флакон|药瓶|投擲武器|바이알|Phiole|Fiole
 item_type_throwing|Throwing Weapon|Heittoase|Arma de Arremeso|Метательное оружие|投掷武器|ノベルティ|던지는 무기|Wurfwaffe|Arme de jet
-item_type_novelty|Novelty|Erikoisuus|Fantasia|Новинка|新奇物品|鎧|신기한|Neuheit|Nouveauté
+item_type_novelty|Novelty|Erikoisuus|Fantasia|Новинка|新奇物品|鎧|신제품|Neuheit|Nouveauté
 item_type_armor|Armor|Panssari|Armadura|Броня|护甲|武器|갑옷|Rüstung|Armure
 item_type_weapon|Weapon|Ase|Arma|Оружие|武器|スペシャル|무기|Waffe|Arme
 item_type_uber|Special|Erityinen|Especial|Специальный|特殊|グリフ|특수|Spezial|Spécial

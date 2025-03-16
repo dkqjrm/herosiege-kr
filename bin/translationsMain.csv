@@ -492,7 +492,7 @@ hud|Interface|Käyttöliittymä|Interface|Интерфейс|界面|インター
 not_enough_rubies|not enough rubies|ei tarpeeksi rubiineja|Não há rubis o suficiente|недостаточно рубинов|红宝石不足|ルビーが足りない|루비가 부족합니다|zu wenig Rubine|pas assez de rubis
 not_enough_crystals|not enough crystals|ei tarpeeksi kristalleja|Não há cristais o suficiente|недостаточно кристаллов|水晶不足|クリスタルが足りない|크리스탈이 부족합니다|zu wenig Kristalle|pas assez de cristaux
 not_enough_gold_need|Not enough gold. You need|Ei tarpeeksi kultaa. Tarvitset|Não há ouro o suficiente. Você precisa de|Недостаточно золота. Тебе нужно|黄金不足。你需要|ゴールドが足りません。あと _ 必要です|골드가 충분하지 않습니다. ___만큼이 더 필요합니다.|Nicht genug Gold. Du brauchst|pas assez d'or. Vous avez besoin de
-not_enough_gold|not enough gold|ei tarpeeksi kultaa|Não há ouro o suficiente.|недостаточно золота|没有足够的黄金 |ゴールドが足りない |금이 부족해 |nicht genug Gold |Or insuffisant
+not_enough_gold|not enough gold|ei tarpeeksi kultaa|Não há ouro o suficiente.|недостаточно золота|没有足够的黄金 |ゴールドが足りない |골드가 부족해 |nicht genug Gold |Or insuffisant
 coins_to_reset_talents|coins to reset talents.|kultaa palauttaaksesi taitosi.|moedas para resetar os talentos.|монеты для сброса талантов.|才能重新设定角色技能。|タレントをリセットするまで _ 枚のコイン|재능을 리셋하는데 ___만큼의 코인이 필요합니다.|Münzen, um die Talente zurückzusetzen.|pièces pour réinitialiser les talents.
 coins_to_rename|coins to rename.|kultaa uudelleennimetäksesi.|moedas para renomear|монеты для переименования.|硬币以重命名。|名前を変更するコイン。|이름을 바꿀 동전.|Münzen zum Umbenennen.|pièces à renommer.
 coins_to_confirm|coins to confirm changes.|kultaa vahvistaaksesi muutokset.|moedas para confirmar mudanças|монеты для подтверждения изменений. |硬币以确认更改。 |変更を確認するコイン。 |변경 사항을 확인할 동전. |Münzen zum Bestätigen von Änderungen. |pièces pour confirmer les modifications. 
@@ -628,7 +628,7 @@ change_difficulty|Change Difficulty|Vaihda vaikeusastetta|Alterar Dificuldade|И
 normal|Normal|Normaali|Normal|Нормальный|普通|ノーマル|일반|Normal|Normal
 nightmare|Nightmare|Painajainen|Pesadelo|Кошмар|噩梦|ナイトメア|악몽|Albtraum|Cauchemar
 hell|Hell|Helvetti|Inferno|Ад|地狱|ヘル|지옥|Hölle|Enfer
-inferno|Inferno|Piina|Outro Mundo|Инферно|炼狱|インフェルノ|지옥|Inferno|Enfer
+inferno|Inferno|Piina|Outro Mundo|Инферно|炼狱|インフェルノ|인페르노|Inferno|Enfer
 solo_rank|Solo Ranking|Yksinpelisijoitus|Ranking Solo|Соло-рейтинг|单人排名|ソロランキング|솔로 랭킹|Solo-Rangliste|Classement solo
 duo_rank|Duo Ranking|Kaksinpelisijoitus|Ranking Duo|Рейтинг дуо|双人排名|デュオランキング|듀오 랭킹|Duo-Rangliste|Classement duo
 trio_rank|Trio Ranking|Kolminpelisijoitus|Ranking Trio|Рейтинг трио|三人排名|トリオランキング|트리오 랭킹|Trio-Rangliste|Classement trio
@@ -639,14 +639,14 @@ superior|Superior|Epätavallinen|Superior|Начальство|高级|スーペ�
 rare|Rare|Harvinainen|Raro|Редкий|稀有|レア|희귀|Selten|Rare
 legendary|Legendary|Legendaarinen|Lendário|Легендарный|传奇|レジェンダリー|전설|Legendär|Légendaire
 mythic|Mythic|Myyttinen|Mítico|Мифический|神话|ミシック|신화|Mythisch|Mythique
-angelic|Angelic|Enkeli|Angélico|Ангельский|天使|エンジェリック|천사|Engelhaft|Angélique
+angelic|Angelic|Enkeli|Angélico|Ангельский|天使|エンジェリック|엔젤릭|Engelhaft|Angélique
 satanic|Satanic|Saatanallinen|Satânico|Сатанинский|撒旦|サタニック|사탄|Satanisch|Satanique
-heroic|Heroic|Sankarillinen|Heroico|Героический|英雄|ヒロイック|영웅|Heroisch|Héroïque
-unholy|Unholy|Epäpyhä|Profano|Нечестивый |邪恶|アンホーリー|불경|Unheilig|Impie
-heroic_set|Heroic Set|Sankarillinen setti|Conjunto Heroico|Героический комплект|英雄套装|ヒロイックセット|영웅 세트|Heroisches Set|Ensemble héroïque
+heroic|Heroic|Sankarillinen|Heroico|Героический|英雄|ヒロイック|히로익|Heroisch|Héroïque
+unholy|Unholy|Epäpyhä|Profano|Нечестивый |邪恶|アンホーリー|언홀리|Unheilig|Impie
+heroic_set|Heroic Set|Sankarillinen setti|Conjunto Heroico|Героический комплект|英雄套装|ヒロイックセット|히로익 세트|Heroisches Set|Ensemble héroïque
 satanic_set|Satanic Set|Saatanallinen setti|Conjunto Satânico|Сатанинский набор|撒旦套装|サタニックセット|사탄 세트|Satanisches Set|Ensemble satanique
 runeword|Runeword|Riimusana|Runeword|Рунное слово|符文之语|ルーンワード|룬워드|Runenwort|Mot runique
-history|History|Historia|História|История|历史|履歴|역사|Geschichte|Histoire
+history|History|Historia|História|История|历史|履歴|히스토리|Geschichte|Histoire
 buy_token|Buy Token|Osta poletti|Comprar Token|Купить токен|购买代币|トークン購入|토큰 구매|Token kaufen|Acheter un jeton
 sell_limit|Sell Limit|Myyntiraja|Limite de Venda|Продать лимит|出售限制|販売制限|판매 제한|Verkaufslimit|Limite de vente
 hide_rune_prices|Hide rune prices|Piilota riimuhinnat|Esconder Preços de Runa|Скрыть цены на руны |隐藏符文价格 |ルーン価格の非表示 |룬 가격 숨기기 |Runenpreise ausblenden |Masquer les prix des runes 
@@ -896,12 +896,12 @@ achievements|Achievements|Saavutukset|Conquistas|Достижения|成就|実
 weapon_type|Weapon Type|Asetyyppi|Tipo de Arma|Тип оружия|武器类型|武器タイプ|무기 종류|Waffentyp|Type d'arme
 weapon_type_sword|Sword|Miekka|Espada|Меч|剑|剣|검|Schwert|Épée
 weapon_type_dagger|Dagger|Tikari|Adaga|Кинжал|匕首|短剣|단검|Dolch|Poignard
-weapon_type_mace|Mace|Nuija|Maça|Булава|钉头锤|メイス|메스|Streitkolben|Massue
+weapon_type_mace|Mace|Nuija|Maça|Булава|钉头锤|メイス|철퇴|Streitkolben|Massue
 weapon_type_axe|Axe|Kirves|Machado|Топор|斧头|斧|도끼|Axt|Hache
 weapon_type_polearm|Polearm|Polearm|Arma de haste|Древковое оружие|长柄武器|ポールアーム|장창|Stangenwaffe|Arme d'hast
-weapon_type_staff|Staff|Henkilökunta|Cajado|Посох|法杖|杖|지팡이|Stab|Bâton
-weapon_type_cane|Cane|keppi|Bastão Mágico|Трость|手杖|杖|지팡이|Gehstock|Canne
-weapon_type_spellblade|Spellblade|Taikamiekka|Lâmina Mágica|Магический клинок|法术之刃|スペルブレード|마법검|Zauberklinge|Magi’lame
+weapon_type_staff|Staff|Henkilökunta|Cajado|Посох|法杖|杖|스태프|Stab|Bâton
+weapon_type_cane|Cane|keppi|Bastão Mágico|Трость|手杖|杖|케인|Gehstock|Canne
+weapon_type_spellblade|Spellblade|Taikamiekka|Lâmina Mágica|Магический клинок|法术之刃|スペルブレード|스펠블레이드|Zauberklinge|Magi’lame
 weapon_type_book|Book|Kirja|Livro|Книга|书籍|本|책|Buch|Livre
 weapon_type_wand|Wand|Sauva|Varinha|Палочка|魔杖|杖|완드|Zauberstab|Baguette
 weapon_type_throwing|Throwing|Heitettävä|Arremesso|Метательное|投掷 |投擲 |던지기 |Wurf |Lancer
@@ -1241,7 +1241,7 @@ loot_sealed_grave|Seal of Eternity|Ikuisuuden sinetti |Selo da Eternidade|Печ
 |||||||||
 [Marketplace]|||||||||
 sell_item|Sell item|Myy esine|Vender item|Продать|出售物品|アイテムを売る|상품 판매|Gegenstand verkaufen|Vendre un objets
-buy_item|Buy item|Osta esine|Comprar item|Купить|买东西|商品を購入|물건을 사다|Gegenstand kaufen|Acheter un objets
+buy_item|Buy item|Osta esine|Comprar item|Купить|买东西|商品を購入|상품 구매|Gegenstand kaufen|Acheter un objets
 remove_item|Remove item|Poista esine|Remover item|Убрать|除去项目|アイテムを削除する|항목 제거|Gegenstand entfernen|Retirer un objets
 claim_rubies|Claim rubies|Lunasta rubiinit|Reivindicar rubis|Получите рубины|索取红宝石|ルビーを要求する|루비 받기|Rubine auszahlen|Récupérer des rubis
 search|Search|Haku|Pesquisar|Поиск|搜索|探す|검색|Suche|Recherche
@@ -1249,8 +1249,8 @@ sort|Sort|Lajittele|Ordenar|Сортировать|分类|ソート|종류|Sorti
 get_items|Get items|Hae esineet|Obter itens|Получить предметы|获取物品|アイテムを入手する|아이템 받기|Gegenstände einholen|Obtenir des objets
 get_own_items|My listings|Omat esineet|Meus anúncios|Мои объявления|我的清单|私のリスト|내 목록|Meine Angebote|Mes offres
 type|Type|Tyyppi|Tipo|Тип|类型|タイプ|유형|Art|Type
-damage_type|Damage type|Vahinkotyyppi|Tipo de dano|Тип урона|损坏类型|ダメージタイプ|손상 유형|Schadensart|Type de dégâts
-rarity|Rarity|Harvinaisuus|Raridade|Редкость|稀有度|希少性|희박|Seltenheit|Rareté
+damage_type|Damage type|Vahinkotyyppi|Tipo de dano|Тип урона|损坏类型|ダメージタイプ|데미지 타입|Schadensart|Type de dégâts
+rarity|Rarity|Harvinaisuus|Raridade|Редкость|稀有度|希少性|등급|Seltenheit|Rareté
 expired|Expired|Vanhentunut|Expirado|Истекший|已过期|期限切れ|만료 됨|Abgelaufen|Expiré
 unit_price|Unit Price|Yksikköhinta|Preço Unitário|Цена за единицу товара|单位价格|単位：百万円|단가|Stückpreis|Prix unitaire
 listed|Listed|Listattu|Listado||||목록에 추가됨||
