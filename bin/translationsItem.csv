@@ -1,7 +1,7 @@
 [Normal Axes]|en|fi|pt|ru|zh|ja|ko|de|fr
 normal_melee_hand_axe|Hand Axe||Machado de Mão|Ручной Топор|||손도끼||Hache
 normal_melee_hatchet|Hatchet||Machadinha|Топор|||손도끼||Hachette
-normal_melee_naga|Naga||Naga|Нага|||||Naga
+normal_melee_naga|Naga||Naga|Нага|||나가||Naga
 normal_melee_broad_axe|Broad Axe||Machada|Широкий Топор|||넓은 도끼||Hache large
 normal_melee_war_axe|War Axe||Machado de Guerra|Боевой Топор|||전쟁 도끼||Hache de guerre
 normal_melee_giant_axe|Giant Axe||Machado Gigante|Гигантский Топор|||거대한 도끼||Hache géante
@@ -21,7 +21,7 @@ normal_mace_devil_star|Devil Star||Chicote do Diabo|Дьявольская Зв�
 [Normal Daggers]|||||||||
 normal_dagger_dagger|Dagger||Adaga |Кинжал|||단검||Poignard
 normal_dagger_dirge|Dirge||Dirge|Панихида|||디르지||Dague
-normal_dagger_kris|Kris||Kris|Крис|||||Coutelas Cranté
+normal_dagger_kris|Kris||Kris|Крис|||크리스||Coutelas Cranté
 |||||||||
 [Normal Swords]|||||||||
 normal_sword_short_sword|Short Sword||Espada Curta|Короткий Меч|||단검||Épée courte
@@ -56,7 +56,7 @@ w_melee_hanzos_flaming_katana|Hanzo's Flaming Katana|Hanzon liekkikatana|Katana 
 w_melee_genjis_sword_of_fate|Genji's Sword of Fate|Genjin kohtalon miekka|Espada do Destino de Genji|Меч судьбы Гэндзи|根吉的命运之剑|ゲンジの運命の剣|겐지의 운명의 검|Genjis Schicksalsschwert|Épée du destin de Genji
 w_melee_wind_guardians_gladius|Wind Guardian's Gladius|Tuulenvartijan Gladius|Gládio do Guardião do Vento|Гладиус Хранителя Ветра|风守护者的短剑|風の番人のグラディウス|바람 수호자의 글라디우스|Gladius des Windwächters|Glaive du gardien du vent
 w_melee_sand_crusaders_scimitar|Sand Crusader's Scimitar|Hiekkaristiretkeilijän Sapeli|Cimitarra do Cruzado da Areia|Ятаган Песчаного крестоносца|沙漠十字军的弯刀|サンド・クルセーダーのシミター|모래 수호자의 글라디우스|Krummsäbel des Kreuzritters der Sande|Cimeterre du croisé des sables
-w_melee_azurewrath|Azure's Wrath||Fúria Azul|Гнев Лазури|||Azure의 분노||Irebleu
+w_melee_azurewrath|Azure's Wrath||Fúria Azul|Гнев Лазури|||애져의 분노||Irebleu
 w_melee_holy_warriors_phase_blade|Holy Warrior's Phase Blade|Pyhän Soturin Valomiekka|Lâmina de Fase do Guerreiro Sagrado|Фазный клинок Святого Воина|圣战士的幻化之刃|聖なる戦士の位相の刃|신성한 전사의 페이즈 블레이드|Phasenklinge des Heiligen Kriegers|Lame de phase du guerrier saint
 w_melee_steves_mighty_sword|Steve's Mighty Sword|Teemun mahtimiekka|Espada Poderosa de Steve|Могучий Меч Стива|史蒂夫的威剑|スティーブの偉大な剣|스티브의 신성한 검|Steves Mächtiges Schwert|Épée puissante de Steve
 w_melee_st_gabriels_retribution|St. Gabriel's Retribution|Pyhän Gabrielin rangaistus|Castigo de St. Gabriel|Возмездие святого Гавриила|圣加布里埃尔的报应|聖ガブリエルの報復|성 가브리엘의 보복|St. Gabriels Strafe|Châtiment de Saint-Gabriel
@@ -82,7 +82,7 @@ w_melee_masamune|Masamune|Masamune|Masamune|Масамуне|正宗|政宗|마�
 w_melee_muramasa|Muramasa|Muramasa|Muramasa|Мурамаса|村正|村正|무라마사|Muramasa|Muramasa
 w_melee_crystal_infused_axe|Crystal Infused Axe|Kristalliin upotettu kirves|Machado Infundido de Cristal|Топор , Настоянный на Кристаллах|水晶斧|クリスタル注入斧|수정이 주입 된 도끼|Kristall-infundierte Axt|Hache infusée de cristal
 w_melee_crystal_infused_sword|Crystal Infused Sword|Kristalliin upotettu miekka|Espada Infundido de Cristal|Меч , Наполненный Кристаллами|水晶剑|クリスタルインフューズドソード|수정이 주입 된 검|Kristallgetränktes Schwert|Épée infusée de cristal
-w_melee_sung_lees_destroyer_flail|Sung Lee's Destroyer Flail|Sung Leen tuhoaja Flail|Mangual Destruidor de Sung Lee|Цеп Эсминца Сун Ли|李成的毁灭者连il|ソンリーの駆逐艦フレイル|이성 파괴자 Flail|Sung Lees Zerstörer-Dreschflegel|Fléau destructeur de Sung Lee
+w_melee_sung_lees_destroyer_flail|Sung Lee's Destroyer Flail|Sung Leen tuhoaja Flail|Mangual Destruidor de Sung Lee|Цеп Эсминца Сун Ли|李成的毁灭者连il|ソンリーの駆逐艦フレイル|성 리의 파괴자 도리깨|Sung Lees Zerstörer-Dreschflegel|Fléau destructeur de Sung Lee
 w_melee_revenants_lasher|Revenant's Lasher|Revenant's Lasher|Chicoteador Fantasma|Лэшер Ревенанта|Revenant's Lasher|レヴナントラッシャー|레버넌트의 덩굴손|Revenant's Lasher|Fouet de Revenant
 w_melee_bonettis_rapier|Bonetti's Rapier|Bonetti's Rapier|Rapieira de Bonetti|Рапира Бонетти|博内蒂的长剑|ボネッティのレイピア|보네티의 레이피어|Bonettis Rapier|Rapière de Bonetti
 w_melee_eternal_glaive|Eternal Glaive|Eternal Glaive|Gládio Eterno|Вечная Глефа|永恒之刃|エターナル・グレイブ|이터널 글레이브|Ewige Klinge|Glaive éternel
@@ -106,7 +106,7 @@ w_melee_wraith_forged_cleaver|Wraith Forged Cleaver||Cutelo Forjado do Espectro|
 w_melee_aurelion_fury|Aurelion Fury||Fúria de Aurelion||||아우렐리온의 분노||
 w_melee_abominations_gut_ripper|Abomination's Gut Ripper||Estripadora de Vísceras da Abominação||||혐오의 창자 절단기||
 w_melee_rakhuls_legion_crusher|Rakhul's Legion Crusher||Esmagadora de Legiões de Rakhul||||라쿨의 군단 분쇄기||
-w_melee_daisy|Daisy||Daisy||||||
+w_melee_daisy|Daisy||Daisy||||데이지||
 w_melee_dawn_bringer|The Dawn Bringer||O Precursor do Alvorecer||||새벽의 전령||
 w_melee_gabriels_broken_resolve|Gabriel's Broken Resolve||Resolução Quebrada de Gabriel||||가브리엘의 깨진 결의||
 w_melee_the_hope_ender|The Hope Ender||A Destruidora de Esperanças||||희망의 종결자||
@@ -251,13 +251,13 @@ normal_bow_long_bow|Long Bow|Pitkäjousi|Arco Longo|Длинный Лук|长弓
 normal_bow_gothic_bow|Gothic Bow|Goottilainen keula|Arco Gótico|Готический Бант|哥特式蝴蝶结|ゴシック・ボウ|고딕 활|Gotischer Bogen|Arc gothique
 |||||||||
 [weapon_bow_unique]|||||||||
-w_bow_buriza|Buriza-ko-nu||Buriza-ko-nu|Буриза-ко-ну|||||Buriza-Do Kyanon
+w_bow_buriza|Buriza-ko-nu||Buriza-ko-nu|Буриза-ко-ну|||부리자-코-누||Buriza-Do Kyanon
 w_bow_windforce|Wind's Force||Força do Vento|Сила ветра|||바람의 힘||Windforce
 w_bow_poison_ivy|Poison Ivy|Myrkkymuratti|Hera Venenosa|Ядовитый Плющ|有毒常春藤|ポイズン・アイビー|독극물 아이비|Giftefeu|Poison Ivy
 w_bow_glimmerfury|Glimmerfury|Kiiltoraivo|Fúria Cintilante|Мерцающий Огонь|微光之怒|グリマーフューリー|희미한 분노|Glimmerwut|Furie scintillante
 w_bow_flamebringer|Flamebringer|Tulentuoja|Portador da Chama|Огнеметатель|火焰使者|フレームブリンガー|화염을 가져오는 자|Flammenbringer|Porte-flammes
 w_bow_steves_punchbow|Steve's Punchbow|Teemun nyrkkijousi|Arco-porrada de Steve|Ударный лук Стива|史蒂夫的冲锋弓|スティーブのパンチボウ|스티브의 펀치 보우|Steves Schlagbogen|Arc-à-punch de Steve
-w_bow_st_soloyolos_holy_bow|St. Soloyolo's Holy Bow|Pyhän Soloyolon jousi|Arco Sagrado de St. Soloyolo|Святой поклон Святого Солойоло|圣索洛约洛的圣弓|聖ソロヨロの聖なる弓|성. 솔로요로 홀리 보우|St. Soloyolos heiliger Bogen|Arc sacré de St. Soloyolo
+w_bow_st_soloyolos_holy_bow|St. Soloyolo's Holy Bow|Pyhän Soloyolon jousi|Arco Sagrado de St. Soloyolo|Святой поклон Святого Солойоло|圣索洛约洛的圣弓|聖ソロヨロの聖なる弓|성 솔로요로의 홀리 보우|St. Soloyolos heiliger Bogen|Arc sacré de St. Soloyolo
 w_bow_marksmans_hunting_bow|Marksman's Hunting Bow|Jousimiehen metsästysjousi|Arco de Caça do Atirador|Охотничий лук Стрелка|射手的狩猎弓|マークスマンのハンティングボウ|명사수의 사냥용 활|Jagdbogen des Marksman|Arc de chasse du tireur d'élite
 w_bow_shadowfury|Shadowfury|Varjoraivo|Fúria das Sombras|Ярость Теней|暗影狂怒|シャドウフューリー|섀도우퓨리|Schattenwut|Furie de l'ombre
 w_bow_electro|Electro|Elektro|Electro|Электро|电的|エレクトロ|전기|Electro|Électro
@@ -340,13 +340,13 @@ w_gun_rtx_xqc_4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|R
 w_gun_vampire_hunter|Vampire Hunter|Vampyyrin metsästäjä|Caçadora de Vampiros|Охотник на Вампиров|吸血鬼猎人|ヴァンパイア・ハンター|뱀파이어 헌터|Vampirjäger|Chasseur de vampires
 w_gun_flamecannon|Flamecannon|Liekkikanuuna|Canhão de Chamas|Огнеметная Пушка|火焰炮|フレームキャノン|불타는 대포|Flammenkanone|Canon flamboyant
 w_gun_warbringer|Warbringer|Sodantuoja|Portadora da Guerra|Несущий Войну|战神|ウォーブリンガー|전쟁을 불러오는 자|Kriegsbringer|Porte-guerre
-w_gun_jack|Jack||Jack|Джек|||||Jack
-w_gun_fred|Fred||Fred|Фред|||||Fred
+w_gun_jack|Jack||Jack|Джек|||잭||Jack
+w_gun_fred|Fred||Fred|Фред|||프레드||Fred
 w_gun_steves_bang|Steve's Bang|Teemun pyssy|Estrondo de Steve|Взрыв Стива|史蒂夫的枪击|スティーブの爆発|스티브의 뱅|Steves Bang|Pisto'BANG de Steve
 w_gun_chills_of_war|Chills of War|Sodan väreet|Calafrios da Guerra|Холод войны|战争寒意|戦慄|전쟁의 오한|Schauer des Krieges|Frissons de la guerre
 w_gun_st_brooks_elementium_pistol|Commander´s Sentry Blaster|Pyhän Brooksin sula pistooli|Pistola Elemental de St Brook|Элементный пистолет Сент - Брукса|圣布鲁克斯熔融手枪|聖ブルックスの溶けたピストル|성 브룩스 용암 권총|St. Brooks geschmolzene Pistole|Pistolet élémentaire de St. Brooks
 w_gun_marines_buddy|Marine's Buddy|Merimiehen kaveri|Amigo da Marinha|Приятель морского пехотинца|海洋的朋友|マリーンズバディ|마린 버디|Marinekumpel|Pote du marine
-w_gun_demon|Demon||Demônio|Демон|||||Démon
+w_gun_demon|Demon||Demônio|Демон|||악마||Démon
 w_gun_angel|Angel||Anjo|Ангел|||천사||Ange
 w_gun_crystal_infused_pistol|Crystal Infused Pistol|Kristallipistooli|Pistola Infundida de Cristal|Пистолет , Наполненный Кристаллами|水晶手枪|クリスタル注入ピストル|수정이 주입 된 권총|Kristallgefüllte Pistole|Pistolet infusé de cristal
 w_gun_f4_tactical_rifle|F4-Tactical Rifle|F4-Taktinen Kivääri|Rifle Tático F-4|F4-Тактическая винтовка|F4-战术步枪|F4-タクティカル・ライフル|F4-전술 소총|F4-Taktisches Gewehr|Fusil tactique F4
@@ -456,7 +456,7 @@ armors_bloodletters_plate_body|Blood-letter's Plate Body|Blood-letter's Plate Bo
 armors_venoms_ribcage|Venom's Ribcage|Venomin Rintakehä|Caixa Torácica Envenenada|Грудная клетка Венома|毒液的肋骨|ヴェノムの胸郭|독의 갈비뼈|Venoms Brustkorb|Cage thoracique de venom
 armors_shield_bearers_plated_armor|Shield Bearer's Plated Armor|Kilvenkäyttäjän Panssari|Peitoral do Portador do Escudo|Покрытая Доспехами Щитоносца|盾牌守卫者的板甲|シールドベアラーのプレートアーマー|방패 운반자의 도금 갑옷|Schildträger-Rüstung|Armure de plates de porteur de bouclier
 armors_juggernauts_glorious_plate|Juggernaut's Glorious Plate|Pysäyttämätön Voiman Mahtava Haarniska|Placa Gloriosa do Juggernaut|Великолепная тарелка Джаггернаута|剑圣的光荣板甲|ジャガーノートの栄光のプレート|저거너트의 영광스러운 판|Juggernauts herrlicher Teller|Harnois glorieux de juggernaut
-armors_justiciars_thunder_armor|Justiciar's Thunder Armor|Oikeuttajan Ukkospanssari|Armadura de Trovão do Justiceiro|Громовые доспехи Юстициария|贾斯蒂西尔的雷霆护甲|司法長官のサンダーアーマー|Justiciar의 천둥 갑옷|Justiciars Donnerrüstung|Armure de tonnerre de justicier
+armors_justiciars_thunder_armor|Justiciar's Thunder Armor|Oikeuttajan Ukkospanssari|Armadura de Trovão do Justiceiro|Громовые доспехи Юстициария|贾斯蒂西尔的雷霆护甲|司法長官のサンダーアーマー|유스티시아르의 천둥 갑옷|Justiciars Donnerrüstung|Armure de tonnerre de justicier
 armors_lost_masters_platemail|Lost Master's Platemail|Kadonneen Mestarin Peltipanssari|Armadura de Placas do Mestre Perdido|Электронная почта потерянного Хозяина|失落大师的板甲|ロストマスターのプレートメール|로스트 마스터의 플레이트 메일|Platemail des verlorenen Meisters|Armure du maître d'armes
 armors_earth_shapers_body|Earth Shaper's body|Maanmuokkaajan Keho|Corpo do Modelador de Terras|Тело Формирователя Земли|造地者的身体|アースシェイパーの体|지구 형성 자의 몸|Körper des Erdformers|Corps de l'élémen'terre
 armors_plunderers_jacket|Plunderer's Jacket|Ryövärin Jakku|Jaqueta do Saqueador|Куртка грабителя|掠夺者外套|プランダラのジャケット|약탈자 재킷|Plündererjacke|Veste de pilleur
@@ -570,7 +570,7 @@ helmet_burning_gaze|Burning Gaze|Polttava Tuijotus|Contemplar Ardente|Горящ
 helmet_sight_of_gods|Sight Of The Gods|Jumalten Katse|Visão dos Deuses|Взгляд Богов|众神之视|神々の光景|신들의 광경|Anblick der Götter|Vision des dieux
 helmet_zealots_guise_of_doom|Zealot's Guise of Doom|Kiihkoilijan Tuomion Huppu|Disfarce do Fanático da Desgraça|Фанатичное выражение обреченности|狂热者的厄运掩饰|熱狂的な運命の装い|열렬한 운명의 모습|Eiferers Gestalt des Untergangs|Apparence du destin de zélote
 helmet_flame_diviners_refuge|Flame Diviner's Refuge|Tuliennustajan Turvapaikka|Refúgio do Adivinho da Chama|Убежище Огненного Прорицателя|烈焰圣地的避难所|炎占い師の避難所|화염 점쟁이의 피난처|Zuflucht der Flammenwahrsager|Refuge de pyromancien
-helmet_lumberjacks_safety_helm|Lumberjack's Safety Helm|Tukkimiehen Suojakypärä|Capacete de Segurança do Lenhador|Защитный Шлем Лесоруба|伐木工人的安全帽|木こりの安全ヘルメット|Lumberjack의 안전 헬멧|Holzfäller-Schutzhelm|Casque de sécurité de bûcheron
+helmet_lumberjacks_safety_helm|Lumberjack's Safety Helm|Tukkimiehen Suojakypärä|Capacete de Segurança do Lenhador|Защитный Шлем Лесоруба|伐木工人的安全帽|木こりの安全ヘルメット|벌목꾼의 안전모|Holzfäller-Schutzhelm|Casque de sécurité de bûcheron
 helmet_bloodletters_crown|Blood-letter's Crown|Blood-letter's Crown|Coroa do Flebotomista|Корона кровавого письма|Blood-letter's Crown|Blood-letter's Crown|혈서의 왕관|Blood-letter's Crown|Couronne de gravesang
 helmet_venoms_skull|Venom's Skull|Venomin Pääkallo|Caveira de Venom|Череп Венома|毒液的头骨|ヴェノムの頭蓋骨|독의 해골|Giftschädel|Crâne de venom
 helmet_shield_bearers_crown|Shield Bearer's Crown|Kilvenkäyttäjän Kruunu|Coroa do Portador do Escudo|Корона щитоносца|盾牌守卫者的王冠|シールドベアラーの王冠|방패 전달자의 왕관|Schildträgerkrone|Couronne de porteur de bouclier
@@ -771,7 +771,7 @@ boots_lumberjacks_forestry_boots|Lumberjack's Forestry Boots|Tukkimiehen Turvake
 boots_bloodletters_plated_boots|Blood-letter's Plated Boots|Blood-letter's Plated Boots|Botas do Flebotomista|Сапоги с позолотой Кровавой буквы|Blood-letter's Plated Boots|Blood-letter's Plated Boots|블러드레터의 플레이트 부츠|Blood-letter's Plated Boots|Bottes plaquées de gravesang
 boots_shield_bearers_greaves|Shield Bearer's Greaves|Kilvenkäyttäjän Peltikengät|Grevas do Escudo|Поножи Щитоносца|盾牌守卫者的胫甲|シールドベアラーのグリーブ|방패 운반자의 경갑|Beinschienen des Schildträgers|Grèves du porteur de bouclier
 boots_juggernauts_victory_marchers|Juggernaut's Victory Marchers|Pysäyttämätön Voiman Voitonmarssijat|Marchadoras da Vitória do Juggernaut|Марширующие победы Джаггернаута|剑圣的胜利游行者|ジャガーノートの勝利の行進者|저거너트의 승리 시위자|Juggernauts Siegesmarschierer|Jambières de victoire du juggernaut
-boots_justiciars_thunder_boots|Justiciar's Thunder Boots|Oikeuttajan Ukkoskengät|Botas Relâmpago do Justiceiro|Громовые сапоги судьи|Justiciar的雷霆之靴|司法長官のサンダーブーツ|Justiciar의 천둥 장화|Justiciars Donnerstiefel|Bottes de tonnerre du justicier
+boots_justiciars_thunder_boots|Justiciar's Thunder Boots|Oikeuttajan Ukkoskengät|Botas Relâmpago do Justiceiro|Громовые сапоги судьи|Justiciar的雷霆之靴|司法長官のサンダーブーツ|유스티시아르의 천둥 장화|Justiciars Donnerstiefel|Bottes de tonnerre du justicier
 boots_lost_masters_marchers|Lost Master's Marchers|Kadonneen Mestarin Marssijat|Marchadoras do Mestre Perdido|Марширующие потерянного Мастера|失落的大师行军|ロストマスターの行進者|잃어버린 주인의 행진|Die Marschierer des verlorenen Meisters|Jambières du maître perdu
 boots_earth_shapers_boots|Earth Shaper's Boots|Maanmuokkaajan Kengät|Botas do Modelador de Terras|Сапоги Формирователя Земли|造地者之靴|アースシェイパーのブーツ|지구 형성 자의 장화|Stiefel des Erdformers|Bottes de Element terre
 boots_plunderers_deck_marchers|Plunderer's Deck Marchers|Laivojenupottajan Kansikengät|Marchadoras de Convés do Saqueador|Марширующие по палубе Грабителя|掠夺者的甲板行军|プランダラのデッキマーチャー|약탈자의 갑판 행진|Plünderer Deckmarschierer|Chausses du pilleur
@@ -1063,7 +1063,7 @@ shields_thunder_lords_aegis|Thunder Lord's Aegis|Ukkosenherran Turva|Égide do S
 shields_crystal_infused_shield|Crystal Infused Shield|Kristallivalettu kilpi|Escudo Infundido de Cristal|Щит , Наполненный Кристаллами|水晶灌注盾|クリスタル注入シールド|수정이 주입 된 방패|Kristallinfundierter Schild|Bouclier infusé de cristal
 shields_vagabonds_ward|Vagabond's Ward|Kiertolaisen Suoja|Proteção do Vagabundo|Палата бродяг|流浪者的守卫|バガボンドの病棟|방랑자의 와드|Vagabonds Gemeinde|Parade du vagabond
 shields_flame_diviners_ward|Flame Diviner's Ward|Tuliennustajan Suoja|Proteção do Adivinho da Chama|Палата Огненного Прорицателя|烈焰神谕者的守卫|炎占い師の病棟|화염 점쟁이의 와드|Flammenwahrnehmerstation|Parade de pyromancien
-shields_justiciars_thunder_wall|Justiciar's Thunder Wall|Oikeuttajan Ukkosseinä|Parede de Trovão do Justiceiro|Громовая стена Юстициария|正义的雷霆墙|司法長官の雷壁|justiciar의 천둥 벽|Die Donnerwand des Justiziar|Mur du tonnerre du justicier
+shields_justiciars_thunder_wall|Justiciar's Thunder Wall|Oikeuttajan Ukkosseinä|Parede de Trovão do Justiceiro|Громовая стена Юстициария|正义的雷霆墙|司法長官の雷壁|유스티시아르의 천둥 벽|Die Donnerwand des Justiziar|Mur du tonnerre du justicier
 shields_shield_bearers_wall|Shield Bearer's Wall|Kilvenkäyttäjän Seinä|Parede do Portador do Escudo|Стена щитоносца|盾牌承载者之墙|シールドベアラーの壁|방패 무기명의 벽|Schildträgerwand|Mur du porteur de bouclier
 shields_valkyries_battle_shield|Valkyrie's Battle Shield|Valkyrie's Battle Shield|Escudo de Batalha da Valquíria|Боевой щит Валькирии|Valkyrie's Battle Shield|Valkyrie's Battle Shield|발키리의 전투 방패|Valkyrie's Battle Shield|Bouclier de combat de la Valkyrie
 shields_leprechauns_greed|Leprechauns Greed||Ganância do Duende|Жадность Лепреконов|||레프리콘의 탐욕||Avidité des Leprechauns
@@ -1202,7 +1202,7 @@ belts_belt_of_skulls|Belt of Skulls|Pääkallovyö|Cinturão de Crânios|Поя�
 belts_engineers_toolbelt|Engineer's Toolbelt|Insinöörin Työkaluvyö|Cinto de Ferramentas do Engenheiro|Пояс для инструментов инженера|工程师工具带|エンジニアのツールベルト|엔지니어의 도구 벨트|Werkzeuggürtel des Ingenieurs|Ceinture d'outils d'ingénieur
 belts_vagabonds_strap|Vagabond's Strap|Kiertolaisen Remmi|Alça do Vagabundo|Ремень Бродяги|流浪者的表带|バガボンドのストラップ|방랑자의 결박|Vagabonds Riemen|Sangle de vagabond
 belts_flame_diviners_cord|Flame Diviner's Cord|Tuliennustajan Köysi|Cinto do Adivinho da Chama|Огненный шнур Прорицателя|烈焰神谕者的绳|炎占い師のコード|화염 점쟁이의 장식 끈|Flammenwahrsagers Kabel|Cordon de pyromancien
-belts_justiciars_thunder_sash|Justiciar's Thunder Sash|Oikeuttajan Ukkosvyö|Faixa Trovejante do Justiceiro|Громовой пояс Юстициария|正义法官的雷霆腰带|司法長官のサンダーサッシュ|Justiciar의 천둥 장식 띠|Justiciars Donnerschärpe|Ceinture de tonnerre du justicier
+belts_justiciars_thunder_sash|Justiciar's Thunder Sash|Oikeuttajan Ukkosvyö|Faixa Trovejante do Justiceiro|Громовой пояс Юстициария|正义法官的雷霆腰带|司法長官のサンダーサッシュ|유스티시아르의 천둥 장식 띠|Justiciars Donnerschärpe|Ceinture de tonnerre du justicier
 belts_earth_shapers_belt|Earth Shaper's Belt|Maanmuokkaajan Vyö|Cinto do Modelador de Terras|Пояс Формирователя Земли|造地者腰带|アースシェイパーのベルト|지구 형성 자의 허리띠|Gürtel des Erdformers|Ceinture de l'élémen'terre
 belts_knights_girdle|Knight's Girdle|Knight's Girdle|Cinturão do Cavaleiro|Рыцарский пояс|Knight's Girdle|Knight's Girdle|기사의 허리띠|Knight's Girdle|Ceinture de chevalier
 belts_belt_of_infinite_wealth|Belt of Infinite Wealth|Äärettömän rikkauden vyö|Cinto de Riqueza Infinita|Пояс Несметного Богатства|无限财富的腰带|無限の富をもたらすベルト|무한한 부의 벨트|Gürtel des unendlichen Reichtums|Ceinture de profusion
@@ -1506,7 +1506,7 @@ pirate2_setname|Plunderer's Ensemble|Ryöstelijän Asukokonaisuus|Conjunto do Sa
 necromancer_setname|Death Lord's Legacy|Kuolemanherran Perintö|Legado do Senhor da Morte|Наследие Повелителя Смерти|死神的遗产|デス・ロードの遺産|죽음의 신의 유산|Der Tod des Herrn Vermächtnis|Héritage du seigneur de la mort
 necromancer2_setname|Venom's Frame|Venomin Runko|Estrutura do Veneno|Рамка Венома|毒液的框架|ヴェノムのフレーム|독의 틀|Giftrahmen|Armature de venom
 paladin_setname|Thor's Thunder Hammer|Odinin Pyhä Vasara|Martelo Sagrado de Odin|Громовой молот Тора|奥丁的圣锤|オーディンの聖なるハンマー|오딘의 신성한 망치|Odins heiliger Hammer|Marteau de Thor
-paladin2_setname|Justiciar's Thunder Raiment|Justikaarin Ukkos Asuste|Trajes de Trovão do Justiceiro|Громовое одеяние Юстициария|司法人员的雷霆服装|司法長官の雷鳴|정당한 천둥 의복|Donnergewand des Justiziar|Parure de tonnerre de justicier
+paladin2_setname|Justiciar's Thunder Raiment|Justikaarin Ukkos Asuste|Trajes de Trovão do Justiceiro|Громовое одеяние Юстициария|司法人员的雷霆服装|司法長官の雷鳴|유스티시아르의 천둥 의복|Donnergewand des Justiziar|Parure de tonnerre de justicier
 viking_setname|Viking's Demise|Viikingin Kuolema|Fim dos Vikings|Гибель викинга|维京人的毁灭|バイキングの死|바이킹의 죽음|Untergang des Wikingers|Patrimoine de viking
 viking2_setname|Shield Bearer's Sanctuary|Kilvenkäyttäjän Turvapaikka|Santuário do Escudeiro|Святилище щитоносца|盾牌持有人的庇护所|シールドベアラーの聖域|방패 전달자의 성역|Schutzgebiet des Schildträgers|Refuge du porteur de bouclier
 nomad_setname|Elder of Mos'Arathim|Mos'Arathimin Vanhin|Ancião de Mos'Arathim|Старейшина Мосаратима|Mos 'Arathim的老者|モスアラティムの長老|모스라팀의 장로|Ältester von Mos'Arathim|Fondateur de Mos'Arathim
@@ -1566,7 +1566,7 @@ potions_maggot_eye_elixir|Maggot Eye Elixir||Elixir de Olho de Larva|Эликс�
 potions_empty_bottle_of_vodka|Empty Bottle of Vodka||Garrafa Vazia de Vodka|Пустая бутылка из - под водки|||빈 보드카 병||Bouteille de vodka vide
 potions_bottle_of_radogate|Bottle of Radogate||Garrafa de Radogate|"Бутылка "" Радогейта """|||라도가테 병||Bouteille de Radogate
 potions_wizard_potion|Wizard Potion||Poção do Mago|Волшебное Зелье|||마법사 물약||Potion de sorcier
-potions_radbull|Radbull||Radbull|Рэдбулл|||||Radbull
+potions_radbull|Radbull||Radbull|Рэдбулл|||레드불||Radbull
 potions_surstromming|Surströmming||Surströmming|Surströmming|||슈르스트룀밍||Surströmming
 potions_protein_shake|Protein Shake||Shake de Proteína|Протеиновый коктейль|||단백질 쉐이크||Boisson protéinée
 potions_blood_of_spartan|Blood of Spartan||Sangue de Espartano|Кровь спартанца|||스파르탄의 피||Sang de spartiate
@@ -1584,61 +1584,61 @@ potions_elixir_of_unwordly_cognition|Elixir of Unworldly Cognition||Elixir da Co
 keys_key|Basic Key||Chave|Клавиша|||기본 키||Clé
 lore_keys_key|Just a regular key that opens common chests.||Apenas uma chave comum que abre baús comuns.|Просто обычный ключ, который открывает обычные сундуки.|||그냥 일반적인 상자를 여는 평범한 열쇠입니다.||Une clé ordinaire qui permet d'ouvrir un coffre ordinaire.
 keys_crystal_key|Crystal Key||Chave de Cristal|Хрустальный Ключ|||크리스탈 키||Clé de cristal
-lore_keys_crystal_key|Forged from a shining crystal that opens crystal chests.||Forjado a partir de um cristal brilhante que abre baús de cristal.|Выкован из сияющего кристалла, который открывает хрустальные сундуки.|||빛나는 수정으로 만들어진 수정 상자를 여는 열쇠.||Forgée dans un cristal brillant, elle permet d'ouvrir un coffre de cristal.
+lore_keys_crystal_key|Forged from a shining crystal that opens crystal chests.||Forjado a partir de um cristal brilhante que abre baús de cristal.|Выкован из сияющего кристалла, который открывает хрустальные сундуки.|||수정 상자를 여는 빛나는 수정으로 제작되었습니다.||Forgée dans un cristal brillant, elle permet d'ouvrir un coffre de cristal.
 keys_cloud_key|Cloud Key|Pilviavain|Chave de Nuvem|Облачный Ключ|云密钥|クラウドキー|클라우드 키|Wolkenschlüssel|Clé de nuage
-lore_keys_cloud_key|Fluffy key that probably belongs to a sheepherder.||Chave fofa que provavelmente pertence a um pastor de ovelhas.|Пушистый ключ, который, вероятно, принадлежит пастуху.|||양치기의 것일 가능성이 있는 푹신한 열쇠.||Clé duveteuse qui appartient probablement à un berger.
+lore_keys_cloud_key|Fluffy key that probably belongs to a sheepherder.||Chave fofa que provavelmente pertence a um pastor de ovelhas.|Пушистый ключ, который, вероятно, принадлежит пастуху.|||양치기의 것으로 추정되는 푹신한 열쇠입니다.||Clé duveteuse qui appartient probablement à un berger.
 keys_key_of_terror|Key of Terror||Chave do Terror|Ключ ужаса|||공포의 열쇠||Clé de la terreur
 lore_keys_key_of_terror|Ancient key that unlocks a terrifying memory.||Uma chave antiga que abre uma memória aterrorizante.|Древний ключ, который открывает ужасающее воспоминание.|||고대의 열쇠로 끔찍한 기억을 풀어냅니다.||Une clé ancienne qui réveille un souvenir effroyable.
 keys_ruby_key|Ruby Key|Rubiiniavain|Chave de Rubi|Рубиновый Ключ|红宝石钥匙|ルビーキー|루비 열쇠|Rubinschlüssel|Clé de rubis
 lore_keys_ruby_key|Grants access to a distant land full of treasure.||Concede acesso a uma terra distante cheia de tesouros.|Дарует доступ в далекую страну, полную сокровищ.|||보물로 가득한 먼 땅에 접근할 수 있습니다.||Permet d'accéder à une terre lointaine remplie de trésors.
 keys_angelic_key|Angelic Key|Enkeliavain|Chave Angelical|Ангельский Ключ|Angelic Key|Angelic Key|엔젤릭 키|Engelhafter Schlüssel|Clé angélique
-lore_keys_angelic_key|Heavenly key forged by St. Peter in the catacombs of Dawn's Chappel.||Chave celestial forjada por St. Peter nas catacumbas da Capela do Amanhecer|Небесный ключ, выкованный святым Петром в катакомбах Рассветного Чаппела.|||성 베드로가 새벽 예배당의 지하 묘지에서 만든 천상의 열쇠.||Clé céleste forgée par St. Peter dans les catacombes de la Chapelle de l'aube.
+lore_keys_angelic_key|Heavenly key forged by St. Peter in the catacombs of Dawn's Chappel.||Chave celestial forjada por St. Peter nas catacumbas da Capela do Amanhecer|Небесный ключ, выкованный святым Петром в катакомбах Рассветного Чаппела.|||새벽 예배당의 지하 묘지에서 성 베드로가 만든 천국의 열쇠입니다.||Clé céleste forgée par St. Peter dans les catacombes de la Chapelle de l'aube.
 keys_valhalla_key|Key to Valhalla||Chave para Valhalla|Ключ к Валгалле|||발할라의 열쇠||Clé du Valhalla
 lore_keys_valhalla_key|Key to the kingdom of Valhalla.||Chave para o reino de Valhalla|Ключ от королевства Валгалла.|||발할라 왕국의 열쇠||Clé qui ouvre les portes du Valhalla.
 keys_smelly_cheese|Smelly Cheese|Haiseva juusto|Queijo Fedorento|Вонючий Сыр|臭奶酪|臭いチーズ|냄새 나는 치즈|Stinkender Käse|Fromage qui pue
-lore_keys_smelly_cheese|Gives access to Lady Sonya's challenge for Rat Den||Dá acesso ao desafio de Lady Sonya para a Toca de Ratos|"Дает доступ к вызову леди Сони в ""Крысином логове"""|||레이디 소냐의 도전에 접근할 수 있습니다: 쥐 소굴||Donne accès au challenge de Lady Sonya pour le repaire des rats.
+lore_keys_smelly_cheese|Gives access to Lady Sonya's challenge for Rat Den||Dá acesso ao desafio de Lady Sonya para a Toca de Ratos|"Дает доступ к вызову леди Сони в ""Крысином логове"""|||레이디 소냐의 도전에 접근할 수 있습니다. (쥐 굴)||Donne accès au challenge de Lady Sonya pour le repaire des rats.
 keys_cellar_key|Cellar Key|Kellariavain|Chave do Porão|Ключ от подвала|地窖钥匙|セラーキー|지하실 키|Kellerschlüssel|Clé de la remise
-lore_keys_cellar_key|Gives access to Lady Sonya's challenge for Pumpkin Cellar||Dá acesso ao desafio de Lady Sonya para o Porão de Abóboras|Дает доступ к вызову леди Сони для тыквенного погреба|||레이디 소냐의 도전에 접근할 수 있게 해주는 호박 지하실||Donne accès au challenge de Lady Sonya pour le remise à citrouilles.
+lore_keys_cellar_key|Gives access to Lady Sonya's challenge for Pumpkin Cellar||Dá acesso ao desafio de Lady Sonya para o Porão de Abóboras|Дает доступ к вызову леди Сони для тыквенного погреба|||레이디 소냐의 도전에 접근할 수 있습니다. (호박 저장고)||Donne accès au challenge de Lady Sonya pour le remise à citrouilles.
 keys_tower_key|Tower Key|Torniavain|Chave da Torre|Ключ от башни|塔钥匙|タワーキー|타워 키|Turmschlüssel|Clé de la tour
-lore_keys_tower_key|Gives access to Lady Sonya's challenge for Black Tower||Dá acesso ao desafio de Lady Sonya para a Torre Negra|Дает доступ к вызову леди Сони в Черную башню|||레이디 소냐의 도전에 접근할 수 있습니다 - 블랙 타워||Donne accès au challenge de Lady Sonya pour la tour sombre.
+lore_keys_tower_key|Gives access to Lady Sonya's challenge for Black Tower||Dá acesso ao desafio de Lady Sonya para a Torre Negra|Дает доступ к вызову леди Сони в Черную башню|||레이디 소냐의 도전에 접근할 수 있습니다. (검은 탑)||Donne accès au challenge de Lady Sonya pour la tour sombre.
 keys_frosted_key|Frosted Key|Huurteinen avain|Chave Congelada|Матовый Ключ|磨砂钥匙|フロストキー|프로스트 키|Gefrorener Schlüssel|Clé givrée
-lore_keys_frosted_key|Gives access to Lady Sonya's challenge for Frozen Cellar||Dá acesso ao desafio de Lady Sonya para o Porão Congelado|Дает доступ к вызову леди Сони для замороженного погреба|||레이디 소냐의 얼어붙은 지하실 도전 과제를 이용할 수 있습니다||Donne accès au challenge de Lady Sonya pour la cave glacée.
-keys_copper_key|Copper Key|Hyinen avain|Chave de Cobre|Медный Ключ|冰冷的钥匙|チルドキー|냉장 키|Kupferschlüssel|Clé en cuivre
-lore_keys_copper_key|Gives access to Lady Sonya's challenge for Old Copper Mine||Dá acesso ao desafio de Lady Sonya para a Antiga Mina de Cobre|Дает доступ к испытанию леди Сони на Старом медном руднике|||레이디 소냐의 도전 과제에 접근할 수 있습니다 - 오래된 구리 광산||Donne accès au challenge de Lady Sonya pour la vielle mine de cuivre.
-keys_mystic_key|Mystic Key|Mystinen avain|Chave Mística|Мистический Ключ|神秘钥匙|ミスティックキー|신비의 열쇠|Mystischer Schlüssel|Clé mystique
-lore_keys_mystic_key|Gives access to Lady Sonya's challenge for Forgotten City||Dá acesso ao desafio de Lady Sonya para a Cidade Esquecida|Дает доступ к вызову леди Сони для Забытого города|||레이디 소냐의 도전에 접근할 수 있습니다: 잊혀진 도시||Donne accès au challenge de Lady Sonya pour la cité oubliée.
+lore_keys_frosted_key|Gives access to Lady Sonya's challenge for Frozen Cellar||Dá acesso ao desafio de Lady Sonya para o Porão Congelado|Дает доступ к вызову леди Сони для замороженного погреба|||레이디 소냐의 도전에 접근할 수 있습니다. 얼어붙은 지하실)||Donne accès au challenge de Lady Sonya pour la cave glacée.
+keys_copper_key|Copper Key|Hyinen avain|Chave de Cobre|Медный Ключ|冰冷的钥匙|チルドキー|쿠퍼 키|Kupferschlüssel|Clé en cuivre
+lore_keys_copper_key|Gives access to Lady Sonya's challenge for Old Copper Mine||Dá acesso ao desafio de Lady Sonya para a Antiga Mina de Cobre|Дает доступ к испытанию леди Сони на Старом медном руднике|||레이디 소냐의 도전에 접근할 수 있습니다. (오래된 구리 광산)||Donne accès au challenge de Lady Sonya pour la vielle mine de cuivre.
+keys_mystic_key|Mystic Key|Mystinen avain|Chave Mística|Мистический Ключ|神秘钥匙|ミスティックキー|미스틱 키|Mystischer Schlüssel|Clé mystique
+lore_keys_mystic_key|Gives access to Lady Sonya's challenge for Forgotten City||Dá acesso ao desafio de Lady Sonya para a Cidade Esquecida|Дает доступ к вызову леди Сони для Забытого города|||레이디 소냐의 도전에 접근할 수 있습니다. (잊혀진 도시)||Donne accès au challenge de Lady Sonya pour la cité oubliée.
 keys_rusted_key|Rusted Key|Ruostunut avain|Chave Enferrujada|Ржавый Ключ|生锈的钥匙|錆びた鍵|녹슨 열쇠|Verrosteter Schlüssel|Clé rouillée
-lore_keys_rusted_key|Gives access to Lady Sonya's challenge for Abandoned Mine||Dá acesso ao desafio de Lady Sonya para a Mina Abandonada|Дает доступ к вызову леди Сони для Заброшенной шахты|||레이디 소냐의 도전에 접근할 수 있게 합니다 (버려진 광산)||Donne accès au challenge de Lady Sonya pour la mine abandonnée
-keys_shovel|Shovel Key|Lapio-avain|Pá|Ключ от лопаты|铲|シャベル|삽|Schaufel|Pelle
-lore_keys_shovel|Gives access to Lady Sonya's challenge for Sand Cave||Dá acesso ao desafio de Lady Sonya para a Caverna de Areia|Дает доступ к вызову леди Сони для Песчаной пещеры|||레이디 소냐의 모래 동굴 도전에 접근할 수 있습니다||Donne accès au challenge de Lady Sonya pour la caverne ensevelie.
+lore_keys_rusted_key|Gives access to Lady Sonya's challenge for Abandoned Mine||Dá acesso ao desafio de Lady Sonya para a Mina Abandonada|Дает доступ к вызову леди Сони для Заброшенной шахты|||레이디 소냐의 도전에 접근할 수 있습니다. (버려진 광산)||Donne accès au challenge de Lady Sonya pour la mine abandonnée
+keys_shovel|Shovel Key|Lapio-avain|Pá|Ключ от лопаты|铲|シャベル|삽 키|Schaufel|Pelle
+lore_keys_shovel|Gives access to Lady Sonya's challenge for Sand Cave||Dá acesso ao desafio de Lady Sonya para a Caverna de Areia|Дает доступ к вызову леди Сони для Песчаной пещеры|||레이디 소냐의 도전에 접근할 수 있습니다. (모래 동굴)||Donne accès au challenge de Lady Sonya pour la caverne ensevelie.
 keys_ancient_key|Ancient Key|Muinainen avain|Chave Antiga|Древний Ключ|古代钥匙|古代の鍵|고대 열쇠|Uralter Schlüssel|Clé ancienne
-lore_keys_ancient_key|Gives access to Lady Sonya's challenge for Ancient City ||Dá acesso ao desafio de Lady Sonya para a Cidade Antiga|Дает доступ к вызову леди Сони для Древнего города |||레이디 소냐의 고대 도시 도전에 접근할 수 있습니다||Donne accès au challenge de Lady Sonya pour l'ancienne cité.
+lore_keys_ancient_key|Gives access to Lady Sonya's challenge for Ancient City ||Dá acesso ao desafio de Lady Sonya para a Cidade Antiga|Дает доступ к вызову леди Сони для Древнего города |||레이디 소냐의 도전에 접근할 수 있습니다. (고대 도시)||Donne accès au challenge de Lady Sonya pour l'ancienne cité.
 keys_tomb_key|Tomb Key|Hauta-avain|Chave da Tumba|Ключ от Гробницы|墓钥匙|墓の鍵|무덤 열쇠|Grabschlüssel|Clé du tombeau
-lore_keys_tomb_key|Gives access to Lady Sonya's challenge for Cauflax Tomb||Dá acesso ao desafio de Lady Sonya para a Tumba de Cauflax|Дает доступ к вызову леди Сони за гробницу Кауфлакса|||레이디 소냐의 도전 과제를 카우플락스 무덤에서 사용할 수 있습니다.||Donne accès au challenge de Lady Sonya pour le tombeau de Cauflax.
+lore_keys_tomb_key|Gives access to Lady Sonya's challenge for Cauflax Tomb||Dá acesso ao desafio de Lady Sonya para a Tumba de Cauflax|Дает доступ к вызову леди Сони за гробницу Кауфлакса|||레이디 소냐의 도전에 접근할 수 있습니다. (카우플락스 무덤)||Donne accès au challenge de Lady Sonya pour le tombeau de Cauflax.
 keys_devils_key|Devil's Key|Paholaisen avain|Chave do Diabo|Ключ дьявола|恶魔的钥匙|悪魔の鍵|악마의 열쇠|Teufelsschlüssel|Clé du diable
-lore_keys_devils_key|Gives access to Lady Sonya's challenge for Devil's Hole||Dá acesso ao desafio de Lady Sonya para o Buraco do Diabo|Дает доступ к вызову леди Сони для Devil's Hole|||레이디 소냐의 도전 과제에 접근할 수 있습니다: 데빌스 홀||Donne accès au challenge de Lady Sonya pour la fosse du diable.
+lore_keys_devils_key|Gives access to Lady Sonya's challenge for Devil's Hole||Dá acesso ao desafio de Lady Sonya para o Buraco do Diabo|Дает доступ к вызову леди Сони для Devil's Hole|||레이디 소냐의 도전에 접근할 수 있습니다. (데빌스 홀)||Donne accès au challenge de Lady Sonya pour la fosse du diable.
 keys_pickaxe|Pickaxe|Hakku|Picareta|Кирка|鹤嘴e|つるはし|곡괭이|Spitzhacke|Pioche
-lore_keys_pickaxe|Gives access to Lady Sonya's challenge for Fuji Crater||Dá acesso ao desafio de Lady Sonya para a Cratera de Fuji|Дает доступ к испытанию леди Сони за кратер Фудзи|||레이디 소냐의 후지 분화구 도전에 접근할 수 있습니다||Donne accès au challenge de Lady Sonya pour le cratère Fuji.
+lore_keys_pickaxe|Gives access to Lady Sonya's challenge for Fuji Crater||Dá acesso ao desafio de Lady Sonya para a Cratera de Fuji|Дает доступ к испытанию леди Сони за кратер Фудзи|||레이디 소냐의 도전에 접근할 수 있습니다. (후지 분화구)||Donne accès au challenge de Lady Sonya pour le cratère Fuji.
 keys_battle_key|Battle Key|Taisteluavain|Chave de Batalha|Боевой Ключ|战斗钥匙|バトルキー|배틀 키|Kampfschlüssel|Clé de combat
-lore_keys_battle_key|Gives access to Lady Sonya's challenge for Kaojin Temple||Dá acesso ao desafio de Lady Sonya para o Templo Kaojin|Дает доступ к вызову леди Сони для храма Каодзин|||레이디 소냐의 도전에 접근할 수 있게 해주는 카오진 사원||Donne accès au challenge de Lady Sonya pour le temple Kaojin.
+lore_keys_battle_key|Gives access to Lady Sonya's challenge for Kaojin Temple||Dá acesso ao desafio de Lady Sonya para o Templo Kaojin|Дает доступ к вызову леди Сони для храма Каодзин|||레이디 소냐의 도전에 접근할 수 있습니다. (카오진 사원)||Donne accès au challenge de Lady Sonya pour le temple Kaojin.
 keys_garden_key|Garden Key|Puutarhan avain|Chave do Jardim|Ключ от сада|Garden Key|Garden Key|정원의 열쇠|Gartenschlüssel|Clé de jardin
-lore_keys_garden_key|Gives access to Lady Sonya's challenge for Underground Garden||Dá acesso ao desafio de Lady Sonya para o Jardim Subterrâneo|Дает доступ к вызову леди Сони для Подземного сада|||레이디 소냐의 지하 정원 도전에 접근할 수 있습니다||Donne accès au challenge de Lady Sonya pour le jardin souterrain.
+lore_keys_garden_key|Gives access to Lady Sonya's challenge for Underground Garden||Dá acesso ao desafio de Lady Sonya para o Jardim Subterrâneo|Дает доступ к вызову леди Сони для Подземного сада|||레이디 소냐의 도전에 접근할 수 있습니다. (지하 정원)||Donne accès au challenge de Lady Sonya pour le jardin souterrain.
 keys_golden_key|Golden Key|Kultainen avain|Chave Dourada|Золотой Ключик|Golden Key|Golden Key|황금 열쇠|Goldener Schlüssel|Clé d'or
-lore_keys_golden_key|Gives access to Lady Sonya's challenge for Temple Trapdoor||Dá acesso ao desafio de Lady Sonya para o Alçapão do Templo|Дает доступ к вызову леди Сони для Храмового люка|||레이디 소냐의 도전에 접근할 수 있습니다: 사원 함정문||Donne accès au challenge de Lady Sonya pour la pièce secrète du temple.
+lore_keys_golden_key|Gives access to Lady Sonya's challenge for Temple Trapdoor||Dá acesso ao desafio de Lady Sonya para o Alçapão do Templo|Дает доступ к вызову леди Сони для Храмового люка|||레이디 소냐의 도전에 접근할 수 있습니다. (사원의 함정문)||Donne accès au challenge de Lady Sonya pour la pièce secrète du temple.
 keys_axe|Axe Key|Kirves-avain|Machado |Ключ от Топора|Axe|Axe|도끼 열쇠|Axt|Hache
-lore_keys_axe|Gives access to Lady Sonya's challenge for Unmarked Grave||Dá acesso ao desafio de Lady Sonya para a Sepultura sem Identificação|Дает доступ к вызову леди Сони на Безымянную могилу|||레이디 소냐의 도전 과제를 무명 묘지에서 접근할 수 있습니다.||Donne accès au challenge de Lady Sonya pour tombe anonyme.
+lore_keys_axe|Gives access to Lady Sonya's challenge for Unmarked Grave||Dá acesso ao desafio de Lady Sonya para a Sepultura sem Identificação|Дает доступ к вызову леди Сони на Безымянную могилу|||레이디 소냐의 도전에 접근할 수 있습니다. (무명 묘)||Donne accès au challenge de Lady Sonya pour tombe anonyme.
 keys_valor_key|Valor Key|Urhon avain|Chave de Valor|Ключ к Доблести|||용기의 열쇠||Clé de la Vaillance
-lore_keys_valor_key|Gives access to Lady Sonya's challenge for Gladsheim Halls||Dá acesso ao desafio de Lady Sonya para os Salões de Gladsheim|Дает доступ к конкурсу леди Сони для залов Гладсхейма|||레이디 소냐의 글래드쉼 홀 도전 과제에 접근할 수 있습니다.||Donne accès au challenge de Lady Sonya pour le hall de Gladsheim.
+lore_keys_valor_key|Gives access to Lady Sonya's challenge for Gladsheim Halls||Dá acesso ao desafio de Lady Sonya para os Salões de Gladsheim|Дает доступ к конкурсу леди Сони для залов Гладсхейма|||레이디 소냐의 도전에 접근할 수 있습니다. (글래드샤임 홀)||Donne accès au challenge de Lady Sonya pour le hall de Gladsheim.
 keys_naga_scale_key|Naga Scale Key|Nagasuomuavain|Chave de Escama de Naga|Ключ Шкалы Нага|||나가 비늘 열쇠||Clé d'écailles de naga
-lore_keys_naga_scale_key|Gives access to Lady Sonya's challenge for Naga Temple||Dá acesso ao desafio de Lady Sonya para o Templo Naga|Дает доступ к вызову леди Сони для храма Нага|||나가 사원에서 레이디 소냐의 도전을 할 수 있는 접근 권한을 줍니다||Donne accès au challenge de Lady Sonya pour le temple Naga.
+lore_keys_naga_scale_key|Gives access to Lady Sonya's challenge for Naga Temple||Dá acesso ao desafio de Lady Sonya para o Templo Naga|Дает доступ к вызову леди Сони для храма Нага|||레이디 소냐의 도전에 접근할 수 있습니다. (나가 사원)||Donne accès au challenge de Lady Sonya pour le temple Naga.
 keys_magma_key|Magma Key|Magma-avain|Chave de Magma|Магматический Ключ|||마그마 열쇠||Clé magmatique
-lore_keys_magma_key|Gives access to Lady Sonya's challenge for Muspelheim||Dá acesso ao desafio de Lady Sonya para Muspelheim|Дает доступ к вызову леди Сони для Муспельхейма|||무스펠하임의 레이디 소냐 도전에 접근할 수 있습니다.||Donne accès au challenge de Lady Sonya pour Muspelheim.
+lore_keys_magma_key|Gives access to Lady Sonya's challenge for Muspelheim||Dá acesso ao desafio de Lady Sonya para Muspelheim|Дает доступ к вызову леди Сони для Муспельхейма|||레이디 소냐의 도전에 접근할 수 있습니다. (무스펠하임)||Donne accès au challenge de Lady Sonya pour Muspelheim.
 keys_hellflame_torch|Helflame Torch|Kiirastulisoihtu|Tocha Helflame|Вспомогательный Огненный Факел|||지옥불 횃불||Torche infernale
-lore_keys_hellflame_torch|Gives access to Lady Sonya's challenge for Niflhel||Dá acesso ao desafio de Lady Sonya para Niflhel|Дает доступ к вызову леди Сони для Нифльхель|||니플헬에서 레이디 소냐의 도전에 접근할 수 있습니다||Donne accès au challenge de Lady Sonya pour Niflhel.
+lore_keys_hellflame_torch|Gives access to Lady Sonya's challenge for Niflhel||Dá acesso ao desafio de Lady Sonya para Niflhel|Дает доступ к вызову леди Сони для Нифльхель|||레이디 소냐의 도전에 접근할 수 있습니다. (니플헴)||Donne accès au challenge de Lady Sonya pour Niflhel.
 keys_warp_key|Warp Key|Warppi avain|Chave de Dobra|Деформирующий Ключ|||워프 키||Clé de la distorsion
-lore_keys_warp_key|Gives access to Lady Sonya's challenge for Distorted Horizons||Dá acesso ao desafio de Lady Sonya para os Horizontes Distorcidos|Дает доступ к вызову леди Сони из-за искаженных горизонтов|||레이디 소냐의 왜곡된 지평선 도전에 접근할 수 있습니다||Donne accès au challenge de Lady Sonya pour l'horizon distordu.
+lore_keys_warp_key|Gives access to Lady Sonya's challenge for Distorted Horizons||Dá acesso ao desafio de Lady Sonya para os Horizontes Distorcidos|Дает доступ к вызову леди Сони из-за искаженных горизонтов|||레이디 소냐의 도전에 접근할 수 있습니다. (왜곡된 지평선)||Donne accès au challenge de Lady Sonya pour l'horizon distordu.
 keys_storage_key|Storage Key|Varaston avain|Chave do Armazém|Ключ для хранения|||저장소 열쇠||Clé de stockage
-lore_keys_storage_key|Gives access to Lady Sonya's challenge for Arm's Storage||Dá acesso ao desafio de Lady Sonya para o Armazém de Armas|Дает доступ к заданию леди Сони по хранению оружия|||레이디 소냐의 도전 과제에 접근하여 무기 저장고를 이용할 수 있습니다.||Donne accès au challenge de Lady Sonya pour le stockage de bras.
+lore_keys_storage_key|Gives access to Lady Sonya's challenge for Arm's Storage||Dá acesso ao desafio de Lady Sonya para o Armazém de Armas|Дает доступ к заданию леди Сони по хранению оружия|||레이디 소냐의 도전에 접근할 수 있습니다. (무기 저장고)||Donne accès au challenge de Lady Sonya pour le stockage de bras.
 keys_bifrost_key|Bifröst Key|Bifröstin avain|Chave Bifröst|Бифрестовый Ключ|Bifröst Key|Bifröst Key|비프로스트 열쇠|Bifröst Key|Clé Bifröst
 lore_keys_bifrost_key|Opens a wormhole to the Bifröst||Abre um buraco de minhoca para o Bifröst|Открывает червоточину в Бифрест|||비프로스트로 가는 웜홀을 엽니다||Crée un portail vers le Bifröst
 keys_mysterious_key|Mysterious Key||Chave Misteriosa||||수수께끼의 열쇠||
@@ -1773,14 +1773,14 @@ socketable_um_rune|Um||Um|Um|||||Um
 socketable_mal_rune|Mal||Mal|Mal|||||Mal
 socketable_ist_rune|Ist||Ist|Ist|||||Ist
 socketable_gul_rune|Gul||Gul|Гуль|||||Gul
-socketable_vex_rune|Vex||Vex|Досадовать|||벡스||Vex
+socketable_vex_rune|Vex||Vex|Досадовать|||||Vex
 socketable_ohm_rune|Qi||Qi|Ци|||||Qi
 socketable_lo_rune|Xo||Xo|Старпом|||||Xo
 socketable_sur_rune|Sur||Sur|Sur|||||Sur
 socketable_ber_rune|Ber||Ber|Бер|||||Ber
 socketable_jah_rune|Jah||Jah|Джа|||||Jah
-socketable_cham_rune|Drax||Drax|Дракс|||드락스||Drax
-socketable_zod_rune|Zed||Zed|Зед|||Zed||Zed
+socketable_cham_rune|Drax||Drax|Дракс|||||Drax
+socketable_zod_rune|Zed||Zed|Зед|||||Zed
 socketable_fawn_rune|Fawn||||||||
 socketable_flo_rune|Flo||||||||
 socketable_nju_rune|Nju||||||||
@@ -1790,35 +1790,35 @@ socketable_flawed_amethyst|Flawed Amethyst||Ametista Defeituosa|Ущербный
 socketable_amethyst|Amethyst||Ametista |Аметист|||자수정||Améthyste
 socketable_flawless_amethyst|Flawless Amethyst||Ametista Impecável|Безупречный Аметист|||무결점 자수정||Améthyste sans défaut
 socketable_perfect_amethyst|Perfect Amethyst||Ametista Perfeita|Идеальный Аметист|||완벽한 자수정||Améthyste pure
-socketable_pristine_amethyst|Pristine Amethyst||Ametista Primordial|Первозданный Аметист|||완벽한 자수정||Améthyste parfaite
-socketable_chipped_emerald|Chipped Emerald||Esmeralda Lascada|Колотый Изумруд|||깨진 에메랄드||Émeraude taillée
-socketable_flawed_emerald|Flawed Emerald||Esmeralda Defeituosa|Ущербный Изумруд|||결함이 있는 에메랄드||Émeraude fissurée
+socketable_pristine_amethyst|Pristine Amethyst||Ametista Primordial|Первозданный Аметист|||순수한 자수정||Améthyste parfaite
+socketable_chipped_emerald|Chipped Emerald||Esmeralda Lascada|Колотый Изумруд|||조각난 에메랄드||Émeraude taillée
+socketable_flawed_emerald|Flawed Emerald||Esmeralda Defeituosa|Ущербный Изумруд|||결함 있는 에메랄드||Émeraude fissurée
 socketable_emerald|Emerald||Esmeralda |Изумруд|||에메랄드||Émeraude 
-socketable_flawless_emerald|Flawless Emerald||Esmeralda Impecável|Безупречный Изумруд|||완벽한 에메랄드||Émeraude sans défaut
+socketable_flawless_emerald|Flawless Emerald||Esmeralda Impecável|Безупречный Изумруд|||무결점 에메랄드||Émeraude sans défaut
 socketable_perfect_emerald|Perfect Emerald||Esmeralda Perfeita|Идеальный Изумруд|||완벽한 에메랄드||Émeraude pure
-socketable_pristine_emerald|Pristine Emerald||Esmeralda Primordial|Первозданный Изумруд|||원시 에메랄드||Émeraude parfaite
+socketable_pristine_emerald|Pristine Emerald||Esmeralda Primordial|Первозданный Изумруд|||순수한 에메랄드||Émeraude parfaite
 socketable_chipped_ruby|Chipped Ruby||Rubi Lascado|Расколотый Рубин|||조각난 루비||Rubis taillé
 socketable_flawed_ruby|Flawed Ruby||Rubi Defeituoso|Ущербный Рубин|||결함 있는 루비||Rubis fissuré
 socketable_ruby|Ruby||Rubi |Рубин|||루비||Rubis
-socketable_flawless_ruby|Flawless Ruby||Rubi Impecável|Безупречный Рубин|||결점 없는 루비||Rubis sans défaut
+socketable_flawless_ruby|Flawless Ruby||Rubi Impecável|Безупречный Рубин|||무결점 루비||Rubis sans défaut
 socketable_perfect_ruby|Perfect Ruby||Rubi Perfeito|Идеальный Рубин|||완벽한 루비||Rubis pur
 socketable_pristine_ruby|Pristine Ruby||Rubi Primordial|Первозданный Рубин|||순수한 루비||Rubis parfait
-socketable_chipped_sapphire|Chipped Sapphire||Safira Lascada|Сколотый Сапфир|||깨진 사파이어||Saphir taillé
+socketable_chipped_sapphire|Chipped Sapphire||Safira Lascada|Сколотый Сапфир|||조각난 사파이어||Saphir taillé
 socketable_flawed_sapphire|Flawed Sapphire||Safira Defeituosa|Ущербный Сапфир|||결함 있는 사파이어||Saphir fissuré
 socketable_sapphire|Sapphire||Safira |Сапфир|||사파이어||Saphir 
 socketable_flawless_sapphire|Flawless Sapphire||Safira Impecável|Безупречный Сапфир|||무결점 사파이어||Saphir sans défaut
 socketable_perfect_sapphire|Perfect Sapphire||Safira Perfeita|Идеальный Сапфир|||완벽한 사파이어||Saphir pur
-socketable_pristine_sapphire|Pristine Sapphire||Safira Primordial|Первозданный Сапфир|||청정 사파이어||Saphir parfait
+socketable_pristine_sapphire|Pristine Sapphire||Safira Primordial|Первозданный Сапфир|||순수한 사파이어||Saphir parfait
 socketable_chipped_skull|Chipped Skull||Caveira Lascada|Расколотый Череп|||조각난 해골||Crâne taillé
 socketable_flawed_skull|Flawed Skull||Caveira Defeituosa|Дефектный Череп|||결함 있는 해골||Crâne fissuré
 socketable_skull|Skull||Caveira |Череп|||해골||Crâne 
-socketable_flawless_skull|Flawless Skull||Caveira Impecável|Безупречный Череп|||완벽한 해골||Crâne sans défaut
+socketable_flawless_skull|Flawless Skull||Caveira Impecável|Безупречный Череп|||무결점 해골||Crâne sans défaut
 socketable_perfect_skull|Perfect Skull||Caveira Perfeita|Идеальный Череп|||완벽한 해골||Crâne pur
-socketable_pristine_skull|Pristine Skull||Caveira Primordial|Первозданный Череп|||완전한 해골||Crâne parfait
-socketable_chipped_topaz|Chipped Topaz||Topázio Lascado|Сколотый Топаз|||깨진 토파즈||Topaze taillée
-socketable_flawed_topaz|Flawed Topaz||Topázio Defeituoso|Ущербный Топаз|||결함이 있는 토파즈||Topaze fissurée
+socketable_pristine_skull|Pristine Skull||Caveira Primordial|Первозданный Череп|||순수한 해골||Crâne parfait
+socketable_chipped_topaz|Chipped Topaz||Topázio Lascado|Сколотый Топаз|||조각난 토파즈||Topaze taillée
+socketable_flawed_topaz|Flawed Topaz||Topázio Defeituoso|Ущербный Топаз|||결함 있는 토파즈||Topaze fissurée
 socketable_topaz|Topaz||Topázio |Топаз|||토파즈||Topaze 
-socketable_flawless_topaz|Flawless Topaz||Topázio Impecável|Безупречный Топаз|||완벽한 토파즈||Topaze sans défaut
+socketable_flawless_topaz|Flawless Topaz||Topázio Impecável|Безупречный Топаз|||무결점 토파즈||Topaze sans défaut
 socketable_perfect_topaz|Perfect Topaz||Topázio Perfeito|Идеальный Топаз|||완벽한 토파즈||Topaze pure
 socketable_pristine_topaz|Pristine Topaz||Topázio Primordial|Первозданный Топаз|||순수한 토파즈||Topaze parfaite
 socketable_gem_gurag|Gurag's Soulgem|Gurag's Soulgem|Pedra da Alma de Gurag|Сокровище души Гурага|Gurag's Soulgem|Gurag's Soulgem|구라그의 영혼 보석|Gurag's Soulgem|Pierre d'âme de Gurag
@@ -1827,7 +1827,7 @@ socketable_gem_anubis|Anubis' Soulgem|Anubis' Soulgem|Pedra da Alma de Anubis|С
 socketable_gem_damien|Damien's Soulgem|Damien's Soulgem|Pedra da Alma de Damien|Сокровище души Дэмиена|Damien's Soulgem|Damien's Soulgem|다미엔의 소울젬|Damien's Soulgem|Pierre d'âme de Damien
 socketable_gem_karp|Karp King's Soulgem|Karp King's Soulgem|Pedra da Alma da Carpa|Камень души Карпа Кинга|Karp King's Soulgem|Karp King's Soulgem|카프 킹의 소울젬|Karp King's Soulgem|Pierre d'âme du roi Carpe
 socketable_gem_satan|Satan's Soulgem|Satan's Soulgem|Pedra da Alma de Satã|Камень души сатаны|Satan's Soulgem|Satan's Soulgem|사탄의 영혼석|Satan's Soulgem|Pierre d'âme de Satan
-socketable_gem_mevius|Mevius' Soulgem|Mevius' Soulgem|Pedra da Alma de Mevius|Сокровище души Мевиуса|Mevius' Soulgem|Mevius' Soulgem|Mevius의 소울젬|Mevius' Soulgem|Pierre d'âme de Mevius
+socketable_gem_mevius|Mevius' Soulgem|Mevius' Soulgem|Pedra da Alma de Mevius|Сокровище души Мевиуса|Mevius' Soulgem|Mevius' Soulgem|뫼비우스의 소울젬|Mevius' Soulgem|Pierre d'âme de Mevius
 socketable_gem_odin|Odin's Soulgem|Odin's Soulgem|Pedra da Alma de Odin|Сокровище души Одина|Odin's Soulgem|Odin's Soulgem|오딘의 영혼석|Odin's Soulgem|Pierre d'âme d'Odin
 socketable_gem_angelic|Angelic Gem||Gema Angelical|Ангельский Драгоценный Камень|||천사의 보석||Gemme angélique
 socketable_gem_chaos|Chaos Gem||Gema do Caos|Драгоценный Камень Хаоса|||혼돈의 보석||Gemme chaotique
