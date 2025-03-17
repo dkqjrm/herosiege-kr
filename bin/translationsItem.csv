@@ -824,9 +824,9 @@ lore_boots_lost_at_sea|Closer to astronauts than anyone other on the planet||Mai
 lore_boots_fumas_favela_flipflop|Flipflopping max speed running from the Policia Militar||||||폴리시아 밀리타르를 피해 최대 속도로 도망치기||
 |||||||||
 [amulets]|||||||||
-amulets_normal_golden_amulet|Amulet||Amuleto |Амулет|||부적||Amulette
-amulets_normal_silver_necklace|Locket||Medalhão|Медальон|||메달||Médaillon
-amulets_normal_jade_stone|Pearls||Pérola|Жемчуг|||||Perle
+amulets_normal_golden_amulet|Amulet||Amuleto |Амулет|||아뮬렛||Amulette
+amulets_normal_silver_necklace|Locket||Medalhão|Медальон|||로켓||Médaillon
+amulets_normal_jade_stone|Pearls||Pérola|Жемчуг|||진주||Perle
 amulets_normal_skull_trophy|Talisman||Talismã|Талисман|||탈리스만||Talisman
 amulets_normal_hawks_claw_amulet|Carcanet||Colar |Шитый золотом воротник|||카르카넷||Carcanet
 amulets_normal_elven_necklace|Necklace||Colar |Ожерелье|||목걸이||Collier
@@ -884,7 +884,7 @@ amulets_chronomancers_curio_of_time|Chronomancer's Curio of Time|Chronomancer's 
 amulets_ymirs_frozen_tear|Ymir's Frozen Tear||Lágrima Congelada de Ymir|Замерзшая слеза Имира|||이미르의 얼어붙은 눈물||Larme gelée d'Ymir
 amulets_insignia_of_hunter|Insignia of the Hunter|Insignia of the Hunter|Insígnia do Caçador|Знаки отличия Охотника|Insignia of the Hunter|Insignia of the Hunter|사냥꾼의 휘장|Insignia of the Hunter|Insigne du chasseur
 amulets_lifeblood_infuser|Lifeblood Infuser||Infusor de Sangue Vital|Средство Для Вливания Жизненной Крови|||생명의 피 주입기||Infuseur de sang
-amulets_arcane_slayers_talisman|Arcane Slayer's Talisman||Talismã do Matador Arcano|Талисман Тайного Убийцы|||비전 학살자의 부적||Talisman du tueur d'arcanes
+amulets_arcane_slayers_talisman|Arcane Slayer's Talisman||Talismã do Matador Arcano|Талисман Тайного Убийцы|||비전 학살자의 탈리스만||Talisman du tueur d'arcanes
 amulets_rapidshell_medallion|Rapidshell Medallion||Medalhão de Concha Rápida|Медальон из Рапидшелл|||래피드셸 메달리온||Médaillon en forme de coquille
 amulets_soulreplenish_pendant|Soulreplenish Pendant||Pingente Regenerador da Alma|Восхитительный Кулон|||영혼 회복 펜던트||Pendentif de reconstitution d'âme
 amulets_eagerblades_tooth|Eagerblade's Tooth||Dente de Eagerblade|Зуб Острого клинка|||이거블레이드의 이빨||Dent d'Eagerblade
